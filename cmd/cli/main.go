@@ -1,6 +1,7 @@
 package main
 
 import (
+	"archive/zip"
 	"crypto/sha1"
 	"encoding/xml"
 	"fmt"
@@ -34,13 +35,23 @@ func main() {
 	romDict = loadDatabases(defaultDatabaseFiles)
 	fmt.Printf("%d ROMs loaded from databases\n", len(romDict))
 	if err := filepath.WalkDir(defaultROMsFolder, func(path string, d fs.DirEntry, err error) error {
-		if !d.IsDir() {
-			//fmt.Printf("%s | %s\n", path, romDict[hashFile(path)].Name)
-			if romDict[hashFile(path)].Name == "" {
-				notFound++
-			}
-			totalChecked++
+		if d.IsDir() {
+			return nil
 		}
+
+		// Open a zip archive for reading.
+		r, err := zip.OpenReader(path)
+		if err != nil {
+			logger.Error(err)
+			return nil
+		}
+		defer r.Close()
+
+		//fmt.Printf("%s | %s\n", path, romDict[hashFile(path)].Name)
+		if romDict[hashFile(path)].Name == "" {
+			notFound++
+		}
+		totalChecked++
 		return nil
 	}); err != nil {
 		logger.Error(err)
