@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/scirelli/roms-files-cleanup/internal/pkg/log"
+	"github.com/scirelli/rom-files-cleanup/internal/pkg/log"
 )
 
 // AppConfig configuration data for entire application.

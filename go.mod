@@ -1,4 +1,4 @@
-module github.com/cirelli/rom-files-cleanup
+module github.com/scirelli/rom-files-cleanup
 
 go 1.22
 
