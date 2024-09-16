@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>299</id>
+		<name>Non-Redump - Sony Electronic Book</name>
+		<description>Non-Redump - Sony Electronic Book</description>
+		<subset>Non-Redump</subset>
+		<version>20231206-181917</version>
+		<author>NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Adventure 101 - Intro to Tourist Traps, Dwarfs and Chivalry (USA) (EBG)" id="0017">
+		<description>Adventure 101 - Intro to Tourist Traps, Dwarfs and Chivalry (USA) (EBG)</description>
+		<rom name="Adventure 101 - Intro to Tourist Traps, Dwarfs and Chivalry (USA) (EBG).cue" size="137" crc="bb2d7afe" sha1="4a2713f67f99c1ff7d3d70f560cf73e2e9e76b7c"/>
+		<rom name="Adventure 101 - Intro to Tourist Traps, Dwarfs and Chivalry (USA) (EBG).bin" size="4370016" crc="ef040223" md5="5f50f47a31c648fed95105beb2055d3c" sha1="83834cd1b9ff33b6b500411e91327cdfacadf1d4"/>
+	</game>
+	<game name="Bertelsmann Lexikon Geschichte (Germany) (v2.0) (EBXA)" id="0006">
+		<description>Bertelsmann Lexikon Geschichte (Germany) (v2.0) (EBXA)</description>
+		<rom name="Bertelsmann Lexikon Geschichte (Germany) (v2.0) (EBXA).bin" size="76734000" crc="2f38e0e1" md5="2a73b0b22ffae9a970dffcf62874159a" sha1="7b2a944e7a2cf5958cc37090478be3311b2ff56f"/>
+		<rom name="Bertelsmann Lexikon Geschichte (Germany) (v2.0) (EBXA).cue" size="120" crc="c3403d65" md5="17f76c3f21b5dd706d39c082eea34599" sha1="10199a395cc5f15e5dc6b295555fc6fe71685cb8"/>
+	</game>
+	<game name="Bertelsmann Universal Lexikon (Germany) (v2.0) (EBXA)" id="0005">
+		<description>Bertelsmann Universal Lexikon (Germany) (v2.0) (EBXA)</description>
+		<rom name="Bertelsmann Universal Lexikon (Germany) (v2.0) (EBXA).bin" size="104358240" crc="675b32b0" md5="4852931cc632aa6d579f0bb9889937e4" sha1="2225d7b757a0311cee322563af384324abeb9b9d"/>
+		<rom name="Bertelsmann Universal Lexikon (Germany) (v2.0) (EBXA).cue" size="119" crc="cfd5cc47" md5="86cf56a736e39654587e6053dd0ba2d8" sha1="6efcaf05ac6bcfeba0cfd691de9095fda627249b"/>
+	</game>
+	<game name="Chronicle 3 - The Five Star Stories (Japan) (EBXA)" id="0016">
+		<description>Chronicle 3 - The Five Star Stories (Japan) (EBXA)</description>
+		<rom name="Chronicle 3 - The Five Star Stories (Japan) (EBXA).cue" size="139" crc="f66baca5" sha1="87dfeb15784396742bc7e36abb74da6451d9f129"/>
+		<rom name="Chronicle 3 - The Five Star Stories (Japan) (EBXA).bin" size="57788640" crc="50a69f7e" md5="13cc80bc2d23b88ca059115c21e7defd" sha1="083d96fdad59d6fb32aaaf93b524c35fac17a0ab"/>
+	</game>
+	<game name="Chronik des 20. Jahrhunderts mit Personenlexikon (Germany) (v2.0) (EBXA)" id="0007">
+		<description>Chronik des 20. Jahrhunderts mit Personenlexikon (Germany) (v2.0) (EBXA)</description>
+		<rom name="Chronik des 20. Jahrhunderts mit Personenlexikon (Germany) (v2.0) (EBXA).bin" size="162288000" crc="3fac456d" md5="d3fa472be2e04c119d450219636b2746" sha1="327f537d58c2793018e1422e723c9b2c413eb536"/>
+		<rom name="Chronik des 20. Jahrhunderts mit Personenlexikon (Germany) (v2.0) (EBXA).cue" size="138" crc="c8e8fbfd" md5="dc52cf612f46511f4fb9fd8a62d2aa9c" sha1="e3b0c9104f9535b93a24d2edbfa1660dbfbf026f"/>
+	</game>
+	<game name="CIA World Fact Book, The (USA) (EBG)" id="0018">
+		<description>CIA World Fact Book, The (USA) (EBG)</description>
+		<rom name="CIA World Fact Book, The (USA) (EBG).cue" size="102" crc="ff72250c" sha1="7be112537ac710c1b52ff50258f0bd3bf1be0800"/>
+		<rom name="CIA World Fact Book, The (USA) (EBG).bin" size="10113600" crc="28de527a" md5="a7d63bd660ebf8e008b4f1cffcd1e577" sha1="959b3cfcc4bf0986c38bc68887658cfab1445520"/>
+	</game>
+	<game name="Compact America - The National Yellow Page Directory (USA) (EBG)" id="0019">
+		<description>Compact America - The National Yellow Page Directory (USA) (EBG)</description>
+		<rom name="Compact America - The National Yellow Page Directory (USA) (EBG).cue" size="130" crc="ab6f96b1" sha1="4ec6e3577b90c7808fe04c37890d7f6164772b05"/>
+		<rom name="Compact America - The National Yellow Page Directory (USA) (EBG).bin" size="213961440" crc="99422efc" md5="6313358418a6118f96a3e4b310c410d0" sha1="7e9962da2b95998efa0174ccf4ca2d3dd9ee1b9f"/>
+	</game>
+	<game name="Compton's Concise Encyclopedia (USA) (EBG)" id="0010">
+		<description>Compton's Concise Encyclopedia (USA) (EBG)</description>
+		<rom name="Compton's Concise Encyclopedia (USA) (EBG).cue" size="108" crc="087f9929" sha1="d1b8634265c191a448329f9464fcaa298d4513f8"/>
+		<rom name="Compton's Concise Encyclopedia (USA) (EBG).bin" size="243820080" crc="9f138d54" md5="1d6c966130255e50530838edd8dba7dd" sha1="2f4ff17b31629f26bf2301a7c514322e79b1f160"/>
+	</game>
+	<game name="European Business Guide (USA) (EBG)" id="0020">
+		<description>European Business Guide (USA) (EBG)</description>
+		<rom name="European Business Guide (USA) (EBG).cue" size="101" crc="37a3d242" sha1="327c8ff07ec815edf01f609b8f13f60c9d0377c6"/>
+		<rom name="European Business Guide (USA) (EBG).bin" size="14994000" crc="7dcd5e90" md5="6263032047b78d9fed40beb94ec2fcef" sha1="fd96ef035f8f15016fb851b43930df054756e367"/>
+	</game>
+	<game name="Frommer's Guide - 5 Major Cities (USA) (EBG)" id="0021">
+		<description>Frommer's Guide - 5 Major Cities (USA) (EBG)</description>
+		<rom name="Frommer's Guide - 5 Major Cities (USA) (EBG).cue" size="110" crc="128d755f" sha1="d30df1773f8c1a6794734cf07766641304b1741a"/>
+		<rom name="Frommer's Guide - 5 Major Cities (USA) (EBG).bin" size="21024528" crc="35a285f6" md5="ae26f7834d637ce81d2e7194a52a2633" sha1="7551791571e2656e7309fd1dd3b172fc71fc878f"/>
+	</game>
+	<game name="Hoover's Handbook - Profiles of Over 500 Major Corporations (USA) (EBG)" id="0022">
+		<description>Hoover's Handbook - Profiles of Over 500 Major Corporations (USA) (EBG)</description>
+		<rom name="Hoover's Handbook - Profiles of Over 500 Major Corporations (USA) (EBG).cue" size="137" crc="c89a56f5" sha1="1d9d77b5b092167c6432bbb1e4af442eac01b123"/>
+		<rom name="Hoover's Handbook - Profiles of Over 500 Major Corporations (USA) (EBG).bin" size="18726624" crc="c365dba0" md5="ab7158929aa9a895b9d740fbffc839e3" sha1="81877c33653d370d5f5f3212fd4e884455353d94"/>
+	</game>
+	<game name="International Wine Guide, The (USA) (EBG)" id="0013">
+		<description>International Wine Guide, The (USA) (EBG)</description>
+		<rom name="International Wine Guide, The (USA) (EBG).cue" size="107" crc="34c729d3" sha1="3e6da31608e85e3cec306152d1e40aa1a8e0c835"/>
+		<rom name="International Wine Guide, The (USA) (EBG).bin" size="31933104" crc="b8912a3b" md5="0834ea8917598b29dfe6d756d3b1e0cb" sha1="ef994ac4002e5c020cb5c3fce44d0f26c54851b0"/>
+	</game>
+	<game name="Jetro Ace Kaigai Business Guide - Hokubei (Japan) (EB)" id="0034">
+		<description>Jetro Ace Kaigai Business Guide - Hokubei (Japan) (EB)</description>
+		<rom name="Jetro Ace Kaigai Business Guide - Hokubei (Japan) (EB).cue" size="120" crc="41a6ea5b" sha1="d6d937d72f142c1adc9da09712e18b91050cc1ad"/>
+		<rom name="Jetro Ace Kaigai Business Guide - Hokubei (Japan) (EB).bin" size="7056000" crc="40d9b4b5" md5="7dbcdb9c506da7e0b823dd55cc34c1c2" sha1="fa46d67a5edca0ac321ba8e8d57971fc478d9cfe"/>
+	</game>
+	<game name="JTB no Skukuhaku Jouhou Zenkokuhen (Japan) (EB)" id="0033">
+		<description>JTB no Skukuhaku Jouhou Zenkokuhen (Japan) (EB)</description>
+		<rom name="JTB no Skukuhaku Jouhou Zenkokuhen (Japan) (EB).cue" size="113" crc="3655e060" sha1="c42b841a5353c4cd38f198688f580536d3e7629c"/>
+		<rom name="JTB no Skukuhaku Jouhou Zenkokuhen (Japan) (EB).bin" size="18874800" crc="f18cbe0b" md5="2245afe1030f2382e4aef110c37464dd" sha1="1c90db7ae5e0a147eaf8ef140f6814e054c348f5"/>
+	</game>
+	<game name="King James Bible (USA) (EBG)" id="0023">
+		<description>King James Bible (USA) (EBG)</description>
+		<rom name="King James Bible (USA) (EBG).cue" size="94" crc="fcb60444" sha1="6ffc9bd4204497b796659e1966569ab8b2fe112a"/>
+		<rom name="King James Bible (USA) (EBG).bin" size="30211440" crc="46b57791" md5="67723a80d17499d3071ebfece5fee641" sha1="0333e344a679d698a4d5294c21354e22a17ba8cb"/>
+	</game>
+	<game name="Koujien Dai-go-ban &amp; Reader's Eiwa Jiten Dai-2-ban Shinwa ei Chuu Jiten (Japan) (S-EBXA)" id="0004">
+		<description>Koujien Dai-go-ban &amp; Reader's Eiwa Jiten Dai-2-ban Shinwa ei Chuu Jiten (Japan) (S-EBXA)</description>
+		<rom name="Koujien Dai-go-ban &amp; Reader's Eiwa Jiten Dai-2-ban Shinwa ei Chuu Jiten (Japan) (S-EBXA).cue" size="152" crc="d1a248f2" sha1="4cfdd964fe1a181970eed190ffa3f2a2bd09a365"/>
+		<rom name="Koujien Dai-go-ban &amp; Reader's Eiwa Jiten Dai-2-ban Shinwa ei Chuu Jiten (Japan) (S-EBXA).bin" size="208516560" crc="84bf7c92" md5="fdea69934b5df143d073abd8f691e73c" sha1="224fe3a3bff329283bce68f611c349af71d68ab6"/>
+	</game>
+	<game name="Library of the Future - Data Discman Vol. I (USA) (EBG)" id="0024">
+		<description>Library of the Future - Data Discman Vol. I (USA) (EBG)</description>
+		<rom name="Library of the Future - Data Discman Vol. I (USA) (EBG).cue" size="121" crc="6524b4fb" sha1="26c9c3156edba6700ce7e2c1c953dd97e2196dc3"/>
+		<rom name="Library of the Future - Data Discman Vol. I (USA) (EBG).bin" size="120937488" crc="a25afbca" md5="cc56fb6cc54c302ae22502eed53458f3" sha1="7f13d4ca0fd42dc729e858efb35c9e78df039545"/>
+	</game>
+	<game name="Library of the Future - Vol. II (USA) (EBG)" id="0025">
+		<description>Library of the Future - Vol. II (USA) (EBG)</description>
+		<rom name="Library of the Future - Vol. II (USA) (EBG).cue" size="109" crc="e177cc58" sha1="9dd2f7be950beda8149243af034cf726e4ef45a9"/>
+		<rom name="Library of the Future - Vol. II (USA) (EBG).bin" size="63348768" crc="9b930e89" md5="25bf6b1e7be1f653160b26565543642a" sha1="4e8d9e9704f2619b25d712f494398409cd37f2ac"/>
+	</game>
+	<game name="New Basics Electronic Cookbook (USA) (EBG)" id="0026">
+		<description>New Basics Electronic Cookbook (USA) (EBG)</description>
+		<rom name="New Basics Electronic Cookbook (USA) (EBG).cue" size="108" crc="2e1451e3" sha1="07014472778504875e23ab0e03b235f7fe8169a8"/>
+		<rom name="New Basics Electronic Cookbook (USA) (EBG).bin" size="16428720" crc="1cafc4d0" md5="baf10442e5806530832bdc1997d3537f" sha1="5ece1704c825889679d35e891e518a51509d45db"/>
+	</game>
+	<game name="New Grolier Electronic Encyclopedia, The (Japan) (EBXA)" id="0003">
+		<description>New Grolier Electronic Encyclopedia, The (Japan) (EBXA)</description>
+		<rom name="New Grolier Electronic Encyclopedia, The (Japan) (EBXA).cue" size="119" crc="917ea92a" sha1="6960458c0d922c78c86edca7ca3a909bda7d6346"/>
+		<rom name="New Grolier Electronic Encyclopedia, The (Japan) (EBXA).bin" size="177571296" crc="45cc5030" md5="64d93c4a693fe0980b132f9e82ee4def" sha1="53e2a3a7125250d758f5ed4676f98c780a703fd3"/>
+	</game>
+	<game name="New Grolier Electronic Encyclopedia, The (Japan) (Rev 1) (EBXA)" id="0002" cloneofid="0003">
+		<description>New Grolier Electronic Encyclopedia, The (Japan) (Rev 1) (EBXA)</description>
+		<rom name="New Grolier Electronic Encyclopedia, The (Japan) (Rev 1) (EBXA).cue" size="127" crc="50882909" sha1="accaa731a3319cf0bff67237d9d4cd3275ff9a87"/>
+		<rom name="New Grolier Electronic Encyclopedia, The (Japan) (Rev 1) (EBXA).bin" size="181612032" crc="25cd9d97" md5="7f0e7305aedb5c3576c13d8797f73941" sha1="152475c5fd14b383743a34c10cacb24d90b45dfa"/>
+	</game>
+	<game name="NTC's Dictionary of American Idioms, Slang and Colloquial Expressions (USA) (EBG)" id="0015">
+		<description>NTC's Dictionary of American Idioms, Slang and Colloquial Expressions (USA) (EBG)</description>
+		<rom name="NTC's Dictionary of American Idioms, Slang and Colloquial Expressions (USA) (EBG).bin" size="10687488" crc="cf378602" md5="5127e18dd064f63cef98fda53ad680bb" sha1="d24ec3c3b2e933b6977f769db8645f4b183a2f4a"/>
+		<rom name="NTC's Dictionary of American Idioms, Slang and Colloquial Expressions (USA) (EBG).cue" size="147" crc="b3e325cd" md5="1d72b88ed0d3a50aa89e1e643e53153e" sha1="570975cd3c59e4bcde5d7a7b61f9ff48855ca82c"/>
+	</game>
+	<game name="OAG TravelDisc - North American Edition (USA) (EBG)" id="0027">
+		<description>OAG TravelDisc - North American Edition (USA) (EBG)</description>
+		<rom name="OAG TravelDisc - North American Edition (USA) (EBG).cue" size="117" crc="a29c929e" sha1="765c23305d08c402109cd2a8cdcf8f88013e275b"/>
+		<rom name="OAG TravelDisc - North American Edition (USA) (EBG).bin" size="127828848" crc="7c428cfe" md5="1567b338f6b574c5fd716b7f7f37fe2f" sha1="87e3fb6821bf5abe40a16a8ac51b2e85e95aa451"/>
+	</game>
+	<game name="Passport's World Travel Translator (USA) (En,Fr,De,Es,It,Nl,Pt,Sv) (v2.0) (EBXA)" id="0001">
+		<description>Passport's World Travel Translator (USA) (En,Fr,De,Es,It,Nl,Pt,Sv) (v2.0) (EBXA)</description>
+		<rom name="Passport's World Travel Translator (USA) (En,Fr,De,Es,It,Nl,Pt,Sv) (v2.0) (EBXA).bin" size="173191872" crc="6e72fa24" md5="b1447372883b345f6662b4a5d2cd0356" sha1="373154cd0ed1b7e93a396b7c9639c0350e328bf8"/>
+		<rom name="Passport's World Travel Translator (USA) (En,Fr,De,Es,It,Nl,Pt,Sv) (v2.0) (EBXA).cue" size="169" crc="6cfcb0be" md5="f6c4ece3677cee2fac7c036130ced687" sha1="e1ebc9a1637bf0b5d5c2b5c9658a18b641df9ed7"/>
+	</game>
+	<game name="Passport's World Travel Translator (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,Da,Sr) (EBG)" id="0009" cloneofid="0001">
+		<description>Passport's World Travel Translator (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,Da,Sr) (EBG)</description>
+		<rom name="Passport's World Travel Translator (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,Da,Sr) (EBG).cue" size="144" crc="5601f2ac" sha1="f9333bf5f5fc217935d3def1843f4d258ca42e22"/>
+		<rom name="Passport's World Travel Translator (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,Da,Sr) (EBG).bin" size="62367984" crc="69722466" md5="6e059f3720fce28040ebfb1d2c0b82f6" sha1="f1216c0f4ba6fb1760cca192ea54e0e57db7e82f"/>
+	</game>
+	<game name="Roche Lexikon Medizin (Germany) (EBG)" id="0008">
+		<description>Roche Lexikon Medizin (Germany) (EBG)</description>
+		<rom name="Roche Lexikon Medizin (Germany) (EBG).bin" size="104958000" crc="978c01bb" md5="793916a5458ccfa0d3b88791787c0023" sha1="2ff3e59e1fcd2a677c9327c87ab10b22504032c8"/>
+		<rom name="Roche Lexikon Medizin (Germany) (EBG).cue" size="103" crc="e906ccb6" md5="da3839b1fe94debd76cde1ee539a774f" sha1="8ed0a9193abb8924087bff6f8488c8b88643c2b2"/>
+	</game>
+	<game name="Roger Ebert's Movie Home Companion (USA) (EBG)" id="0028">
+		<description>Roger Ebert's Movie Home Companion (USA) (EBG)</description>
+		<rom name="Roger Ebert's Movie Home Companion (USA) (EBG).cue" size="112" crc="21fbf01a" sha1="fc0c3a25be24388a3527f57690045d3290921cb7"/>
+		<rom name="Roger Ebert's Movie Home Companion (USA) (EBG).bin" size="17578848" crc="d2d69656" md5="4a249ae63d03396f8369cd0c01ed3f81" sha1="952574212638a5db6941d035e42c69d1e1d3a93d"/>
+	</game>
+	<game name="Time Table of History - Science and Innovation (USA) (EBG)" id="0029">
+		<description>Time Table of History - Science and Innovation (USA) (EBG)</description>
+		<rom name="Time Table of History - Science and Innovation (USA) (EBG).cue" size="124" crc="e382a77a" sha1="dbe66c815d3497978290333fc0e3c480d79e41ff"/>
+		<rom name="Time Table of History - Science and Innovation (USA) (EBG).bin" size="17578848" crc="4ce0ebf3" md5="d9bd4fcf7d9d41432041f46a5da44a98" sha1="da464634100bc58859e6457d12824c0fbe7f7356"/>
+	</game>
+	<game name="Total Baseball (USA) (EBG)" id="0030">
+		<description>Total Baseball (USA) (EBG)</description>
+		<rom name="Total Baseball (USA) (EBG).cue" size="92" crc="cb12e249" sha1="30ac25e8883e7b92c20db39ab47fd62fe292fc52"/>
+		<rom name="Total Baseball (USA) (EBG).bin" size="95098416" crc="de7b074a" md5="5b2505111dbdae56fb45252f60291110" sha1="054899f9466e8dd5053637122c0ef07f34f0366d"/>
+	</game>
+	<game name="USA Today - A Year in Review (USA) (EBG)" id="0031">
+		<description>USA Today - A Year in Review (USA) (EBG)</description>
+		<rom name="USA Today - A Year in Review (USA) (EBG).cue" size="106" crc="7275837e" sha1="f695987e987cfd8a3ebf86f73dff6f2b9b3d10c3"/>
+		<rom name="USA Today - A Year in Review (USA) (EBG).bin" size="234633168" crc="460ac768" md5="0d643dc597e3c6e1288af93c70ce87d7" sha1="7a309b72b3da689c4087745760bf9d5442d7c244"/>
+	</game>
+	<game name="USA Wars - Civil War (USA) (EBG)" id="0032">
+		<description>USA Wars - Civil War (USA) (EBG)</description>
+		<rom name="USA Wars - Civil War (USA) (EBG).cue" size="98" crc="51406a5d" sha1="aa62b2576267f19c4f6f7ade65e934643ed1f5ea"/>
+		<rom name="USA Wars - Civil War (USA) (EBG).bin" size="6745536" crc="d36cd956" md5="3be5c1d9adeba81bc0060cd1d05c06e0" sha1="5c239e3064fef1fd906057632ee956c0dc0651f4"/>
+	</game>
+	<game name="VGM's Careers Encyclopedia (USA) (EBG)" id="0011">
+		<description>VGM's Careers Encyclopedia (USA) (EBG)</description>
+		<rom name="VGM's Careers Encyclopedia (USA) (EBG).cue" size="102" crc="1aadf604" sha1="0e48da6e71f86c713f5993c4ea068e919b33ed9c"/>
+		<rom name="VGM's Careers Encyclopedia (USA) (EBG).bin" size="6094032" crc="c195a085" md5="6e63e53608ce9d3c33617c92f3796dbe" sha1="94a820e22b3aa2838769c7887539e47291797502"/>
+	</game>
+	<game name="Webster's Official Crossword Puzzle Dictionary (USA) (EBG)" id="0014">
+		<description>Webster's Official Crossword Puzzle Dictionary (USA) (EBG)</description>
+		<rom name="Webster's Official Crossword Puzzle Dictionary (USA) (EBG).cue" size="122" crc="43461fe5" sha1="22f74596ce81d3d5a8b64c7ae746d93cc080f5b9"/>
+		<rom name="Webster's Official Crossword Puzzle Dictionary (USA) (EBG).bin" size="81586176" crc="c7c6df7e" md5="5eda4c1798bf9d78412b9b46fb9c08b4" sha1="9148413e71a8080027c0cee504bfc7bb02384e3e"/>
+	</game>
+	<game name="Wellness Encyclopedia, The (USA) (EBG)" id="0012">
+		<description>Wellness Encyclopedia, The (USA) (EBG)</description>
+		<rom name="Wellness Encyclopedia, The (USA) (EBG).cue" size="104" crc="9d2034c7" sha1="5eda92b3844fa17e665b327091b04c67af828798"/>
+		<rom name="Wellness Encyclopedia, The (USA) (EBG).bin" size="11261376" crc="42245856" md5="6e372be2862fd13c1d138d368d260724" sha1="bf136bffa1303adc489bf0de563a3aa9b6ff8d92"/>
+	</game>
+</datafile>

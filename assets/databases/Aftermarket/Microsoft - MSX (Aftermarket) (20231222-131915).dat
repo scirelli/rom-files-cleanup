@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>10</id>
+		<name>Microsoft - MSX (Aftermarket)</name>
+		<description>Microsoft - MSX (Aftermarket)</description>
+		<version>20231222-131915</version>
+		<author>C. V. Reynolds, gigadeath, Hiccup, MeguCocoa, Money_114, omonim2007, Powerpuff, psykopat, rarenight, SonGoku, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Sword of Ianna, The (World) (v1.1) (Aftermarket) (Unl)" id="0947">
+		<description>Sword of Ianna, The (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="ianna-dan.rom" size="524288" crc="bfd9d0ab" md5="101289fc50b0877b55319efc17c4ea81" sha1="991788c490f214682b472e3fbf2a99c22437b714" sha256="7d41153d70dc2b346df1a24fa2cc5d5e7613260b498b4a9e4fab7e1957760e08"/>
+	</game>
+	<game name="Westen House (World) (v1.2) (Aftermarket) (Unl)" id="0948">
+		<description>Westen House (World) (v1.2) (Aftermarket) (Unl)</description>
+		<rom name="westen1.2.rom" size="49152" crc="2a74e34c" md5="71e7945220b6b96c33644bcf9d939e43" sha1="fc8e1a9b2da220e80b631aef5aac6753d4979458" sha256="4f9e45f93173c7168f30ac4a0c56c5eeff9e1cf6d3059027a3d48ab417a17728"/>
+	</game>
+	<game name="Westen House (World) (v1.3) (Aftermarket) (Unl)" id="0949">
+		<description>Westen House (World) (v1.3) (Aftermarket) (Unl)</description>
+		<rom name="westen1.3.rom" size="49152" crc="d8010073" md5="86ca093f0392993b8a273f6413b84046" sha1="817c5e7db8925539fec7c8d859aef6fff9a3d6c1" sha256="5e65ee0f7b79ef4c06db3f4d29c75d6088bd00fe00147c19ac7c2ec8e6a61ec3"/>
+	</game>
+	<game name="Westen House (World) (Es) (v1.3) (Aftermarket) (Unl)" id="0950">
+		<description>Westen House (World) (Es) (v1.3) (Aftermarket) (Unl)</description>
+		<rom name="westen1.3-es.rom" size="49152" crc="aacdbbc6" md5="3ac59cb7b5aea81bde29dc737e0c20f3" sha1="e6d2ea762f820fe1a6f9fe56e56ae9139b73a6b5" sha256="68317608b453ded33f70a2131d35f5363beac21288d4c1d29c81e025480419b7"/>
+	</game>
+	<game name="Westen House (World) (v1.3.1) (Aftermarket) (Unl)" id="0951">
+		<description>Westen House (World) (v1.3.1) (Aftermarket) (Unl)</description>
+		<rom name="westen1.3.1.rom" size="49152" crc="cc2e7808" md5="391911b3d3303431c6eb244dc009d88e" sha1="628ef3237469aa4e8a61259767da9bf35aa624ca" sha256="e50dbcdd682d531544d62a55d3548ebb48662c0d2b387d29b97666af5ea29ed6"/>
+	</game>
+	<game name="Westen House (World) (Es) (v1.3.1) (Aftermarket) (Unl)" id="0952">
+		<description>Westen House (World) (Es) (v1.3.1) (Aftermarket) (Unl)</description>
+		<rom name="westen1.3.1-es.rom" size="49152" crc="c3eef607" md5="92dbc61b396804f24f6ac230a81fc57c" sha1="2955777484bfb489682d9535a3ce8becec935cb0" sha256="bb543bf546cb8d39d16cb866333919ece07d99e161beaf946f2725a88e4e83da"/>
+	</game>
+	<game name="Westen House (World) (Pt) (v1.3.1) (Aftermarket) (Unl)" id="0953">
+		<description>Westen House (World) (Pt) (v1.3.1) (Aftermarket) (Unl)</description>
+		<rom name="westen1.3.1-ptbr.rom" size="49152" crc="45042115" md5="f7c02d92ac0045270f42cdca5c196332" sha1="478933f689d0e6d6df5b6a1387ed8a4056575dcc" sha256="01bb096632dcb55ac65a816e10d1cd7fc33313fe0683c80246f60fcc151207eb"/>
+	</game>
+</datafile>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>28</id>
+		<name>Nintendo - Nintendo DS (Encrypted) (Aftermarket)</name>
+		<description>Nintendo - Nintendo DS (Encrypted) (Aftermarket)</description>
+		<version>20240914-042016</version>
+		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, psykopat, rarenight, relax, RetroGamer, Rifu, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Waimanu - Daring Slides (World) (Aftermarket) (Unl)" id="z529">
+		<description>Waimanu - Daring Slides (World) (Aftermarket) (Unl)</description>
+		<rom name="Waimanu - Daring Slides (World) (Aftermarket) (Unl).nds" size="1754176" crc="228cbb95" md5="d7d865288d77230f8d23d87fcb991d27" sha1="3abd3f461bfcfc2a475182e4ff08894916b7c469" sha256="27e30346154f2fe1655f472ebfca0a36e990cfb0a5ee5bc5719b51ba1039783b"/>
+	</game>
+</datafile>

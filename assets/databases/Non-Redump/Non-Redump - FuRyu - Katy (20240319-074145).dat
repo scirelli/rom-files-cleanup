@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>431</id>
+		<name>Non-Redump - FuRyu - Katy</name>
+		<description>Non-Redump - FuRyu - Katy</description>
+		<subset>Non-Redump</subset>
+		<version>20240319-074145</version>
+		<author>NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Katy - Kinkyuuyou Disc (Japan) (RC04)" id="0001">
+		<category>Applications</category>
+		<description>Katy - Kinkyuuyou Disc (Japan) (RC04)</description>
+		<rom name="Katy - Kinkyuuyou Disc (Japan) (RC04).iso" size="4396646400" crc="42d66a6a" md5="03484b846b25b426ca8a0e0aa57c3ba2" sha1="90c9735f1582be86c04f6bd0139cad12e0edb3f4"/>
+	</game>
+	<game name="Katy 2 - Version Up Disc (Japan) (v02.01)" id="0002">
+		<category>Add-Ons</category>
+		<description>Katy 2 - Version Up Disc (Japan) (v02.01)</description>
+		<rom name="Katy 2 - Version Up Disc (Japan) (v02.01).iso" size="1353809920" crc="2f787896" md5="7c2a379ecbb1f64862a4e8b383e9b7ee" sha1="15011fec95ba7fdb62ad12f18edb8e4defd90419"/>
+	</game>
+	<game name="Katy 3 - Version Up Disc (Japan) (v03.01)" id="0003">
+		<category>Add-Ons</category>
+		<description>Katy 3 - Version Up Disc (Japan) (v03.01)</description>
+		<rom name="Katy 3 - Version Up Disc (Japan) (v03.01).iso" size="1303128064" crc="f4c0c667" md5="1e65ef56eea41cea49eea020756d86f3" sha1="c948e6b7154768997bd610c5a582f0226b8b0ad1"/>
+	</game>
+	<game name="Katy 4 - I Love You - Version Up Disc (Japan) (v04.01)" id="0004">
+		<category>Add-Ons</category>
+		<description>Katy 4 - I Love You - Version Up Disc (Japan) (v04.01)</description>
+		<rom name="Katy 4 - I Love You - Version Up Disc (Japan) (v04.01).iso" size="1419548672" crc="e334112b" md5="4673851015b5c1d6ddcc9f3a2c7734b8" sha1="b80af82bb1b195003878196e31be1fe92bb62484"/>
+	</game>
+</datafile>

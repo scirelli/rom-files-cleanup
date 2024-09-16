@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>42</id>
+		<name>Commodore - Commodore 64 (Aftermarket)</name>
+		<description>Commodore - Commodore 64 (Aftermarket)</description>
+		<version>20240806-182214</version>
+		<author>baldjared, C. V. Reynolds, Hiccup, Psychofox11, psykopat, rarenight, SonGoku, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="10x10 (World) (Aftermarket) (Unl)" id="0329">
+		<category>Games</category>
+		<description>10x10 (World) (Aftermarket) (Unl)</description>
+		<rom name="10x10 (World) (Aftermarket) (Unl).prg" size="6211" crc="a960efbb" md5="d655dbe77682694dfd5661272b2acef7" sha1="1d03e0df7b85f64d9526a5e124d897d20d46c742" sha256="eac4135e537dadc7b3508a04b72170b4075d489647b2b22e54ef913a8ee8ffda"/>
+		<rom name="10x10 (World) (Aftermarket) (Unl).d64" size="174848" crc="35d997e1" md5="236d3af8e3196856e07a570063593651" sha1="198b71815774381a3b24aaef2307cb4df4fea1fb" sha256="d35c120c5c2c5996356457dde5acb4d4fffd6f0f6f236701b219f74cf131b76c"/>
+	</game>
+	<game name="20 (World) (Aftermarket) (Unl)" id="0330">
+		<description>20 (World) (Aftermarket) (Unl)</description>
+		<rom name="20 (World) (Aftermarket) (Unl).prg" size="3980" crc="01562925" md5="0ad2192f47edea23efc416d006e4145d" sha1="0ce6cfdc3691ce0d4369edf50a77db430daf820a" sha256="82c0a60d22d8ab4f3ed053ba107c15a8eff321fccc93767b5be28d948770e0f0"/>
+	</game>
+	<game name="Counterweight Kate (World) (Aftermarket) (Unl)" id="0328">
+		<description>Counterweight Kate (World) (Aftermarket) (Unl)</description>
+		<rom name="Counterweight Kate (World) (Aftermarket) (Unl).d64" size="174848" crc="eea2850e" md5="d3bf69bf70b6c7a43cfaa96d87ffafe4" sha1="2584563559bf7a4fe2a9585efbbe3e410c368241" sha256="3d37627cb2b7ce5931e782f3b54cddae86a965cc7d880b7d1728b0685b2f3141"/>
+		<rom name="Counterweight Kate (World) (Aftermarket) (Unl).cjm" size="74" crc="5fabfd96" md5="3d81fe3e690ef7481290db332cffa6ac" sha1="b9616c42d98c1aee306a12122c07afd5127c4d9b" sha256="9b2fd7174e5d80101a88af97e81c03da09dbb4c0631cc81968a5c949eaf3e9ae"/>
+	</game>
+	<game name="Don't Block The Box! (World) (Aftermarket) (Unl)" id="0331">
+		<description>Don't Block The Box! (World) (Aftermarket) (Unl)</description>
+		<rom name="Don't Block The Box! (World) (Aftermarket) (Unl).prg" size="2034" crc="33007075" md5="2ee9e7c9aed2c44eec1d6d7c07a815e8" sha1="8b5682da24917175f263f6951cf03b7b0a7709b9" sha256="f60c80a23f605811149ba53a7c937b1d6725d7b15356a4461fc2adf7ee4838fb"/>
+	</game>
+	<game name="Fix-It Felix Jr. (World) (Aftermarket) (Unl)" id="0332">
+		<description>Fix-It Felix Jr. (World) (Aftermarket) (Unl)</description>
+		<rom name="Fix-It Felix Jr. (World) (Aftermarket) (Unl).prg" size="50009" crc="1c3d258f" md5="e4287f75c573970dc86391f74e98912e" sha1="75a62b618e35bbcc25453d208e102cad413e9c41" sha256="00e541fd197b268a3e650cbd06a6ce0ba969891f1f4b0d2d3c84fd29f99a7682"/>
+	</game>
+	<game name="Froop (World) (Aftermarket) (Unl)" id="0333">
+		<description>Froop (World) (Aftermarket) (Unl)</description>
+		<rom name="Froop (World) (Aftermarket) (Unl).prg" size="2010" crc="f4267ab7" md5="89600b9c3a13a1f66cd2396ba9a32944" sha1="cbb0f8b9ce2cb208803b61c55cbad06656b73bb3" sha256="f6204845c6d463621759eb7d6d84d186abded3231f8f60b39f9060b64cff1ccf"/>
+	</game>
+	<game name="Galaga (World) (v1.05) (Aftermarket) (Unl)" id="0334">
+		<description>Galaga (World) (v1.05) (Aftermarket) (Unl)</description>
+		<rom name="Galaga (World) (v1.05) (Aftermarket) (Unl).d64" size="174848" crc="027cbe8c" md5="1e0cbe155343ae95397f723a35c48369" sha1="c3dfcf774dde439bdd7821a9e729ec52c71fa710" sha256="c37de0e11a9d67b411b2c41ad604a3b963d2769dd3890ddafa163ef4ce0551fd"/>
+	</game>
+	<game name="Galaga (World) (v1.06) (Aftermarket) (Unl)" id="0335">
+		<description>Galaga (World) (v1.06) (Aftermarket) (Unl)</description>
+		<rom name="Galaga (World) (v1.06) (Aftermarket) (Unl).d64" size="174848" crc="4b6cc7d9" md5="cfbe9e994ac06a9d3e3724c1f39b9b50" sha1="a6f075fc73fe7cc4fd35ab2232800570fd33b80c" sha256="04a6ce690cfc8f468da87120615edd18972815c14757ddf0a0c698998fbd9711"/>
+	</game>
+	<game name="Galaxian DX (World) (Aftermarket) (Unl)" id="0336">
+		<description>Galaxian DX (World) (Aftermarket) (Unl)</description>
+		<rom name="Galaxian DX (World) (Aftermarket) (Unl).d64" size="174848" crc="4a29dbeb" md5="b77ae70a530150f39fb916671b966b4c" sha1="ebf1720d7ed353a43d4df6d6d9f27a9fc551e133" sha256="cfc8c2f0625fe1e3bc47841ec50467e91e2bb6576a8cfe685b12e88c20e8da2d"/>
+	</game>
+	<game name="Hyper Harvest (World) (Aftermarket) (Unl)" id="0337">
+		<description>Hyper Harvest (World) (Aftermarket) (Unl)</description>
+		<rom name="Hyper Harvest (World) (Aftermarket) (Unl).prg" size="12652" crc="4dccd7fa" md5="cf6349a3882e205cf5476fb4b005f692" sha1="ce85bf8fb0381a9682f616eca4b4bd748403d9aa" sha256="f23b23407eb1c6a3a3e7488e75129aaf8230c1e7500aa535ebf12e6b625cd85f"/>
+	</game>
+	<game name="Infinite Space (World) (Aftermarket) (Unl)" id="0338">
+		<description>Infinite Space (World) (Aftermarket) (Unl)</description>
+		<rom name="Infinite Space (World) (Aftermarket) (Unl).d64" size="174848" crc="b69f2b30" md5="c45507b6decdbe342e45da835d63a7fb" sha1="079a81817d9848881414f936fafbaa38928bb83a" sha256="7e97b38658ffa03529b81b9dbb4aa4b42561c815b1c05c66c8d95be79dd4823f"/>
+		<rom name="Infinite Space (World) (Aftermarket) (Unl).prg" size="5028" crc="b54174c5" md5="8bbee4a93a751e8b5d500c0cdd302e00" sha1="0959cad739bce14437005d0ca6882dd0928396bc" sha256="9f179a97f72fcea1932fda1358dbd66fadff32238786f9073f614d684a363f3e"/>
+	</game>
+	<game name="Lady Pac (World) (Aftermarket) (Unl)" id="0339">
+		<description>Lady Pac (World) (Aftermarket) (Unl)</description>
+		<rom name="Lady Pac (World) (Aftermarket) (Unl).d64" size="174848" crc="0d4e2f06" md5="7ab5cb910291eacd440ce5d768ba6331" sha1="0dddaea05e8ce02cf89a7172daef06c6c9007f13" sha256="ee34f3c29f8a477cee53646268e9162e457b87dfbf3341cb3ff136b2e744ec1c"/>
+	</game>
+	<game name="Megamania (World) (Aftermarket) (Unl)" id="0340">
+		<description>Megamania (World) (Aftermarket) (Unl)</description>
+		<rom name="Megamania (World) (Aftermarket) (Unl).d64" size="174848" crc="5061aeb4" md5="b55fa35ec6ae77f5f875c7a7c094f507" sha1="14bd775379d01d688babd8f8a5bcd1d1567a01a8" sha256="d8d101d8a6046b426e46dd4f524f69e5c8c46eb069e43b984ba54ab47b869878"/>
+		<rom name="Megamania (World) (Aftermarket) (Unl).prg" size="12861" crc="7c2e0cc1" md5="cfa9583404b7c033292dfd0ea5c64015" sha1="27036d8cf15bf1b5cbead7b7ae60bcc87c6a1de8" sha256="50e9bb4c2eef16c11986b1b8e2fe9d78c6b3936c4e1bd1e5e0ccef86ff66611c"/>
+	</game>
+	<game name="Merge 64 (World) (Aftermarket) (Unl)" id="0341">
+		<description>Merge 64 (World) (Aftermarket) (Unl)</description>
+		<rom name="Merge 64 (World) (Aftermarket) (Unl).d64" size="174848" crc="0c9a3da6" md5="678dac720a277ee3941cf2df08d9c531" sha1="ba93674321cfa64b87fccd0011d0b84400eb8f50" sha256="3c301756082a6d9c50b2c212ebdb9d28c7acb47b429cfbf51aa50b342a9b0960"/>
+		<rom name="Merge 64 (World) (Aftermarket) (Unl).prg" size="7635" crc="13d0f167" md5="59f7cf5cb34bc2fa1593f2e7761c5128" sha1="f28a5e146cbab3234b0210e5e6ab4b3da7035d08" sha256="9d943c27a2e74e9e42300102139f1deb396cfb2e8753bbccaa26d277cb4e5ef0"/>
+	</game>
+	<game name="Mike Quarter (Present Sorter) (World) (Aftermarket) (Unl)" id="0342">
+		<description>Mike Quarter (Present Sorter) (World) (Aftermarket) (Unl)</description>
+		<rom name="Mike Quarter (Present Sorter) (World) (Aftermarket) (Unl).prg" size="12847" crc="bb9bd8b0" md5="1e25ada33fac322c812b0281ba6adac3" sha1="bcccf19f570e5c7f74b59ccc0d4284ef2108fde4" sha256="db70482cec0210447e96e80277c475cb078e89289114c7433f2de2905194379b"/>
+	</game>
+	<game name="Pacman (World) (Aftermarket) (Unl)" id="0343">
+		<description>Pacman (World) (Aftermarket) (Unl)</description>
+		<rom name="Pacman (World) (Aftermarket) (Unl).d64" size="174848" crc="ef886e9c" md5="eb8a46121b3d1855542d896c2fba4df8" sha1="2d4dc00d5e9c3eb66779d74b5a04cd49fa056880" sha256="b88a2a4774cdd022d71303a5af0f79158fe72eb62bc03eee6bc877ade8ce5982"/>
+	</game>
+	<game name="Paper Planes (World) (Aftermarket) (Unl)" id="0344">
+		<description>Paper Planes (World) (Aftermarket) (Unl)</description>
+		<rom name="Paper Planes (World) (Aftermarket) (Unl).prg" size="5588" crc="41c93c88" md5="177d1aa974d48666b15f280568495d61" sha1="ab58c363ef8343c155515244e5a8b0ec05f2cfdf" sha256="d428bf29ed489c8e2a8606459ac0ec8b7197bb5352f0a96945129213d9077841"/>
+	</game>
+	<game name="Pillars (World) (Aftermarket) (Unl)" id="0345">
+		<description>Pillars (World) (Aftermarket) (Unl)</description>
+		<rom name="Pillars (World) (Aftermarket) (Unl).d64" size="174848" crc="5e46f33d" md5="43ff12bb9ea9d642085bc60a433e38ac" sha1="7b5d943ded93901dccc25915438d242b352e34e5" sha256="4c6cda9ada7a461790e59cc1b79c4781c3c1271aa5042fd21a22442e3c061b6b"/>
+	</game>
+	<game name="Pillars (World) (v2.00) (Aftermarket) (Unl)" id="0346">
+		<description>Pillars (World) (v2.00) (Aftermarket) (Unl)</description>
+		<rom name="Pillars (World) (v2.00) (Aftermarket) (Unl).d64" size="174848" crc="89fba92a" md5="98d8fc4b6cdfe05d179d18612cc987eb" sha1="9336a44afc5f579ea07a092de9737bee746a661a" sha256="ae1eb997ccfe8694e17729d30cf60ce656916f63a5f33a6c6fd83ded42ff2a17"/>
+	</game>
+	<game name="Taz (World) (Aftermarket) (Unl)" id="0347">
+		<description>Taz (World) (Aftermarket) (Unl)</description>
+		<rom name="Taz (World) (Aftermarket) (Unl).prg" size="5644" crc="f8d2cf86" md5="a1c14c315a1a59a7121dd994d0542d8f" sha1="1bb7f601a2204635f5233aee093fa26a5c43e46d" sha256="8b95ee08d606ae8fba212edd8bc47f8a58b9932c546ae413c6f446ef1370891f"/>
+	</game>
+</datafile>

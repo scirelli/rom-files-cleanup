@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>28</id>
+		<name>Nintendo - Nintendo DS (Decrypted) (Aftermarket)</name>
+		<description>Nintendo - Nintendo DS (Decrypted) (Aftermarket)</description>
+		<version>20240914-042016</version>
+		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, psykopat, rarenight, relax, RetroGamer, Rifu, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Anguna - Warriors of Virtue (World) (v1.02) (Aftermarket) (Unl)" id="z386">
+		<description>Anguna - Warriors of Virtue (World) (v1.02) (Aftermarket) (Unl)</description>
+		<rom name="Anguna - Warriors of Virtue (World) (v1.02) (Aftermarket) (Unl).nds" size="2675776" crc="9fbfa267" md5="eed03ce2c75ac65a720fa7c4150118fe" sha1="5546cb0ba8f1a16dc4b9ceca496d4709ae0e61ef" sha256="90617d4d3d2d363b08f99c369f4fa0691fae98917d5928fc4e3ac849b6d69d52" serial="####"/>
+	</game>
+	<game name="Waimanu - Daring Slides (World) (Aftermarket) (Unl)" id="z529">
+		<description>Waimanu - Daring Slides (World) (Aftermarket) (Unl)</description>
+		<rom name="Waimanu - Daring Slides (World) (Aftermarket) (Unl).nds" size="1754176" crc="67c2e4d7" md5="48703aa6887236c2424f06215616ba3f" sha1="941fe2661b370844460a96396f8bcac7a0559103" sha256="0e2ac89050b45a0e3852e59a9ad8fac1a685cf1f5f1fe6699ee47bcf606dfaf3"/>
+	</game>
+</datafile>

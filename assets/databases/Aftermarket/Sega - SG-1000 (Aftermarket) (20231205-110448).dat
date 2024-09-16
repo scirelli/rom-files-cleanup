@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>19</id>
+		<name>Sega - SG-1000 (Aftermarket)</name>
+		<description>Sega - SG-1000 (Aftermarket)</description>
+		<version>20231205-110448</version>
+		<author>BigFred, C. V. Reynolds, omonim2007, rarenight, relax, RetroUprising, SonGoku, TeamEurope, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Arno Dash (World) (v1.00) (Aftermarket) (Unl)" id="0248" cloneofid="0249">
+		<description>Arno Dash (World) (v1.00) (Aftermarket) (Unl)</description>
+		<rom name="Arno Dash (World) (v1.00) (Aftermarket) (Unl).sg" size="32768" crc="ea921f7c" md5="4316cd23c96f6c662b9df5ab1de8963c" sha1="445e32896395aa61cb9b260775a0924d0acf1f41" sha256="7262f6459b3981c64a70cfb2b217cb3eb3e276bc0be6a1d1ef47c039c2e42572"/>
+	</game>
+	<game name="Arno Dash (World) (v1.03) (Aftermarket) (Unl)" id="0249">
+		<description>Arno Dash (World) (v1.03) (Aftermarket) (Unl)</description>
+		<rom name="Arno Dash (World) (v1.03) (Aftermarket) (Unl).sg" size="32768" crc="6dad65d3" md5="8e40507a386a676cc44827d6ec3f9e28" sha1="b2dd23a7c41bfc74a16894e99647c7e3cd9a1c41" sha256="9697ba2386420b7a5ce0f8086a37dca258064ebaae3aba1854227c2328d66c95"/>
+	</game>
+	<game name="Cheril Perils Classic (World) (PAL) (Aftermarket) (Unl)" id="0250">
+		<description>Cheril Perils Classic (World) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Cheril Perils Classic (World) (PAL) (Aftermarket) (Unl).sg" size="49152" crc="b260b74e" md5="efcb8ebd3604d682d7a97c5585f8ee27" sha1="d6f4632ec4edb4f585aeec5a297474d1ef733093" sha256="c09199f60b2319dd877b6651f441559e6fcb8d84fcab4a9dd390042cb7f6b94a"/>
+	</game>
+	<game name="Cheril Perils Classic (World) (NTSC) (Aftermarket) (Unl)" id="0251" cloneofid="0250">
+		<description>Cheril Perils Classic (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Cheril Perils Classic (World) (NTSC) (Aftermarket) (Unl).sg" size="49152" crc="60d5c65d" md5="dea9e4e5891fbdcd3e0df16fc840afbe" sha1="877c7f71daf10c451745d68c2c88e5c06abc5c42" sha256="a112905211b2e73ae6a28c9871c54a9e5a92257c444a168a13b9ed52032dcd7f"/>
+	</game>
+	<game name="Vexed (World) (v1.03) (Aftermarket) (Unl)" id="0252">
+		<description>Vexed (World) (v1.03) (Aftermarket) (Unl)</description>
+		<rom name="Vexed (World) (v1.03) (Aftermarket) (Unl).sg" size="32768" crc="6159a842" md5="7cd478e059987105eaf4f2780be137c9" sha1="aff1f34dab6f92685348d850db28048c43760a6a" sha256="6fbc4e133f6a7c18bc4f3e6a89c7c2947d6000b226d2ae589a5551aaa81a8cb1"/>
+	</game>
+</datafile>

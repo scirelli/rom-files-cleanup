@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>230</id>
+		<name>Source Code - Panasonic - 3DO Interactive Multiplayer</name>
+		<description>Source Code - Panasonic - 3DO Interactive Multiplayer</description>
+		<subset>Source Code</subset>
+		<version>20240830-125949</version>
+		<author>FakeShemp, SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Doom (Japan, USA) (En,Ja)" id="0003">
+		<description>Doom (Japan, USA) (En,Ja)</description>
+		<rom name="doom3do-master.zip" size="339323922" crc="4622de7f" md5="ec6c4d678f15cbb7cb0328d6541e0e2b" sha1="c7f05858350614b0a4bce5a9700d1f67ae220a45" sha256="5ae22e99b4ca170c6048ad3d2eb5819cdc61ad4f4f6875486cc29a8ec98ac84f"/>
+	</game>
+	<game name="Escape from Monster Manor (World) (En,Ja)" id="0004">
+		<description>Escape from Monster Manor (World) (En,Ja)</description>
+		<rom name="EFMM-3DO-main.zip" size="485766" crc="377740c8" md5="a958d53021997910b50f6e6a5ce9414d" sha1="9305f47a8b385fd45022c58e1ea9efaa1198d3a3" sha256="572610a436954e20109a9940979e28eaa074d3e5f3e4e7e3bc2d6a586c4288f2"/>
+	</game>
+	<game name="Icebreaker (World)" id="0001">
+		<description>Icebreaker (World)</description>
+		<rom name="Icebreaker (World).zip" size="237730" crc="d4548a44" md5="738ae0b7a2c1bb98b56b61d3cc199596" sha1="dc66f4fdf9fb1de40f9b11ca3c8434153417d936" sha256="3647e04ebde756139e4362b9457a85645890056393c4f8b5fe438b46ebb70cbd"/>
+	</game>
+	<game name="Icebreaker 2 (World)" id="0002">
+		<description>Icebreaker 2 (World)</description>
+		<rom name="Icebreaker 2 (World).zip" size="491422" crc="d3fff96e" md5="4644ededcece21d08690ea499a415969" sha1="86f3469c44bfe5062149be2de4b63d1515fe345c" sha256="e1d4bbe904fa1945c60130902290955ae1ad5f7350bc39c6e6848a921d9e749a"/>
+	</game>
+</datafile>

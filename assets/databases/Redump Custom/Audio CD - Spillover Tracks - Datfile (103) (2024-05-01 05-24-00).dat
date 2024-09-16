@@ -1,0 +1,433 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+    <header>
+        <name>Audio CD - Spillover Tracks</name>
+        <description>Audio CD - Spillover Tracks (103) (2024-05-01 05-24-00)</description>
+        <version>2024-05-01 05-24-00</version>
+        <date>2024-05-01 05-24-00</date>
+        <author>redump.org</author>
+        <homepage>redump.org</homepage>
+        <url>http://redump.org/</url>
+    </header>
+    <game name="Active Simulation War Daiva Chronicle Re - Sound Collection (Japan) (PC Game Bundle)">
+        <description>Active Simulation War Daiva Chronicle Re - Sound Collection (Japan) (PC Game Bundle)</description>
+        <rom name="Active Simulation War Daiva Chronicle Re - Sound Collection (Japan) (PC Game Bundle) (Track 00).bin" size="352800" crc="cced5c1c" md5="2fcb6e1eab17b89a296b922f74b1d922" sha1="bf9577a0fbc1be4493c17a3bc7f74b54e9c5bf04"/>
+    </game>
+    <game name="Best of Video Game Music, The (Japan)">
+        <description>Best of Video Game Music, The (Japan)</description>
+        <rom name="Best of Video Game Music, The (Japan) (Track 00).bin" size="1065456" crc="02a49c36" md5="676df68ef0ba6e70089603b64fa0f5b4" sha1="1418be9617a1d329db6da6b71657da9ad37ed884"/>
+    </game>
+    <game name="CD-i System Design Handbook - Audio Level Sample Disc (Japan)">
+        <description>CD-i System Design Handbook - Audio Level Sample Disc (Japan)</description>
+        <rom name="CD-i System Design Handbook - Audio Level Sample Disc (Japan) (Track 00).bin" size="44688" crc="3f15042a" md5="5fbf82aa040a27377d6a28f0e4f26b0b" sha1="1bb10e7c547b0b8d4a5126a39e36f2f609919f33"/>
+    </game>
+    <game name="Capcom Game Music (Japan)">
+        <description>Capcom Game Music (Japan)</description>
+        <rom name="Capcom Game Music (Japan) (Track 00).bin" size="790272" crc="aa49c62d" md5="d3eb867882775cf2de94f3da255e1bcf" sha1="f2127fa895965c7666a6cf66b07b97a75fa09451"/>
+    </game>
+    <game name="Cotton - Original Soundtrack (Japan) (Disc 1)">
+        <description>Cotton - Original Soundtrack (Japan) (Disc 1)</description>
+        <rom name="Cotton - Original Soundtrack (Japan) (Disc 1) (Track 00).bin" size="2352" crc="f7a25336" md5="0589ca036a926785775bce9776c872c1" sha1="317769324eab862051837f4b6b84bb8b0f61f73d"/>
+    </game>
+    <game name="Cotton - Original Soundtrack (Japan) (Disc 2)">
+        <description>Cotton - Original Soundtrack (Japan) (Disc 2)</description>
+        <rom name="Cotton - Original Soundtrack (Japan) (Disc 2) (Track 00).bin" size="2352" crc="b3b8c126" md5="c85a60c0219033a0425e27e1ea83a52d" sha1="9fb66b6682a23fbd7c022db24b151ce6fab6a379"/>
+    </game>
+    <game name="Cotton - Original Soundtrack (Japan) (Disc 4)">
+        <description>Cotton - Original Soundtrack (Japan) (Disc 4)</description>
+        <rom name="Cotton - Original Soundtrack (Japan) (Disc 4) (Track 00).bin" size="2352" crc="46714228" md5="8a026aea068bbb939e6172e2989bb811" sha1="e38eff8e5fad39db0e7644351dec03cd96dc796d"/>
+    </game>
+    <game name="Crysis (USA) (Disc 2) (Audio) (PC Game Bundle)">
+        <description>Crysis (USA) (Disc 2) (Audio) (PC Game Bundle)</description>
+        <rom name="Crysis (USA) (Disc 2) (Audio) (PC Game Bundle) (Track 00).bin" size="4704" crc="4553a45e" md5="9e81c3f1d570ca58700bfd0c9e12f940" sha1="29e7b64126e9034b2222179d116fe0c438e24ba6"/>
+    </game>
+    <game name="Dance Dance Revolution Hottest Party - Limited Edition Music Sampler (USA)">
+        <description>Dance Dance Revolution Hottest Party - Limited Edition Music Sampler (USA)</description>
+        <rom name="Dance Dance Revolution Hottest Party - Limited Edition Music Sampler (USA) (Track 00).bin" size="178752" crc="d5ec0663" md5="21b23f5e05ec3e513b3fa9171bef2068" sha1="b1d61e0c3e7ec39a422e49c08db85f4eda17beba"/>
+    </game>
+    <game name="Dance Dance Revolution SuperNova 2 - Limited Edition Music Sampler (USA)">
+        <description>Dance Dance Revolution SuperNova 2 - Limited Edition Music Sampler (USA)</description>
+        <rom name="Dance Dance Revolution SuperNova 2 - Limited Edition Music Sampler (USA) (Track 00).bin" size="178752" crc="6dda6aaf" md5="3e62a5f535b73d3779b00e69002f8aae" sha1="6264b76d9fba0705574221627cd9c8440167236e"/>
+    </game>
+    <game name="Darius - Cozmic Revelation - Audio Track II - Tiat ver. (Japan)">
+        <description>Darius - Cozmic Revelation - Audio Track II - Tiat ver. (Japan)</description>
+        <rom name="Darius - Cozmic Revelation - Audio Track II - Tiat ver. (Japan) (Track 00).bin" size="176400" crc="d823bb5b" md5="c2a55bf8bb62a3711645380af408101b" sha1="1fc58b93c9211eca86c92c687dc5e94fe555ac47"/>
+    </game>
+    <game name="Death Bringer (Japan) (X68000 Game Bundle)">
+        <description>Death Bringer (Japan) (X68000 Game Bundle)</description>
+        <rom name="Death Bringer (Japan) (X68000 Game Bundle) (Track 00).bin" size="352800" crc="768c920d" md5="e3fe719e7196aa3e342fd4e6b83552eb" sha1="d154aca1a1181debf4bcbda7f920901fa0dd9e37"/>
+    </game>
+    <game name="Dengen Tenshi Taisen Mahjong Shangri-La (Japan)">
+        <description>Dengen Tenshi Taisen Mahjong Shangri-La (Japan)</description>
+        <rom name="Dengen Tenshi Taisen Mahjong Shangri-La (Japan) (Track 00).bin" size="352800" crc="57d66422" md5="9e64650a6e81da9f15d6cd5f561b7a68" sha1="c4915d08d9bfecd8922868630c16ef4a5bf8434b"/>
+    </game>
+    <game name="FM Vertex III - Apex (Japan)">
+        <description>FM Vertex III - Apex (Japan)</description>
+        <rom name="FM Vertex III - Apex (Japan) (Track 00).bin" size="352800" crc="5b0a8a9f" md5="7f7fe98ff3b441e2267712f5d4137476" sha1="a98d06a1eb90c7d0551d10f6a196936b6c8c23d1"/>
+    </game>
+    <game name="Falcom Acoustics 2 (Japan)">
+        <description>Falcom Acoustics 2 (Japan)</description>
+        <rom name="Falcom Acoustics 2 (Japan) (Track 00).bin" size="355152" crc="826a8437" md5="aa98c8ee7035b19423f0f98749ad146a" sha1="9890c387f10bb6362cce4658137a42ed484c43f7"/>
+    </game>
+    <game name="Famicom Graffiti - Nintendo Cartridge-hen (Japan)">
+        <description>Famicom Graffiti - Nintendo Cartridge-hen (Japan)</description>
+        <rom name="Famicom Graffiti - Nintendo Cartridge-hen (Japan) (Track 00).bin" size="355152" crc="0133afb5" md5="aa5413a580002cb79a0a0981f6a286a8" sha1="bb34d060a87e362e268b596105eb7bb901d5606e"/>
+    </game>
+    <game name="Famicom Music Vol. 2 (Japan)">
+        <description>Famicom Music Vol. 2 (Japan)</description>
+        <rom name="Famicom Music Vol. 2 (Japan) (Track 00).bin" size="103488" crc="5d59c333" md5="586f2402534b7e8a3d5f81f716af8a94" sha1="329fbeb893dcb124c62cafac860a837a80577d03"/>
+    </game>
+    <game name="Farland Story - Hakugin no Tsubasa - Original Soundtrack (Japan) (PC-98 Game Bundle)">
+        <description>Farland Story - Hakugin no Tsubasa - Original Soundtrack (Japan) (PC-98 Game Bundle)</description>
+        <rom name="Farland Story - Hakugin no Tsubasa - Original Soundtrack (Japan) (PC-98 Game Bundle) (Track 00).bin" size="352800" crc="31e447b2" md5="9e315b5fa13b6596e148da3f81ee4c48" sha1="6359cded5dab7f2eeffb3d4328cc9675f07bc633"/>
+    </game>
+    <game name="Fist (Japan) (Omake Disc) (Multisystem Game Bundle)">
+        <description>Fist (Japan) (Omake Disc) (Multisystem Game Bundle)</description>
+        <rom name="Fist (Japan) (Omake Disc) (Multisystem Game Bundle) (Track 00).bin" size="26500" crc="149caa51" md5="a0722ae070f33cd9d30ac8aeeb0109c5" sha1="bc0b1b5d8e093646b03314291c1f03455ef2e59e"/>
+    </game>
+    <game name="Fox Sports Presents Game Time! (USA) (Promo)">
+        <description>Fox Sports Presents Game Time! (USA) (Promo)</description>
+        <rom name="Fox Sports Presents Game Time! (USA) (Promo) (Track 00).bin" size="348096" crc="535574dd" md5="c4adc5ead43cb1e0516a663e7f9c3e33" sha1="ef45599dad3e9df3dd0f40569a2ad6f8a5bc0905"/>
+    </game>
+    <game name="From Loud 2 Low Sun (Japan)">
+        <description>From Loud 2 Low Sun (Japan)</description>
+        <rom name="From Loud 2 Low Sun (Japan) (Track 00).bin" size="2352" crc="24d71e01" md5="8d1bf09997463dbd31969ed86157b2b0" sha1="28853643bc3fb699f176a02e2c0ccf132966c547"/>
+    </game>
+    <game name="Game Music Graffiti - Nintendo Daizenshuu (Japan) (Disc 1)">
+        <description>Game Music Graffiti - Nintendo Daizenshuu (Japan) (Disc 1)</description>
+        <rom name="Game Music Graffiti - Nintendo Daizenshuu (Japan) (Disc 1) (Track 00).bin" size="418656" crc="bfe56531" md5="3efd15d1877432233852c7015823edaa" sha1="c73227a085c768f229d7fc7f995cc625c590e4cd"/>
+        <rom name="Game Music Graffiti - Nintendo Daizenshuu (Japan) (Disc 1) (Track AA).bin" size="4704" crc="09f8c1ab" md5="6da4a6e006edebc18fe5330954df85f3" sha1="2a7828db96cff12ea78fcc015b415062b3a05517"/>
+    </game>
+    <game name="Game Music Graffiti - Nintendo Daizenshuu (Japan) (Disc 2)">
+        <description>Game Music Graffiti - Nintendo Daizenshuu (Japan) (Disc 2)</description>
+        <rom name="Game Music Graffiti - Nintendo Daizenshuu (Japan) (Disc 2) (Track 00).bin" size="493920" crc="4058795d" md5="5c9689a139b6f39afd84fd742396c8aa" sha1="2a50038db2b7531097b1c53bed68369960f0eb01"/>
+        <rom name="Game Music Graffiti - Nintendo Daizenshuu (Japan) (Disc 2) (Track AA).bin" size="4704" crc="7317a2bc" md5="ac103b88a017c1264133f2dc94cf072b" sha1="d68a534b414bcf9cfbf728296095be7cc62d1720"/>
+    </game>
+    <game name="God of War III - Original Soundtrack from the Video Game (USA)">
+        <description>God of War III - Original Soundtrack from the Video Game (USA)</description>
+        <rom name="God of War III - Original Soundtrack from the Video Game (USA) (Track 00).bin" size="2352" crc="46f91175" md5="f43c1e89009ffb2f4f0fd04f5c3a3e34" sha1="1cee51d5e1c12873cce9aca7736792bc87812113"/>
+    </game>
+    <game name="Gradius IV - Fukkatsu - Original Game Soundtrack (Japan)">
+        <description>Gradius IV - Fukkatsu - Original Game Soundtrack (Japan)</description>
+        <rom name="Gradius IV - Fukkatsu - Original Game Soundtrack (Japan) (Track 00).bin" size="2180304" crc="c01bd06a" md5="121dc18fb954b612f34c96d5c8547997" sha1="cee16e879ef0a7571c925d9a8f0f2fe64e194b96"/>
+        <rom name="Gradius IV - Fukkatsu - Original Game Soundtrack (Japan) (Track AA).bin" size="157584" crc="0e4ddb36" md5="1c0d40e6a310491a797f2e8d42b45c36" sha1="f6a3dd5a7407bb320d545e8e1dcb1af8998f1b0d"/>
+    </game>
+    <game name="Gradius V Soundtracks (Japan)">
+        <description>Gradius V Soundtracks (Japan)</description>
+        <rom name="Gradius V Soundtracks (Japan) (Track 00).bin" size="352800" crc="0fb05e8e" md5="f89ec38a524e4892e31aed876707afe3" sha1="7368220b044b2fdfa7f8c92c9ce1f0332b85945f"/>
+    </game>
+    <game name="Halo 4 - Original Soundtrack (USA)">
+        <description>Halo 4 - Original Soundtrack (USA)</description>
+        <rom name="Halo 4 - Original Soundtrack (USA) (Track 00).bin" size="178752" crc="eecd02de" md5="c490ae49a7e7499353137b9903ebd686" sha1="57e444c5be612474f6204f8cbffda05a59d9d7eb"/>
+    </game>
+    <game name="Hudson Game Music (Japan)">
+        <description>Hudson Game Music (Japan)</description>
+        <rom name="Hudson Game Music (Japan) (Track 00).bin" size="1206576" crc="0bb3eb4b" md5="31afd6146686e3e4b94dd6a99b16862c" sha1="83cf346acbdd21e7c0e3975fd0066804b05d9f34"/>
+    </game>
+    <game name="Idol Mahjong - Final Romance 2 - Hyper Edition (Japan) (Character Oshaberi CD) (3DO Game Bundle)">
+        <description>Idol Mahjong - Final Romance 2 - Hyper Edition (Japan) (Character Oshaberi CD) (3DO Game Bundle)</description>
+        <rom name="Idol Mahjong - Final Romance 2 - Hyper Edition (Japan) (Character Oshaberi CD) (3DO Game Bundle) (Track AA).bin" size="63504" crc="5300a8ac" md5="dddb2e55b6c2573b08ecc87f56678bfc" sha1="62a82ce487d86b6168cc51271598290611d6ee43"/>
+    </game>
+    <game name="Kaguya-chan no Okozukai Daisakusen Original Soundtrack (Japan) (PC Game Bundle)">
+        <description>Kaguya-chan no Okozukai Daisakusen Original Soundtrack (Japan) (PC Game Bundle)</description>
+        <rom name="Kaguya-chan no Okozukai Daisakusen Original Soundtrack (Japan) (PC Game Bundle) (Track 00).bin" size="6877248" crc="b98d76b9" md5="aeef06b90bf457f6cb467dd2f0bad340" sha1="57eed89ed6bf6719599bf1922970b2d06c32dac8"/>
+    </game>
+    <game name="Karnaval Tamani Al Awal (United Arab Emirates)">
+        <description>Karnaval Tamani Al Awal (United Arab Emirates)</description>
+        <rom name="Karnaval Tamani Al Awal (United Arab Emirates) (Track 00).bin" size="352800" crc="2bfaf839" md5="9a65d1b119c105be0901b511274e6d2a" sha1="befbcf5f894c5d0d956c05a67b810b5adc24743c"/>
+        <rom name="Karnaval Tamani Al Awal (United Arab Emirates) (Track AA).bin" size="72912" crc="20f5820e" md5="3afb373f60f0bc909fbfea72a79fcc3e" sha1="26372f3ce5d9d072173580b4628398b9b67f3622"/>
+    </game>
+    <game name="Kiki Kaikai - Kuromanto no Nazo - Original Soundtrack (Japan)">
+        <description>Kiki Kaikai - Kuromanto no Nazo - Original Soundtrack (Japan)</description>
+        <rom name="Kiki Kaikai - Kuromanto no Nazo - Original Soundtrack (Japan) (Track 00).bin" size="352800" crc="c26b128f" md5="6d6da53261f3483c8b6cecf9a3ed4d06" sha1="90b3df4215385b2e18e34f0ec70e4410738d1d56"/>
+    </game>
+    <game name="Konami Game Music Remix Series Vol. 3 - Gradius - Remixes (Japan)">
+        <description>Konami Game Music Remix Series Vol. 3 - Gradius - Remixes (Japan)</description>
+        <rom name="Konami Game Music Remix Series Vol. 3 - Gradius - Remixes (Japan) (Track 00).bin" size="1627584" crc="e7be977a" md5="2985f58537341906b4bb8c783afea616" sha1="a92064ee9b50fd1466bafcb9487a0894a7e09a18"/>
+        <rom name="Konami Game Music Remix Series Vol. 3 - Gradius - Remixes (Japan) (Track AA).bin" size="157584" crc="6640dc93" md5="e229c95943ac6bf131056361c65ffb9d" sha1="fdf2e5a6148b1e7f954253ff705adfc63cdc6c7d"/>
+    </game>
+    <game name="Konami Game Music Special (Japan)">
+        <description>Konami Game Music Special (Japan)</description>
+        <rom name="Konami Game Music Special (Japan) (Track 00).bin" size="87024" crc="d151f7bf" md5="59082909ef04d9ea8d84a9212bb59445" sha1="1b1b67b9625ea22535b702dc1c22e792920a6573"/>
+    </game>
+    <game name="Konami Game Music Vol. 1 (Japan)">
+        <description>Konami Game Music Vol. 1 (Japan)</description>
+        <rom name="Konami Game Music Vol. 1 (Japan) (Track 00).bin" size="1295952" crc="c75a0df3" md5="a74c343a574921d43e6de1b195089278" sha1="3e107427061909afcdf41f16947d5f024d67d274"/>
+    </game>
+    <game name="Konami Game Music Vol. 2 (Japan)">
+        <description>Konami Game Music Vol. 2 (Japan)</description>
+        <rom name="Konami Game Music Vol. 2 (Japan) (Track 00).bin" size="526848" crc="97c0eb7b" md5="cd56a5c338456438717cc392afb89e4f" sha1="dfe23150cc4375280ef0ee9c7ab58168ed915e4b"/>
+    </game>
+    <game name="Konamic Game Freaks, The (Japan)">
+        <description>Konamic Game Freaks, The (Japan)</description>
+        <rom name="Konamic Game Freaks, The (Japan) (Track 00).bin" size="4704" crc="11d2ed31" md5="032b39fdbde0d0cc5239d5f91d67f9a9" sha1="7a092586a8b7af63751973e490d397fbf72fcffe"/>
+    </game>
+    <game name="Kumikyoku Torneko no Daibouken - Ongaku no Bakegaku (Japan)">
+        <description>Kumikyoku Torneko no Daibouken - Ongaku no Bakegaku (Japan)</description>
+        <rom name="Kumikyoku Torneko no Daibouken - Ongaku no Bakegaku (Japan) (Track 00).bin" size="305760" crc="597c2228" md5="390cae170765fefd3e1c578bdaeeee00" sha1="e3f5ede1bbcde8ffeb5b4dfe368217f67a6887f2"/>
+    </game>
+    <game name="Loom (USA) (30 Minute Audio Drama) (PC Game Bundle) (Alt)">
+        <description>Loom (USA) (30 Minute Audio Drama) (PC Game Bundle) (Alt)</description>
+        <rom name="Loom (USA) (30 Minute Audio Drama) (PC Game Bundle) (Alt) (Track 00).bin" size="296352" crc="8628d527" md5="b885df3cac50c824a8e54e6061d08dd4" sha1="be88ab042405e58ef30563c07642302645f6a18c"/>
+        <rom name="Loom (USA) (30 Minute Audio Drama) (PC Game Bundle) (Alt) (Track AA).bin" size="94080" crc="9b89785e" md5="a351d4697418486da1b8926b93894e79" sha1="62978dc6bf06fcd2c372ab448b75dedb3b935fb2"/>
+    </game>
+    <game name="MMM Shooting Star (Taiwan) (PC Game Bundle)">
+        <description>MMM Shooting Star (Taiwan) (PC Game Bundle)</description>
+        <rom name="MMM Shooting Star (Taiwan) (PC Game Bundle) (Track 00).bin" size="42336" crc="7cbeec0f" md5="a40ea9f5fcff0a870f55512480f2aa6c" sha1="f3874caafa7c46376628cb18bdb44e1bd605fc7d"/>
+    </game>
+    <game name="Maken X Remix Soundtrack L'IMAGE (Japan)">
+        <description>Maken X Remix Soundtrack L'IMAGE (Japan)</description>
+        <rom name="Maken X Remix Soundtrack L'IMAGE (Japan) (Track AA.1).bin" size="4704" crc="76cc763c" md5="bd203c768b287a011807ead87f46b959" sha1="291c17203fe81131ac62062297f5f0e9edcb0b92"/>
+    </game>
+    <game name="Micronet Music Collection Vol. 1 (Japan) (MCD Game Bundle)">
+        <description>Micronet Music Collection Vol. 1 (Japan) (MCD Game Bundle)</description>
+        <rom name="Micronet Music Collection Vol. 1 (Japan) (MCD Game Bundle) (Track AA).bin" size="89376" crc="5eb2d6b6" md5="06a150b65e627de8ae18b7063c0790c1" sha1="9d30a51594dd7107d3c1ae959028bfdc87e8001c"/>
+    </game>
+    <game name="Music from 'Duel' (Japan)">
+        <description>Music from 'Duel' (Japan)</description>
+        <rom name="Music from 'Duel' (Japan) (Track 00).bin" size="185808" crc="16ffa233" md5="7188082cfcec97097c2b1b0069e6e8dd" sha1="4fbdc38eb4f453cc547ea2d970ea44e70c6ab021"/>
+    </game>
+    <game name="Music from the Original Game Sound Track - Hany in the Sky (Japan)">
+        <description>Music from the Original Game Sound Track - Hany in the Sky (Japan)</description>
+        <rom name="Music from the Original Game Sound Track - Hany in the Sky (Japan) (Track 00).bin" size="352800" crc="cbf148de" md5="00f7b4db8e961f802f704b6c9a05b6ac" sha1="ac917846554eac6ea44376eafb3890bc2d8832a9"/>
+    </game>
+    <game name="Namco Game Music Vol.1 (Japan)">
+        <description>Namco Game Music Vol.1 (Japan)</description>
+        <rom name="Namco Game Music Vol.1 (Japan) (Track 00).bin" size="37632" crc="299081bd" md5="39eb1b2977e1333dabb2a3950bce6b81" sha1="ace7565bef52a8b17c527568ec541daa20d324d0"/>
+    </game>
+    <game name="Neo Angelique Special - Premium CD Especially For You (Japan) (PSP Game Bundle)">
+        <description>Neo Angelique Special - Premium CD Especially For You (Japan) (PSP Game Bundle)</description>
+        <rom name="Neo Angelique Special - Premium CD Especially For You (Japan) (PSP Game Bundle) (Track 00).bin" size="4704" crc="7668e3c4" md5="9b5c63709d0119c2632327ea5ae4b936" sha1="709c2040d57fe872376195083016488fb2005438"/>
+    </game>
+    <game name="Nobunaga no Yabou - Tenshouki (Japan) (PC-98 Game Bundle)">
+        <description>Nobunaga no Yabou - Tenshouki (Japan) (PC-98 Game Bundle)</description>
+        <rom name="Nobunaga no Yabou - Tenshouki (Japan) (PC-98 Game Bundle) (Track 00).bin" size="4704" crc="d0d5bb9c" md5="ba270351734a820ad4dd7d1f4fa05ee4" sha1="4ff530aa51b0ee9295af7ea053533679d26cef36"/>
+    </game>
+    <game name="Oyaji Hunter Mahjong (Japan) (3DO Game Bundle)">
+        <description>Oyaji Hunter Mahjong (Japan) (3DO Game Bundle)</description>
+        <rom name="Oyaji Hunter Mahjong (Japan) (3DO Game Bundle) (Track 00).bin" size="28981344" crc="34173ffb" md5="d4a1d46d6721ab93b3da1a130d3a5274" sha1="958b5a41456c90cb5c6df8d676c3d2d90a940609"/>
+        <rom name="Oyaji Hunter Mahjong (Japan) (3DO Game Bundle) (Track AA).bin" size="159936" crc="b4e470a3" md5="1f5dc334f2679331c2f6b3b26c198f01" sha1="545033f1a4ef0c9b7d98ff55e9127b6f4188121f"/>
+    </game>
+    <game name="Pro Yakyuu Team o Tsukurou! Original Sound Track (Japan)">
+        <description>Pro Yakyuu Team o Tsukurou! Original Sound Track (Japan)</description>
+        <rom name="Pro Yakyuu Team o Tsukurou! Original Sound Track (Japan) (Track 00).bin" size="352800" crc="1452fe69" md5="df324a07c2d2d9fa21628b6a45401aa2" sha1="7fc21b0c88f40992122b8fc148da616f6ea2b346"/>
+    </game>
+    <game name="R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 1) (1st Heat - The Remixes)">
+        <description>R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 1) (1st Heat - The Remixes)</description>
+        <rom name="R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 1) (1st Heat - The Remixes) (Track 00).bin" size="352800" crc="33d7210d" md5="1e16c01794e3e646ce39581860733fb7" sha1="d299193a18e736078609a1371eec5e7cc8acaebd"/>
+    </game>
+    <game name="R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds)">
+        <description>R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds)</description>
+        <rom name="R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Track 00).bin" size="352800" crc="4f873260" md5="e2cc1b12f401a8bb482b82e40a64303c" sha1="dea73abf5074aef524dbcabebbb6a9d2c589a5d6"/>
+    </game>
+    <game name="R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt)">
+        <description>R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt)</description>
+        <rom name="R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt) (Track 00).bin" size="355152" crc="0100ea4b" md5="8459035492e6bae0a92ec0a190ac665f" sha1="7850b63dd5c317b7f597fd3deddec97be20d5e3e"/>
+    </game>
+    <game name="Rage Racer Remix - The 20th Anniv. Sounds (Japan) (Disc 1) (Reactive Remixes)">
+        <description>Rage Racer Remix - The 20th Anniv. Sounds (Japan) (Disc 1) (Reactive Remixes)</description>
+        <rom name="Rage Racer Remix - The 20th Anniv. Sounds (Japan) (Disc 1) (Reactive Remixes) (Track 00).bin" size="352800" crc="cced5c1c" md5="2fcb6e1eab17b89a296b922f74b1d922" sha1="bf9577a0fbc1be4493c17a3bc7f74b54e9c5bf04"/>
+    </game>
+    <game name="Recca, Musha Aleste, Spriggans - Naxat Shooting Collection (Japan) (Disc 1)">
+        <description>Recca, Musha Aleste, Spriggans - Naxat Shooting Collection (Japan) (Disc 1)</description>
+        <rom name="Recca, Musha Aleste, Spriggans - Naxat Shooting Collection (Japan) (Disc 1) (Track 00).bin" size="4704" crc="944918de" md5="97ed21f9c8d74471e6bc6195ed0a03e6" sha1="58b89e5d3e7cfa9473fca576d8fa3e0b6988ffd2"/>
+    </game>
+    <game name="Recca, Musha Aleste, Spriggans - Naxat Shooting Collection (Japan) (Disc 2)">
+        <description>Recca, Musha Aleste, Spriggans - Naxat Shooting Collection (Japan) (Disc 2)</description>
+        <rom name="Recca, Musha Aleste, Spriggans - Naxat Shooting Collection (Japan) (Disc 2) (Track 00).bin" size="4704" crc="9b5ade85" md5="f25404da20256499302a2b039247f275" sha1="cb2d6ff7e798a9b63f997dea99b0616a0b921c05"/>
+    </game>
+    <game name="Recca, Musha Aleste, Spriggans - Naxat Shooting Collection (Japan) (Disc 3)">
+        <description>Recca, Musha Aleste, Spriggans - Naxat Shooting Collection (Japan) (Disc 3)</description>
+        <rom name="Recca, Musha Aleste, Spriggans - Naxat Shooting Collection (Japan) (Disc 3) (Track 00).bin" size="4704" crc="1fb30959" md5="d46d2e87a71f0c292b3bea8f6ffea0c9" sha1="e57a2ef777241c444c2c187f81b609682903a30c"/>
+    </game>
+    <game name="Refrain Love - Anata ni Aitai (Japan) (Music CD) (SS Game Bundle)">
+        <description>Refrain Love - Anata ni Aitai (Japan) (Music CD) (SS Game Bundle)</description>
+        <rom name="Refrain Love - Anata ni Aitai (Japan) (Music CD) (SS Game Bundle) (Track 00).bin" size="176400" crc="3209e3e2" md5="8a593a33f10b270a4ae258dc894667a2" sha1="9686af4f6676d9ede812626b2c31531f25e743bc"/>
+    </game>
+    <game name="Rockman Arrange Version - Rockman Special CD Vol. 2 (Japan)">
+        <description>Rockman Arrange Version - Rockman Special CD Vol. 2 (Japan)</description>
+        <rom name="Rockman Arrange Version - Rockman Special CD Vol. 2 (Japan) (Track 00).bin" size="352800" crc="5cd72b8a" md5="1d4a902779e1b5d6945e110b2c3e9042" sha1="0ff30c7f788bdd2313aca98570a5dc0b156f006c"/>
+    </game>
+    <game name="Rockman Special CD - Bom Bom Version (Japan)">
+        <description>Rockman Special CD - Bom Bom Version (Japan)</description>
+        <rom name="Rockman Special CD - Bom Bom Version (Japan) (Track 00).bin" size="49392" crc="5f546a29" md5="c8e9fcb0d87d8822e324bba46613e4a1" sha1="85d73874cccdf883ed1ea471ffb96999410e78f6"/>
+    </game>
+    <game name="SNK Game Music (Japan)">
+        <description>SNK Game Music (Japan)</description>
+        <rom name="SNK Game Music (Japan) (Track 00).bin" size="352800" crc="9984d126" md5="dace48c0feba95eb44bc749531e84539" sha1="a48d13de5aeefa06ca41ae976083e23dcee78053"/>
+    </game>
+    <game name="SaGa Frontier - Original Sound Track (Japan) (Disc 3)">
+        <description>SaGa Frontier - Original Sound Track (Japan) (Disc 3)</description>
+        <rom name="SaGa Frontier - Original Sound Track (Japan) (Disc 3) (Track 00).bin" size="174048" crc="71658459" md5="fd121a41ff4120e1fb127bcbc456aae5" sha1="53eae57035b85de18380abfdacf5ee82729731a9"/>
+    </game>
+    <game name="Sega Taikan Game Special (Japan)">
+        <description>Sega Taikan Game Special (Japan)</description>
+        <rom name="Sega Taikan Game Special (Japan) (Track 00).bin" size="122304" crc="cf9e3379" md5="5845ce8f6061fda9414cedc0b346276f" sha1="93221f2920708078db03f35cec7d9020f5969592"/>
+    </game>
+    <game name="Seiken Densetsu - Legend of Mana - Original Soundtrack (Japan) (Disc 1) (Alt)">
+        <description>Seiken Densetsu - Legend of Mana - Original Soundtrack (Japan) (Disc 1) (Alt)</description>
+        <rom name="Seiken Densetsu - Legend of Mana - Original Soundtrack (Japan) (Disc 1) (Alt) (Track 00).bin" size="352800" crc="a3d0f1db" md5="c951c8efa97c90b8588c492085cce6b0" sha1="2e6e179155bdcb989f0684f1ccb8aee968b27a67"/>
+    </game>
+    <game name="Short Circuit II (Japan)">
+        <description>Short Circuit II (Japan)</description>
+        <rom name="Short Circuit II (Japan) (Track AA).bin" size="78199296" crc="45caae01" md5="d2059a1bf8a5fc592882af476405535e" sha1="581f10b4d198042a3f342e42467cd8f45f562629"/>
+    </game>
+    <game name="Snowboard Kids &amp; Super Snowboard Kids Soundtrack (Japan) (Disc 1)">
+        <description>Snowboard Kids &amp; Super Snowboard Kids Soundtrack (Japan) (Disc 1)</description>
+        <rom name="Snowboard Kids &amp; Super Snowboard Kids Soundtrack (Japan) (Disc 1) (Track 00).bin" size="9408" crc="cef912a8" md5="5c5c613d88af4bbe07efb3248625446d" sha1="1dda919849e3b738c6252cab54a52f99dde3f194"/>
+    </game>
+    <game name="Snowboard Kids &amp; Super Snowboard Kids Soundtrack (Japan) (Disc 2)">
+        <description>Snowboard Kids &amp; Super Snowboard Kids Soundtrack (Japan) (Disc 2)</description>
+        <rom name="Snowboard Kids &amp; Super Snowboard Kids Soundtrack (Japan) (Disc 2) (Track 00).bin" size="25872" crc="90b546d1" md5="315c13607b4339799e1f970fc35c5890" sha1="4eb59de801286531699d93fca4b51a47da1d66fd"/>
+    </game>
+    <game name="Snowboard Kids &amp; Super Snowboard Kids Soundtrack (Japan) (Disc 3)">
+        <description>Snowboard Kids &amp; Super Snowboard Kids Soundtrack (Japan) (Disc 3)</description>
+        <rom name="Snowboard Kids &amp; Super Snowboard Kids Soundtrack (Japan) (Disc 3) (Track 00).bin" size="9408" crc="a82338e5" md5="85e27d57340feb737b7280b7d0a4bfbc" sha1="cfde8d68856aeb21f71451f2b6607e0a4ca0011f"/>
+    </game>
+    <game name="Space Channel 5 Part 2 - Soundtrack Vol. Hey!! (Japan)">
+        <description>Space Channel 5 Part 2 - Soundtrack Vol. Hey!! (Japan)</description>
+        <rom name="Space Channel 5 Part 2 - Soundtrack Vol. Hey!! (Japan) (Track 00).bin" size="352800" crc="eccf1935" md5="fbcf8f32604c9a884da1ee305d3992af" sha1="6e91f0330fc096f112d5346fbcc1d8de9425aa86"/>
+    </game>
+    <game name="Splatune 2 - Splatoon 2 Original Soundtrack (Japan) (Disc 1)">
+        <description>Splatune 2 - Splatoon 2 Original Soundtrack (Japan) (Disc 1)</description>
+        <rom name="Splatune 2 - Splatoon 2 Original Soundtrack (Japan) (Disc 1) (Track AA).bin" size="2352" crc="11aef0b5" md5="8de82f2f6f58c0e2bcd4049888983af3" sha1="6ff80cfa368553862dfc9dcf12aeeccde352c81a"/>
+    </game>
+    <game name="Splatune 2 - Splatoon 2 Original Soundtrack (Japan) (Disc 2)">
+        <description>Splatune 2 - Splatoon 2 Original Soundtrack (Japan) (Disc 2)</description>
+        <rom name="Splatune 2 - Splatoon 2 Original Soundtrack (Japan) (Disc 2) (Track AA).bin" size="2352" crc="bf4d67c1" md5="11e29f6669c0ff70a1868e169c9705b2" sha1="0988ce4805403347a25c995723c9a56c0fec5938"/>
+    </game>
+    <game name="Super Mario World (Japan) (Disc 2) (Super Mario Encyclopedia - BGM &amp; Sound Effect)">
+        <description>Super Mario World (Japan) (Disc 2) (Super Mario Encyclopedia - BGM &amp; Sound Effect)</description>
+        <rom name="Super Mario World (Japan) (Disc 2) (Super Mario Encyclopedia - BGM &amp; Sound Effect) (Track AA).bin" size="39984" crc="5a8849ef" md5="84a4b8e21c1949ef922197e3d8be0a1d" sha1="9c66c24e3e2a1bebf6e82f547733a67e0089414f"/>
+    </game>
+    <game name="Sword &amp; Sorcery - GM-PROGRESS-1 (Japan)">
+        <description>Sword &amp; Sorcery - GM-PROGRESS-1 (Japan)</description>
+        <rom name="Sword &amp; Sorcery - GM-PROGRESS-1 (Japan) (Track 00).bin" size="352800" crc="71d5a9fe" md5="5a6fbe4a29b8c1ccd3a7d20e5cdb0b4b" sha1="bccebdb56c6c6327128f719e9e683bb4dbcc30b2"/>
+    </game>
+    <game name="Sword Dancer Music File (Japan)">
+        <description>Sword Dancer Music File (Japan)</description>
+        <rom name="Sword Dancer Music File (Japan) (Track 00).bin" size="352800" crc="8fccf43b" md5="b094b8d333da528477c08372b01e1b19" sha1="abc996123e7df0e7fbd949ed82f8151b9a681a4d"/>
+    </game>
+    <game name="Taikou Risshiden Rekidai Gakkyoku-shuu (Japan) (Disc I) (Taikou Risshiden) (Multisystem Game Bundle)">
+        <description>Taikou Risshiden Rekidai Gakkyoku-shuu (Japan) (Disc I) (Taikou Risshiden) (Multisystem Game Bundle)</description>
+        <rom name="Taikou Risshiden Rekidai Gakkyoku-shuu (Japan) (Disc I) (Taikou Risshiden) (Multisystem Game Bundle) (Track 00).bin" size="2352" crc="5f314151" md5="12a43dd8e1d75563f83609d624b7c56a" sha1="efaff1941782247d0471cee2146be8d3508da59d"/>
+    </game>
+    <game name="Taikou Risshiden Rekidai Gakkyoku-shuu (Japan) (Disc II) (Taikou Risshiden II) (Multisystem Game Bundle)">
+        <description>Taikou Risshiden Rekidai Gakkyoku-shuu (Japan) (Disc II) (Taikou Risshiden II) (Multisystem Game Bundle)</description>
+        <rom name="Taikou Risshiden Rekidai Gakkyoku-shuu (Japan) (Disc II) (Taikou Risshiden II) (Multisystem Game Bundle) (Track 00).bin" size="2352" crc="8e16afc9" md5="43292747991bd785699fb656ef534903" sha1="a06a11496520fdf899c32f76c370cfa811a4ed84"/>
+    </game>
+    <game name="Taikou Risshiden Rekidai Gakkyoku-shuu (Japan) (Disc III) (Taikou Risshiden III) (Multisystem Game Bundle)">
+        <description>Taikou Risshiden Rekidai Gakkyoku-shuu (Japan) (Disc III) (Taikou Risshiden III) (Multisystem Game Bundle)</description>
+        <rom name="Taikou Risshiden Rekidai Gakkyoku-shuu (Japan) (Disc III) (Taikou Risshiden III) (Multisystem Game Bundle) (Track 00).bin" size="2352" crc="cef95741" md5="af5630bb155d180494af2219fc0362a0" sha1="c9f0c135a631e18d96186255df430fc7b9479ccc"/>
+    </game>
+    <game name="Taikou Risshiden Rekidai Gakkyoku-shuu (Japan) (Disc IV) (Taikou Risshiden IV) (Multisystem Game Bundle)">
+        <description>Taikou Risshiden Rekidai Gakkyoku-shuu (Japan) (Disc IV) (Taikou Risshiden IV) (Multisystem Game Bundle)</description>
+        <rom name="Taikou Risshiden Rekidai Gakkyoku-shuu (Japan) (Disc IV) (Taikou Risshiden IV) (Multisystem Game Bundle) (Track 00).bin" size="2352" crc="a29a1da6" md5="a3edb0d3e3912deae2ca54a33c9dbe59" sha1="5926dcb50706a4cc3b2f234f038b4c7e02d53136"/>
+    </game>
+    <game name="Taikou Risshiden Rekidai Gakkyoku-shuu (Japan) (Disc V) (Taikou Risshiden V) (Multisystem Game Bundle)">
+        <description>Taikou Risshiden Rekidai Gakkyoku-shuu (Japan) (Disc V) (Taikou Risshiden V) (Multisystem Game Bundle)</description>
+        <rom name="Taikou Risshiden Rekidai Gakkyoku-shuu (Japan) (Disc V) (Taikou Risshiden V) (Multisystem Game Bundle) (Track 00).bin" size="2352" crc="f5f22f36" md5="8b517eca845956e1b20d15f2674e5a35" sha1="179b874ae59cd07baf758bb00a9cc67ca713de7e"/>
+    </game>
+    <game name="Taito Game Music (Japan)">
+        <description>Taito Game Music (Japan)</description>
+        <rom name="Taito Game Music (Japan) (Track 00).bin" size="190512" crc="dac50223" md5="fe6ba42f88681ffc14c2d81c4c624ece" sha1="62c539b55b6e33fda33e5bed2dc1759f36fe64a5"/>
+    </game>
+    <game name="Tales of Link - Original Soundtrack (Japan) (Disc 1)">
+        <description>Tales of Link - Original Soundtrack (Japan) (Disc 1)</description>
+        <rom name="Tales of Link - Original Soundtrack (Japan) (Disc 1) (Track 00).bin" size="352800" crc="87e21034" md5="2f63c3c54fb0e44d5ed6368f80232059" sha1="443c9dcf883c18bd892187ea16b6b9909b0ac7f5"/>
+    </game>
+    <game name="Tales of Link - Original Soundtrack (Japan) (Disc 2)">
+        <description>Tales of Link - Original Soundtrack (Japan) (Disc 2)</description>
+        <rom name="Tales of Link - Original Soundtrack (Japan) (Disc 2) (Track 00).bin" size="352800" crc="19146a90" md5="dbdb5755f50f07a4a3da7cc42432a10f" sha1="da1513bfb42432bf66c47d74cd18eefddbede511"/>
+    </game>
+    <game name="Tan. Perfect Sound Collection sign (Japan) (PC Game Bundle)">
+        <description>Tan. Perfect Sound Collection sign (Japan) (PC Game Bundle)</description>
+        <rom name="Tan. Perfect Sound Collection sign (Japan) (PC Game Bundle) (Track 00).bin" size="176400" crc="0651af88" md5="3bdadf6b62a9d91194619056141aeec0" sha1="5adc3198d1913e166eaf7ea31a306740d43a9095"/>
+    </game>
+    <game name="Tecmo Game Music (Japan)">
+        <description>Tecmo Game Music (Japan)</description>
+        <rom name="Tecmo Game Music (Japan) (Track 00).bin" size="352800" crc="cab644d1" md5="0373141709a962e2ba2ef68ad1e00c77" sha1="0c8e51b46d9206b26df3bb8d4faaa695dfd3146c"/>
+    </game>
+    <game name="Telenet's Sound Special Version - RENO - Renovation Game - Since 1985 (Japan)">
+        <description>Telenet's Sound Special Version - RENO - Renovation Game - Since 1985 (Japan)</description>
+        <rom name="Telenet's Sound Special Version - RENO - Renovation Game - Since 1985 (Japan) (Track 00).bin" size="352800" crc="c58edca1" md5="9e3fbb7365c4e14f6edebfbb54c1c78f" sha1="5d8ae55313766933436ca022632b02f6efa90563"/>
+    </game>
+    <game name="Tenbu Mega CD Special Mini Audio CD (Japan) (MCD Game Bundle)">
+        <description>Tenbu Mega CD Special Mini Audio CD (Japan) (MCD Game Bundle)</description>
+        <rom name="Tenbu Mega CD Special Mini Audio CD (Japan) (MCD Game Bundle) (Track 00).bin" size="352800" crc="a0e289f1" md5="f16cdc4304cda5d3017fd38181885564" sha1="06205a84e52a9a070fdeaa83ee57fa757433d5d5"/>
+    </game>
+    <game name="Tetris - The Grand Master Trilogy - Sound Masters (Japan)">
+        <description>Tetris - The Grand Master Trilogy - Sound Masters (Japan)</description>
+        <rom name="Tetris - The Grand Master Trilogy - Sound Masters (Japan) (Track 00).bin" size="352800" crc="cced5c1c" md5="2fcb6e1eab17b89a296b922f74b1d922" sha1="bf9577a0fbc1be4493c17a3bc7f74b54e9c5bf04"/>
+    </game>
+    <game name="Toho Eurobeat Vol.10 - Highly Responsive to Prayers (Japan)">
+        <description>Toho Eurobeat Vol.10 - Highly Responsive to Prayers (Japan)</description>
+        <rom name="Toho Eurobeat Vol.10 - Highly Responsive to Prayers (Japan) (Track AA).bin" size="230496" crc="0f958fa6" md5="8dc27cd39778c947d7a2e0887ecb865c" sha1="05bf56f4c6e96995900c3fedad0f200b884b9f79"/>
+    </game>
+    <game name="URNOTe - Enos Lives 9-9-95 (USA)">
+        <description>URNOTe - Enos Lives 9-9-95 (USA)</description>
+        <rom name="URNOTe - Enos Lives 9-9-95 (USA) (Track 00).bin" size="352800" crc="81acbac8" md5="a031c84549fc11d16ad0a29cc0725090" sha1="126d3df7a3899fcc09b52c0d894e7565fa4af0da"/>
+    </game>
+    <game name="V-Rally - Championship Edition 2 - Music Fuelled by Sin (France)">
+        <description>V-Rally - Championship Edition 2 - Music Fuelled by Sin (France)</description>
+        <rom name="V-Rally - Championship Edition 2 - Music Fuelled by Sin (France) (Track 00).bin" size="352800" crc="8944ab70" md5="e270aa86a003695f9003c3bfdf1f0715" sha1="2f6a5d03d4c113ec5b4e1b9dba2e0030fe122739"/>
+        <rom name="V-Rally - Championship Edition 2 - Music Fuelled by Sin (France) (Track AA).bin" size="4704" crc="7cc3a214" md5="12ac6c7b67d108a3f6ebc45cc08cbd21" sha1="ac806ab0728af5fc6cfbf616fa9099b415a88a7f"/>
+    </game>
+    <game name="VA-11 Hall-A - Complete Sound Collection (USA) (Disc 1)">
+        <description>VA-11 Hall-A - Complete Sound Collection (USA) (Disc 1)</description>
+        <rom name="VA-11 Hall-A - Complete Sound Collection (USA) (Disc 1) (Track 00).bin" size="355152" crc="084f02ac" md5="fd69b7b59ff3ea9aa0ed8e5b3bc64612" sha1="3959e06086e74b8d21a50627ad36f5cd598e1242"/>
+    </game>
+    <game name="VA-11 Hall-A - Complete Sound Collection (USA) (Disc 2)">
+        <description>VA-11 Hall-A - Complete Sound Collection (USA) (Disc 2)</description>
+        <rom name="VA-11 Hall-A - Complete Sound Collection (USA) (Disc 2) (Track 00).bin" size="355152" crc="bc3740e2" md5="eeab79bb2170694e026cda0b895d4082" sha1="27bde98755b5d00937f67a74c26625d6b038b6bb"/>
+    </game>
+    <game name="VA-11 Hall-A - Complete Sound Collection (USA) (Disc 3)">
+        <description>VA-11 Hall-A - Complete Sound Collection (USA) (Disc 3)</description>
+        <rom name="VA-11 Hall-A - Complete Sound Collection (USA) (Disc 3) (Track 00).bin" size="355152" crc="c875e5ce" md5="0cdaac13a34fdce2b8f52a046b9e7dc4" sha1="030f8b97b6af5043685e46c6e0afd1ec6b5582e4"/>
+    </game>
+    <game name="Voyageurs du Temps, Les (France)">
+        <description>Voyageurs du Temps, Les (France)</description>
+        <rom name="Voyageurs du Temps, Les (France) (Track 00).bin" size="185808" crc="bb80d48b" md5="32ca0943a9841bb830a2313889b24c80" sha1="8673d6b8de792a8dc833053c21ca89d1247adb0d"/>
+    </game>
+    <game name="Winning Post 30th Memorial CD (Japan) (Disc 1) (PC Game Bundle)">
+        <description>Winning Post 30th Memorial CD (Japan) (Disc 1) (PC Game Bundle)</description>
+        <rom name="Winning Post 30th Memorial CD (Japan) (Disc 1) (PC Game Bundle) (Track 00).bin" size="2352" crc="0219fb95" md5="5feb09b92b3dc2af9ff65aea122980c7" sha1="6e708f87e1ea1810f045f827fe6ff0e5a0a443c1"/>
+    </game>
+    <game name="Winning Post 30th Memorial CD (Japan) (Disc 2) (PC Game Bundle)">
+        <description>Winning Post 30th Memorial CD (Japan) (Disc 2) (PC Game Bundle)</description>
+        <rom name="Winning Post 30th Memorial CD (Japan) (Disc 2) (PC Game Bundle) (Track 00).bin" size="2352" crc="09545000" md5="a8a894457f85ac81637453fb6f06f554" sha1="831ddcd22a6d4addde6991bebf91c28ba48e2b6a"/>
+    </game>
+    <game name="Winning Post 30th Memorial CD (Japan) (Disc 3) (PC Game Bundle)">
+        <description>Winning Post 30th Memorial CD (Japan) (Disc 3) (PC Game Bundle)</description>
+        <rom name="Winning Post 30th Memorial CD (Japan) (Disc 3) (PC Game Bundle) (Track 00).bin" size="2352" crc="aee4d4e2" md5="2d51dc36c635c4a74ff5199135598216" sha1="bcb072dc046f6eecd064a06336e0723549ae427c"/>
+    </game>
+    <game name="Yuzo Koshiro Early Collection Box (Japan) (Disc 1)">
+        <description>Yuzo Koshiro Early Collection Box (Japan) (Disc 1)</description>
+        <rom name="Yuzo Koshiro Early Collection Box (Japan) (Disc 1) (Track 00).bin" size="352800" crc="bd4f5357" md5="746b3bb69739cc1e8681dd1bae93dd70" sha1="a49265b6ae39a207bc6aa64f79b6cdeb2235e7e1"/>
+    </game>
+    <game name="Yuzo Koshiro Early Collection Box (Japan) (Disc 2)">
+        <description>Yuzo Koshiro Early Collection Box (Japan) (Disc 2)</description>
+        <rom name="Yuzo Koshiro Early Collection Box (Japan) (Disc 2) (Track 00).bin" size="352800" crc="3986769b" md5="4c9d85ccb75de14385a5ea6306380ce2" sha1="1c70239bfd9946b530f1474913cccf497f34806f"/>
+    </game>
+    <game name="Yuzo Koshiro Early Collection Box (Japan) (Disc 3)">
+        <description>Yuzo Koshiro Early Collection Box (Japan) (Disc 3)</description>
+        <rom name="Yuzo Koshiro Early Collection Box (Japan) (Disc 3) (Track 00).bin" size="352800" crc="30904f34" md5="b6ac086c2c069237080bfef4ce91ac82" sha1="403caffb7631417fdd4eaf5d00384e6c9573fe79"/>
+    </game>
+    <game name="Yuzo Koshiro Early Collection Box (Japan) (Disc 4)">
+        <description>Yuzo Koshiro Early Collection Box (Japan) (Disc 4)</description>
+        <rom name="Yuzo Koshiro Early Collection Box (Japan) (Disc 4) (Track 00).bin" size="352800" crc="66ddfa75" md5="8922beeb03b6e2867c353b00768e8332" sha1="91c9ad72d59284f6edc44ba80ec3a83e338e9662"/>
+    </game>
+    <game name="Yuzo Koshiro Early Collection Box (Japan) (Disc 5)">
+        <description>Yuzo Koshiro Early Collection Box (Japan) (Disc 5)</description>
+        <rom name="Yuzo Koshiro Early Collection Box (Japan) (Disc 5) (Track 00).bin" size="352800" crc="8099458d" md5="082fd74f83bd0547866210f5888f36c1" sha1="d8c03c95c424a6a66c2c78c3c72aee9e5f5f8b47"/>
+    </game>
+    <game name="Yuzo Koshiro Early Collection Box (Japan) (Disc 6)">
+        <description>Yuzo Koshiro Early Collection Box (Japan) (Disc 6)</description>
+        <rom name="Yuzo Koshiro Early Collection Box (Japan) (Disc 6) (Track 00).bin" size="352800" crc="7c1e42b8" md5="c08c205634792c824680427c582073f2" sha1="0679eb12a5e9bfcaec9378b25fd897266a116714"/>
+    </game>
+    <game name="Yuzo Koshiro Early Collection Box (Japan) (Disc 7) (Super Arrange Version)">
+        <description>Yuzo Koshiro Early Collection Box (Japan) (Disc 7) (Super Arrange Version)</description>
+        <rom name="Yuzo Koshiro Early Collection Box (Japan) (Disc 7) (Super Arrange Version) (Track 00).bin" size="352800" crc="7b197c80" md5="1836f5df2dd44d826d41b336d296fa3d" sha1="b9ff990e0f19352f6c3d136d1e9ae8bd98a42075"/>
+    </game>
+</datafile>

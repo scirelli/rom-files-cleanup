@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>51</id>
+		<name>Bandai - WonderSwan Color (Aftermarket)</name>
+		<description>Bandai - WonderSwan Color (Aftermarket)</description>
+		<version>20240608-074931</version>
+		<author>C. V. Reynolds, Gefflon, Hiccup, omonim2007, PPLToast, rarenight, relax, sCZther, SonGoku, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Atop the Witch's Tower (World) (v1.1) (Aftermarket) (Unl)" id="0254">
+		<category>Games</category>
+		<description>Atop the Witch's Tower (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Atop the Witch's Tower (World) (v1.1) (Aftermarket) (Unl).wsc" size="131072" crc="23e814cc" md5="db3569afdb8d8f553da626970f1804e7" sha1="1487a981e576bf8248818b1f1a12c947760be511" sha256="5e229e2ef649ca3fd533fbed9710f753a038534b5bbf334bddd6f9a36d7ae30e"/>
+	</game>
+	<game name="Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket) (Unl)" id="0123">
+		<category>Games</category>
+		<description>Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket) (Unl)</description>
+		<rom name="Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket) (Unl).wsc" size="524288" crc="deaec59b" md5="50425331b91ee4273df1d56d7dcd519f" sha1="0a250a6e7d09787ea2062347a69f0452412c6b8d" sha256="922cd47aaf3182f309593bafcfc7909dd40e4ea08dae596a3444a7de7e22b762"/>
+	</game>
+	<game name="Cardinal Sins - Recycle Edition (World) (Ja) (v1.01) (WonderWitch) (Aftermarket) (Unl)" id="0124" cloneofid="0123">
+		<category>Games</category>
+		<description>Cardinal Sins - Recycle Edition (World) (Ja) (v1.01) (WonderWitch) (Aftermarket) (Unl)</description>
+		<rom name="Cardinal Sins - Recycle Edition (World) (Ja) (v1.01) (WonderWitch) (Aftermarket) (Unl).wsc" size="524288" crc="990e0749" md5="0771aefa82c943f2a5c7f4e06174a51c" sha1="870ab0fff948e4cd672d710da1f027f42418826b" sha256="f7254714d616f15c6c7f69e9f766f44a198bfee70553a75c297ed180a62c6d90"/>
+	</game>
+	<game name="Cardinal Sins - Recycle Edition (World) (Ja) (v1.00) (WonderWitch) (Aftermarket) (Unl)" id="0125" cloneofid="0123">
+		<category>Games</category>
+		<description>Cardinal Sins - Recycle Edition (World) (Ja) (v1.00) (WonderWitch) (Aftermarket) (Unl)</description>
+		<rom name="Cardinal Sins - Recycle Edition (World) (Ja) (v1.00) (WonderWitch) (Aftermarket) (Unl).wsc" size="524288" crc="4fe0c856" md5="ae5b4169e563ac716bafe0e3b3eb7420" sha1="412cae042aae9e1609c2164ee802ac4634867f09" sha256="b53fc9912c8c792d69f98d521f72307c182d1b78bfc72845cb5da041bbbcd117"/>
+	</game>
+	<game name="Fire Lancer (USA) (Demo) (2019-01-03) (Aftermarket) (Unl)" id="0114">
+		<description>Fire Lancer (USA) (Demo) (2019-01-03) (Aftermarket) (Unl)</description>
+		<rom name="Fire Lancer (USA) (Demo) (2019-01-03) (Aftermarket) (Unl).wsc" size="1048576" crc="2399f778" md5="72869347ffb792af0761f2ab0aa15fc3" sha1="84dfc1e6b20d37f8cba2d918b0acae98988d5f34"/>
+	</game>
+	<game name="Fire Lancer (USA) (Demo) (2018-12-25) (Aftermarket) (Unl)" id="0115" cloneofid="0114">
+		<description>Fire Lancer (USA) (Demo) (2018-12-25) (Aftermarket) (Unl)</description>
+		<rom name="Fire Lancer (USA) (Demo) (2018-12-25) (Aftermarket) (Unl).wsc" size="1048576" crc="02882ffe" md5="f94293c253b319244167722160e7ab86" sha1="3b44be6b3efeb5b114a37e666b9d1f9ad146708f"/>
+	</game>
+	<game name="Flash Masta Firmware (World) (2016-08-29) (Aftermarket) (Unl)" id="0116">
+		<category>Applications</category>
+		<description>Flash Masta Firmware (World) (2016-08-29) (Aftermarket) (Unl)</description>
+		<rom name="Flash Masta Firmware (World) (2016-08-29) (Aftermarket) (Unl).wsc" size="131072" crc="c071d240" md5="53a132ba86468f4b94ba5677ba8e6005" sha1="2fce8b8e08e3f90999589b2d226fc7038b17ef22"/>
+	</game>
+	<game name="Flash Masta Firmware (World) (2016-05-13) (Aftermarket) (Unl)" id="0117" cloneofid="0116">
+		<category>Applications</category>
+		<description>Flash Masta Firmware (World) (2016-05-13) (Aftermarket) (Unl)</description>
+		<rom name="Flash Masta Firmware (World) (2016-05-13) (Aftermarket) (Unl).wsc" size="524288" crc="aabce377" md5="13bf6cd03774fb7ddb70d62813aa89b9" sha1="9869c7c97e229e103203360454495a4dbcdc3614"/>
+	</game>
+	<game name="Starship (World) (2004-09-02) (Proto) (Aftermarket) (Unl)" id="0248">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Starship (World) (2004-09-02) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Starship (World) (2004-09-02) (Proto) (Aftermarket) (Unl).wsc" size="524288" crc="bc2636e8" md5="a3623c8569254080745b1c6cea464d78" sha1="7bddd68974bd4aaa545118084fbcf23f28a1b160" sha256="dec9d5f6c1cad7095f79255b4a54b5d04f3a50906fcbe63a9ab665f0773d0009"/>
+	</game>
+	<game name="WonderCell (World) (v0.2) (Aftermarket) (Unl)" id="0122">
+		<category>Games</category>
+		<description>WonderCell (World) (v0.2) (Aftermarket) (Unl)</description>
+		<rom name="WonderCell (World) (v0.2) (Aftermarket) (Unl).wsc" size="131072" crc="49b527e4" md5="046afffc93bd5aea8c0010aef2a6f718" sha1="877a3aaf60c9704c2e7234e1f6f6b8592c2b16ed" sha256="6491b959bb73cc7afbe46e95a923bcf6634bcaea3f8d1153dd24fb218b485aa5"/>
+	</game>
+	<game name="WonderCell (World) (v0.2) (WonderWitch) (Aftermarket) (Unl)" id="0253">
+		<category>Games</category>
+		<description>WonderCell (World) (v0.2) (WonderWitch) (Aftermarket) (Unl)</description>
+		<rom name="WonderCell (World) (v0.2) (WonderWitch) (Aftermarket) (Unl).wsc" size="524288" crc="222710ff" md5="3581fdd8d18c369a83586be77928ebe5" sha1="5965b725bd4295082ffd77e7412ef1500cb0d8f5" sha256="115345e45800d73c2a4b7e7b7fbc59ee838c0f54ad4ed1fcee110a66acd51e2e"/>
+	</game>
+</datafile>

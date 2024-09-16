@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>355</id>
+		<name>Unofficial - Video Game OSTs (Playbutton)</name>
+		<description>Unofficial - Video Game OSTs (Playbutton)</description>
+		<subset>Unofficial</subset>
+		<version>20221103-212144</version>
+		<author>NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Kirby Arrange Selection (Japan) (WAV)" id="0002">
+		<category>Audio</category>
+		<description>Kirby Arrange Selection (Japan) (WAV)</description>
+		<rom name="01 Stage Melody (Acoustic Ver.).wav" size="63668268" crc="77467fe1" md5="b4a8988177e834f5dd205ebca4a30a05" sha1="69f8b9657ab67f28c6f8b3ee4a1329d1b424f97b"/>
+		<rom name="02 Boss Battle Medley (Electronic Ver.).wav" size="51413036" crc="e10f3626" md5="705cd486c0f3d30c65c375295ddc5b2b" sha1="7af224af1e3801ec23192bcf316481182a9772b3"/>
+		<rom name="03 Sora no Yume to, Niji no Izumi de.wav" size="53018668" crc="a1deb881" md5="a66a46cb67f0178104d2fcf5c6f3cd11" sha1="6c11d47838f153d978b6590557d0ed6b1522480e"/>
+		<rom name="04 Saigo no Tatakai.wav" size="52813868" crc="c32def2f" md5="acc9c880f7b28d4d60213abc2ab3e19b" sha1="0d26af7884eee30a9a7c717b21c5491321543bd7"/>
+		<rom name="05 Dedede Deluxe!!!.wav" size="33587244" crc="54a1911c" md5="f55433f660d2456ea3aac3320c91e101" sha1="b017652542e980c36d7de8c0cb63204daca97a8e"/>
+		<rom name="06 Gekka ni Eiennaru Nemuri Hana.wav" size="36438060" crc="6e6cf0d9" md5="e7cb0820b5d4e5367710e563b670e49a" sha1="ace5aecbfa5d25f9a6dd5442448ef8798cf5719d"/>
+		<rom name="07 Electro! Kirby.wav" size="34930732" crc="a53898de" md5="c64baf8d252586ad832923a06bde0fa5" sha1="3db8af2e1322e795afe394dcb7f371433d002641"/>
+		<rom name="08 Bye Bye Kirby Mata Ashita!.wav" size="40271916" crc="ca1cfe52" md5="a65eeea71d2de46ec79dbb12290122f5" sha1="0cf6acf806d876df2f72d1aa35ef168877b9078f"/>
+	</game>
+	<game name="Kirby Pupupu Train - Eki-Melo Collection (Japan) (WAV)" id="0001">
+		<category>Audio</category>
+		<description>Kirby Pupupu Train - Eki-Melo Collection (Japan) (WAV)</description>
+		<rom name="01 Green Greens ~ Gekitotsu! Gourmet Race (Kirby Pupupu Train Ver.).wav" size="96843820" crc="fd6d8765" md5="99955473bca7d0374e34889ca0741715" sha1="a34a990dba21e80f8f6acc81ccb17a9c322770b2"/>
+		<rom name="02 Green Greens Eki.wav" size="2658348" crc="44ca87d7" md5="d23b3c564dc85196de787263b238b16f" sha1="d4080d4eec69eeaf9b1a63e247eed62763c9c200"/>
+		<rom name="03 Whispy Woods no Mori Eki.wav" size="2744364" crc="3043be75" md5="0569a4fcef487441a243a992e29149b6" sha1="4237ea80fecc701d009521c9debfe4912ae25563"/>
+		<rom name="04 Mount Dedede (Dedede Castle) Eki.wav" size="2883628" crc="b18e1e34" md5="6be48cc45e5cf06e13a775fe76cb3b49" sha1="eff70e5a7d0fbeaff24f1288bd7e02ac9b58f748"/>
+		<rom name="05 Float Islands Eki.wav" size="2881580" crc="7f76611e" md5="b68f1ac3213bc15c763e6728dc73eede" sha1="cfbb1f11562fca2e178409b64c7a3c8c6aa91138"/>
+		<rom name="06 Castle Lololo Eki.wav" size="2199596" crc="5ef87ab7" md5="b33029ea1605c2c19babee89659a9787" sha1="608bda795c7d547ad72bb1f0b561beb3e005f8f3"/>
+		<rom name="07 Bubbly Clouds Eki.wav" size="3018796" crc="acde94f7" md5="b2b219828311b4c29d7e7e1224151896" sha1="9733381aee1a844122368b21daa77c4fcf36cdbb"/>
+		<rom name="08 Kirby no Ouchi Eki.wav" size="2828332" crc="d838a6e9" md5="1e545d07e0307551b35cc06fda95ea31" sha1="229b2c1257fa50fae7131ec048ee4ed5200a1397"/>
+		<rom name="09 Grass Land Eki.wav" size="2021420" crc="7041ec97" md5="566ae5724a0b19386a6c627a6c7e624f" sha1="2d95dedbf03a352b17b47123a61c2f68ed61724b"/>
+		<rom name="10 Ripple Field Eki.wav" size="2349100" crc="25bcb403" md5="92097fdd995ca991c3c5605fdd523fe6" sha1="816b0f298c50206636781a95b817d68fb30a1c23"/>
+		<rom name="11 Big Forest Eki.wav" size="2979884" crc="02625f52" md5="727258a5d4ed9841f46959b4d4c9577b" sha1="8f708fb9051097a776af9fc5ea19a1f2cca3b1d8"/>
+		<rom name="12 Yume no Izumi Eki.wav" size="2461740" crc="0fa21384" md5="32ba5670c481ffef254bba149998f808" sha1="e9f5d45f030d2e259e6101adecc0cd60f4620c63"/>
+		<rom name="13 Clear Dance (Eki-Melo Ver.).wav" size="1845292" crc="918496b7" md5="d82711805fe1cdb164458e406e733186" sha1="623b08fa6c6af63bc223222c4ab579afd4b66703"/>
+	</game>
+	<game name="Legend of Zelda, The - Field Music Collection (Japan) (WAV)" id="0003">
+		<category>Audio</category>
+		<description>Legend of Zelda, The - Field Music Collection (Japan) (WAV)</description>
+		<rom name="01 Zelda no Densetsu - Chijou BGM.wav" size="14756740" crc="982d7feb" md5="d3a51b3b62674b0fb11a75e7044a4fd3" sha1="470e12251263eec2d2696c1f93993a2b8eb168c2"/>
+		<rom name="02 Link no Bouken - Chijou Map BGM.wav" size="17115620" crc="4ec6aa77" md5="7898ae7f5d4a556280878408bf27007c" sha1="9db34b2a1d581ef24c6e340f004aff7bbab8a587"/>
+		<rom name="03 Kamigami no Triforce - Hyou no Chijou BGM.wav" size="12781868" crc="3738a4c0" md5="054e775e2fcbacae925626c787ea8125" sha1="602a525ebfe74def1ba2a638f673b40281bb36c0"/>
+		<rom name="04 Yume o Miru Shima - Tal Tal Sanmyaku.wav" size="33243756" crc="5ad80a05" md5="203247e78a2eccc7744748fdb88fd0f9" sha1="23e9179a3e4e143409cfd833fb7f5db31a67fc36"/>
+		<rom name="05 Toki no Ocarina ~ Toki no Ocarina 3D - Hyrule Heigen Main Theme.wav" size="41911260" crc="45ac645b" md5="ce0e97976ddd14fa94b56d8b9455dbb4" sha1="36f0aff3f30d1a8419447b4af4ebd81fa44e9d55"/>
+		<rom name="06 Mujura no Kamen ~ Mujura no Kamen 3D - Termina Heigen.wav" size="30007156" crc="018dd67e" md5="154960e3282a137226d2b3f64aeaff7f" sha1="50a1fa6ea12370cfc1a2855545f5ac28a626c6df"/>
+		<rom name="07 Fushigi no Konomi ~ Daichi &amp; Jikuu - Field BGM.wav" size="17280192" crc="f6c42b8e" md5="26af95ecac0349e83dd5814003db240a" sha1="b7d4df69f7c8686ff2faf53b47adf4880d463b8c"/>
+		<rom name="08 Kaze no Takuto ~ Kaze no Takuto HD - Dai Unabara.wav" size="29184292" crc="f1b41e3c" md5="0860a5c3ea9493cb290000059ac1e730" sha1="01bf175d0ea9df706865547e9d6c2efc44ed7c7d"/>
+		<rom name="09 4 Tsu no Ken+ - Field BGM.wav" size="22272232" crc="35fc5cd6" md5="26063cbc22836ea8e7392666b246939d" sha1="9d3601fdac84d463b3b6df2e2712a512134619f3"/>
+		<rom name="10 Twilight Princess - Twilight Princess HD - Hyrule Heigen (Main Theme).wav" size="35712348" crc="86bd97b9" md5="66e040a9c4a57fe7975ddbb0245e4af4" sha1="d9a00d9d24ae1d655b8adf0bd5bbd4e9f17aa204"/>
+		<rom name="11 Mugen no Sunadokei - Dai Unabara.wav" size="23211296" crc="ec5f9801" md5="2d83bf76cebd149c62fa98eb833e5a76" sha1="1e98855c099b74386aa14cc6cd18bfe04c7b1ffe"/>
+		<rom name="12 Daichi no Kiteki - Kisha Field Sono 2 (Main Theme).wav" size="35438060" crc="83db413a" md5="5498e9b02e4d6ee2d7711df4294fd215" sha1="8b07a5ed11ddbd31819306e3f1d6b17b1e35d6cc"/>
+		<rom name="13 Skyward Sword - Oozora (Rofuto Bird Totomoni).wav" size="34944340" crc="3881f54b" md5="a288071c5175cc7cc9116b5e4e5c7a19" sha1="70994b628a85c74b3af29a310b6406fa0d60f5d6"/>
+		<rom name="14 Kamigami no Triforce 2 - Hyrule Main Theme.wav" size="32640324" crc="27c07df8" md5="caa7a872c5bc0a0bec06d730bb08a172" sha1="99f28d6299af136f837467dfa9ddc1107e4c109f"/>
+		<rom name="15 Triforce 3 Juushi - Shinrin Area.wav" size="29678012" crc="5b4ac13e" md5="dbb70eb7de9699eeeb05eef7a6df1255" sha1="d23e99eeb17e9ce30e44f7929bcfda341bc9d953"/>
+	</game>
+</datafile>

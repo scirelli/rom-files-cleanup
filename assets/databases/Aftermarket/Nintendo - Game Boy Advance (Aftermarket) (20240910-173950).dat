@@ -1,0 +1,660 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>23</id>
+		<name>Nintendo - Game Boy Advance (Aftermarket)</name>
+		<description>Nintendo - Game Boy Advance (Aftermarket)</description>
+		<version>20240910-173950</version>
+		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, sCZther, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="2-in-1 - Smickeonn the Game + Smickeonn the Game Deluxe (World) (Demo) (Aftermarket) (Unl)" id="3080">
+		<category>Games</category>
+		<description>2-in-1 - Smickeonn the Game + Smickeonn the Game Deluxe (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="2-in-1 - Smickeonn the Game + Smickeonn the Game Deluxe (World) (Demo) (Aftermarket) (Unl).gba" size="1648884" crc="8ad5b73f" md5="ccdfdbcf65dd3349f41f325f780de9f7" sha1="eb85e372f15299cde6fefa8a2967e7e2886c9c56" sha256="7ca02d8d6203fa25f8bfd636c0f54c1ee5875f08b8a47851b8d81f10e46d6894"/>
+	</game>
+	<game name="2048 Pool (World) (Aftermarket) (Unl)" id="3046">
+		<category>Games</category>
+		<description>2048 Pool (World) (Aftermarket) (Unl)</description>
+		<rom name="2048 Pool (World) (Aftermarket) (Unl).gba" size="203440" crc="9df6ae4f" md5="671fc2e004f346eabf8d06c24daedd28" sha1="c93a9cf3502237b474e70de8dee274901ee7ecb2" sha256="7c88e07a69010b43553170b117f344f83aae9a4e6ea560dcf12bfc6262f733ce"/>
+	</game>
+	<game name="Advanced Ghost Wranglin' (World) (Demo) (Aftermarket) (Unl)" id="3111">
+		<category>Games</category>
+		<description>Advanced Ghost Wranglin' (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Advanced Ghost Wranglin' (World) (Demo) (Aftermarket) (Unl).gba" size="354992" crc="739eb5ce" md5="db9267e90f70c8e210cea66b309b53ff" sha1="9cf53301404407aae24ac7735006f594ca0fe969" sha256="d657640273e74011634f0a309085570d8ae1c7f7ebde976fdd46335a159c7f23"/>
+	</game>
+	<game name="Anguna - Warriors of Virtue (World) (v0.95) (Aftermarket) (Unl)" id="2959">
+		<description>Anguna - Warriors of Virtue (World) (v0.95) (Aftermarket) (Unl)</description>
+		<rom name="Anguna - Warriors of Virtue (World) (v0.95) (Aftermarket) (Unl).gba" size="1710888" crc="3346891f" md5="9d3a663de5228414d7e6cda7244c5d91" sha1="270c426705df767a4ad2dc69d039842442f779b2" sha256="cd3b969d5ed6b38b2039c11b894d6db2fc3fad209a7fd046bee241cc66069851" status="verified"/>
+	</game>
+	<game name="Anguna - Warriors of Virtue (World) (2021-02-28) (Patreon) (Aftermarket) (Unl)" id="2986" cloneofid="2959">
+		<category>Games</category>
+		<description>Anguna - Warriors of Virtue (World) (2021-02-28) (Patreon) (Aftermarket) (Unl)</description>
+		<rom name="Anguna - Warriors of Virtue (World) (2021-02-28) (Patreon) (Aftermarket) (Unl).gba" size="1729120" crc="a354d555" md5="4638c9c0c1234d70aeb4f75099b46e47" sha1="d7cd0ab9d622187d4ce55bf0c7f14a24ee781710" sha256="f3a61da8f48af5439d29f2923be2b713b699cff24c37f94b9a9aef4d0e16916c"/>
+	</game>
+	<game name="Anguna - Warriors of Virtue (World) (v0.95) (Itch.io) (Aftermarket) (Unl)" id="2989" cloneofid="2959">
+		<description>Anguna - Warriors of Virtue (World) (v0.95) (Itch.io) (Aftermarket) (Unl)</description>
+		<rom name="Anguna - Warriors of Virtue (World) (v0.95) (Itch.io) (Aftermarket) (Unl).gba" size="1775856" crc="41ea5b0b" md5="c369cdee8afa8a6a7163bdadddf74c69" sha1="e351bc6a9046ec002fc2dfdee061047908bd4350" sha256="1df5a07fef92a526768333d041eec42d4efabfba1ad50e347b8146954ed07ff5"/>
+	</game>
+	<game name="Anguna - Warriors of Virtue (World) (Retro-Bit Generations) (Aftermarket) (Unl)" id="2994" cloneofid="2959">
+		<category>Games</category>
+		<description>Anguna - Warriors of Virtue (World) (Retro-Bit Generations) (Aftermarket) (Unl)</description>
+		<rom name="Anguna - Warriors of Virtue (World) (Retro-Bit Generations) (Aftermarket) (Unl).gba" size="1775660" crc="a234813c" md5="51281c537425585fa0bcdad4cc0f9d35" sha1="ad904624bf198a164ba580eea326cd30fffebac8" sha256="ba18b78fb2b64e5144f47e72b52ffb20e5dfea4f05b3c5593e5450eae8a8a733"/>
+	</game>
+	<game name="Anguna - Warriors of Virtue (World) (Demo) (Aftermarket) (Unl)" id="2995" cloneofid="2959">
+		<category>Games</category>
+		<description>Anguna - Warriors of Virtue (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Anguna - Warriors of Virtue (World) (Demo) (Aftermarket) (Unl).gba" size="597104" crc="0a9098b4" md5="10242132aa289781c1857954e832c0be" sha1="0992fb6f38e49426adc834fb3831748a1caa1bc0" sha256="47d2547f1b09b40810c1d9a2a78dedc515ddc936a4796cf0eba5d44750343c5c"/>
+	</game>
+	<game name="Anguna - Warriors of Virtue (World) (v2.0) (Demo) (Aftermarket) (Unl)" id="2996" cloneofid="2959">
+		<category>Games</category>
+		<description>Anguna - Warriors of Virtue (World) (v2.0) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Anguna - Warriors of Virtue (World) (v2.0) (Demo) (Aftermarket) (Unl).gba" size="811840" crc="63c1cc2c" md5="eb80b79637b5fb3c71dd55a47ac20a2e" sha1="faca8225ee20b8e5edb14e005af77b63c6f51446" sha256="cb306ccf4e51886887ca6da4ba3e26e74461437b59b2b38f43ab698d9b61f3d7"/>
+	</game>
+	<game name="Anguna - Warriors of Virtue (World) (v0.91) (Aftermarket) (Unl)" id="2998" cloneofid="2959">
+		<category>Games</category>
+		<description>Anguna - Warriors of Virtue (World) (v0.91) (Aftermarket) (Unl)</description>
+		<rom name="Anguna - Warriors of Virtue (World) (v0.91) (Aftermarket) (Unl).gba" size="1714000" crc="eebb016f" md5="5ec5893b655a76a884f3a228e906ffaf" sha1="008a9d06f78bccc540ca4ece4d1982de76f95901" sha256="355380e6c63c0795460676d84620612149b56dab55161344eaa5c950f3028dea"/>
+	</game>
+	<game name="Anguna - Warriors of Virtue (World) (v0.92) (Aftermarket) (Unl)" id="2999" cloneofid="2959">
+		<category>Games</category>
+		<description>Anguna - Warriors of Virtue (World) (v0.92) (Aftermarket) (Unl)</description>
+		<rom name="Anguna - Warriors of Virtue (World) (v0.92) (Aftermarket) (Unl).gba" size="1710624" crc="ba271987" md5="dba68e8ac74148aa0a4a9b6f9a986f67" sha1="04f1e79e79e894d8f45ed1ea2ff5aa67053f0ab3" sha256="8354f31b0d4ac9004003924f9a90ffa15a3f336cf8a09e6d1ca0be28c0c9d985"/>
+	</game>
+	<game name="Anguna - Warriors of Virtue (World) (v0.93) (Aftermarket) (Unl)" id="3000" cloneofid="2959">
+		<category>Games</category>
+		<description>Anguna - Warriors of Virtue (World) (v0.93) (Aftermarket) (Unl)</description>
+		<rom name="Anguna - Warriors of Virtue (World) (v0.93) (Aftermarket) (Unl).gba" size="1710624" crc="df7108e3" md5="3f2ecf77ac2a4255eef044c4ed4e2146" sha1="bd267fd7e762acb8cd595e54bfd51a139864759e" sha256="52025b56b84cde85ea28bdc078e333e2d37cae76a12d2b1e0cdda547fbe54c52"/>
+	</game>
+	<game name="Anguna - Warriors of Virtue (World) (v0.93) (Aftermarket) (Unl) (Alt)" id="3001" cloneofid="2959">
+		<category>Games</category>
+		<description>Anguna - Warriors of Virtue (World) (v0.93) (Aftermarket) (Unl) (Alt)</description>
+		<rom name="Anguna - Warriors of Virtue (World) (v0.93) (Aftermarket) (Unl) (Alt).gba" size="1714000" crc="54ff2e56" md5="f4217235b05b24f48b10504ec45a8a9c" sha1="0386315fc140db2a43a6f927c04de658bd800da9" sha256="95b8111759bd197137129a96181ea6aaab7ad43b7763c77d2cdc0cdede708fff"/>
+	</game>
+	<game name="Anguna - Warriors of Virtue (World) (v0.94) (Aftermarket) (Unl)" id="3002" cloneofid="2959">
+		<category>Games</category>
+		<description>Anguna - Warriors of Virtue (World) (v0.94) (Aftermarket) (Unl)</description>
+		<rom name="Anguna - Warriors of Virtue (World) (v0.94) (Aftermarket) (Unl).gba" size="1710952" crc="cb4e2768" md5="fbfe7e3ff612728e1464dfa8cba770df" sha1="a7297cf4ecffc1f93f86edde68e1ff42e8099f3b" sha256="d740117abce7f7180ae51619953462e677771e354ec36b4dba24a71fb7c5b360"/>
+	</game>
+	<game name="Anguna - Warriors of Virtue (World) (Evercade) (Aftermarket) (Unl)" id="3166" cloneofid="2959">
+		<category>Games</category>
+		<description>Anguna - Warriors of Virtue (World) (Evercade) (Aftermarket) (Unl)</description>
+		<rom name="Anguna - Warriors of Virtue (World) (Evercade) (Aftermarket) (Unl).gba" size="1693656" crc="7d8c00d3" md5="53148c6e8c9f06ad9b576d5b6014dcc8" sha1="9fffd28c933ac88a441a2e262156c66a3a763829" sha256="e6d4a5cf76930a6bfbf056293d596f2c5458022e3961540e7364206ac89b7b99"/>
+	</game>
+	<game name="Apotris (World) (v3.4.5) (Aftermarket) (Unl)" id="2997">
+		<category>Games</category>
+		<description>Apotris (World) (v3.4.5) (Aftermarket) (Unl)</description>
+		<rom name="Apotris (World) (v3.4.5) (Aftermarket) (Unl).gba" size="4194304" crc="55ae4312" md5="a245175357335daa1f2cdf4b9e50ed64" sha1="fb7142bcc30f71f187cc51b7fcbc5a3958374c6c" sha256="f868b6dc52603965f411cc2487ace66bd7481d2499e1ee2f2f48a0a47e58430a"/>
+	</game>
+	<game name="Armadillo Run (World) (Demo) (Aftermarket) (Unl)" id="3081">
+		<category>Games</category>
+		<description>Armadillo Run (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Armadillo Run (World) (Demo) (Aftermarket) (Unl).gba" size="1260068" crc="5151babd" md5="95bb5e4a0f7125cc2ad17e2f2b23501b" sha1="dfb706257d598a5ae845ddf6485e59a88c16d210" sha256="bb894e99a7f87e3e704ff45426722e3f189dd9a519bc59652838ec8a0c1d4858"/>
+	</game>
+	<game name="Attack on Voxelburg (World) (Demo) (GBA Jam 2022) (Aftermarket) (Unl)" id="3104">
+		<category>Games</category>
+		<description>Attack on Voxelburg (World) (Demo) (GBA Jam 2022) (Aftermarket) (Unl)</description>
+		<rom name="Attack on Voxelburg (World) (Demo) (GBA Jam 2022) (Aftermarket) (Unl).gba" size="827676" crc="941c1fe0" md5="fb15ea8afe3233b10959d7ba7b10f38c" sha1="cb3823420a6e2399db7fa4805fefd1b5366c778e" sha256="9522f3e7a89640616c5397cf259785a85839692df9099a6caf73cc8a422a80ec"/>
+	</game>
+	<game name="Battery Chad - Shock the World (World) (Demo) (Aftermarket) (Unl)" id="3123">
+		<category>Games</category>
+		<description>Battery Chad - Shock the World (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Battery Chad - Shock the World (World) (Demo) (Aftermarket) (Unl).gba" size="609400" crc="e0a4bc38" md5="4719991aa42a9b57303d977b1c31061a" sha1="3274c915fb78d10541efa69dfbb8f9391f974ffe" sha256="a25c35912d4a1d856a694046c30ebbfec09d08639225df746dcfb4eb86286d2a"/>
+	</game>
+	<game name="Blender Bros. (World) (Aftermarket) (Unl)" id="2988" cloneofid="0396">
+		<category>Games</category>
+		<description>Blender Bros. (World) (Aftermarket) (Unl)</description>
+		<rom name="Blender Bros. (World) (Aftermarket) (Unl).gba" size="8388608" crc="440f2f06" md5="9f6e382bc3600b9a27ba31fabcd78ac3" sha1="8f9ca62306b7ab56d8da45673d7b7d0eb4c349c5" sha256="a3bbb73591b61c830423265e710367d067869a12a4c584862c51ebe6499df9cb" serial="ABRE"/>
+	</game>
+	<game name="Blind Jump (World) (En,Ja,Fr,It,Ru) (v2021.11.20.0) (Proto) (Aftermarket) (Unl)" id="3103">
+		<category>Games</category>
+		<description>Blind Jump (World) (En,Ja,Fr,It,Ru) (v2021.11.20.0) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Blind Jump (World) (En,Ja,Fr,It,Ru) (v2021.11.20.0) (Proto) (Aftermarket) (Unl).gba" size="16565008" crc="2342e91e" md5="ccdd724bacf3f395e7b52b008d57b915" sha1="2e5758789f7e109839ea302424c385c1247eab38" sha256="597d11e93567f14f97ba4bc44bf41691b5e0fbac8dd169e6b559bb9086a1739d"/>
+	</game>
+	<game name="Blood Drive (World) (GBA Jam Week) (Aftermarket) (Unl)" id="3091">
+		<category>Games</category>
+		<description>Blood Drive (World) (GBA Jam Week) (Aftermarket) (Unl)</description>
+		<rom name="Blood Drive (World) (GBA Jam Week) (Aftermarket) (Unl).gba" size="1523780" crc="3444a7ae" md5="1c937c4f43a60a60066c9a2bce690e31" sha1="12a3c114563684fdca4a4ee1b3fea43ceaf226c0" sha256="30f19bf8c48467b86cc501bb91547c8f9b5ed9c5292ab5b0cd98f97eab734211"/>
+	</game>
+	<game name="Broken Circle (World) (En,It) (Aftermarket) (Unl)" id="2886">
+		<description>Broken Circle (World) (En,It) (Aftermarket) (Unl)</description>
+		<rom name="Broken Circle (World) (En,It) (Aftermarket) (Unl).gba" size="16777216" crc="3212c09b" md5="09c14005c7e4914a54ca9f5cf7514992" sha1="e04a71dbe7b640cc53e81f447856e60666e64aa3" serial="N/A"/>
+	</game>
+	<game name="Brush Rush (World) (Proto) (GBA WinterJam 2023) (Aftermarket) (Unl)" id="3107">
+		<category>Games</category>
+		<description>Brush Rush (World) (Proto) (GBA WinterJam 2023) (Aftermarket) (Unl)</description>
+		<rom name="Brush Rush (World) (Proto) (GBA WinterJam 2023) (Aftermarket) (Unl).gba" size="371136" crc="afdf2c03" md5="71d13db41e98b9798e9aea3ab8867be4" sha1="d36f7bd6d0420597ba0f12f746f8ec8a628b3658" sha256="efd5c3759489ad86d3f75ed7395fd758232b26c8bf1fce4b2553a9c6bdab450c"/>
+	</game>
+	<game name="Butano Fighter (World) (Aftermarket) (Unl)" id="3124">
+		<category>Games</category>
+		<description>Butano Fighter (World) (Aftermarket) (Unl)</description>
+		<rom name="Butano Fighter (World) (Aftermarket) (Unl).gba" size="3482456" crc="3c31501c" md5="5174f0efdb27136a8d2df79e8b932219" sha1="36efe397badf199c0339222dc825013c06b86423" sha256="343782e77ce2bf61d27928e2eb86a2238b67145df194fb7dae3dddcd1a13009c"/>
+	</game>
+	<game name="Cat's Curse (World) (Aftermarket) (Unl)" id="3031">
+		<category>Games</category>
+		<description>Cat's Curse (World) (Aftermarket) (Unl)</description>
+		<rom name="Cat's Curse (World) (Aftermarket) (Unl).gba" size="353052" crc="a35d87de" md5="1fad228baad51e306b23986ca403d6ec" sha1="4a149baad17840948c2d4ffdf068bfaf1116a024" sha256="f7deca18b53c82fdab8f9abfb832b372c6172038e4a3681b1652437966a902c2"/>
+	</game>
+	<game name="CCCP (World) (Aftermarket) (Unl)" id="3126">
+		<category>Games</category>
+		<description>CCCP (World) (Aftermarket) (Unl)</description>
+		<rom name="CCCP (World) (Aftermarket) (Unl).gba" size="499440" crc="ad634c54" md5="3744dfea6f6e089c1d5128ca2467a705" sha1="324f0375e3f4f89455122e2663b831917013bfc3" sha256="53fae4f8a89fa15f1befa03d0840f689b37b36bb281675c025d9408936d42e48"/>
+	</game>
+	<game name="Celeste Classic (World) (v1.0) (Aftermarket) (Unl)" id="2966" cloneofid="2968">
+		<description>Celeste Classic (World) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Celeste Classic (World) (v1.0) (Aftermarket) (Unl).gba" size="5416932" crc="f79b0d53" md5="d5b7c99707098401f12f6e4dfac87c9f" sha1="756f02396a150698e695ad4afd24445e2af70576" sha256="8b25b94f806625e6b8776e8b8a490090a5e82b76c6c4389f2d762a288a45af00"/>
+	</game>
+	<game name="Celeste Classic (World) (v1.1) (Aftermarket) (Unl)" id="2967" cloneofid="2968">
+		<description>Celeste Classic (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Celeste Classic (World) (v1.1) (Aftermarket) (Unl).gba" size="5418248" crc="f5d36ad2" md5="3018514472c092f0603c4a77d3918304" sha1="95a86dff641b11b4c2ed0d0fe8152c33b462d927" sha256="bc961b3c67487fe9fc6fabc4bbc8b40391176112ce5e0535a00f4cc9d79f682a"/>
+	</game>
+	<game name="Celeste Classic (World) (v1.2) (Aftermarket) (Unl)" id="2968">
+		<description>Celeste Classic (World) (v1.2) (Aftermarket) (Unl)</description>
+		<rom name="Celeste Classic (World) (v1.2) (Aftermarket) (Unl).gba" size="5418424" crc="ff0e8ada" md5="9bcd687293600451abdd0f181b2427e8" sha1="08512605e5c02e81a72e24c2c8d4959d8e84e1f4" sha256="4463620519f9c60a435ef0a6fa2cca123409380881fb0d00c63f2daed0c4f85b"/>
+	</game>
+	<game name="Codename Hacker (World) (En,Fr) (Aftermarket) (Unl)" id="3157">
+		<category>Games</category>
+		<description>Codename Hacker (World) (En,Fr) (Aftermarket) (Unl)</description>
+		<rom name="Codename Hacker (World) (En,Fr) (Aftermarket) (Unl).gba" size="4058684" crc="1ccfbe29" md5="102ca19e193b7727645c3ba2302dcf22" sha1="fbc6a366f773204b031b589aab4125e15a70dc9b" sha256="0cbbbc5ab95fd021c56dfa69acf6070a7ceeaef6882f011ec52e0fd1f3479459"/>
+	</game>
+	<game name="Collie Defense (World) (Demo) (Aftermarket) (Unl)" id="3071" cloneofid="3070">
+		<category>Games</category>
+		<description>Collie Defense (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Collie Defense (World) (Demo) (Aftermarket) (Unl).gba" size="3714268" crc="08feb1ed" md5="3bd42ee49a44a991c16cc6ffade26cf0" sha1="4dce7b29bca3f8588cccb548c698d5d2ba53e188" sha256="b8bbbe6961c09024003a680d446837bd48f382528b1081530b0c30a8a1c88592"/>
+	</game>
+	<game name="DCPR (World) (Demo) (Aftermarket) (Unl)" id="3089">
+		<category>Games</category>
+		<description>DCPR (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="DCPR (World) (Demo) (Aftermarket) (Unl).gba" size="107512" crc="6c27348a" md5="323e53bca3ef400eae5ead72d28b4d87" sha1="43d11a2e42aa56fa8851bb00a5467211ac195feb" sha256="01c2ea8918012d66d56e29ce98f9ffd374152915b0436ffda089ab939f521aac"/>
+	</game>
+	<game name="Donsol (World) (Aftermarket) (Unl)" id="2987">
+		<category>Games</category>
+		<description>Donsol (World) (Aftermarket) (Unl)</description>
+		<rom name="Donsol (World) (Aftermarket) (Unl).gba" size="52520" crc="aec144b3" md5="55666fb3c6b7ef0c4a2ec3f77969110c" sha1="751675b0d77c341f2265b0edd38858b0dbdb7b50" sha256="ade16552db0237c24d275694e6ac01ea32e2f85b8f87b901c23d1f6217146b20"/>
+	</game>
+	<game name="Drawing a Leviathan (World) (Aftermarket) (Unl)" id="3090">
+		<category>Games</category>
+		<description>Drawing a Leviathan (World) (Aftermarket) (Unl)</description>
+		<rom name="Drawing a Leviathan (World) (Aftermarket) (Unl).gba" size="9437768" crc="1eb0f64d" md5="3e7d93eab70699a9509d3d08bd71db87" sha1="745636d636b44a67ad078dae5416636fa58236ab" sha256="7e8aac77f852b02e685962ccf44773ca8eb09c0c9d84b8a1ab0e25596ef2e819"/>
+	</game>
+	<game name="Eliminator GBA (World) (v0.91) (Proto) (Aftermarket) (Unl)" id="3132">
+		<category>Games</category>
+		<description>Eliminator GBA (World) (v0.91) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Eliminator GBA (World) (v0.91) (Proto) (Aftermarket) (Unl).gba" size="747872" crc="637dc1aa" md5="215e630068500f4c4f52bbe9ad5172a1" sha1="13a4d5c2c647945cbbf17423afd45a25c4057527" sha256="1144c9385871e442aedd9939dbe5aa76d0d85d4751059c2a7ab3755426ceeb60"/>
+	</game>
+	<game name="Elite AGB (World) (v1.4.1) (Aftermarket) (Unl)" id="3139">
+		<category>Games</category>
+		<description>Elite AGB (World) (v1.4.1) (Aftermarket) (Unl)</description>
+		<rom name="Elite AGB (World) (v1.4.1) (Aftermarket) (Unl).gba" size="960088" crc="28985872" md5="5b1177362243e94a5838a345eb2064bf" sha1="803095500e47772452433144f2cd7630d515a41b" sha256="8659a7336b0b7c136c52bc58aecbd1dbb7857382f607844c97833b9b9cfc86fb"/>
+	</game>
+	<game name="Elite AGB (World) (v0.5.2) (Beta) (Aftermarket) (Unl)" id="3140" cloneofid="3139">
+		<category>Games</category>
+		<description>Elite AGB (World) (v0.5.2) (Beta) (Aftermarket) (Unl)</description>
+		<rom name="Elite AGB (World) (v0.5.2) (Beta) (Aftermarket) (Unl).gba" size="327360" crc="f00c939f" md5="ec863e849b429999ff389df40d29f921" sha1="ce5a236608c629c99d4ec7b35e3ccaf211e6bb60" sha256="949129c445a68e8953ee10f4a21bc17d0249a886592b7a432f324d46e0f4b013"/>
+	</game>
+	<game name="Feline (World) (GBA Jam 2021) (Aftermarket) (Unl)" id="3095">
+		<category>Games</category>
+		<description>Feline (World) (GBA Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="Feline (World) (GBA Jam 2021) (Aftermarket) (Unl).gba" size="1504920" crc="09b777ea" md5="83b01697dd2e80ec4f662a1486122b70" sha1="34b5aff6a7a3d752027ea1d2fd53e03bb8964529" sha256="fb6645e87576bbc3680ef7e30060044c39a3ffcd5231a89433218f68ab88eee8"/>
+	</game>
+	<game name="Flappy Bird (World) (Aftermarket) (Unl)" id="3141">
+		<category>Games</category>
+		<description>Flappy Bird (World) (Aftermarket) (Unl)</description>
+		<rom name="Flappy Bird (World) (Aftermarket) (Unl).gba" size="575204" crc="4d099541" md5="38f78ab97bbbb9bd210d8c96497f788a" sha1="55f611567e7ac2ad8f96529f4d7eac70ad283601" sha256="b573efc0e0dbb4bb07b0099e48a37930f30124f4335ed3feeb7ace4bd68f4afd"/>
+	</game>
+	<game name="GBA Tactics (World) (Proto) (NEO Coding Compo 2006) (Aftermarket) (Unl)" id="3121">
+		<category>Games</category>
+		<description>GBA Tactics (World) (Proto) (NEO Coding Compo 2006) (Aftermarket) (Unl)</description>
+		<rom name="GBA Tactics (World) (Proto) (NEO Coding Compo 2006) (Aftermarket) (Unl).gba" size="251816" crc="81b449a6" md5="5179f3ae5ffb874cfbbd91a8940328e2" sha1="803834d8843a6689fe43c77921eaaea6bdaf6ed4" sha256="34967b4b0542c42631cc5f783bd4b553d8b430fbade05001acd303ed41455a94"/>
+	</game>
+	<game name="Glacia Dungeon (World) (En,Es,Ru,Ro) (v1.5.2) (Aftermarket) (Unl)" id="2990">
+		<category>Games</category>
+		<description>Glacia Dungeon (World) (En,Es,Ru,Ro) (v1.5.2) (Aftermarket) (Unl)</description>
+		<rom name="Glacia Dungeon (World) (En,Es,Ru,Ro) (v1.5.2) (Aftermarket) (Unl).gba" size="1210608" crc="ab5ae65b" md5="81421240b15b1299416fe431074b571e" sha1="e35037ff9cc24f8a7043d9a9d378e86d2ef80f9b" sha256="976418b666b9359e1078c652947aa70ad46e9be53f3e9d64474f1fac5a138749"/>
+	</game>
+	<game name="Goldrunner (World) (Aftermarket) (Unl)" id="3135">
+		<category>Games</category>
+		<description>Goldrunner (World) (Aftermarket) (Unl)</description>
+		<rom name="Goldrunner (World) (Aftermarket) (Unl).gba" size="527040" crc="53f4cac1" md5="65810971c9cc22e78f684cf9390a3d54" sha1="517a400150a6ebca126b0a95aa3497c637cc8161" sha256="baea67efb1a0d1c9d7a3d5c2e1868d6c2e217e02cc01e82a5146c87f06c45113"/>
+	</game>
+	<game name="Goodboy Galaxy (World) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (Evercade) (Aftermarket) (Unl)" id="3165" cloneofid="3066">
+		<category>Games</category>
+		<description>Goodboy Galaxy (World) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (Evercade) (Aftermarket) (Unl)</description>
+		<rom name="Goodboy Galaxy (World) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (Evercade) (Aftermarket) (Unl).gba" size="32524164" crc="ebb81069" md5="b1ca9871a584ee4da0176e3f43cb9846" sha1="273bae3d794f2b5a6bea637f67f7d5163ae4bb62" sha256="174ca98e8b077c9786f0f2a1bb7643edddd8198b13b015727fdfb6433ffff9a5"/>
+	</game>
+	<game name="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Demo) (Aftermarket) (Unl)" id="x443" cloneofid="3036">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Demo) (Aftermarket) (Unl).gba" size="13224124" crc="19ba7d80" md5="c94f9c68bdda0a027367e49d67becdd9" sha1="1bf95f8730ecdfa6665b85bea8764f42a88e8e3d" serial="2G0P"/>
+	</game>
+	<game name="Goodboy Galaxy - Chapter Zero (World) (Ja) (v1.0.6) (Demo) (Aftermarket) (Unl)" id="x444" cloneofid="3036">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Goodboy Galaxy - Chapter Zero (World) (Ja) (v1.0.6) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (Ja) (v1.0.6) (Demo) (Aftermarket) (Unl).gba" size="13219728" crc="d4621e3e" md5="e5e47dc93685ab0e7299526864d4b450" sha1="5bd59fac58c5f9a375216e9d1cf85fa5262f21f7" serial="2G0P"/>
+	</game>
+	<game name="Goodboy Galaxy - Chapter Zero (World) (Fr) (v1.0.6) (Demo) (Aftermarket) (Unl)" id="x446" cloneofid="3036">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Goodboy Galaxy - Chapter Zero (World) (Fr) (v1.0.6) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (Fr) (v1.0.6) (Demo) (Aftermarket) (Unl).gba" size="13225068" crc="21512022" md5="c2d4eb09f51e13a7ec4968e198f323c7" sha1="8832d38f787f3e1da620fcae7514d7387445ccf2" serial="2G0P"/>
+	</game>
+	<game name="Goodboy Galaxy - Chapter Zero (World) (Es) (v1.0.6) (Demo) (Aftermarket) (Unl)" id="x447" cloneofid="3036">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Goodboy Galaxy - Chapter Zero (World) (Es) (v1.0.6) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (Es) (v1.0.6) (Demo) (Aftermarket) (Unl).gba" size="13223944" crc="c1811c9b" md5="0281c499edb85107920a73f50e1a2412" sha1="9d413bce82708df137215a2968306a5196b1638b" serial="2G0P"/>
+	</game>
+	<game name="Goodboy Galaxy - Chapter Zero (World) (Zh) (v1.0.6) (Demo) (Aftermarket) (Unl)" id="x448" cloneofid="3036">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Goodboy Galaxy - Chapter Zero (World) (Zh) (v1.0.6) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (Zh) (v1.0.6) (Demo) (Aftermarket) (Unl).gba" size="13269108" crc="3360e114" md5="30f60f6ed1faa92d0d9acc8bc5d70616" sha1="50186922ff77714b9ac638948b464cdbf80ab5fb" serial="2G0P"/>
+	</game>
+	<game name="Goodboy Galaxy - Chapter Zero (World) (Pt) (v1.0.6) (Demo) (Aftermarket) (Unl)" id="x460" cloneofid="3036">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Goodboy Galaxy - Chapter Zero (World) (Pt) (v1.0.6) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (Pt) (v1.0.6) (Demo) (Aftermarket) (Unl).gba" size="13223696" crc="3477ef15" md5="9abe602980d9bab6a3c8e4f12895c07a" sha1="4b447de09a23fbfdaa6d640824f8ceb5bbe56fab" serial="2G0P"/>
+	</game>
+	<game name="Goodboy Galaxy - Chapter Zero (World) (Ar) (v1.0.6) (Demo) (Aftermarket) (Unl)" id="x461" cloneofid="3036">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Goodboy Galaxy - Chapter Zero (World) (Ar) (v1.0.6) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (Ar) (v1.0.6) (Demo) (Aftermarket) (Unl).gba" size="13250016" crc="a4054c2b" md5="b9e34ed53b8c74e23c55d1f60dcb7379" sha1="c3cd833b9bdf87a8481c9b05251bba782bc3527e" serial="2G0P"/>
+	</game>
+	<game name="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.7) (Demo) (Aftermarket) (Unl)" id="3036">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.7) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.7) (Demo) (Aftermarket) (Unl).gba" size="13220676" crc="ab179d6e" md5="9936fe254d532eb3beefc2d5931866c6" sha1="2ad1c4840f2f6c2138ed44b1a7aa36071c227a0a" sha256="8cf502fce94d74182cdac45ea6f04cd988e78b491f68fd9a7898f82aafeebc09"/>
+	</game>
+	<game name="Goodboy Galaxy - Chapter Zero (World) (Fr) (v1.0.7) (Demo) (Aftermarket) (Unl)" id="3037" cloneofid="3036">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Goodboy Galaxy - Chapter Zero (World) (Fr) (v1.0.7) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (Fr) (v1.0.7) (Demo) (Aftermarket) (Unl).gba" size="13221620" crc="3aa591f1" md5="651f074ec9c477589a4638189f19cd19" sha1="2548615eeaecd7498e32d02b5c758b713ada27f4" sha256="74b88e56da0fcacf7cec8af8e1c01bd81222294a768d0a4705257ead2b8b015f"/>
+	</game>
+	<game name="Goodboy Galaxy - Chapter Zero (World) (De) (v1.0.7) (Demo) (Aftermarket) (Unl)" id="3038" cloneofid="3036">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Goodboy Galaxy - Chapter Zero (World) (De) (v1.0.7) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (De) (v1.0.7) (Demo) (Aftermarket) (Unl).gba" size="13221368" crc="d02cdb6a" md5="ea3a7363dc5f34fb5776671c050f793b" sha1="1e579e15bdc8dc1def99bcb3c30acfc185e0476b" sha256="34bb66a8f5f249f5f72739153093ff167e1321809f81067e217e2314f801e2ae"/>
+	</game>
+	<game name="Goodboy Galaxy - Chapter Zero (World) (Es) (v1.0.7) (Demo) (Aftermarket) (Unl)" id="3039" cloneofid="3036">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Goodboy Galaxy - Chapter Zero (World) (Es) (v1.0.7) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (Es) (v1.0.7) (Demo) (Aftermarket) (Unl).gba" size="13220496" crc="906717a5" md5="2d01d63435e1a3287fe312374a79b253" sha1="31857a9ab4daa537322f80faa77482a4b8120483" sha256="425a25a4c1b352565c42398823ec4ebd36fa0d14f6189a17ed180fb50a0330ab"/>
+	</game>
+	<game name="Goodboy Galaxy - Chapter Zero (World) (Pt) (v1.0.7) (Demo) (Aftermarket) (Unl)" id="3040" cloneofid="3036">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Goodboy Galaxy - Chapter Zero (World) (Pt) (v1.0.7) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (Pt) (v1.0.7) (Demo) (Aftermarket) (Unl).gba" size="13220252" crc="d12372bd" md5="717539ebe241725e30d7a7d9e92b0d2a" sha1="89ea5ea41133419c317fd28e7c7f172f5bb53ec3" sha256="bc87b1ebdb96d34c0285d550e6ad422d2c7dac5796e81cbbb63af623ac3b39bd"/>
+	</game>
+	<game name="Goodboy Galaxy - Chapter Zero (World) (Ja) (v1.0.7) (Demo) (Aftermarket) (Unl)" id="3041" cloneofid="3036">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Goodboy Galaxy - Chapter Zero (World) (Ja) (v1.0.7) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (Ja) (v1.0.7) (Demo) (Aftermarket) (Unl).gba" size="13216280" crc="d3c8dffd" md5="07969e0362f5499b3a6860361a3849a2" sha1="c41c0596a4c52b0e26bb9ffe5c9f7f1c064e0be6" sha256="763ca3e4fb0d6bb540979c1c6fff70f55e622626767f3ade2a8bed40a78ba83f"/>
+	</game>
+	<game name="Goodboy Galaxy - Chapter Zero (World) (Zh) (v1.0.7) (Demo) (Aftermarket) (Unl)" id="3042" cloneofid="3036">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Goodboy Galaxy - Chapter Zero (World) (Zh) (v1.0.7) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (Zh) (v1.0.7) (Demo) (Aftermarket) (Unl).gba" size="13265660" crc="119f9ddc" md5="120daf545bbf6965ccbdc2ddaeee22be" sha1="d6c23ff47b21a7bf2f8238ac916aeea3866042b5" sha256="27a3e221882dc023bfa461b83b32a0e0bb34e8f890529974baae1ab766234679"/>
+	</game>
+	<game name="Goodboy Galaxy - Chapter Zero (World) (Ar) (v1.0.7) (Demo) (Aftermarket) (Unl)" id="3043" cloneofid="3036">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Goodboy Galaxy - Chapter Zero (World) (Ar) (v1.0.7) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (Ar) (v1.0.7) (Demo) (Aftermarket) (Unl).gba" size="13246576" crc="b14cd1b4" md5="8d626294c44287a063d7ae8d24eb9ed8" sha1="0d15bd0584148b1658f7d47a2dda604a936ea166" sha256="789468cb459d728ffa61e3d251b00dbc29dabda1b5b283f7cc14452cfc36a4b6"/>
+	</game>
+	<game name="Google Dino Advance (World) (v1.0.1) (Aftermarket) (Unl)" id="3143">
+		<category>Games</category>
+		<description>Google Dino Advance (World) (v1.0.1) (Aftermarket) (Unl)</description>
+		<rom name="Google Dino Advance (World) (v1.0.1) (Aftermarket) (Unl).gba" size="109072" crc="6534185e" md5="0f8ed17d661f50fd1c09d07e54f88f31" sha1="33cc0afc7fbac8948deb75c66b8e097c1d05b2e3" sha256="5942beac698ecee57c4d93da042b37ce632121f3500804cf3679d5edd642663d"/>
+	</game>
+	<game name="Green Memories (World) (v1.2.0) (Aftermarket) (Unl)" id="3012" cloneofid="3100">
+		<category>Games</category>
+		<description>Green Memories (World) (v1.2.0) (Aftermarket) (Unl)</description>
+		<rom name="Green Memories (World) (v1.2.0) (Aftermarket) (Unl).gba" size="6639328" crc="78b81bbc" md5="420ec4a917822cba68286448d2399390" sha1="fb090890bd767a22afe07b3323dd0992d698c906" sha256="a2b8db7344cd4e3724aa6f8f8b64c3994ff459bd1b1683a515dd96b5c293fb3e"/>
+	</game>
+	<game name="Green Memories (World) (v1.4.2) (Aftermarket) (Unl)" id="3028" cloneofid="3100">
+		<category>Games</category>
+		<description>Green Memories (World) (v1.4.2) (Aftermarket) (Unl)</description>
+		<rom name="Green Memories (World) (v1.4.2) (Aftermarket) (Unl).gba" size="6937384" crc="9fa9f00f" md5="f39ee250baea64eb691fe65bf4da40b9" sha1="005f4dc0d615d36d32bbe36e9cc9007b22be2ecd" sha256="f99f9df75a9000751525020dc284e958b9fd88f20338f34d04f37802ebb3aab1"/>
+	</game>
+	<game name="Green Memories (World) (v1.4.4) (Aftermarket) (Unl)" id="3100">
+		<category>Games</category>
+		<description>Green Memories (World) (v1.4.4) (Aftermarket) (Unl)</description>
+		<rom name="Green Memories (World) (v1.4.4) (Aftermarket) (Unl).gba" size="6937812" crc="702b46c6" md5="354f699e95a171cf0725d3509c2579c2" sha1="61f8ff01247e45888b8fd5da791176ff2c88f7f5" sha256="ccf5f3ac8cfbc5fa24113b4331dbc776df8bef31404e7eb614c529592173cb9f"/>
+	</game>
+	<game name="Hero Core (World) (Aftermarket) (Unl)" id="3101">
+		<category>Games</category>
+		<description>Hero Core (World) (Aftermarket) (Unl)</description>
+		<rom name="Hero Core (World) (Aftermarket) (Unl).gba" size="23642396" crc="a58bfa21" md5="b09c14c35eeef27b30398ac7ac81e6fc" sha1="fa96ba52c2573add583cb051b387f6bbb3edf02e" sha256="1b8a776c5679de95d575496f0b61dd63d74bf6766cf69461895de5be09fe1fb9"/>
+	</game>
+	<game name="Hero Core (World) (v0.1.2) (Beta) (GBA Jam 2022) (Aftermarket) (Unl)" id="3102" cloneofid="3101">
+		<category>Games</category>
+		<description>Hero Core (World) (v0.1.2) (Beta) (GBA Jam 2022) (Aftermarket) (Unl)</description>
+		<rom name="Hero Core (World) (v0.1.2) (Beta) (GBA Jam 2022) (Aftermarket) (Unl).gba" size="22209300" crc="0a3fcad6" md5="4fed5f79cebfed5fdd67285074c8df3d" sha1="3b7b91c474a225d96118c4a4263007218a8ee2de" sha256="32b8e51466df58b68bb38ea188b2cd25a49f7d9c2b0a0e13a202cb30dc5cc451"/>
+	</game>
+	<game name="Hexa Virus (World) (Aftermarket) (Unl)" id="3156">
+		<category>Games</category>
+		<description>Hexa Virus (World) (Aftermarket) (Unl)</description>
+		<rom name="Hexa Virus (World) (Aftermarket) (Unl).gba" size="1414244" crc="92243509" md5="938429cc09e41c9c1a4de39f9dcf17c1" sha1="358640dc9972dd839d0b527177e05d030ec12d79" sha256="45095b63d3215414e8942976560fba5ed1794472f7c56b86e67302281f10cec1"/>
+	</game>
+	<game name="Hexes (World) (Aftermarket) (Unl)" id="3108">
+		<category>Games</category>
+		<description>Hexes (World) (Aftermarket) (Unl)</description>
+		<rom name="Hexes (World) (Aftermarket) (Unl).gba" size="10436680" crc="d8d17420" md5="e85e9de827ed5f685b66c226c96d8981" sha1="d5686671caa7ec17b811476c982f81147073f0ed" sha256="37927530d5f1765b37e1c11d8125ef8a43c7c2589efddfae2dbfb38f578b8a9d"/>
+	</game>
+	<game name="Holy Hell (World) (Proto) (NEO Coding Compo 2012) (Aftermarket) (Unl)" id="3116">
+		<category>Preproduction</category>
+		<description>Holy Hell (World) (Proto) (NEO Coding Compo 2012) (Aftermarket) (Unl)</description>
+		<rom name="Holy Hell (World) (Proto) (NEO Coding Compo 2012) (Aftermarket) (Unl).gba" size="5956804" crc="09e21865" md5="08f6bb1a700cbf57c10872fa84354562" sha1="98db9220dffb07fc14a729931e7197a678d92d21" sha256="6b0376a986c769b31a03f8ee24f724001b37c81cefd0655518b985f2b7664535"/>
+	</game>
+	<game name="Inheritors of the Oubliette (World) (v1.2) (Aftermarket) (Unl)" id="3014">
+		<category>Games</category>
+		<description>Inheritors of the Oubliette (World) (v1.2) (Aftermarket) (Unl)</description>
+		<rom name="Inheritors of the Oubliette (World) (v1.2) (Aftermarket) (Unl).gba" size="10592124" crc="a9014760" md5="f044b2cb1f529c0dffb10ee849e1a1c6" sha1="2430c6c0784912ad2f0b51e633bf577f087f189f" sha256="1d8b4617be75a8b7b6c5c2975ef0213ed37da669c460d967d4259b6a25d22b2e"/>
+	</game>
+	<game name="Inheritors of the Oubliette (World) (GBA Jam 2021) (Aftermarket) (Unl)" id="3015" cloneofid="3014">
+		<category>Games</category>
+		<description>Inheritors of the Oubliette (World) (GBA Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="Inheritors of the Oubliette (World) (GBA Jam 2021) (Aftermarket) (Unl).gba" size="25516708" crc="965a1a75" md5="5ce8d92ac33646da7bbba3a058b4be3b" sha1="ae23cfba1f53a9bbde025490f3d7bdf52c3970e4" sha256="8c91f9624175da1f38fc2cf1d25f117179f8617a121f066e3d09dbfea9509d0e"/>
+	</game>
+	<game name="Inky and the Alien Aquarium (World) (Demo 1) (Aftermarket) (Unl)" id="3017" cloneofid="3084">
+		<category>Games</category>
+		<description>Inky and the Alien Aquarium (World) (Demo 1) (Aftermarket) (Unl)</description>
+		<rom name="Inky and the Alien Aquarium (World) (Demo 1) (Aftermarket) (Unl).gba" size="3145728" crc="7ee7ae7f" md5="eeacae04f56e9851ef2feeb8a5e7c447" sha1="73d870fad3caa86b6f659e13b57eddac80db2f37" sha256="cbe1450f63ad323b99f9da43b60e93f51cc1298fd80544fcefb64d5fec813d1a" serial="CUNE"/>
+	</game>
+	<game name="Inky and the Alien Aquarium (World) (Demo 2) (Aftermarket) (Unl)" id="3085" cloneofid="3084">
+		<category>Games</category>
+		<description>Inky and the Alien Aquarium (World) (Demo 2) (Aftermarket) (Unl)</description>
+		<rom name="Inky and the Alien Aquarium (World) (Demo 2) (Aftermarket) (Unl).gba" size="3145728" crc="36f8ba9c" md5="0870d28ecfd2761a2712e9185e094420" sha1="3c05e1b3f40d9c16b85b05315472267b94e76471" sha256="9b75bc2cddcda74187b989627457ac6806544f2a854347c8204c0872fc88ba54"/>
+	</game>
+	<game name="Iridion 3D (USA) (Aftermarket) (Unl)" id="x458" cloneofid="0027">
+		<description>Iridion 3D (USA) (Aftermarket) (Unl)</description>
+		<rom name="Iridion 3D (USA) (Aftermarket) (Unl).gba" size="4194304" crc="4c7ebe42" md5="c68975d3d2cf8aafb150a3b97d020a80" sha1="6f1c77ab88351d2d50da412e4788fc7ca8a6714d" sha256="310fbbaa0d57d14ce7a48621a1c546eae389aa0fc055206a02e4a4eb767ebd8c" serial="AI3E"/>
+	</game>
+	<game name="Iridion II (USA) (Aftermarket) (Unl)" id="x459" cloneofid="0994">
+		<description>Iridion II (USA) (Aftermarket) (Unl)</description>
+		<rom name="Iridion II (USA) (Aftermarket) (Unl).gba" size="8388608" crc="b371f070" md5="2fe7335773e253b83068a017c9383ed6" sha1="cc788b38a047ff5ec8c445ce11efcd1852ad7c4d" sha256="cb0210639b809cdcb0e7edcdf56056cd966cfc6e75177a716146054c608ee2f0" serial="AI2E"/>
+	</game>
+	<game name="Join 4 Together (World) (Proto) (Aftermarket) (Unl)" id="3112">
+		<category>Games</category>
+		<description>Join 4 Together (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Join 4 Together (World) (Proto) (Aftermarket) (Unl).gba" size="1048576" crc="97d3c875" md5="58435342d4e82a203246a8f4717f79d1" sha1="f9ffabd386d4d76d09e147f87f73de2638f875bb" sha256="8d27ae25df94a5abdc50a3b0c90e941076d6d4861f7f93c21e5f0d8194eed5df"/>
+	</game>
+	<game name="Luggage Retrieval Officer (World) (Aftermarket) (Unl)" id="3007">
+		<description>Luggage Retrieval Officer (World) (Aftermarket) (Unl)</description>
+		<rom name="Luggage Retrieval Officer (World) (Aftermarket) (Unl).gba" size="3336260" crc="5aa30d90" md5="01ad547e076252f97adddfce4a21f395" sha1="84c9b2d50c8af74b8b04f88af367d9fac1a24ef6" sha256="a134df68a53c6e3b09a873d331a294d1ea3106eac0ba252b838f7aa5ef8a12f8"/>
+	</game>
+	<game name="Magic &amp; Legend - Time Knights (World) (Beta) (Aftermarket) (Unl)" id="3144" cloneofid="3024">
+		<category>Games</category>
+		<description>Magic &amp; Legend - Time Knights (World) (Beta) (Aftermarket) (Unl)</description>
+		<rom name="Magic &amp; Legend - Time Knights (World) (Beta) (Aftermarket) (Unl).gba" size="533996" crc="17af9e42" md5="7b11c22d6e264000b10c49c6b8c3e15f" sha1="616342e07fa4c18a21e6b5de46b032c93bbbf34d" sha256="e1a99815fc48c0d9f64aa1c5b45e584d038e0e5c1a8f8244ee535d56d5bd426d"/>
+	</game>
+	<game name="Mandarin 2, The - Limoncello's Revenge (World) (Aftermarket) (Unl)" id="3087">
+		<category>Games</category>
+		<description>Mandarin 2, The - Limoncello's Revenge (World) (Aftermarket) (Unl)</description>
+		<rom name="Mandarin 2, The - Limoncello's Revenge (World) (Aftermarket) (Unl).gba" size="213684" crc="cc2cb6a8" md5="30b77017492ad71ebb6775cca6038610" sha1="1937d06c2282152d6a9748c0e741c41c09583b77" sha256="76e8229a0068854b7cc06acf9cc50d7dbc2e173255f67307e0cfa82e013893d9"/>
+	</game>
+	<game name="MazezaM (World) (v1.1) (NEO Coding Compo 2013) (Aftermarket) (Unl)" id="3118">
+		<category>Games</category>
+		<description>MazezaM (World) (v1.1) (NEO Coding Compo 2013) (Aftermarket) (Unl)</description>
+		<rom name="MazezaM (World) (v1.1) (NEO Coding Compo 2013) (Aftermarket) (Unl).gba" size="569944" crc="f7bc9db0" md5="66f92eb2e15ba332fc613fbbecb5ffa5" sha1="4517fbb7c44e9e93b0f5e89661e5cf979c624658" sha256="0c345edfe2a0743adaff9cd18f6a9728e6ff96c699977bcc61ce401ede5fc0b0"/>
+	</game>
+	<game name="MazezaM (World) (v1.0) (NEO Coding Compo 2013) (Aftermarket) (Unl)" id="3119" cloneofid="3118">
+		<category>Games</category>
+		<description>MazezaM (World) (v1.0) (NEO Coding Compo 2013) (Aftermarket) (Unl)</description>
+		<rom name="MazezaM (World) (v1.0) (NEO Coding Compo 2013) (Aftermarket) (Unl).gba" size="569704" crc="7c200ed5" md5="27fb433473b3402996830e3d37c5f474" sha1="46053717cf638c428ce92186e6a51a4a08e15ffd" sha256="739305b3a002faa36dc10c13eb038abf9d43cd5749b72ea9d6ec1686bb682229"/>
+	</game>
+	<game name="Metal Warrior 4 - Agents of Metal (World) (v1.3) (Aftermarket) (Unl)" id="3018">
+		<category>Games</category>
+		<description>Metal Warrior 4 - Agents of Metal (World) (v1.3) (Aftermarket) (Unl)</description>
+		<rom name="Metal Warrior 4 - Agents of Metal (World) (v1.3) (Aftermarket) (Unl).gba" size="524288" crc="7ec3485e" md5="e6028a0c5ee9cfc32037cdac136fdad5" sha1="729592141bc160ead0af51d4322c7f9f17da0b82" sha256="be6f9df6fb798a8a26310d4f7e1c547f445c04c37a44ebbc4276d7a375a5172c"/>
+	</game>
+	<game name="Metal Warrior 4 - Agents of Metal (World) (v1.1) (Aftermarket) (Unl)" id="3147" cloneofid="3018">
+		<category>Games</category>
+		<description>Metal Warrior 4 - Agents of Metal (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Metal Warrior 4 - Agents of Metal (World) (v1.1) (Aftermarket) (Unl).gba" size="524288" crc="5be69b8d" md5="783fc5f14f1fc83a32a57f8a16a3ca8f" sha1="5252dd4b67b56f591e9f8559d328433d5cf08f31" sha256="b4fab677795f78d0a3b5cb3025eb5827ddb7d06365a713438255deffc0b99741"/>
+	</game>
+	<game name="Minicraft (World) (v1.0) (Aftermarket) (Unl)" id="2985" cloneofid="3110">
+		<category>Games</category>
+		<description>Minicraft (World) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Minicraft (World) (v1.0) (Aftermarket) (Unl).gba" size="131072" crc="e852c9e9" md5="5defefbbbb67bd8fbca428d3ad2c5031" sha1="06faa5be11978666db6995d8fce40ce2c3641ce8" sha256="9134535d52af0875956eac144e82fd5cf46f0bc4d71746bf49f4e4febb056214"/>
+	</game>
+	<game name="Minicraft (World) (v1.1) (Aftermarket) (Unl)" id="3025" cloneofid="3110">
+		<category>Games</category>
+		<description>Minicraft (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Minicraft (World) (v1.1) (Aftermarket) (Unl).gba" size="131072" crc="07595773" md5="4fd3b43dc8d884ec63325d91eba0b384" sha1="fee5cfa5b9e1f3383780432772f29764ac0fc443" sha256="be8c149ef8e46bf39ba9b2e026803236d41459a64b80eab23872748490d2ca66"/>
+	</game>
+	<game name="Minicraft (World) (v1.2) (Aftermarket) (Unl)" id="3026" cloneofid="3110">
+		<category>Games</category>
+		<description>Minicraft (World) (v1.2) (Aftermarket) (Unl)</description>
+		<rom name="Minicraft (World) (v1.2) (Aftermarket) (Unl).gba" size="131072" crc="37e7ee7d" md5="052c742acf21757dcc5bbc9b75414c82" sha1="dc7faa4952986d5c5f0e3b32203936cd717f97eb" sha256="d5a9d032396d90de75ceacaa958a22a76bf0729a5aab6052c66ec83933526979"/>
+	</game>
+	<game name="Minicraft (World) (v1.3) (Aftermarket) (Unl)" id="3110">
+		<category>Games</category>
+		<description>Minicraft (World) (v1.3) (Aftermarket) (Unl)</description>
+		<rom name="Minicraft (World) (v1.3) (Aftermarket) (Unl).gba" size="131072" crc="cc48e03a" md5="edde54bfd66466d22f113527a7f96e76" sha1="7fe080bf9cc110aa78ce7248ff92ff3185083247" sha256="be1b5bc4bd2b2bd1454e202b8f14c50027980ef8b38e0b9af1511ac72690f790"/>
+	</game>
+	<game name="Misfortune Advance (World) (Aftermarket) (Unl)" id="2969">
+		<description>Misfortune Advance (World) (Aftermarket) (Unl)</description>
+		<rom name="Misfortune Advance (World) (Aftermarket) (Unl).gba" size="5125100" crc="18f2166d" md5="42fbeb32909935b02ce9f8826c86df03" sha1="68e215025ac963220f16ea3c100e51698f97c4eb" sha256="565084982e0f726ef3a40c78500824ea69b89111567b2b829214a941f9488793"/>
+	</game>
+	<game name="Mooncat's Trio (World) (Aftermarket) (Unl)" id="2975">
+		<category>Games</category>
+		<description>Mooncat's Trio (World) (Aftermarket) (Unl)</description>
+		<rom name="Mooncat's Trio (World) (Aftermarket) (Unl).gba" size="1175680" crc="b05d5339" md5="c3d670914b052c6e7fafc5649b725afd" sha1="890de7d73723d235d9762e4866d569d3554d1480" sha256="3b7eef53c872c92254d100c3430ff2d7422d09e226354a909fb12df3a05ac715" status="verified" serial="MCAT"/>
+	</game>
+	<game name="Mooncat's Trio (World) (Beta) (Aftermarket) (Unl)" id="2976" cloneofid="2975">
+		<category>Games</category>
+		<description>Mooncat's Trio (World) (Beta) (Aftermarket) (Unl)</description>
+		<rom name="Mooncat's Trio (World) (Beta) (Aftermarket) (Unl).gba" size="504220" crc="cd3328ee" md5="53af7b05f0ec9c4770be9f74b8a232ac" sha1="c3ea5247f32c428bbcfd5c087218fc56779e3106" sha256="3fee4d1ddf18f874a675b4e7dd42f8ae5692d5f384ea659ee2d6e6c3021b65fc"/>
+	</game>
+	<game name="Nekketsu Monogatari Advance (Japan) (Demo) (Aftermarket) (Unl)" id="2924">
+		<description>Nekketsu Monogatari Advance (Japan) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Nekketsu Monogatari Advance (Japan) (Demo) (Aftermarket) (Unl).gba" size="508972" crc="55a0734d" md5="e8369fd31c116822df2dedd99cb86790" sha1="79d6977803cd7ee6b1c97ee149cc1bc037c50fb2" sha256="be4676a7db5a762312333d82f3effbac3d0fc7f6abdfe78181783b8b49e0ff26"/>
+	</game>
+	<game name="Notebook Adventure (World) (v1.3) (Aftermarket) (Unl)" id="3146">
+		<category>Games</category>
+		<description>Notebook Adventure (World) (v1.3) (Aftermarket) (Unl)</description>
+		<rom name="Notebook Adventure (World) (v1.3) (Aftermarket) (Unl).gba" size="476392" crc="cc110502" md5="b501e065253565e69f7bee03fc67b2e8" sha1="b730e401214fb348edcd2908cc9842e720f908d1" sha256="944ed052a38f7d01df79bae760f102e5c19527471fc834c8986cb19606fb7e9a"/>
+	</game>
+	<game name="notenogram (World) (v1.1) (Aftermarket) (Unl)" id="3105">
+		<category>Games</category>
+		<description>notenogram (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="notenogram (World) (v1.1) (Aftermarket) (Unl).gba" size="807876" crc="28108d5e" md5="62e016b66f9880a918b37f6e269f4d00" sha1="426a19598624132356ff5d63a48eb874f19ead6b" sha256="b03134e81b5e687d78f30dc56e97a992c5005ec9cc684ba50b1d4346cf048246"/>
+	</game>
+	<game name="notenogram (World) (GBA Jam 2022) (Aftermarket) (Unl)" id="3106" cloneofid="3105">
+		<category>Games</category>
+		<description>notenogram (World) (GBA Jam 2022) (Aftermarket) (Unl)</description>
+		<rom name="notenogram (World) (GBA Jam 2022) (Aftermarket) (Unl).gba" size="784216" crc="3b936e97" md5="71876e289c249135a87d326251bfe85b" sha1="fb2fadad0d41979df75e49ff09b67fa42b54fc79" sha256="c3620480730ef85c8280a9c4bc6e56db9ccee57dcb70b41254b4c92b2b97ff14"/>
+	</game>
+	<game name="Ping-Pong Diplomacy Advance (World) (Aftermarket) (Unl)" id="3008">
+		<description>Ping-Pong Diplomacy Advance (World) (Aftermarket) (Unl)</description>
+		<rom name="Ping-Pong Diplomacy Advance (World) (Aftermarket) (Unl).gba" size="1048576" crc="9ec140d3" md5="3dec7104aeceebf699f74845e95dd30f" sha1="9e19e8f97e8619a4755c3ceb482fa3e2ad5a4529" sha256="7771c74a914b45cacdbfb8e585f07f5d85ad042a306b785f4fbccce764b7c42d"/>
+	</game>
+	<game name="Pipe Spin (World) (GBA Jam 2021) (Aftermarket) (Unl)" id="3109">
+		<category>Games</category>
+		<description>Pipe Spin (World) (GBA Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="Pipe Spin (World) (GBA Jam 2021) (Aftermarket) (Unl).gba" size="3126100" crc="09d723e2" md5="318c35c343670efd4a35fe270092eefe" sha1="d4b4b99e644ca1d8202147a8c7ae0309a6f07e74" sha256="473494e83dcd769c247839a24c625ea903c9f3f9fc9c32e3d9c15d3b212df7dc"/>
+	</game>
+	<game name="Pocket Meat (World) (Proto) (Aftermarket) (Unl)" id="3009">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Pocket Meat (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Pocket Meat (World) (Proto) (Aftermarket) (Unl).gba" size="861952" crc="0b029da3" md5="25cb3f0bc680ece2d1578a635e831c57" sha1="9958d9a66742cc00e234a96c311b2acec40f69d1" sha256="4bd0bfe96e397c112b649d03136b511f333d85eeb1780137ce187e5e60a83015"/>
+	</game>
+	<game name="Powder (World) (v1.18) (Aftermarket) (Unl)" id="3148">
+		<category>Games</category>
+		<description>Powder (World) (v1.18) (Aftermarket) (Unl)</description>
+		<rom name="Powder (World) (v1.18) (Aftermarket) (Unl).gba" size="2278832" crc="44ea10fa" md5="a5baa0d069192da6eff1944876b50b03" sha1="3e0addefc22440c76b0eed06c91bc855f59838bf" sha256="20bf244560265e8215ea9df2d23c3c85a93bb49f1a91010a230d0d125cc3b654"/>
+	</game>
+	<game name="Powerpig (World) (NEO Coding Compo 2013) (Aftermarket) (Unl)" id="3117">
+		<category>Games</category>
+		<description>Powerpig (World) (NEO Coding Compo 2013) (Aftermarket) (Unl)</description>
+		<rom name="Powerpig (World) (NEO Coding Compo 2013) (Aftermarket) (Unl).gba" size="2308528" crc="318f1504" md5="ba7dda66edd51fb758aa1f61af584c1f" sha1="af5e459df42d5317ce552bdb3062fcff53a9da8e" sha256="ed8a9cd94c486e75b2d6513b33bc96346e75f2e0a152302a4b60a4e0a84948db"/>
+	</game>
+	<game name="Rick Dangerous (World) (NEO Coding Compo 2013) (Aftermarket) (Unl)" id="3120">
+		<category>Games</category>
+		<description>Rick Dangerous (World) (NEO Coding Compo 2013) (Aftermarket) (Unl)</description>
+		<rom name="Rick Dangerous (World) (NEO Coding Compo 2013) (Aftermarket) (Unl).gba" size="4238368" crc="7edb6e6e" md5="d116b2b5a64bc7dff2678b1790ca723a" sha1="62c9b12c3790a7c1a28edd2043ef61706357ed41" sha256="28d9121801ab4454d2ebb54e5e71f3be9e4789c557e705a7e1b51d353b64322f"/>
+	</game>
+	<game name="Rick Dangerous (World) (Aftermarket) (Unl)" id="3153" cloneofid="3120">
+		<category>Games</category>
+		<description>Rick Dangerous (World) (Aftermarket) (Unl)</description>
+		<rom name="Rick Dangerous (World) (Aftermarket) (Unl).gba" size="4237460" crc="53d4f7c5" md5="7021a7a902f4b18d08839322d8bd9166" sha1="ed5a9eb155388f19c28a7f5069d32532a5c9a494" sha256="4d154ce66c54428d069e69a556533ac385be2a8bc6feff571853ede9ee4af53f"/>
+	</game>
+	<game name="Rick Dangerous 2 (World) (Aftermarket) (Unl)" id="3154">
+		<category>Games</category>
+		<description>Rick Dangerous 2 (World) (Aftermarket) (Unl)</description>
+		<rom name="Rick Dangerous 2 (World) (Aftermarket) (Unl).gba" size="4934608" crc="65a8d986" md5="f302325be9c434ea4ada4ee80cb1caeb" sha1="5dd0cff0f112c43ee44db642b4bfdb38ca6355b7" sha256="2dba163a758e1975d3e5dc7ffa877ef98bc227b66e9cdac779758b614f8e361a"/>
+	</game>
+	<game name="Rushed Hack Job, A (World) (GBA Jam 2022) (Aftermarket) (Unl)" id="3092">
+		<category>Games</category>
+		<description>Rushed Hack Job, A (World) (GBA Jam 2022) (Aftermarket) (Unl)</description>
+		<rom name="Rushed Hack Job, A (World) (GBA Jam 2022) (Aftermarket) (Unl).gba" size="332724" crc="730a5dd6" md5="00aacdd2f31f592066ac2d8f214ae757" sha1="d8e03f4b1a12cf7a26813fb07aae2c4b503e2970" sha256="b411068f04b7efd5e96b00f5a375c22fa62b1edc173a736938c7591f50d67b37"/>
+	</game>
+	<game name="Shadow - A Parable (World) (Audio) (Aftermarket) (Unl)" id="3086">
+		<category>Games</category>
+		<description>Shadow - A Parable (World) (Audio) (Aftermarket) (Unl)</description>
+		<rom name="Shadow - A Parable (World) (Audio) (Aftermarket) (Unl).gba" size="1352899" crc="3178488f" md5="9c0aaa7779635954923940d47165af14" sha1="dd90e7d76b751a0e748aae83777d449d963b774b" sha256="8267b96e21ae18036aff807f21cc25e8fef651d228f460a69ae67f64b6d0cf1a"/>
+	</game>
+	<game name="Shoot for the Moon (World) (Aftermarket) (Unl)" id="3088">
+		<category>Games</category>
+		<description>Shoot for the Moon (World) (Aftermarket) (Unl)</description>
+		<rom name="Shoot for the Moon (World) (Aftermarket) (Unl).gba" size="7374924" crc="f3bd4f90" md5="aa12b4cf5078876a16bbfacde46d4bc0" sha1="cf99dd8670a3af704b6994898fa521667aba09a6" sha256="b538b581e547684a35659d61a0570021f6639d937265006a82ab34355b620c82"/>
+	</game>
+	<game name="Sips (World) (GBA WinterJam 2023) (Aftermarket) (Unl)" id="3010">
+		<category>Games</category>
+		<description>Sips (World) (GBA WinterJam 2023) (Aftermarket) (Unl)</description>
+		<rom name="Sips (World) (GBA WinterJam 2023) (Aftermarket) (Unl).gba" size="6235380" crc="5c1fb22d" md5="03a47a034c02e457fb6f8412b81ae56c" sha1="bb725df7226307d55df04365f85e5698b199c3c9" sha256="bd7eb4e3c1740fb761c0009d68d8ae31ef71855c4c2ae04cc3e4855f8f38a5bd"/>
+	</game>
+	<game name="Skyland (World) (v2023.5.5.0) (Proto) (Aftermarket) (Unl)" id="3016" cloneofid="3097">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Skyland (World) (v2023.5.5.0) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Skyland (World) (v2023.5.5.0) (Proto) (Aftermarket) (Unl).gba" size="15887876" crc="c798529d" md5="02c8b1b57f3de3f9d96c4c917a5a8f28" sha1="ea4a6494bcec25757f657c69550c91190e46cebd" sha256="5941712a37a144f77ed098fdb505f21dd190eed3ede1b3a07447239782e85233"/>
+	</game>
+	<game name="Skyland (World) (v2023.5.15.0) (Proto) (Aftermarket) (Unl)" id="3019" cloneofid="3097">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Skyland (World) (v2023.5.15.0) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Skyland (World) (v2023.5.15.0) (Proto) (Aftermarket) (Unl).gba" size="15894868" crc="af572de8" md5="5eb3415a5410a167b8e83de86d0495c0" sha1="997bf192369d48433a7c35187c7e1d0b5fcc16e0" sha256="e49f57017172ca66255b2e1955d6dafe0e3684f11b276f883124420d65e7e28b"/>
+	</game>
+	<game name="Skyland (World) (v2023.5.26.0) (Proto) (Aftermarket) (Unl)" id="3020" cloneofid="3097">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Skyland (World) (v2023.5.26.0) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Skyland (World) (v2023.5.26.0) (Proto) (Aftermarket) (Unl).gba" size="15900084" crc="df05edff" md5="c765079b0c8ebc53454c711cba2cc949" sha1="1328d17668480b4e9bea338662532ace332c74a9" sha256="d147be3e7a0fe03424344685e3ffdd5c0cf9283539553bfc01a110efc02800f0"/>
+	</game>
+	<game name="Skyland (World) (v2023.8.1.1) (Proto) (Aftermarket) (Unl)" id="3030" cloneofid="3097">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Skyland (World) (v2023.8.1.1) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Skyland (World) (v2023.8.1.1) (Proto) (Aftermarket) (Unl).gba" size="16075456" crc="d271c516" md5="76a7ea795f7797923016e348972195e7" sha1="0dbdf16b23afb70229eff2de269fd5d73659d745" sha256="454ab2eb60f3e1dad87397d4daf6c8f7690a62b1210f6fbf4e161a3a6e7f4894"/>
+	</game>
+	<game name="Skyland (World) (v2024.5.24.0) (Proto) (Aftermarket) (Unl)" id="3097">
+		<category>Games</category>
+		<description>Skyland (World) (v2024.5.24.0) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Skyland (World) (v2024.5.24.0) (Proto) (Aftermarket) (Unl).gba" size="16250380" crc="4cfb40d2" md5="a491402dd313a7c2cdd06f9ef072c0f3" sha1="d9936c4a776ce61ede6241a018683e3efc0fe12b" sha256="9e989d0ca38ad2a1f9141627a40f786be896de7981841bf29aef354e39475b55"/>
+	</game>
+	<game name="Spout GBA (World) (Aftermarket) (Unl)" id="3155">
+		<category>Games</category>
+		<description>Spout GBA (World) (Aftermarket) (Unl)</description>
+		<rom name="Spout GBA (World) (Aftermarket) (Unl).gba" size="752448" crc="ab42f086" md5="dc9be85f5ada0abeb2ab597d5178f03e" sha1="87654f792d847bb8f642c0fc754eb70419a57859" sha256="6c57d44ec2df9717d49999f7c585f6ee3f6ce455a82f0dc026b27ac9fe35b600"/>
+	</game>
+	<game name="Tiger Rescue (World) (Aftermarket) (Unl)" id="3159">
+		<category>Games</category>
+		<description>Tiger Rescue (World) (Aftermarket) (Unl)</description>
+		<rom name="Tiger Rescue (World) (Aftermarket) (Unl).gba" size="1575852" crc="34e118e5" md5="cfe052a6e6529e0356516010b68cfd0c" sha1="8cc652cb0aee8649643386c8ffcc77fe6e5b0126" sha256="b0d819340b606df29ccd499d9ff815f4bb071b363c3829aa1db851e68dbc2c6c"/>
+	</game>
+	<game name="Toadally Awesome (World) (GBA Jam 2021) (Aftermarket) (Unl)" id="3098">
+		<category>Games</category>
+		<description>Toadally Awesome (World) (GBA Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="Toadally Awesome (World) (GBA Jam 2021) (Aftermarket) (Unl).gba" size="964504" crc="fa6f976c" md5="49682b2d7fb8a0953f7a88a7fd33eb73" sha1="098f9e2ba7ba15225768eae3585591b9b09ef2d6" sha256="a6b7fae7af67e6b7ca53f828f7bcd1849369a3ffdb37b8c5929416e6aec0d3bc"/>
+	</game>
+	<game name="Toadally Awesome (World) (GBA Jam 2021) (Unlocked) (Aftermarket) (Unl)" id="3099" cloneofid="3098">
+		<category>Games</category>
+		<description>Toadally Awesome (World) (GBA Jam 2021) (Unlocked) (Aftermarket) (Unl)</description>
+		<rom name="Toadally Awesome (World) (GBA Jam 2021) (Unlocked) (Aftermarket) (Unl).gba" size="964520" crc="11044eb3" md5="a82de7e0ffe0dc709205706b5293dc1a" sha1="ac83f9815f4bf3a9c6690c4437d7f2256b36dd40" sha256="4d9913e9a28e8cafc2c79e61a7c8836cf815f08c43b04547ecf43864c388e0ca"/>
+	</game>
+	<game name="Tremblay Island (World) (En) (v1.1) (Aftermarket) (Unl)" id="2961">
+		<category>Games</category>
+		<description>Tremblay Island (World) (En) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Tremblay Island (World) (En) (v1.1) (Aftermarket) (Unl).gba" size="16239516" crc="ce85ba07" md5="14f0f598534646ee02b48845bfb0b21e" sha1="b09b600bfc222c2d92829d8883feab700b013953" sha256="02ca463629442b81c1d9f1fedfb9d7d7afec33ff0505ac117bf83b0118233bd3" serial="SBFP"/>
+	</game>
+	<game name="Tremblay Island (World) (En) (v1.1) (Solid State Version) (Aftermarket) (Unl)" id="2962" cloneofid="2961">
+		<category>Games</category>
+		<description>Tremblay Island (World) (En) (v1.1) (Solid State Version) (Aftermarket) (Unl)</description>
+		<rom name="Tremblay Island (World) (En) (v1.1) (Solid State Version) (Aftermarket) (Unl).gba" size="16229600" crc="bd57344d" md5="6c8d2bdd88fd5778e3a84a51ef3f6c10" sha1="a2fcfe94c9b8b0feff31c1245c8b033222c9f668" sha256="b288fc10d62dbffe1c0d70d588bcf07cec947e965627cee51d99f554fb134f83" serial="SBFP"/>
+	</game>
+	<game name="Tremblay Island (World) (Fr) (v1.1) (Solid State Version) (Aftermarket) (Unl)" id="2963" cloneofid="2961">
+		<category>Games</category>
+		<description>Tremblay Island (World) (Fr) (v1.1) (Solid State Version) (Aftermarket) (Unl)</description>
+		<rom name="Tremblay Island (World) (Fr) (v1.1) (Solid State Version) (Aftermarket) (Unl).gba" size="16204024" crc="fa43669e" md5="656bec5f7d0e8389d7e6cd9cd95f1deb" sha1="a57392fa7cee61913b20a840fe8b2ee27f11d808" sha256="cbc8e15e4da75cca4c3c85e7f7874c1951dfbe759a2206caa2d1c4942c22fd0d" serial="SBFP"/>
+	</game>
+	<game name="Tremblay Island (World) (En) (v1.1) (Kickstarter Edition) (Aftermarket) (Unl)" id="2964" cloneofid="2961">
+		<category>Games</category>
+		<description>Tremblay Island (World) (En) (v1.1) (Kickstarter Edition) (Aftermarket) (Unl)</description>
+		<rom name="Tremblay Island (World) (En) (v1.1) (Kickstarter Edition) (Aftermarket) (Unl).gba" size="16777216" crc="ff5d64ab" md5="a5618debdd650074cdebee32a2d58704" sha1="645ab8d4dacb6666d8eb549d491f77d8cd63ce97" sha256="0fd981d64650104a84b87414f286537b21656d31507215ffb2ba307c405cba15" serial="SBFP"/>
+	</game>
+	<game name="Tremblay Island (World) (Aftermarket) (Unl)" id="3027" cloneofid="2961">
+		<category>Games</category>
+		<description>Tremblay Island (World) (Aftermarket) (Unl)</description>
+		<rom name="Tremblay Island (World) (Aftermarket) (Unl).gba" size="16225608" crc="95503690" md5="17fccf4edeed5cfe2c2814b2c6fa1a19" sha1="634ea6be3df5ebd85c9c60871e34fc3c72ae5140" sha256="d41c85d8d9593692abab07af78d9567cb24b447e1f5c90891684323f871fe33c"/>
+	</game>
+	<game name="Tristam Island (World) (v9) (Digital) (Aftermarket) (Unl)" id="3076">
+		<category>Games</category>
+		<description>Tristam Island (World) (v9) (Digital) (Aftermarket) (Unl)</description>
+		<rom name="Tristam Island (World) (v9) (Digital) (Aftermarket) (Unl).gba" size="286184" crc="4baa947c" md5="68e4aa0650d2bec28c9ecc5bce7202bf" sha1="4a90a81991d38ce08ded5da017d0567ecd00c1df" sha256="303fcd027fe78cf58609ae581d224092d01a5955cbab3d535deca9febb9afbde" status="verified"/>
+	</game>
+	<game name="uCity Advance (World) (v1.0.1) (GBA Jam 2021) (Aftermarket) (Unl)" id="3096">
+		<category>Games</category>
+		<description>uCity Advance (World) (v1.0.1) (GBA Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="uCity Advance (World) (v1.0.1) (GBA Jam 2021) (Aftermarket) (Unl).gba" size="1925124" crc="a6e47443" md5="52c4b51860b0d33a3a2466c77589a315" sha1="c3e8f7fe01e05eda8bdb52a35db0d6dc92554e42" sha256="c94413b46c45af5d4ba050f69a53db0df7a4bd5f58b13e347f64f8eed03cff7a"/>
+	</game>
+	<game name="Varooom 3D (World) (GBA Jam 2021) (Aftermarket) (Unl)" id="3094">
+		<category>Games</category>
+		<description>Varooom 3D (World) (GBA Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="Varooom 3D (World) (GBA Jam 2021) (Aftermarket) (Unl).gba" size="7957428" crc="3f127891" md5="42d90bcebc174ad8ce7553071a881079" sha1="cc7e45a680f9a8701fe35a64c764d5e106bd9096" sha256="e6c557b9211fefa03837d395a439111bda10ba59abe3b2464948c6fc7dbe39b0"/>
+	</game>
+	<game name="Waimanu - Grinding Blocks Adventure (World) (NEO Coding Compo 2013) (Aftermarket) (Unl)" id="x219">
+		<category>Games</category>
+		<description>Waimanu - Grinding Blocks Adventure (World) (NEO Coding Compo 2013) (Aftermarket) (Unl)</description>
+		<rom name="Waimanu - Grinding Blocks Adventure (World) (NEO Coding Compo 2013) (Aftermarket) (Unl).gba" size="1739504" crc="0fe153c5" md5="dd849fc5fe36531624d152c0d17e4799" sha1="c4ce156b04fb257875bc5f539f3d64accbc08451" sha256="d610ef8af34966cc6cb95a40038d82bf46254def19cab380e91bf17aabd43ced"/>
+	</game>
+	<game name="Werewolf Tale, A (World) (Proto) (NEO Coding Compo 2012) (Aftermarket) (Unl)" id="3115">
+		<category>Games</category>
+		<description>Werewolf Tale, A (World) (Proto) (NEO Coding Compo 2012) (Aftermarket) (Unl)</description>
+		<rom name="Werewolf Tale, A (World) (Proto) (NEO Coding Compo 2012) (Aftermarket) (Unl).gba" size="7359860" crc="fa1a22d3" md5="c43cbd5e71bcda81010fb408819c3ce6" sha1="631fa1b513e1e4a45a5a60b10b7822b47832b866" sha256="1a828f15fe53d77852bd4037fafbe0564ce6066d24791d2ffea94cf0beabf6e0"/>
+	</game>
+	<game name="With the Last Moonbeam (World) (v1.0.0) (Aftermarket) (Unl)" id="3013" cloneofid="3029">
+		<category>Games</category>
+		<description>With the Last Moonbeam (World) (v1.0.0) (Aftermarket) (Unl)</description>
+		<rom name="With the Last Moonbeam (World) (v1.0.0) (Aftermarket) (Unl).gba" size="1449956" crc="4ffa611d" md5="b41973fcaf82c8ea2bb216027d89cba6" sha1="89bbeb3fbce1533acf2f2113642ebe2a4f9f79a8" sha256="ed1a415cfae24bd1bb735d4dbb466e533782e84d8dc00344f881d146f92ffb49"/>
+	</game>
+	<game name="With the Last Moonbeam (World) (v1.0.1) (Aftermarket) (Unl)" id="3029">
+		<category>Games</category>
+		<description>With the Last Moonbeam (World) (v1.0.1) (Aftermarket) (Unl)</description>
+		<rom name="With the Last Moonbeam (World) (v1.0.1) (Aftermarket) (Unl).gba" size="1449956" crc="27055186" md5="8220c6b2243aa64a2bd30e09c1d0436d" sha1="b9ce91d55870e07434509f6e2e91c2f90b4afc97" sha256="1087b00ff0276d6681549a1c77ec3608c53c390ef3089d9f402f800625cb1b14"/>
+	</game>
+	<game name="World Reborn (USA) (Aftermarket) (Unl)" id="2875">
+		<description>World Reborn (USA) (Aftermarket) (Unl)</description>
+		<rom name="World Reborn (USA) (Aftermarket) (Unl).gba" size="4194304" crc="eefb32ff" md5="e958226d3b1dfc69e2523ddb19313eee" sha1="c7ec2f8d7d3dec40a893cdfe2a41a8ed43ed71c4" serial="BWRE"/>
+	</game>
+	<game name="xniq (World) (Proto) (GBA Jam 2021) (Aftermarket) (Unl)" id="3093">
+		<category>Games</category>
+		<description>xniq (World) (Proto) (GBA Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="xniq (World) (Proto) (GBA Jam 2021) (Aftermarket) (Unl).gba" size="1436448" crc="ddb5205d" md5="d4d2fac142d31903295cdab4eab4ab3b" sha1="47dabc2d526aefc41cc82eeec315c986e3a9b8bc" sha256="49da35070ebfc3760a07354a0f90a68c16bd0590046cc99d8a7dfcd947563cc1"/>
+	</game>
+</datafile>

@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>12</id>
+		<name>NEC - PC Engine - TurboGrafx-16 (Aftermarket)</name>
+		<description>NEC - PC Engine - TurboGrafx-16 (Aftermarket)</description>
+		<version>20240821-164817</version>
+		<author>Arctic Circle System, bikerspade, C. V. Reynolds, fuzzball, Gefflon, Hiccup, kazumi213, Lesserkuma, MeguCocoa, Money_114, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, Rifu, SonGoku, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="240p Test Suite (World) (v1.12) (Program) (Aftermarket) (Unl)" id="2525" cloneofid="2527">
+		<category>Applications</category>
+		<description>240p Test Suite (World) (v1.12) (Program) (Aftermarket) (Unl)</description>
+		<rom name="240p Test Suite (World) (v1.12) (Program) (Aftermarket) (Unl).pce" size="237568" crc="1f55263e" md5="f366a233ac10e2b8e91bd547ed1618ea" sha1="65168c6db1af4779e37b9b62c0c3df2ce076c34f" sha256="0eddae76f509a2a2f2f6a76755d13f5b04484671e3003591b94bf5027050c3ec"/>
+	</game>
+	<game name="240p Test Suite (World) (v1.15) (Program) (Aftermarket) (Unl)" id="2527">
+		<category>Applications</category>
+		<description>240p Test Suite (World) (v1.15) (Program) (Aftermarket) (Unl)</description>
+		<rom name="240p Test Suite (World) (v1.15) (Program) (Aftermarket) (Unl).pce" size="245760" crc="73915515" md5="f2c90d20dc7d7d160fcb90dcf1a28b98" sha1="7163ae98b687ad0a9d099080e80b8b9e2441bde1" sha256="14e02de2074f0a7efd6b4a380cd28ab07ba90d9ee3c4c9d66eed1ec911b79ada"/>
+	</game>
+	<game name="Barbarian (World) (Amiga 500) (Aftermarket) (Unl)" id="2547">
+		<category>Games</category>
+		<description>Barbarian (World) (Amiga 500) (Aftermarket) (Unl)</description>
+		<rom name="Barbarian (World) (Amiga 500) (Aftermarket) (Unl).pce" size="753664" crc="c07c0d46" md5="b9106d1ff43db1a5f8d6412cb2d8bc94" sha1="0100b017417d05e0387748832bd9b6df233c4faf" sha256="94c0819d6c31c8a6910534d2ce97c03d02affaa113b955123d7e7a91b1d8a3b9"/>
+	</game>
+	<game name="Barbarian (World) (Amstrad CPC) (Aftermarket) (Unl)" id="2548">
+		<category>Games</category>
+		<description>Barbarian (World) (Amstrad CPC) (Aftermarket) (Unl)</description>
+		<rom name="Barbarian (World) (Amstrad CPC) (Aftermarket) (Unl).pce" size="729088" crc="a2e2d9c4" md5="72effc4876108125a9fe9876f01689ea" sha1="b3b33c63568dc2986bdae8184484aadaa6c39783" sha256="05be1a0136fdd2e9bc5881a5f7399c5c987f29513e87d3ab091d16260e7fa911"/>
+	</game>
+	<game name="Barbarian (World) (Atari ST) (Aftermarket) (Unl)" id="2549">
+		<category>Games</category>
+		<description>Barbarian (World) (Atari ST) (Aftermarket) (Unl)</description>
+		<rom name="Barbarian (World) (Atari ST) (Aftermarket) (Unl).pce" size="729088" crc="6526e2a5" md5="f4af6f9cdf01349901a2ffaa4a59e244" sha1="62f141f18469a1a172822192026aedb5a955d7fe" sha256="5b650664c21e37cecc450561c50f8521f11ebe278a3c02020e157fd6dba16247"/>
+	</game>
+	<game name="Barbarian (World) (Commodore 64) (Aftermarket) (Unl)" id="2550">
+		<category>Games</category>
+		<description>Barbarian (World) (Commodore 64) (Aftermarket) (Unl)</description>
+		<rom name="Barbarian (World) (Commodore 64) (Aftermarket) (Unl).pce" size="729088" crc="1aa2594e" md5="eb7761d3250eb7497f6153a19c3b9e32" sha1="ed66ff8cc6ea36acd386fe16fe6ce5b037b7849a" sha256="25f2b9e2ac68bf92138e9ac8c770669dd26cc8574ca0d50750f6dd4d46b6be59"/>
+	</game>
+	<game name="Barbarian (World) (ZX Spectrum) (Aftermarket) (Unl)" id="2551">
+		<category>Games</category>
+		<description>Barbarian (World) (ZX Spectrum) (Aftermarket) (Unl)</description>
+		<rom name="Barbarian (World) (ZX Spectrum) (Aftermarket) (Unl).pce" size="892928" crc="8b48ce01" md5="751165b44d86d487657312a7d78efde2" sha1="9157545f3463ab5885a702b871fb0bfa8234c257" sha256="81a6847abf62a6213a3f90f8667492c10134650b9011e9caf0cb0bf21d895ec9"/>
+	</game>
+	<game name="Beer Girl Stadium (World) (v0.1) (Proto) (Aftermarket) (Unl)" id="2529">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Beer Girl Stadium (World) (v0.1) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Beer Girl Stadium (World) (v0.1) (Proto) (Aftermarket) (Unl).pce" size="131072" crc="0b9569c4" md5="079eb8aa7d6bd34168e6f2d299b271ba" sha1="13613904b1ec9d939a0137102faa1c125b65b435" sha256="098c1c783602d03dd7a7bf0d0a2a61dcf02c7aff132d46d8f2507012b22d40db"/>
+	</game>
+	<game name="Binary Star (World) (Audio) (Aftermarket) (Unl)" id="2554">
+		<category>Audio</category>
+		<description>Binary Star (World) (Audio) (Aftermarket) (Unl)</description>
+		<rom name="Binary Star (World) (Audio) (Aftermarket) (Unl).pce" size="786432" crc="89e27d44" md5="264f24d37e99d443177afe3b217d2431" sha1="0c9583f05e7cdc92598f6c36c14dc5cf1369c731" sha256="a481e27e06f50053204fd474b30c385f87a9a6857a5d05d4d402933ebeb8495c"/>
+	</game>
+	<game name="Bug Hunt (World) (NEO Coding Compo 2013) (Aftermarket) (Unl)" id="2543">
+		<category>Games</category>
+		<description>Bug Hunt (World) (NEO Coding Compo 2013) (Aftermarket) (Unl)</description>
+		<rom name="Bug Hunt (World) (NEO Coding Compo 2013) (Aftermarket) (Unl).pce" size="196608" crc="c15a2b45" md5="c72dbc8a0f06ddd26b4d4e8bae0dc70f" sha1="c011b2754de3983e339f48366cc5d7e64a18331b" sha256="5f222b2772fbae64001a277f9f0a1d0a7dc6cd09d8ac01fdc12aee6a92aefad5"/>
+	</game>
+	<game name="Castlevania (World) (v0.44) (Proto) (Aftermarket) (Unl)" id="2555">
+		<category>Games</category>
+		<description>Castlevania (World) (v0.44) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Castlevania (World) (v0.44) (Proto) (Aftermarket) (Unl).pce" size="524288" crc="8ddb8cae" md5="eb4bef5f381f19bf21ab882c91d6ef47" sha1="14762c24ce9e399dd5428aa5eacdb2b277a848e9" sha256="2d765f009b44d24afcd2d807ce346c76a100dd3885483a0ff2fa2a422023630c"/>
+	</game>
+	<game name="Contra (World) (v0.35) (Proto) (Aftermarket) (Unl)" id="2556">
+		<category>Games</category>
+		<description>Contra (World) (v0.35) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Contra (World) (v0.35) (Proto) (Aftermarket) (Unl).pce" size="524288" crc="e62119aa" md5="3ce4f40067201be61b5a768344b67f3a" sha1="63bfaac39d98c8b6115200a6c13d5b2795aaf9ad" sha256="c2db3ef76a66ed9cb96ae692eece6501cb60cfb53d16b40dc229b02839a97399"/>
+	</game>
+	<game name="Crash (World) (v1.01) (Aftermarket) (Unl)" id="2541">
+		<category>Games</category>
+		<description>Crash (World) (v1.01) (Aftermarket) (Unl)</description>
+		<rom name="Crash (World) (v1.01) (Aftermarket) (Unl).pce" size="212992" crc="4c813af4" md5="a8ec2c386abeda4e3a995ae7d030d1b0" sha1="85355d56534e0874c4932801a8e51f7604556746" sha256="f0a6f8faecf7c7e91382038b2a601140c1558b3b738db9dd1b9cbc691b399160"/>
+	</game>
+	<game name="Death Sword (World) (Apple II) (Aftermarket) (Unl)" id="2552">
+		<category>Games</category>
+		<description>Death Sword (World) (Apple II) (Aftermarket) (Unl)</description>
+		<rom name="Death Sword (World) (Apple II) (Aftermarket) (Unl).pce" size="802816" crc="b1294923" md5="eb9f3b4bbed489673e10e5887189048d" sha1="7ac4eac8abdfe22858dfe6fb4b5181129589d23d" sha256="8bc2851154efc25c688b30bf2580296635cdd6af2243cfb911a6f5f415ad4950"/>
+	</game>
+	<game name="Death Sword (World) (PC) (Aftermarket) (Unl)" id="2553">
+		<category>Games</category>
+		<description>Death Sword (World) (PC) (Aftermarket) (Unl)</description>
+		<rom name="Death Sword (World) (PC) (Aftermarket) (Unl).pce" size="802816" crc="39de7beb" md5="bc935ecf69f266cfb6bda359be4fd6b7" sha1="af5f0594d8eaf9465c1ac936eb8be60a21dfc068" sha256="39a144439d87528b041fe5e44df0c5cbd10304f3420894c64824358350a05719"/>
+	</game>
+	<game name="Dinoforce (Japan) (En) (Aftermarket) (Unl)" id="2510">
+		<category>Games</category>
+		<description>Dinoforce (Japan) (En) (Aftermarket) (Unl)</description>
+		<rom name="Dinoforce (Japan) (En) (Aftermarket) (Unl).pce" size="524288" crc="334300b3" md5="649d21db47c5aca68687793cd97f4cc2" sha1="f27990efe3d3250915214e2d227311eb392efcc7" sha256="b5ed3b2e6a5f7075f107aa60c6f3f1cc891e4897b8f9202c979be719e225a336" status="verified"/>
+	</game>
+	<game name="DuckTales 2 (World) (v0.31) (Proto) (Aftermarket) (Unl)" id="2557">
+		<category>Games</category>
+		<description>DuckTales 2 (World) (v0.31) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="DuckTales 2 (World) (v0.31) (Proto) (Aftermarket) (Unl).pce" size="524288" crc="35b73aac" md5="ce35d75fe1f5a2b9580942373654569b" sha1="bd37437f547e57cc57fab3179a1ed3b5d94c9ee3" sha256="7075de3d29ae9056055f99a38e54de0aec59b02ea15ff868361110581704ebec"/>
+	</game>
+	<game name="Great Fumo Binning, The (World) (Aftermarket) (Unl)" id="2539">
+		<category>Games</category>
+		<description>Great Fumo Binning, The (World) (Aftermarket) (Unl)</description>
+		<rom name="Great Fumo Binning, The (World) (Aftermarket) (Unl).pce" size="73728" crc="8f92ac67" md5="de60a6746244d36a1bc9b8cc0abc481b" sha1="f81162d7eee56ab1e69abc33d7048e8ad127f11f" sha256="6825285b9fd83cb106d610bcc44e9f3dcacf77f6ee762c709d6c99a8bffa9698"/>
+	</game>
+	<game name="Humpball (World) (Aftermarket) (Unl)" id="2542">
+		<category>Games</category>
+		<description>Humpball (World) (Aftermarket) (Unl)</description>
+		<rom name="Humpball (World) (Aftermarket) (Unl).pce" size="163840" crc="f06516f4" md5="26c3a2897a6793d053c64be877aa7721" sha1="6e47e7ec41de40b4be20779fd50fbac25c2a5cbe" sha256="a734c235664940cc0c815b3877c55ed486d754e9e7602cf0ba3e718cb40b48d4"/>
+	</game>
+	<game name="HuZERO (World) (Aftermarket) (Unl)" id="2514">
+		<description>HuZERO (World) (Aftermarket) (Unl)</description>
+		<rom name="HuZERO (World) (Aftermarket) (Unl).pce" size="262144" crc="2871c4c0" md5="b14e14493c7c45b8d61c160236ac0f85" sha1="4328878a56f4cf34a9b62f6a4a2982bb57d695e8" sha256="92291ad6819daef69116187515f96228943dceb2815e5d0d44b7b7dc504f8d55"/>
+	</game>
+	<game name="Island Adventure (World) (NEO Coding Compo 2012) (Aftermarket) (Unl)" id="2546">
+		<category>Games</category>
+		<description>Island Adventure (World) (NEO Coding Compo 2012) (Aftermarket) (Unl)</description>
+		<rom name="Island Adventure (World) (NEO Coding Compo 2012) (Aftermarket) (Unl).pce" size="524288" crc="cd82346a" md5="90fd84b5d43b1e70786158fa3a7f0d2c" sha1="d7a18fcc1f6b3482d67f957f978183d4aabc5bee" sha256="a9546e807649c0c938c61242e2061674d97580c846f8f71477b6bf2a1a0f0ba4"/>
+	</game>
+	<game name="Jackal (World) (v0.31) (Proto) (Aftermarket) (Unl)" id="2560">
+		<category>Games</category>
+		<description>Jackal (World) (v0.31) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Jackal (World) (v0.31) (Proto) (Aftermarket) (Unl).pce" size="147456" crc="a4ee11b4" md5="46186eb81094e210305400f3fbf4adde" sha1="906e1f0b64e094c21240c00358447ee0ece82dcd" sha256="76d5397ff152371fdf01cc5d5d431158ecdbaa4d7582ff8a39b1ee4f78067f23"/>
+	</game>
+	<game name="Loop 2 (World) (Aftermarket) (Unl)" id="2545">
+		<category>Games</category>
+		<description>Loop 2 (World) (Aftermarket) (Unl)</description>
+		<rom name="Loop 2 (World) (Aftermarket) (Unl).pce" size="122880" crc="c3f15621" md5="e122ac32a89a51cdea81836d5853f921" sha1="58e3590c2116d5efc71b8f9a228f57135e6cbda0" sha256="98923d6b85a094b72d30da61040b6477127cd5c7695cb49fcf4537a418649104"/>
+	</game>
+	<game name="Mai Nurse (World) (Aftermarket) (Unl)" id="2528">
+		<category>Games</category>
+		<description>Mai Nurse (World) (Aftermarket) (Unl)</description>
+		<rom name="Mai Nurse (World) (Aftermarket) (Unl).pce" size="262144" crc="c94e2bc6" md5="4eebe752ce86bd26cbf2243ba13474b4" sha1="99892a7198856567a287669723f8c11b510a51e3" sha256="0640c7e6863d5aa5bbf0365f4d7307e3db366474cab97dbae60a822d1ccd3fa5"/>
+	</game>
+	<game name="Maria (World) (Aftermarket) (Unl)" id="2531">
+		<category>Games</category>
+		<description>Maria (World) (Aftermarket) (Unl)</description>
+		<rom name="Maria (World) (Aftermarket) (Unl).pce" size="491520" crc="192a5924" md5="de25a604c8f59525ef061ac5bb3567bd" sha1="cf64c8cf29c11310924362ff03dd7d8120debf8f" sha256="a35c221280ac676a4f48084eff86cbaabc20720724a5e8f02c269330d1f78842"/>
+	</game>
+	<game name="Mega Man (World) (v1.01) (Aftermarket) (Unl)" id="2561">
+		<category>Games</category>
+		<description>Mega Man (World) (v1.01) (Aftermarket) (Unl)</description>
+		<rom name="Mega Man (World) (v1.01) (Aftermarket) (Unl).pce" size="524288" crc="f83fbb9d" md5="48d72f0621250c87cf2029258883d042" sha1="d0e40394f89af2a18e7e3868581f8960bf91116b" sha256="f9542c7ce761b7c10bf06baf3ac83ff6fd773221ed202ca5636af7eeaa6da016"/>
+	</game>
+	<game name="Mega Man (World) (v0.94) (Beta) (Aftermarket) (Unl)" id="2564" cloneofid="2561">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mega Man (World) (v0.94) (Beta) (Aftermarket) (Unl)</description>
+		<rom name="Mega Man (World) (v0.94) (Beta) (Aftermarket) (Unl).pce" size="524288" crc="1c457508" md5="99fc9edde1acaf9ce58be99f18aa31f6" sha1="da25ac1eeeeff2ed1480bb81f617f8a61c049915" sha256="c94e76abc327774e3cb2b5e6188bd0d4f65c4a70165c8b4ba194adbc3fe4e7f7"/>
+	</game>
+	<game name="Mega Man (World) (v0.98) (Beta) (Aftermarket) (Unl)" id="2565" cloneofid="2561">
+		<category>Games</category>
+		<description>Mega Man (World) (v0.98) (Beta) (Aftermarket) (Unl)</description>
+		<rom name="Mega Man (World) (v0.98) (Beta) (Aftermarket) (Unl).pce" size="524288" crc="402d945b" md5="7a2c8746a430404dd2ef3c9a7f01752e" sha1="5f4f438ba53e4fc5ba7e417734615aa780e9f082" sha256="ac1cff68764e4e1a1e575ec0fba8a4f3f06fd037dae63f479eb7ba2eeea7283b"/>
+	</game>
+	<game name="Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl)" id="2562">
+		<category>Games</category>
+		<description>Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl).pce" size="524288" crc="2fc86aff" md5="83079124c8efce1eee4c3a34a89441a5" sha1="3bad484a43682a11b79bb5e3ca39755922807e19" sha256="9df952718d5b20228cbc4e8cc64cc456a35337ae7acce406ca32520e11b9ce22"/>
+	</game>
+	<game name="Meteor Blaster DX (World) (v1.01) (Aftermarket) (Unl)" id="2544">
+		<category>Games</category>
+		<description>Meteor Blaster DX (World) (v1.01) (Aftermarket) (Unl)</description>
+		<rom name="Meteor Blaster DX (World) (v1.01) (Aftermarket) (Unl).pce" size="270336" crc="0c1fb659" md5="f1e29d8f21577cd8482cdf31a0d3d272" sha1="692eca95595c5f46aa3da9aee6661bfa0c7583f4" sha256="1ed8b9bec5317843693b2820fb0ad6740562506fe012318c160830d41f8b1de4"/>
+	</game>
+	<game name="Nantettatte Engine (World) (Aftermarket) (Unl)" id="2512">
+		<description>Nantettatte Engine (World) (Aftermarket) (Unl)</description>
+		<rom name="Nantettatte Engine (World) (Aftermarket) (Unl).pce" size="262144" crc="3974fb41" md5="a8264f87f8c2a9a97fe46c2fa3249deb" sha1="4b9cd0d86b6406142a306adcafe6ae9efbcd9b6b" sha256="783a049de279c56f102aef71a64d85883e9014da244754f9e288bc85fbe43147" status="verified"/>
+	</game>
+	<game name="R-Type II (World) (Demo) (Aftermarket) (Unl)" id="2563">
+		<category>Games</category>
+		<description>R-Type II (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="R-Type II (World) (Demo) (Aftermarket) (Unl).pce" size="524288" crc="1be07301" md5="f528c1ee6f66bdfdc231a7683fd05e82" sha1="20a956aa3de5f63f6b189bd037f2d99d3b70eb69" sha256="1db72e6e589c3a605645ad7155297349c6a720ee82ab45624ab25f334b1aa359"/>
+	</game>
+	<game name="Reflectron (World) (Aftermarket) (Unl)" id="2513">
+		<description>Reflectron (World) (Aftermarket) (Unl)</description>
+		<rom name="Reflectron (World) (Aftermarket) (Unl).pce" size="262144" crc="6a3727e2" md5="40540be45e4f802344cfcb9f43b527b0" sha1="982a7627233c30cc23b85c666536d69faf3c2dbc" sha256="ca418662637bacab78fa05dea0f346a876994ecc58b636d4121a4409c2979e48" status="verified"/>
+	</game>
+	<game name="Robo Warrior (World) (v0.27) (Proto) (Aftermarket) (Unl)" id="2558">
+		<category>Games</category>
+		<description>Robo Warrior (World) (v0.27) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Robo Warrior (World) (v0.27) (Proto) (Aftermarket) (Unl).pce" size="524288" crc="13164669" md5="db21154343bb9cf35c318cbfeb707435" sha1="f30036703a25cad3cc0e3b9b3853fd72c76379ed" sha256="c3ee180297c1012c477e437755440bc4b2b8af3230dc273a481812ac1d8eead1"/>
+	</game>
+	<game name="Santatlantean (World) (Aftermarket) (Unl)" id="2508">
+		<description>Santatlantean (World) (Aftermarket) (Unl)</description>
+		<rom name="Santatlantean (World) (Aftermarket) (Unl).pce" size="524288" crc="f436b4ac" md5="12c9cb92855185a15b315435ec8eadf7" sha1="9e79251dc99a24ea03a2a431cac26a66e6c6a543" sha256="f041f43f5ac41fd7e76a398af5a9767f344cee0bcbff236c0549ed8f3bc4909b" status="verified"/>
+	</game>
+	<game name="SoundGenZ (World) (v1.03) (Program) (Aftermarket) (Unl)" id="2540">
+		<category>Applications</category>
+		<description>SoundGenZ (World) (v1.03) (Program) (Aftermarket) (Unl)</description>
+		<rom name="SoundGenZ (World) (v1.03) (Program) (Aftermarket) (Unl).pce" size="131072" crc="5a4dcbf5" md5="2071de3031822ffc82287bc4cd613846" sha1="92c32586b4b7bc68400754a517edf251d889bbde" sha256="6a9ae7f0b52ec13cc94352d8e30e0f0d85190ea4c05be269395332df1d05da2c"/>
+	</game>
+	<game name="Strife Sisters (World) (Demo) (Aftermarket) (Unl)" id="2524">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Strife Sisters (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Strife Sisters (World) (Demo) (Aftermarket) (Unl).pce" size="524288" crc="1d89750c" md5="aacf2cc8f0766ccbd2739837da972c22" sha1="f5788ebdf878e3f9da5b4ceae582f12de515270b" sha256="0644da7cb2a6b3c7193ab9dace57986f8f15ad7255391e2dab315f2c436a25d4"/>
+	</game>
+	<game name="Super Mario Bros. (World) (v0.21) (Proto) (Aftermarket) (Unl)" id="2559">
+		<category>Games</category>
+		<description>Super Mario Bros. (World) (v0.21) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Super Mario Bros. (World) (v0.21) (Proto) (Aftermarket) (Unl).pce" size="524288" crc="317bc765" md5="ae821a9f0f7d2e490c7ab2da9b802600" sha1="926a64923cc880aa6b67949dbcd78f775ba03910" sha256="7c465db1bfba07674c9c46ee254b38e4a5e0ed99e7f066155d0ab08b13fb6ce8"/>
+	</game>
+	<game name="Tongueman's Logic (World) (Aftermarket) (Unl)" id="2509">
+		<description>Tongueman's Logic (World) (Aftermarket) (Unl)</description>
+		<rom name="Tongueman's Logic (World) (Aftermarket) (Unl).pce" size="524288" crc="fe451c22" md5="15107f07c3b7a65a7e784add44349961" sha1="456c4a07b6e5d0a4e231aad3a479f97f3df02e21" sha256="71f3c3b7e3ddf95e81467be6bb48c98e9d989acf843826b005cfebd88bc38b09"/>
+	</game>
+	<game name="Tongueman's Logic (World) (Demo) (Aftermarket) (Unl)" id="2511" cloneofid="2509">
+		<description>Tongueman's Logic (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Tongueman's Logic (World) (Demo) (Aftermarket) (Unl).pce" size="524288" crc="18db75c2" md5="c0b20bc7392091f56aec47ff71a324a2" sha1="8a63b209d6d2e2a2fa622eca45888862dfb2c621" sha256="d5a5580b9f3655c31a2da706a96d514261b0c5da5d2d3b153fda652a5fa938d3"/>
+	</game>
+	<game name="UWOL - Quest for Money (World) (v1.1) (Aftermarket) (Unl)" id="2515">
+		<description>UWOL - Quest for Money (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="UWOL - Quest for Money (World) (v1.1) (Aftermarket) (Unl).pce" size="262144" crc="59421adc" md5="75caf42af0f5eeec3b949604fd9b83e4" sha1="2ffa50dbb592141aad3aa44088de0a7efe5f5f48" sha256="4b8f36a70129f65c6340b17bdb2e1fa9b8a3ae1101f92166441c229a7abce5af"/>
+	</game>
+	<game name="Wolleyball in Wonderland (World) (Proto) (Aftermarket) (Unl)" id="2530">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Wolleyball in Wonderland (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Wolleyball in Wonderland (World) (Proto) (Aftermarket) (Unl).pce" size="90112" crc="c4831d47" md5="83a1b9addd8f25bba63979b431485fa7" sha1="b1b99cc3155d026b7f68de5d1cfbb1af02f23e79" sha256="fd0e498d720f166960ad2610abd0cd0939b4856db17bfd34601e4f3557926152"/>
+	</game>
+</datafile>

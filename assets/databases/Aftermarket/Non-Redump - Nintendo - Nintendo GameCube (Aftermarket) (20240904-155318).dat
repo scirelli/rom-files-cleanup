@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>160</id>
+		<name>Non-Redump - Nintendo - Nintendo GameCube (Aftermarket)</name>
+		<description>Non-Redump - Nintendo - Nintendo GameCube (Aftermarket)</description>
+		<subset>Non-Redump</subset>
+		<version>20240904-155318</version>
+		<author>bikerspade, Gefflon, Hiccup, NovaAurora, rarenight, relax, Seventy7, togemet2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="240p Test Suite (World) (v1.17) (Program) (Aftermarket) (Unl)" id="0066">
+		<description>240p Test Suite (World) (v1.17) (Program) (Aftermarket) (Unl)</description>
+		<rom name="240p Test Suite (World) (v1.17) (Program) (Aftermarket) (Unl).iso" size="1736704" crc="66f13ad8" md5="7189f9389cf1831b741df81cb430165c" sha1="d157f25ed0b50bc71dd52d6bd5e44d636410d4f7" sha256="28dc76be87b40f26dd1ee96edf49186a4b5df2761e1c7227fa12353df26404f9" serial="GBLPGL"/>
+		<rom name="240p Test Suite (World) (v1.17) (Program) (Aftermarket) (Unl).dol" size="1906336" crc="369b0bac" md5="ebd36f325b44769ab5bd057c92a06268" sha1="c65fa3214ef99af9c0b1db031f5731eaba369efc" sha256="54b57ed03f227e325c6779fca054cd1addecafc8323d453d0a45949e806eae5e"/>
+	</game>
+	<game name="240p Test Suite (World) (v1.09) (Program) (Aftermarket) (Unl)" id="0067" cloneofid="0066">
+		<description>240p Test Suite (World) (v1.09) (Program) (Aftermarket) (Unl)</description>
+		<rom name="240p Test Suite (World) (v1.09) (Program) (Aftermarket) (Unl).iso" size="1474560" crc="de0eedef" md5="bea8a68c9aabd669041a33a059a85b6f" sha1="a065b2025100a953b8c40a2bf3c7c260b9c0e244" sha256="df05388cd3ffca1506c7cdb922f9c243574b424a8c7078da56ec837426375d3d" serial="GBLPGL"/>
+		<rom name="240p Test Suite (World) (v1.09) (Program) (Aftermarket) (Unl).dol" size="1333536" crc="c91a16d8" md5="34dd6f2c117c5860612987185105b9dd" sha1="d2773f190b621b9f16cc1ed2ef6559bc33c6ff91" sha256="5314af562e8287c2f7b2dc78334e8864766d3fee508f3ced4eb055887d30b9fa"/>
+	</game>
+	<game name="240p Test Suite (World) (v1.10b) (Program) (Aftermarket) (Unl)" id="0068" cloneofid="0066">
+		<description>240p Test Suite (World) (v1.10b) (Program) (Aftermarket) (Unl)</description>
+		<rom name="240p Test Suite (World) (v1.10b) (Program) (Aftermarket) (Unl).iso" size="1507328" crc="aa28400e" md5="7272d9c94628cdd2bc202e6f188d74a5" sha1="a307297e15ef21c1182b6b09780d87c0578c0823" sha256="d8c13c75107d0545e89c1839810471fd63ad7d6bbdb1f8543f326e37ce030f25" serial="GBLPGL"/>
+		<rom name="240p Test Suite (World) (v1.10b) (Program) (Aftermarket) (Unl).dol" size="1576640" crc="0422b310" md5="3a458604c03ce2510f46e51fe57b7542" sha1="599a76ca53c7bb863554f9da19a01ed8a1f5750f" sha256="727d5b114c97629ec40e0dd957209eab42e183bf17d27e74fc503fcb606b2e93"/>
+	</game>
+	<game name="240p Test Suite (World) (v1.05) (Program) (Aftermarket) (Unl)" id="0069" cloneofid="0066">
+		<description>240p Test Suite (World) (v1.05) (Program) (Aftermarket) (Unl)</description>
+		<rom name="240p Test Suite (World) (v1.05) (Program) (Aftermarket) (Unl).iso" size="1048576" crc="b1c8ad07" md5="9858013e1cafde95898aa9f547f99e0e" sha1="18c5612e20d54583b5c9e9d96f1164cb0c953422" sha256="c5fd6b5a3483f3bdd3e46b3e1e74e803fce8cf53e4c1058ef9c5af6ad63c0668" serial="GBLPGL"/>
+	</game>
+	<game name="240p Test Suite (World) (v1.04) (Program) (Aftermarket) (Unl)" id="0070" cloneofid="0066">
+		<description>240p Test Suite (World) (v1.04) (Program) (Aftermarket) (Unl)</description>
+		<rom name="240p Test Suite (World) (v1.04) (Program) (Aftermarket) (Unl).dol" size="2301384" crc="7e78242e" md5="4fd79683b4d54ea81e651819dc03b1ad" sha1="252b3004393880df3db2e84c764de1f9a036a890" sha256="6847a26945b3e1d7124dbc4327806dec8c3ef91a53e7eeb9bd48d89597d67013"/>
+	</game>
+	<game name="240p Test Suite (World) (v1.08) (Program) (Aftermarket) (Unl)" id="0073" cloneofid="0066">
+		<description>240p Test Suite (World) (v1.08) (Program) (Aftermarket) (Unl)</description>
+		<rom name="240p Test Suite (World) (v1.08) (Program) (Aftermarket) (Unl).dol" size="1329696" crc="c41273a6" md5="e60ab72fac5cba029c9e6d8c70ea9449" sha1="6875cb34b46caafc0245a8146807f9b3d19ed366" sha256="bd3819df306838acc5d72332b7566e2318ed968f740bc0f5d514fe8b90d1b365"/>
+		<rom name="240p Test Suite (World) (v1.08) (Program) (Aftermarket) (Unl).iso" size="1245184" crc="3b9eb672" md5="83ad42d4e092cbcf497d09a439b2f079" sha1="eaffd6187086513329987999b05ea08c14cdf42b" sha256="3d6fd7fdb7d3b7f734018b91e48ab4bbe49f9d21c4341874a5e0de86c6033c38" serial="GBLPGL"/>
+	</game>
+	<game name="240p Test Suite (World) (v1.07) (Program) (Aftermarket) (Unl)" id="0072" cloneofid="0066">
+		<description>240p Test Suite (World) (v1.07) (Program) (Aftermarket) (Unl)</description>
+		<rom name="240p Test Suite (World) (v1.07) (Program) (Aftermarket) (Unl).dol" size="932032" crc="991ea6f2" md5="281fa9ef17deaa8413088b4ee566359f" sha1="e8812e94a2471eedc985eb2781eecea69637a875" sha256="35b098d4246e00842968a9e3ac9d8e8e0ea2ab90352e954fbee931a10220073e"/>
+		<rom name="240p Test Suite (World) (v1.07) (Program) (Aftermarket) (Unl).iso" size="1048576" crc="24316d11" md5="0bfdf450ecc4c239428176071cd09746" sha1="2c34c9d60e04a37865b51deda02b530596a769e6" sha256="7fdc33570be387b0c6389176699795303889b7aca11be7a1f647bd8d7bb76089" serial="GBLPGL"/>
+	</game>
+	<game name="240p Test Suite (World) (v1.06) (Program) (Aftermarket) (Unl)" id="0071" cloneofid="0066">
+		<description>240p Test Suite (World) (v1.06) (Program) (Aftermarket) (Unl)</description>
+		<rom name="240p Test Suite (World) (v1.06) (Program) (Aftermarket) (Unl).dol" size="930560" crc="7424a2f7" md5="b4dccc9fb4c5167cab7be9fd209bdbaa" sha1="b84d0e2d0efaa4b40c61a22a8efbb832c11cdb85" sha256="1c5974528a1a32a23d5c876972ecb9573408506e4a31cb277e346a8e5b1fe123"/>
+		<rom name="240p Test Suite (World) (v1.06) (Program) (Aftermarket) (Unl).iso" size="1048576" crc="fc2dc457" md5="3192686fc87cbfb505cf3d9d7184e14a" sha1="dc64da1715f34d292a0880fdf63b28989b8099af" sha256="13183f8d68b617ab8a6cb0d39c28e68a29226c314455fa734d15133f9727e0a9" serial="GBLPGL"/>
+	</game>
+</datafile>

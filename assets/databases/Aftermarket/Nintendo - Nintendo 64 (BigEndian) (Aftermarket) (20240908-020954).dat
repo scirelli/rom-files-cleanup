@@ -1,0 +1,502 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>24</id>
+		<name>Nintendo - Nintendo 64 (BigEndian) (Aftermarket)</name>
+		<description>Nintendo - Nintendo 64 (BigEndian) (Aftermarket)</description>
+		<version>20240908-020954</version>
+		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, BitLooter, Blank, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="2048 (World) (En,Fr,Es) (Aftermarket) (Unl)" id="1172">
+		<category>Games</category>
+		<description>2048 (World) (En,Fr,Es) (Aftermarket) (Unl)</description>
+		<rom name="2048 (World) (En,Fr,Es) (Aftermarket) (Unl).z64" size="16777216" crc="2ea39d5c" md5="0c7b165cf3553ef550067d0c46681097" sha1="b855c12d25c4df358df7c98810857e1e5c7fd5a4" sha256="84e26880c801547a071cdcd5b5fb21ae1354686a4e521aace715cc25fda1e346"/>
+	</game>
+	<game name="40 Winks (USA) (Aftermarket) (Unl)" id="1066" cloneofid="0008">
+		<description>40 Winks (USA) (Aftermarket) (Unl)</description>
+		<rom name="40 Winks (USA) (Aftermarket) (Unl).z64" size="33554432" crc="31c19633" md5="b88c172ed14f4acb43c4a352d71cc640" sha1="420f0ed3b67f802b5f3ab4bd17167c266f8f36ce" sha256="057232ef7618e25f5645df50d3cd45f08cb5a2cccb3e2fdf48faa8755c4ddb1a" status="verified" serial="N4WE"/>
+	</game>
+	<game name="40 Winks (Europe) (En,Fr,Es) (Aftermarket) (Unl)" id="1283" cloneofid="0008">
+		<category>Games</category>
+		<description>40 Winks (Europe) (En,Fr,Es) (Aftermarket) (Unl)</description>
+		<rom name="40 Winks (Europe) (En,Fr,Es) (Aftermarket) (Unl).z64" size="33554432" crc="93c57d0b" md5="b470b6bb0c0be834ff357eb2d6ae9724" sha1="282b97c6a6eb79535e618fc2651b6156fff65ea4" sha256="22a7b4cd12aa5201a36aad38f8205fffc3af4f1dc23b171bcabd6db41f662cbe" serial="N4WZ"/>
+	</game>
+	<game name="64Noid (World) (Demo) (N64brew Game Jam 2020) (Aftermarket) (Unl)" id="1198">
+		<category>Games</category>
+		<description>64Noid (World) (Demo) (N64brew Game Jam 2020) (Aftermarket) (Unl)</description>
+		<rom name="64Noid (World) (Demo) (N64brew Game Jam 2020) (Aftermarket) (Unl).z64" size="1052680" crc="d52e97e1" md5="e9d53f8232119234a4c496c85765b57e" sha1="6551a6e6523d6e4b3dd9b9dae25d094933e3dc49" sha256="663c320d38fdc5cb953af0b565386a7959f9086060340536ea856dde303b94f6"/>
+	</game>
+	<game name="Alien Sun (World) (Proto) (N64brew Game Jam 2023) (Aftermarket) (Unl)" id="1247">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Alien Sun (World) (Proto) (N64brew Game Jam 2023) (Aftermarket) (Unl)</description>
+		<rom name="Alien Sun (World) (Proto) (N64brew Game Jam 2023) (Aftermarket) (Unl).z64" size="2162688" crc="c49538e7" md5="82b3f5139a8f843d5e8d6a5c7d74e994" sha1="99340bea6e216b37da07e1a16aa39248fc228a6f" sha256="79612b45755f749bc33ab84f323bac6b4c46b9fe2e583180c00d4c72cf055206"/>
+	</game>
+	<game name="Asteroid Shooter (World) (Demo) (Aftermarket) (Unl)" id="1259">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Asteroid Shooter (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Asteroid Shooter (World) (Demo) (Aftermarket) (Unl).z64" size="2097152" crc="42092e9f" md5="786124acbcdf0802ae94fe5cd6f5c2b3" sha1="a45870f01182052f4beb98647754b3c3e306ffb2" sha256="6ee8290151d7b97c3fa58197e4088f0fb35d6e1f54b840f00d21e98d124f6768"/>
+	</game>
+	<game name="Asteroids 64 (World) (N64brew Game Jam 2021) (Aftermarket) (Unl)" id="1227">
+		<category>Games</category>
+		<description>Asteroids 64 (World) (N64brew Game Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="Asteroids 64 (World) (N64brew Game Jam 2021) (Aftermarket) (Unl).z64" size="1052672" crc="835bf07b" md5="e01c594074002a0c7b947728ad373588" sha1="0405381fd144072ddfb6babd4175f6d0329fd81f" sha256="a021f26adfe7c024fa34a462ff66a6e37488ba7e316c1c5a54ebe2f3aa2ba0d3"/>
+	</game>
+	<game name="Belushi Speed Ball - What, Us Worry (World) (Audio) (Aftermarket) (Unl)" id="1287">
+		<category>Audio</category>
+		<description>Belushi Speed Ball - What, Us Worry (World) (Audio) (Aftermarket) (Unl)</description>
+		<rom name="Belushi Speed Ball - What, Us Worry (World) (Audio) (Aftermarket) (Unl).z64" size="53714352" crc="6b025e6a" md5="bc912874226dac9539508180c36190d9" sha1="96678af80f6abac0c0042a57089432b2945870b5" sha256="16dd5302730e41ca2baf946c502ab164b0b223b3f7006720090cf6f1171124ad"/>
+	</game>
+	<game name="Big Burger (World) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl)" id="1199">
+		<category>Games</category>
+		<description>Big Burger (World) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Big Burger (World) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl).z64" size="1052680" crc="38d45ae4" md5="fcaccc60351a9e7de6647ce71e9c56c3" sha1="13c06f7e79bdf1d83e9247abb1e78ef3e55c6b8d" sha256="8228fa92e9de85c9aeb5ecf77988d9af0c2858b8cbae97ae86c1eb1fda0d13ca"/>
+	</game>
+	<game name="Big Burger (World) (N64brew Game Jam 2020) (PAL) (Aftermarket) (Unl)" id="1200" cloneofid="1199">
+		<category>Games</category>
+		<description>Big Burger (World) (N64brew Game Jam 2020) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Big Burger (World) (N64brew Game Jam 2020) (PAL) (Aftermarket) (Unl).z64" size="1052680" crc="f497e80d" md5="1b1c50721d35c199fb4a5b237de70ef0" sha1="d6cabd572a34c3bd7e47b69e3618b160d5417768" sha256="b55bf69a2858e860c058ec38f9af4c93dbb65e1c6068d32de3515f266c75a67b"/>
+	</game>
+	<game name="Bird Kart (World) (Demo 1) (N64brew Game Jam 2021) (Aftermarket) (Unl)" id="1233" cloneofid="1274">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Bird Kart (World) (Demo 1) (N64brew Game Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="Bird Kart (World) (Demo 1) (N64brew Game Jam 2021) (Aftermarket) (Unl).z64" size="2097152" crc="29f03dd8" md5="794e6096bec6349ea09307268a3140ac" sha1="78d521d1a229e14ed033807ce407094b510e65dc" sha256="bee1023742acee448180c0d4d36bce32fc609c64d231617a2c79a13eb81a23a2"/>
+	</game>
+	<game name="Bird Kart (World) (Demo 2) (Aftermarket) (Unl)" id="1274">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Bird Kart (World) (Demo 2) (Aftermarket) (Unl)</description>
+		<rom name="Bird Kart (World) (Demo 2) (Aftermarket) (Unl).z64" size="2632992" crc="c9722d3e" md5="7e7b54bdc564b83ceb45fd9211ce3d2e" sha1="097ade9f970bd4d381692775545049fc32a5d79a" sha256="56f9d4bc2eadac20626d48cb01744b0afb5ef83cacf9161122308076e3d7937e"/>
+	</game>
+	<game name="Brew Volley (World) (Demo) (N64brew Game Jam 2023) (Aftermarket) (Unl)" id="1248">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Brew Volley (World) (Demo) (N64brew Game Jam 2023) (Aftermarket) (Unl)</description>
+		<rom name="Brew Volley (World) (Demo) (N64brew Game Jam 2023) (Aftermarket) (Unl).z64" size="1638400" crc="43404543" md5="2d70f98a8a9f2c74b6b7a043180fb8a3" sha1="52367594899c6a06024b6064b61e0b4998d77a48" sha256="ed304558ea87d5c94c6bb2cf9e5a582162a67e877ad3cf48341a8a995d89982b"/>
+	</game>
+	<game name="Bug Game (World) (Demo) (N64brew Game Jam 2021) (Aftermarket) (Unl)" id="1228">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Bug Game (World) (Demo) (N64brew Game Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="Bug Game (World) (Demo) (N64brew Game Jam 2021) (Aftermarket) (Unl).z64" size="6730240" crc="7fa15ebb" md5="9afa72cacd58dc5c4c0dac894700a914" sha1="996cf133d42ecaac73e5f3e84fb3242e87c76188" sha256="dd4389f800263b13b320a310ae99cd4cb1b3e1c96e8a8390b3b8a958211b234b"/>
+	</game>
+	<game name="Castle 64 (World) (N64brew Game Jam 2020) (Aftermarket) (Unl)" id="1209">
+		<category>Games</category>
+		<description>Castle 64 (World) (N64brew Game Jam 2020) (Aftermarket) (Unl)</description>
+		<rom name="Castle 64 (World) (N64brew Game Jam 2020) (Aftermarket) (Unl).z64" size="16777216" crc="c4ad974d" md5="b603c47005772019d9ef5c861da976e7" sha1="b95f755f7bb1f6dbcdc33341dda80cc207b48524" sha256="ed83d0f697228e1f6c834329d54d2585c061fde11ab9a40e76f6ce6dbe49e38d"/>
+	</game>
+	<game name="Chip8 C64 Emulator (World) (Aftermarket) (Unl)" id="1263">
+		<category>Games</category>
+		<description>Chip8 C64 Emulator (World) (Aftermarket) (Unl)</description>
+		<rom name="Chip8 C64 Emulator (World) (Aftermarket) (Unl).z64" size="2097152" crc="dba71f11" md5="4975a1a8870e0f39f272e7fd20690c84" sha1="e0f3f1654b567eebeeb4c9fa75e321db67f6388f" sha256="eb64063042183b3b032aa24cf7b583aa0a21236389f85f5c6d9d0a467cef2e26"/>
+	</game>
+	<game name="Commander Keen in Goodbye, Galaxy (World) (2022-07-31) (Proto) (Aftermarket) (Unl)" id="1257">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Commander Keen in Goodbye, Galaxy (World) (2022-07-31) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Commander Keen in Goodbye, Galaxy (World) (2022-07-31) (Proto) (Aftermarket) (Unl).z64" size="1802240" crc="d0e65a82" md5="633b7f7a984bc354782490148c597f69" sha1="fd4da06cdce7c45ddd706defd5b8138faeabc1b3" sha256="ab7dae2525e58d7a746f64ca2a19336a5fa7e66992981f70e1bbb3527f91a527"/>
+	</game>
+	<game name="Dead Ritual (World) (Demo) (N64brew Game Jam 2022) (Aftermarket) (Unl)" id="1242">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Dead Ritual (World) (Demo) (N64brew Game Jam 2022) (Aftermarket) (Unl)</description>
+		<rom name="Dead Ritual (World) (Demo) (N64brew Game Jam 2022) (Aftermarket) (Unl).z64" size="2625504" crc="44bd10e4" md5="73c98457bc230b6e9d8db6f11b293b52" sha1="f7ec477fbec5936b1f13e20f0344d424bf5c010a" sha256="156ae2d253c58ac026ffd1e5fa75a4045daf232b76c0ac041d990338daa01a0e"/>
+	</game>
+	<game name="Donsol (World) (Aftermarket) (Unl)" id="1117">
+		<category>Games</category>
+		<description>Donsol (World) (Aftermarket) (Unl)</description>
+		<rom name="Donsol (World) (Aftermarket) (Unl).z64" size="1052672" crc="a0e96c02" md5="3f345578242eb8c7f8f9710df6432abb" sha1="bac0791b68292e40c3971f84d7e23841eb8fac32" sha256="f2a7eba26bd3bcaa025365025df5e73741c802b2d0734f591c9e7f4e405a4401"/>
+	</game>
+	<game name="Evil Australians (World) (Demo) (Aftermarket) (Unl)" id="1268">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Evil Australians (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Evil Australians (World) (Demo) (Aftermarket) (Unl).z64" size="16777216" crc="5f7ec87b" md5="affd2c50a0381dc2aff24adb82b289e2" sha1="24aac4786367ce2e99d425482c9b1bba42848abf" sha256="b8b5a7b3bfd271f33c71f7ad0902a971d78ca29bf8a0b1b164cf06f4321c11e9"/>
+	</game>
+	<game name="Fanger's Lightmare (World) (Demo) (N64brew Game Jam 2022) (Aftermarket) (Unl)" id="1243">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Fanger's Lightmare (World) (Demo) (N64brew Game Jam 2022) (Aftermarket) (Unl)</description>
+		<rom name="Fanger's Lightmare (World) (Demo) (N64brew Game Jam 2022) (Aftermarket) (Unl).z64" size="6602752" crc="b5cae10e" md5="33412e74de9a1d220b709c8c17070d75" sha1="344babbb42de76e6b7ee9feed3c9e33a424c2742" sha256="a4e877f31530105846217f85d479fd2e218d42b4588d5197aeb9ac58f12d5e84"/>
+	</game>
+	<game name="Featherlight (World) (v1.3) (Aftermarket) (Unl)" id="1229">
+		<category>Games</category>
+		<description>Featherlight (World) (v1.3) (Aftermarket) (Unl)</description>
+		<rom name="Featherlight (World) (v1.3) (Aftermarket) (Unl).z64" size="4194304" crc="7deca178" md5="64d506e82a064bb1aa2bcadeecf130a3" sha1="1f7073342793fb8ba0a44ebe20a3e79df5530a0b" sha256="f42845cde8d7c4dbee24556a7f1dd54b8b50503c8a1142c7a8f1cc598b3a60d3"/>
+	</game>
+	<game name="Featherlight (World) (v1.2) (Aftermarket) (Unl)" id="1230" cloneofid="1229">
+		<category>Games</category>
+		<description>Featherlight (World) (v1.2) (Aftermarket) (Unl)</description>
+		<rom name="Featherlight (World) (v1.2) (Aftermarket) (Unl).z64" size="4194304" crc="d67ebe8e" md5="5cba7f7899fbd02e23bb2542dc3994a9" sha1="56077febc7e273e570f28296e4143bf9ba0b02d5" sha256="04475698289c8c34bfc19745f843e664d6b6b45aa2fb56bcf08713c63bcf47d5"/>
+	</game>
+	<game name="Featherlight (World) (v1.1) (N64brew Game Jam 2021) (Aftermarket) (Unl)" id="1231" cloneofid="1229">
+		<category>Games</category>
+		<description>Featherlight (World) (v1.1) (N64brew Game Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="Featherlight (World) (v1.1) (N64brew Game Jam 2021) (Aftermarket) (Unl).z64" size="4194304" crc="884f93ff" md5="faf4d5f46e4e2a7e87584ead6923c284" sha1="664b4749d7b97774d01265515ecba44955ad2307" sha256="bb67a3ecd205e3e34b45f45a8fbfbd9367ed99be31f110aeee422cf608810a3c"/>
+	</game>
+	<game name="Featherlight (World) (v1.0) (Aftermarket) (Unl)" id="1232" cloneofid="1229">
+		<category>Games</category>
+		<description>Featherlight (World) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Featherlight (World) (v1.0) (Aftermarket) (Unl).z64" size="4194304" crc="ef56d0bb" md5="b662e35b9ac1c95a4736547c9c997dc4" sha1="8158b755848f655750ac1f2248f9d49644fa23c1" sha256="40952a0638280353a5b74e222bc2aecc2c115898e20801a70ed709ea972cd52e"/>
+	</game>
+	<game name="Fission Failure 64 (World) (N64brew Game Jam 2021) (Aftermarket) (Unl)" id="1173">
+		<category>Games</category>
+		<description>Fission Failure 64 (World) (N64brew Game Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="Fission Failure 64 (World) (N64brew Game Jam 2021) (Aftermarket) (Unl).z64" size="15335424" crc="fc267e35" md5="88a02053a4c7530f7a5450852fba98a9" sha1="fcdc8f21fa636a8b17245b8f54e28a931f45f14f" sha256="eaaa374a817dc2327133b39371b1f2231fc25a074bee566e678e637eda3f3319"/>
+	</game>
+	<game name="Flappy Bird (World) (v1.4) (Aftermarket) (Unl)" id="1269">
+		<category>Games</category>
+		<description>Flappy Bird (World) (v1.4) (Aftermarket) (Unl)</description>
+		<rom name="Flappy Bird (World) (v1.4) (Aftermarket) (Unl).z64" size="1415168" crc="9594b162" md5="4f72168ef462293168c936589f10bc22" sha1="2cadbfb04722a5a873ac516c96536fd211ca66cc" sha256="859a8bfa297abf99fddb24816a7362b9ae3e2ea0b30f7d952ea1c68f4745d54f"/>
+	</game>
+	<game name="Flappy Bird (World) (v1.3) (Aftermarket) (Unl)" id="1270" cloneofid="1269">
+		<category>Games</category>
+		<description>Flappy Bird (World) (v1.3) (Aftermarket) (Unl)</description>
+		<rom name="Flappy Bird (World) (v1.3) (Aftermarket) (Unl).z64" size="1415168" crc="09bb18ca" md5="09310c3e96ffd9639ddfa53a9ba374b5" sha1="0bf0a66c4f575e2620a9e6e805d35d77a31bd7a2" sha256="c15bc09bed4881e5bc4b69271805420905cbc7e4881ff5626de0a6b92ec5bf0c"/>
+	</game>
+	<game name="Flappy Bird (World) (v1.2) (Aftermarket) (Unl)" id="1271" cloneofid="1269">
+		<category>Games</category>
+		<description>Flappy Bird (World) (v1.2) (Aftermarket) (Unl)</description>
+		<rom name="Flappy Bird (World) (v1.2) (Aftermarket) (Unl).z64" size="1415168" crc="77e84198" md5="d6ce702be7af8132e4dee57f974935ac" sha1="23a8835ed13a366bbc692adc9299b3ba4b6f5e1c" sha256="7e02513592851ce0052ebf1f342d36afa84fefb4a05faa2916abcf67e1127c41"/>
+	</game>
+	<game name="Flappy Bird (World) (v1.1) (Aftermarket) (Unl)" id="1272" cloneofid="1269">
+		<category>Games</category>
+		<description>Flappy Bird (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Flappy Bird (World) (v1.1) (Aftermarket) (Unl).z64" size="1052672" crc="8c715ce6" md5="4e891d115a877a62d82f0498906762f0" sha1="d1c3b6a8db7d41de60cebad4502c950d025f5678" sha256="553951623fef5404a4f621eeed709da8c8ab0da44935f21ee1ac6f0cc23f69c6"/>
+	</game>
+	<game name="Flappy Bird (World) (v1.0) (Aftermarket) (Unl)" id="1273" cloneofid="1269">
+		<category>Games</category>
+		<description>Flappy Bird (World) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Flappy Bird (World) (v1.0) (Aftermarket) (Unl).z64" size="1052672" crc="455599c0" md5="3ee890905a76accc2754a262b59c5544" sha1="065a4f1135acc0410e1212d33f41e80661c1908c" sha256="f246c47c26b8b6b2641a9c656a1c39b5db3f6c63e47457f272edbfcd79e5fdc5"/>
+	</game>
+	<game name="Flood64 (World) (En,Fr,Es) (Aftermarket) (Unl)" id="1178">
+		<category>Games</category>
+		<description>Flood64 (World) (En,Fr,Es) (Aftermarket) (Unl)</description>
+		<rom name="Flood64 (World) (En,Fr,Es) (Aftermarket) (Unl).z64" size="8388608" crc="bd94016e" md5="4b175ed0f7ebcb74f529af2e482fdf96" sha1="3b0ccd0d847d8fe2d9ec18ae8587a0184caae011" sha256="3434bfe3df0208ff05afbced300f572b81f78c43377c253c8798a61d7b32ac06"/>
+	</game>
+	<game name="Funnel Cube (World) (Demo) (Aftermarket) (Unl)" id="1261">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Funnel Cube (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Funnel Cube (World) (Demo) (Aftermarket) (Unl).z64" size="1048576" crc="c22b7439" md5="5193aadabf362ab0ae097388135360b5" sha1="72bdbe0f123273e5927ee3110f0bf56839e85b96" sha256="bf2ae767ff1d29f43e235bf19a062601e9594b012a360092c34bfc719e32b961"/>
+	</game>
+	<game name="Glamorous Zombie Flakes (World) (Aftermarket) (Unl)" id="1174">
+		<category>Games</category>
+		<description>Glamorous Zombie Flakes (World) (Aftermarket) (Unl)</description>
+		<rom name="Glamorous Zombie Flakes (World) (Aftermarket) (Unl).z64" size="3340016" crc="acd6288f" md5="de127aa55773643e1600fe2b4c69bdbe" sha1="76779ae67a320c806d8745f60a98a399aaa8af8b" sha256="15232963b5fd553cb81fd95f0ccfecbeec318575b9145dc3ecd88dfb9ad9b35f"/>
+	</game>
+	<game name="Glover (USA) (En,Fr,De) (Aftermarket) (Unl)" id="1182" cloneofid="0265">
+		<category>Games</category>
+		<description>Glover (USA) (En,Fr,De) (Aftermarket) (Unl)</description>
+		<rom name="Glover (USA) (En,Fr,De) (Aftermarket) (Unl).z64" size="8388608" crc="9fb6a52b" md5="e2967f0a257f870d53af51e887c0d501" sha1="ba11111caa12764ebb1bb83a93af4094d80018b5" sha256="50ab53161132f657722c19e69852e69d03db0bc097732cbc245a05cd949bd822" serial="NGVE"/>
+	</game>
+	<game name="Juic'n 64 (World) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl)" id="1210">
+		<category>Games</category>
+		<description>Juic'n 64 (World) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Juic'n 64 (World) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl).z64" size="4194304" crc="7adfe261" md5="2fd4db302515e520b13b5de7affa7a5a" sha1="9f38df24db233567d6357f5dc1f72be3f3b524d1" sha256="7823d7d64c790cab8129b1bfba41b555ab5efe7cddbc092884f2b1814027a5f1"/>
+	</game>
+	<game name="Juic'n 64 (World) (N64brew Game Jam 2020) (PAL) (Aftermarket) (Unl)" id="1211" cloneofid="1210">
+		<category>Games</category>
+		<description>Juic'n 64 (World) (N64brew Game Jam 2020) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Juic'n 64 (World) (N64brew Game Jam 2020) (PAL) (Aftermarket) (Unl).z64" size="4194304" crc="0c182775" md5="9e0c14fca6628a37528c9a8abbc6dfd6" sha1="3034b250fec773d48fe5b5b29cf8a8880292e581" sha256="ba6301bb55d3b97913e6853d095ffbd337716294917e8534cd5fe92066497b6f"/>
+	</game>
+	<game name="Jumping Fox (World) (Aftermarket) (Unl)" id="1288">
+		<category>Games</category>
+		<description>Jumping Fox (World) (Aftermarket) (Unl)</description>
+		<rom name="Jumping Fox (World) (Aftermarket) (Unl).z64" size="1052672" crc="86fd0fd2" md5="41554c364a84a305ab482136d3dfac96" sha1="636c1beddb3dd30f6ff3bf65257f210279766ec0" sha256="e188b28d06d1bb90747a91760008857a3522b9b58317ff6ef9730840686792d3"/>
+	</game>
+	<game name="Kumi-Daiko Beatoff 64 (World) (N64brew Game Jam 2020) (Aftermarket) (Unl)" id="1203">
+		<category>Games</category>
+		<description>Kumi-Daiko Beatoff 64 (World) (N64brew Game Jam 2020) (Aftermarket) (Unl)</description>
+		<rom name="Kumi-Daiko Beatoff 64 (World) (N64brew Game Jam 2020) (Aftermarket) (Unl).z64" size="3126896" crc="78e87443" md5="8ccbdcdb66980f9d2eb9f603afec5528" sha1="4931f1fe24080fcb2340a848d1c099b4c8e36c86" sha256="52970a7a1cdfad5842e6cc5b845a863a4e5289a4fc106ba0ed8621eadb1ca1a3"/>
+	</game>
+	<game name="Legend of Zelda, The - The Sealed Palace (USA) (v1.3) (Aftermarket) (Pirate)" id="1176">
+		<category>Games</category>
+		<description>Legend of Zelda, The - The Sealed Palace (USA) (v1.3) (Aftermarket) (Pirate)</description>
+		<rom name="Legend of Zelda, The - The Sealed Palace (USA) (v1.3) (Aftermarket) (Pirate).z64" size="33554432" crc="91c1b340" md5="c65d67dd5b61ebc1f58d7202dde78bbe" sha1="177a175bcea116ccc92f70fe2255ad3ae3294f13" sha256="b382a5a121663afe0d98c4ab685bea047b7cc61d103c3394af65973b08f89b3e"/>
+	</game>
+	<game name="Legend of Zelda, The - The Sealed Palace (USA) (v1.21) (Aftermarket) (Pirate)" id="1177" cloneofid="1176">
+		<category>Games</category>
+		<description>Legend of Zelda, The - The Sealed Palace (USA) (v1.21) (Aftermarket) (Pirate)</description>
+		<rom name="Legend of Zelda, The - The Sealed Palace (USA) (v1.21) (Aftermarket) (Pirate).z64" size="33554432" crc="4d72d2d5" md5="2ad2a06456ea7d3b231cf9e406e6ae76" sha1="dc3d797f94259227796f283151f29cfae2212dd2" sha256="cd9730968e562b7167b76d4cef652ef5c66457b21011e53b00815adde949f321"/>
+	</game>
+	<game name="Legend of Zelda, The - The Sealed Palace (World) (Aftermarket) (Pirate)" id="1197" cloneofid="0375">
+		<category>Games</category>
+		<description>Legend of Zelda, The - The Sealed Palace (World) (Aftermarket) (Pirate)</description>
+		<rom name="Legend of Zelda, The - The Sealed Palace (World) (Aftermarket) (Pirate).z64" size="33554432" crc="6c37a0a1" md5="9d6527e6228969a9a0feea47dcc5aaec" sha1="75d1f1cc77621ae70257c354b62fb28956b8f396" sha256="2b53830ab3989d856f202a884d1bcc6a544aae67ac674c29c08d4127a8d2dd42"/>
+	</game>
+	<game name="Lunar Assault 64 (World) (v1.2) (NTSC) (Aftermarket) (Unl)" id="1204">
+		<category>Games</category>
+		<description>Lunar Assault 64 (World) (v1.2) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Lunar Assault 64 (World) (v1.2) (NTSC) (Aftermarket) (Unl).z64" size="8388608" crc="cc382df0" md5="e391b698cc369d90cb98fcb273b79e9a" sha1="9c5903d527aa16a5aab79944ba7ad555ea4ebade" sha256="6b4d61a87a80c9732505957962bb0a76e1ef6b52a4585b174eef8711c3a05c22"/>
+	</game>
+	<game name="Lunar Assault 64 (World) (v1.1) (NTSC) (Aftermarket) (Unl)" id="1205" cloneofid="1204">
+		<category>Games</category>
+		<description>Lunar Assault 64 (World) (v1.1) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Lunar Assault 64 (World) (v1.1) (NTSC) (Aftermarket) (Unl).z64" size="8388608" crc="bf1de0e1" md5="e8af667ec10dea3eaffa6de63a919a63" sha1="eb9aa27dfad2a59bfa26a46ec040967db8afeb82" sha256="77c1ad48e18688e436d66c81f8a47726b168b75a90790e579be01581e6f0e59d"/>
+	</game>
+	<game name="Lunar Assault 64 (World) (v1.0) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl)" id="1207" cloneofid="1204">
+		<category>Games</category>
+		<description>Lunar Assault 64 (World) (v1.0) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Lunar Assault 64 (World) (v1.0) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl).z64" size="8388608" crc="75f4052f" md5="d0da4da6aeaca000e26b86ff7b0f20cd" sha1="95e109681f3edeea063dbe30ae6d7617f0655ae7" sha256="55b3e2d01fc292f511281f44a063d33720775511841de041d856088733fcbf27"/>
+	</game>
+	<game name="Lunar Assault 64 (World) (v1.0) (N64brew Game Jam 2020) (PAL) (Aftermarket) (Unl)" id="1208" cloneofid="1204">
+		<category>Games</category>
+		<description>Lunar Assault 64 (World) (v1.0) (N64brew Game Jam 2020) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Lunar Assault 64 (World) (v1.0) (N64brew Game Jam 2020) (PAL) (Aftermarket) (Unl).z64" size="8388608" crc="0873b7d8" md5="9f1d303b9e4788975e4b4d5cd890940b" sha1="82a4613f71ea4c73896bd7d56b00ddf4cf8667e2" sha256="b9caef0c66615953d97b2d921207fd9b1cfaf0de450205bfd1938e810f395af0"/>
+	</game>
+	<game name="Lunar Assault 64 (World) (v1.1) (PAL) (Aftermarket) (Unl)" id="1206" cloneofid="1204">
+		<category>Games</category>
+		<description>Lunar Assault 64 (World) (v1.1) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Lunar Assault 64 (World) (v1.1) (PAL) (Aftermarket) (Unl).z64" size="8388608" crc="4492d734" md5="2bb2d6295356e4a47200671ccc67b056" sha1="bf045c57a5c0570a64002f526a2fec40ac1c23b0" sha256="73dfee30d183bf505c4d4eb51132894d30a3441e718a4de4af3c914239aa84d5"/>
+	</game>
+	<game name="Magic &amp; Legend - Time Knights (World) (Demo) (Aftermarket) (Unl)" id="1266" cloneofid="1289">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Magic &amp; Legend - Time Knights (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Magic &amp; Legend - Time Knights (World) (Demo) (Aftermarket) (Unl).z64" size="1250192" crc="d8a884e4" md5="02ce2aa322a0047f5715519e06a95c55" sha1="f18cabbfbfab013447c3941c1c9899136d235ebb" sha256="bf7442ba61214bef5070c28dd7f4c4664272455049fd7f67a3f78cd530fcd8d6"/>
+	</game>
+	<game name="Magic &amp; Legend - Time Knights (World) (Aftermarket) (Unl)" id="1289">
+		<category>Games</category>
+		<description>Magic &amp; Legend - Time Knights (World) (Aftermarket) (Unl)</description>
+		<rom name="Magic &amp; Legend - Time Knights (World) (Aftermarket) (Unl).z64" size="2097152" crc="7ddd4986" md5="51c89fca1dbc2fe9ea76fb982ee65e9c" sha1="ad00680903816e6c00941b6ec5ff2fc2a4307467" sha256="07aafafd48eaccf0e6315d2e905f64b786bb2607e3d7957af4f5ad411779f06c"/>
+	</game>
+	<game name="Megatextures (World) (Demo) (N64brew Game Jam 2023) (Aftermarket) (Unl)" id="1249">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Megatextures (World) (Demo) (N64brew Game Jam 2023) (Aftermarket) (Unl)</description>
+		<rom name="Megatextures (World) (Demo) (N64brew Game Jam 2023) (Aftermarket) (Unl).z64" size="48373160" crc="b3225f89" md5="dda13a5195451f84f472d1d7a6b5b8d4" sha1="41777e31ecc150377d3ecc1a9990e868b02a6413" sha256="1d620f7b151b885d1e778116dcce4f3e8f1eb99530d542122b1838061218c06a"/>
+	</game>
+	<game name="Mission Lost Control (World) (N64brew Game Jam 2021) (Aftermarket) (Unl)" id="1225" cloneofid="1264">
+		<category>Games</category>
+		<description>Mission Lost Control (World) (N64brew Game Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="Mission Lost Control (World) (N64brew Game Jam 2021) (Aftermarket) (Unl).z64" size="10829280" crc="e7486d4b" md5="3ade884e09a57b2ec6cc0af4db061fca" sha1="82e5bfc204b9a75e7c322b2fac0b90f1de889541" sha256="11b5d91a0691251cee3f7be64653a3ebefc648ec2b7f6abe2a643eb1694b3222"/>
+	</game>
+	<game name="Mission Lost Control (World) (v1.1) (Aftermarket) (Unl)" id="1264">
+		<category>Games</category>
+		<description>Mission Lost Control (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Mission Lost Control (World) (v1.1) (Aftermarket) (Unl).z64" size="10829776" crc="05e4893a" md5="12dadd58fe62185a7791bc4e67232e0d" sha1="fc8dd48dba8ae7446e942cc3f3d01540c986fb2e" sha256="43ceae73b641e050fe831bcf61c0591493e073e2189fa9559e4fd94bf32854b1"/>
+	</game>
+	<game name="Mission Lost Control (World) (Itch.io) (Aftermarket) (Unl)" id="1265" cloneofid="1264">
+		<category>Games</category>
+		<description>Mission Lost Control (World) (Itch.io) (Aftermarket) (Unl)</description>
+		<rom name="Mission Lost Control (World) (Itch.io) (Aftermarket) (Unl).z64" size="10829120" crc="0c9ad843" md5="d3432b4ad7e1b1369c26448988517a57" sha1="6b34a2433333a3fe7c71b9b8dd72d2a243a73380" sha256="7f9054c082d321600018f0e695ca1f9860a01b9989a05f366102849e03834174"/>
+	</game>
+	<game name="Power Struggle (World) (N64brew Game Jam 2021) (Aftermarket) (Unl)" id="1234">
+		<category>Games</category>
+		<description>Power Struggle (World) (N64brew Game Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="Power Struggle (World) (N64brew Game Jam 2021) (Aftermarket) (Unl).z64" size="10485760" crc="e6a07215" md5="f392061d262f6aef3156d1f045c9fb18" sha1="f3eeef0ffaa705faf092d8291e31a9469d963a5e" sha256="d651fbf05ec8ac4cc88a28611bb4f1556acf0286575377b3e8ca89e70f1b940e"/>
+	</game>
+	<game name="Pyoro 64 (Unknown) (PAL) (Aftermarket) (Unl)" id="1097">
+		<description>Pyoro 64 (Unknown) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Pyoro 64 (Unknown) (PAL) (Aftermarket) (Unl).z64" size="2097152" crc="1ee17b37" md5="250ad6be7e97306364bfd8f420204d8a" sha1="be40f97a7d29ede80fb83412f60264c73d49e495" sha256="0b070aec1fe852915ec295b877108b0d774c9a1bcd930306ced1698df00ced24" serial="BPYI"/>
+	</game>
+	<game name="Pyoro 64 (Unknown) (MPAL) (Aftermarket) (Unl)" id="1098" cloneofid="1097">
+		<description>Pyoro 64 (Unknown) (MPAL) (Aftermarket) (Unl)</description>
+		<rom name="Pyoro 64 (Unknown) (MPAL) (Aftermarket) (Unl).z64" size="2097152" crc="b8874c09" md5="b98d8a94fe2f02384cb923fbb2f9d57e" sha1="f5cd5146b934d2a9675f55c5cc7952841f67e0f0" sha256="20153369e3be2bd47e3e7a5f8280ed3129c45aaef8904cf3e4fc85ecccc05186" serial="BPYB"/>
+	</game>
+	<game name="Pyoro 64 (Unknown) (NTSC) (Aftermarket) (Unl)" id="1096" cloneofid="1097">
+		<description>Pyoro 64 (Unknown) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Pyoro 64 (Unknown) (NTSC) (Aftermarket) (Unl).z64" size="2097152" crc="b7ebddc6" md5="2ac0f88bea02d67896ffeae9e8ec72e7" sha1="3b867ce49f4c2805604adc94d0419cbc82ac07f4" sha256="fc3539c45589f79fea2b30a7d5586b4f5d7c3dfbed4eef263bbecec1bfbefcd8" serial="BPYE"/>
+	</game>
+	<game name="Retro Dash (World) (N64brew Game Jam 2020) (Aftermarket) (Unl)" id="1215">
+		<category>Games</category>
+		<description>Retro Dash (World) (N64brew Game Jam 2020) (Aftermarket) (Unl)</description>
+		<rom name="Retro Dash (World) (N64brew Game Jam 2020) (Aftermarket) (Unl).z64" size="2097152" crc="f853037f" md5="989f407b99f9f979c3daf052422c07f4" sha1="84ef1374bdb2aff153525efdbfe7ad8ce14846a5" sha256="f8a95698293dc6f66d87cd4132d50925143d59d8954a0495242bd8bda9dd097d"/>
+	</game>
+	<game name="Sand Castle Clamour (World) (N64brew Game Jam 2023) (Aftermarket) (Unl)" id="1250">
+		<category>Games</category>
+		<description>Sand Castle Clamour (World) (N64brew Game Jam 2023) (Aftermarket) (Unl)</description>
+		<rom name="Sand Castle Clamour (World) (N64brew Game Jam 2023) (Aftermarket) (Unl).z64" size="2883584" crc="72ef39f8" md5="cd52af02bfc2e7d088f0306157ff9774" sha1="7877e3d04e37412134cb168ce14cc993bed20d8f" sha256="366bf682f8aefe4784406f1a07e61e15db06f525705b6f0036503e48c242242f"/>
+	</game>
+	<game name="Sand City (World) (N64brew Game Jam 2023) (Aftermarket) (Unl)" id="1251">
+		<category>Games</category>
+		<description>Sand City (World) (N64brew Game Jam 2023) (Aftermarket) (Unl)</description>
+		<rom name="Sand City (World) (N64brew Game Jam 2023) (Aftermarket) (Unl).z64" size="56868864" crc="6bfbd2f8" md5="6fc90547cbfae1343ba2f91739ee3e25" sha1="49fbe671b650129f108d105d4b5797d4ba6522f1" sha256="7ac90c35487721ca98334d04cbc78f956b1b2c3501a5d5816c72bdba35cdce61"/>
+	</game>
+	<game name="Sblobber 64 (World) (N64brew Game Jam 2020) (Aftermarket) (Unl)" id="1175">
+		<category>Games</category>
+		<description>Sblobber 64 (World) (N64brew Game Jam 2020) (Aftermarket) (Unl)</description>
+		<rom name="Sblobber 64 (World) (N64brew Game Jam 2020) (Aftermarket) (Unl).z64" size="5819136" crc="a2369a35" md5="9dc86c6796476e70e10f6f3664a13898" sha1="afd57182a2c5724d0366f5ddfafc071dd58bbfd7" sha256="9ca33f811658b79d2a94fab3790fee955a389eb8c16c8bab2bed7cceb4df90c5"/>
+	</game>
+	<game name="Shrunk in the Wash (World) (N64brew Game Jam 2020) (Aftermarket) (Unl)" id="1212">
+		<category>Games</category>
+		<description>Shrunk in the Wash (World) (N64brew Game Jam 2020) (Aftermarket) (Unl)</description>
+		<rom name="Shrunk in the Wash (World) (N64brew Game Jam 2020) (Aftermarket) (Unl).z64" size="2097152" crc="18c975ed" md5="bcc16f61792b6fc0acfac6471b2930b2" sha1="a284fda00c361a1fbd817154778051cf9ef33a8e" sha256="3015a75000de9f92a7259de4b72f5a98bd944c8b9badef1490257a4ca5209d3e"/>
+	</game>
+	<game name="Shufflepuck 64 (World) (Aftermarket) (Unl)" id="1277">
+		<category>Games</category>
+		<description>Shufflepuck 64 (World) (Aftermarket) (Unl)</description>
+		<rom name="Shufflepuck 64 (World) (Aftermarket) (Unl).z64" size="3932160" crc="dddda2c6" md5="37149c4064a1d120b9f4f5482a915262" sha1="0cbb7d34864dadf74beb07eeee1e34761ec2d6fe" sha256="9aa6b80298ecbd43ec902e65c777179b87b2ec5c282cd2ea85b43883bd361ea9"/>
+	</game>
+	<game name="Simpson Kart 64 (World) (Aftermarket) (Pirate)" id="1195" cloneofid="0410">
+		<category>Games</category>
+		<description>Simpson Kart 64 (World) (Aftermarket) (Pirate)</description>
+		<rom name="Simpson Kart 64 (World) (Aftermarket) (Pirate).z64" size="16777216" crc="b39d26a4" md5="f1e6f4acb88c9e2950e173c1697f10f1" sha1="fcbedaaf757d25923c5b1fa2d8f7e95437557800" sha256="9f6db280997e3c0ac43960c5254c5ac2e7d48e18e8a6011c1a2e2f434dbe4f50"/>
+	</game>
+	<game name="Slasher Kart 64 (World) (Aftermarket) (Pirate)" id="1196" cloneofid="0410">
+		<category>Games</category>
+		<description>Slasher Kart 64 (World) (Aftermarket) (Pirate)</description>
+		<rom name="Slasher Kart 64 (World) (Aftermarket) (Pirate).z64" size="16777216" crc="c1d3ea7c" md5="ef7e8f7c8060df356a482f96cf357c02" sha1="521c4647dffd7996e92f6e3a5d7274ed21aa2e52" sha256="ce1159dc6928d7b6961ddcd4a6df501d816d26e02b72f1b59e7f1cffa7e9c577"/>
+	</game>
+	<game name="Slime Heist (World) (N64brew Game Jam 2022) (Aftermarket) (Unl)" id="1244">
+		<category>Games</category>
+		<description>Slime Heist (World) (N64brew Game Jam 2022) (Aftermarket) (Unl)</description>
+		<rom name="Slime Heist (World) (N64brew Game Jam 2022) (Aftermarket) (Unl).z64" size="4194304" crc="828f1b4c" md5="ad13b661bb17f357d52f7d95aff51bec" sha1="5326cf8cecab42a61843860fedc3583612b76c40" sha256="7cc2dbf82104cc8c3504c26dd8d290b9f7798a4666a57c414eb4e59c590ffb81"/>
+	</game>
+	<game name="Spirit Harvest (World) (Demo) (N64brew Game Jam 2022) (Aftermarket) (Unl)" id="1241">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Spirit Harvest (World) (Demo) (N64brew Game Jam 2022) (Aftermarket) (Unl)</description>
+		<rom name="Spirit Harvest (World) (Demo) (N64brew Game Jam 2022) (Aftermarket) (Unl).z64" size="16777216" crc="2c66bcb4" md5="7cfd1b4277b817e1b704f4d53feef1e4" sha1="e816f6b4af374b0a07db477be924bcfa0875fcc8" sha256="72c1a54710e38c233a548d99b7627b53bdb32fe4e3f4437b1fee96f9925e119a"/>
+	</game>
+	<game name="Star Wars - Shadows of the Empire (USA) (Aftermarket) (Unl)" id="1075" cloneofid="0694">
+		<description>Star Wars - Shadows of the Empire (USA) (Aftermarket) (Unl)</description>
+		<rom name="Star Wars - Shadows of the Empire (USA) (Aftermarket) (Unl).z64" size="16777216" crc="776a069b" md5="4e12b97690897465a27bdf0dda722826" sha1="6932f8b10a5de27500521de50d04e3ba097dd9d9" sha256="5d5dc9aba45563bcd4a2bced42c865ca8916f2ce9a335c83e9e4e764ac6c2994" status="verified" serial="NSWE"/>
+	</game>
+	<game name="Star Wars Episode I - Racer (USA) (Aftermarket) (Unl)" id="1074" cloneofid="0702">
+		<description>Star Wars Episode I - Racer (USA) (Aftermarket) (Unl)</description>
+		<rom name="Star Wars Episode I - Racer (USA) (Aftermarket) (Unl).z64" size="33554432" crc="fb401a2a" md5="0b2b4d3c38426763059d68aa53b86fdf" sha1="f71908f15a14ee124f9b471467432ade87e0951c" sha256="314730e75239c074b896af47d53dc0a5746131bcfc8b925795e4933fee5de147" status="verified" serial="NEPE"/>
+	</game>
+	<game name="Styx (World) (N64brew Game Jam 2022) (Aftermarket) (Unl)" id="1179">
+		<category>Games</category>
+		<description>Styx (World) (N64brew Game Jam 2022) (Aftermarket) (Unl)</description>
+		<rom name="Styx (World) (N64brew Game Jam 2022) (Aftermarket) (Unl).z64" size="6767408" crc="7b5cfaea" md5="542bed9c63d531a7b180ba31924da728" sha1="6a934bb7583d5e2bda89ad8e42f2c5965917d446" sha256="ab7b901d61a7b7b85e8b5ce212e36b61b187b73369c6661d3595a00951f55313"/>
+	</game>
+	<game name="Sub Mare Imperium - Derelict 64 (World) (Proto) (Aftermarket) (Unl)" id="1275">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Sub Mare Imperium - Derelict 64 (World) (Proto) (Aftermarket) (Unl)</description>
+		<rom name="Sub Mare Imperium - Derelict 64 (World) (Proto) (Aftermarket) (Unl).z64" size="1064960" crc="adddbba9" md5="c496598a657b06ba752ccc43b0e7b555" sha1="ee46984600d010243249365a5ab8314602d90bba" sha256="1f26ca70921156f8ea3169f28c7f8ecfc337fe69e3c12359296d3fd5124d2c29"/>
+	</game>
+	<game name="SUGGOH (World) (v1.0) (Demo) (N64brew Game Jam 2021) (Aftermarket) (Unl)" id="1236" cloneofid="1235">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>SUGGOH (World) (v1.0) (Demo) (N64brew Game Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="SUGGOH (World) (v1.0) (Demo) (N64brew Game Jam 2021) (Aftermarket) (Unl).z64" size="1052672" crc="8c5908aa" md5="0416c95e67f1f3a4a3c3fd063f31ad9e" sha1="e768de351fbc8ea4034494a522f700526f4a57b1" sha256="a4bdcf2d6e03634461ff36f0a5b90e33e8ca050e374d77c2b5a26c5aa125252a"/>
+	</game>
+	<game name="SUGGOH (World) (v1.1) (Demo) (Aftermarket) (Unl)" id="1235">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>SUGGOH (World) (v1.1) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="SUGGOH (World) (v1.1) (Demo) (Aftermarket) (Unl).z64" size="1052672" crc="cde7d5de" md5="eff45e94145cbd6001ab636c04340a91" sha1="51efb63e34c576beff7f1934c33eec8815e10c59" sha256="67955a72df1177440fd1f785736b6f2f03cdd3070b6b72c24c63b41f09e4f995"/>
+	</game>
+	<game name="Summer's Story (World) (N64brew Game Jam 2023) (Aftermarket) (Unl)" id="1252">
+		<category>Games</category>
+		<description>Summer's Story (World) (N64brew Game Jam 2023) (Aftermarket) (Unl)</description>
+		<rom name="Summer's Story (World) (N64brew Game Jam 2023) (Aftermarket) (Unl).z64" size="20086784" crc="ef93e01d" md5="b039ffd0fff45dce4f25f63834b9ce42" sha1="1fa8ed1bc41a644b3ce999674ef84ca819d09511" sha256="d772ad7027a1bb84456a58d2163d14d07957d5f208f3bd0400e44c869a01014b"/>
+	</game>
+	<game name="Super Snooper Spookers (World) (Proto) (N64brew Game Jam 2022) (Aftermarket) (Unl)" id="1239">
+		<category>Games</category>
+		<description>Super Snooper Spookers (World) (Proto) (N64brew Game Jam 2022) (Aftermarket) (Unl)</description>
+		<rom name="Super Snooper Spookers (World) (Proto) (N64brew Game Jam 2022) (Aftermarket) (Unl).z64" size="8060928" crc="84d1f24f" md5="b52b2e09892579384f271dba78060555" sha1="71986cd816cc075bf31766295b3edbc7aaaa9acc" sha256="1c0e3b07f70a4a2fe24e162c8e985817b0283a8876672b3edfddf6129b1c14d4"/>
+	</game>
+	<game name="Swamp Hero 64 (World) (Proto) (N64brew Game Jam 2022) (Aftermarket) (Unl)" id="1245">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Swamp Hero 64 (World) (Proto) (N64brew Game Jam 2022) (Aftermarket) (Unl)</description>
+		<rom name="Swamp Hero 64 (World) (Proto) (N64brew Game Jam 2022) (Aftermarket) (Unl).z64" size="1125001" crc="cc05b6e0" md5="29fa9a270a4b09eb78fc36e97ad4f9d3" sha1="04dda1ac81bc34d6725654a3ba6c0fee7e46f883" sha256="4e3030a9434cc441216bea60df92f2805ba04bb39b96f77c63e06427cb58f9df"/>
+	</game>
+	<game name="Swoop 64, The (World) (N64brew Game Jam 2020) (Aftermarket) (Unl)" id="1166">
+		<category>Games</category>
+		<description>Swoop 64, The (World) (N64brew Game Jam 2020) (Aftermarket) (Unl)</description>
+		<rom name="Swoop 64, The (World) (N64brew Game Jam 2020) (Aftermarket) (Unl).z64" size="11912592" crc="c31fc3cd" md5="eb0b4d1541e40103c48c05f7baa78c41" sha1="dbecf5099b574cda8f32e7f6ed90b60ed6caa2a3" sha256="98a7104446ef2202429cd4397486846c39fda14ee26e1877c4e47670c2f29a25"/>
+	</game>
+	<game name="Tandem Trouble (World) (Demo) (N64brew Game Jam 2021) (NTSC) (Aftermarket) (Unl)" id="1237">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Tandem Trouble (World) (Demo) (N64brew Game Jam 2021) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Tandem Trouble (World) (Demo) (N64brew Game Jam 2021) (NTSC) (Aftermarket) (Unl).z64" size="2097152" crc="01355455" md5="fc12754afcb195005fc4c5c8e2718b11" sha1="94a7277440e2aab14653af24c0fc83f715539e5d" sha256="8da771b22ad721bd45e74facc75bb76da33d97aa05a952ae0264f42cd5ed74f5"/>
+	</game>
+	<game name="Tandem Trouble (World) (Demo) (N64brew Game Jam 2021) (PAL) (Aftermarket) (Unl)" id="1238" cloneofid="1237">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Tandem Trouble (World) (Demo) (N64brew Game Jam 2021) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Tandem Trouble (World) (Demo) (N64brew Game Jam 2021) (PAL) (Aftermarket) (Unl).z64" size="2097152" crc="af34b718" md5="2c7d3053fd9dea259b1cccea0e215038" sha1="61b1ca51f802f12e9ff7e6043385f23020668d12" sha256="ebdc2892e8ece62ae035dbf92c2738f4f222072072d1957f3983b70d9624e66b"/>
+	</game>
+	<game name="Tecto (World) (v1.1) (Aftermarket) (Unl)" id="1213">
+		<category>Games</category>
+		<description>Tecto (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Tecto (World) (v1.1) (Aftermarket) (Unl).z64" size="4194304" crc="c1f0dabe" md5="843f0cce7531b35d4393a83e29cee4fa" sha1="cc51b2e59fb7972ae12b28655285c17fb61a16ba" sha256="4e303cdaa1491b489c19937b2a5cb623d2fb1ad0f33a302a858ea1425308436c"/>
+	</game>
+	<game name="Tecto (World) (v1.0) (N64brew Game Jam 2020) (Aftermarket) (Unl)" id="1214" cloneofid="1213">
+		<category>Games</category>
+		<description>Tecto (World) (v1.0) (N64brew Game Jam 2020) (Aftermarket) (Unl)</description>
+		<rom name="Tecto (World) (v1.0) (N64brew Game Jam 2020) (Aftermarket) (Unl).z64" size="4194304" crc="6672c59b" md5="25f4578b0732c851a7224c6fea530125" sha1="a8a10c2a5d2790190a0769426c399ad404d770fd" sha256="63f858e501f46e2e64e6ab9ac0f34ef20987fb1d170a5b675b9802436f833e41"/>
+	</game>
+	<game name="Telocation - Gemini (World) (64Brew Game Jam 2020) (Aftermarket) (Unl)" id="1191" cloneofid="1122">
+		<category>Games</category>
+		<description>Telocation - Gemini (World) (64Brew Game Jam 2020) (Aftermarket) (Unl)</description>
+		<rom name="Telocation - Gemini (World) (64Brew Game Jam 2020) (Aftermarket) (Unl).z64" size="3080192" crc="7e130df8" md5="03af8f67ee32c964eeeafe75647a85d2" sha1="7fa18e7a0851ce7f5dbfff5ee02dc613fec338d5" sha256="202fdb28c7efe998125000bae3c1a328327403f7957b13f983f7180a2ffd4203"/>
+	</game>
+	<game name="Test 3rd Person Demo (World) (Demo) (N64brew Game Jam 2020) (Aftermarket) (Unl)" id="1216">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Test 3rd Person Demo (World) (Demo) (N64brew Game Jam 2020) (Aftermarket) (Unl)</description>
+		<rom name="Test 3rd Person Demo (World) (Demo) (N64brew Game Jam 2020) (Aftermarket) (Unl).z64" size="4194304" crc="71b21c2b" md5="24fb9a8f43dbee37589dd5ef363c6aa2" sha1="6d9ac258955ce71769fa778c0bfc6921de351312" sha256="a1ba172a08614d56c8aed2ad524d05fb5dbd8aca95d8db72668c05eec62b9b8e"/>
+	</game>
+	<game name="Thornmarked (World) (Demo) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl)" id="1217">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Thornmarked (World) (Demo) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Thornmarked (World) (Demo) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl).z64" size="2591882" crc="3341ae83" md5="36c572325088fbf5661dfc7befb70f4e" sha1="593cd55ab2c01d68bb3b5ad60e3e579a06361dac" sha256="f5a890e086569cae7dbb34774d037729bb0bef9c5449d9d973f4469b21ae6611"/>
+	</game>
+	<game name="Thornmarked (World) (Demo) (N64brew Game Jam 2020) (PAL) (Aftermarket) (Unl)" id="1218" cloneofid="1217">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Thornmarked (World) (Demo) (N64brew Game Jam 2020) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Thornmarked (World) (Demo) (N64brew Game Jam 2020) (PAL) (Aftermarket) (Unl).z64" size="2591882" crc="d55bd64f" md5="6469c36b80804639e1853b9c4ffdbcce" sha1="c70c81e246bd2e04dbd03c24be7146cc2529afdc" sha256="de3ad7d42a32efc9647a6dd355a627b860f3efb694e0667cc10468692e2a5d5a"/>
+	</game>
+	<game name="Tic Tac Toe 64 (World) (Aftermarket) (Unl)" id="1253">
+		<category>Games</category>
+		<description>Tic Tac Toe 64 (World) (Aftermarket) (Unl)</description>
+		<rom name="Tic Tac Toe 64 (World) (Aftermarket) (Unl).z64" size="1064960" crc="af729b90" md5="273c65c52f38ce8ef3b9092350806fc7" sha1="b91745ebd5bf21e4a0887e7cab702d3395605158" sha256="232e7986e4d0268fc00fef34f869a3c8661c6d6201da9d77f8bd1748019c21ac"/>
+	</game>
+	<game name="Tiny Nightmare (World) (Demo) (N64brew Game Jam 2022) (Aftermarket) (Unl)" id="1246">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Tiny Nightmare (World) (Demo) (N64brew Game Jam 2022) (Aftermarket) (Unl)</description>
+		<rom name="Tiny Nightmare (World) (Demo) (N64brew Game Jam 2022) (Aftermarket) (Unl).z64" size="1052672" crc="92df9a96" md5="1d2d9d1513a14d05a54d93e67f007d92" sha1="dfae392ebdda7eecd940ad1d240c84cbebbc697d" sha256="263a38b693e259d03d5d80378f21c410c8e5dd7f2e8530c3768778960a011c08"/>
+	</game>
+	<game name="Voidblade (World) (N64brew Game Jam 2021) (Aftermarket) (Unl)" id="1226">
+		<category>Games</category>
+		<description>Voidblade (World) (N64brew Game Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="Voidblade (World) (N64brew Game Jam 2021) (Aftermarket) (Unl).z64" size="9371648" crc="2816b2bb" md5="fedcad4ec658743d99d7587434076e69" sha1="be87adb33d80634741c004e0c7f736c59f6c7537" sha256="3c231f310f2c81171ad85456b0f4d8006b98e103c39d53e22a9f38d72ee2ce47"/>
+	</game>
+	<game name="Wizard of the Board (World) (N64brew Game Jam 2021) (NTSC) (Aftermarket) (Unl)" id="1180">
+		<category>Games</category>
+		<description>Wizard of the Board (World) (N64brew Game Jam 2021) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Wizard of the Board (World) (N64brew Game Jam 2021) (NTSC) (Aftermarket) (Unl).z64" size="8388608" crc="50d29638" md5="06ea696a8d4840f70c9bd7f0670194d6" sha1="a8d3c7f2563cfba2c6bd3354c8f07309e5425785" sha256="5c6899205a184ccb75292242007599e330768da96f3047af6a5b8c3eb3ed10c7"/>
+	</game>
+	<game name="Wizard of the Board (World) (N64brew Game Jam 2021) (PAL) (Aftermarket) (Unl)" id="1181" cloneofid="1180">
+		<category>Games</category>
+		<description>Wizard of the Board (World) (N64brew Game Jam 2021) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Wizard of the Board (World) (N64brew Game Jam 2021) (PAL) (Aftermarket) (Unl).z64" size="8388608" crc="b51a283c" md5="9155a67aa77a568bf4612c7eea7c00f3" sha1="2ab6bf1188714cfe9fabd3a51a655a9a33e75c36" sha256="e64a9c6f047e2d5c7cfec2c1b81a2ff8b3df4acb0f82ba310b203ff80edcb084"/>
+	</game>
+	<game name="Wizard of the Board - Sicko Mode (World) (Aftermarket) (Unl)" id="1256">
+		<category>Games</category>
+		<description>Wizard of the Board - Sicko Mode (World) (Aftermarket) (Unl)</description>
+		<rom name="Wizard of the Board - Sicko Mode (World) (Aftermarket) (Unl).z64" size="8388608" crc="08c8c8c3" md5="22ef313d62f47b366cc35ac43126a99c" sha1="0231f77f8c8fc3fb7d820db8badd08b336e915df" sha256="340011871959c89514fdf4513053f196afe16ec1c30d31061940af8bc7922f33"/>
+	</game>
+	<game name="Worms Armageddon (USA) (En,Fr,Es) (Aftermarket) (Unl)" id="1183" cloneofid="0855">
+		<category>Games</category>
+		<description>Worms Armageddon (USA) (En,Fr,Es) (Aftermarket) (Unl)</description>
+		<rom name="Worms Armageddon (USA) (En,Fr,Es) (Aftermarket) (Unl).z64" size="12582912" crc="85f1e911" md5="096c6f823f32f931cc1319855578049d" sha1="a07cd80155b0845b8f1d9c30a9e5af169a447897" sha256="794945d2db742007d6ca98787827a31834db9684513a563c6b31e13612a8fcee" status="verified" serial="NADE"/>
+	</game>
+	<game name="Yeti3D Pro (World) (Aftermarket) (Unl)" id="1258">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Yeti3D Pro (World) (Aftermarket) (Unl)</description>
+		<rom name="Yeti3D Pro (World) (Aftermarket) (Unl).z64" size="8388608" crc="5ac6e8fa" md5="bd2b39dacdad7541148d3b26cdf60f1d" sha1="424cf16381cfe814b78ab57fd54faaaf0b59b848" sha256="33166d709bff344033aa4700f58f354912fc2ed88a295cbaa2bd409c647d271a"/>
+	</game>
+	<game name="ZZ Gunner (World) (N64brew Game Jam 2021) (Aftermarket) (Unl)" id="1240">
+		<category>Games</category>
+		<description>ZZ Gunner (World) (N64brew Game Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="ZZ Gunner (World) (N64brew Game Jam 2021) (Aftermarket) (Unl).z64" size="3096576" crc="f70eaf6e" md5="1dea2e7699a150237f65565ac6317eca" sha1="f3632f38032e84a1647312288faefdd7fd1a0714" sha256="b1904e80b6481d5cedf8bec43806122461b56c154220c6c8e3e20135994aa7bf"/>
+	</game>
+</datafile>

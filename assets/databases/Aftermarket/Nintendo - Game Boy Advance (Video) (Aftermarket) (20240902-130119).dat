@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>297</id>
+		<name>Nintendo - Game Boy Advance (Video) (Aftermarket)</name>
+		<description>Nintendo - Game Boy Advance (Video) (Aftermarket)</description>
+		<version>20240902-130119</version>
+		<author>BigFred, C. V. Reynolds, DeadSkullzJr, Hiccup, kazumi213, omonim2007, Psychofox11, psykopat, relax, SonGoku, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Dinosaur Office (World) (Aftermarket) (Unl)" id="0056">
+		<category>Video</category>
+		<description>Dinosaur Office (World) (Aftermarket) (Unl)</description>
+		<rom name="Dinosaur Office (World) (Aftermarket) (Unl).gba" size="15237120" crc="d8aae820" md5="4fa5d58a9267799c8431649fb6262eec" sha1="24feb8a0f36428461be8ecbb7add65f43dc1366e" sha256="5a791e3c8ee9e6a2e09ca7fc4886c04c2cd109fb5773898f2f026f805d27bd78"/>
+	</game>
+	<game name="Dinosaur Office - Bring Your Child to Work Day (World) (Aftermarket) (Unl)" id="0057">
+		<category>Video</category>
+		<description>Dinosaur Office - Bring Your Child to Work Day (World) (Aftermarket) (Unl)</description>
+		<rom name="Dinosaur Office - Bring Your Child to Work Day (World) (Aftermarket) (Unl).gba" size="12222464" crc="3de24b84" md5="4f5c0caa99547ec0fc77c61a47afe6da" sha1="63938be2d2e357b9644de8dc452f6f4195911618" sha256="d5993b61bc5e34e1b8e37ef92cf2f06a32a03eed5e51d0b0c667dd1243df9edb"/>
+	</game>
+	<game name="Dinosaur Office - Computer Problems (World) (Aftermarket) (Unl)" id="0058">
+		<category>Video</category>
+		<description>Dinosaur Office - Computer Problems (World) (Aftermarket) (Unl)</description>
+		<rom name="Dinosaur Office - Computer Problems (World) (Aftermarket) (Unl).gba" size="15990784" crc="8a05677f" md5="78b25aaafa94dc041dc74797c4c33932" sha1="664c1568e601bf6e51920bca85d096aa6e06f5e2" sha256="0e6a8f334e5a516dc307c5bda55728c6792dd0314ae53914842b5349671758b3"/>
+	</game>
+	<game name="Dinosaur Office - Gym (World) (Aftermarket) (Unl)" id="0059">
+		<category>Video</category>
+		<description>Dinosaur Office - Gym (World) (Aftermarket) (Unl)</description>
+		<rom name="Dinosaur Office - Gym (World) (Aftermarket) (Unl).gba" size="12419072" crc="9dc8f035" md5="4a11c738c2444d2f3bbd38f852604269" sha1="062fcb78d9f9058ff9427f123fbb36db77fca20b" sha256="b7459371e1244e42fa1e77e7ae31492a13018a24f0df39efc9da402d385bc7be"/>
+	</game>
+	<game name="Dinosaur Office - Office Party (World) (Aftermarket) (Unl)" id="0060">
+		<category>Video</category>
+		<description>Dinosaur Office - Office Party (World) (Aftermarket) (Unl)</description>
+		<rom name="Dinosaur Office - Office Party (World) (Aftermarket) (Unl).gba" size="12484608" crc="34c1df88" md5="7898b40de818e62047d650989372640a" sha1="9ee6ca14c78a7e1949d8af9d52e6bfa4d09b7f9f" sha256="529170e154f5377f9a0a4731005df8dcd7c71b0795fe46d2ad040f058b1a240e"/>
+	</game>
+	<game name="Dinosaur Office - Office Romance (World) (Aftermarket) (Unl)" id="0061">
+		<category>Video</category>
+		<description>Dinosaur Office - Office Romance (World) (Aftermarket) (Unl)</description>
+		<rom name="Dinosaur Office - Office Romance (World) (Aftermarket) (Unl).gba" size="13828096" crc="c202e426" md5="163cf61ba55889fdd6aee36a4c41dd05" sha1="4a66f3db5bde55a33f4b9ca55ba231f806c8d2b9" sha256="0702d51dd1d425e379930401ae77f7beaf3c81560d5dfdf2020119c1b64f3dee"/>
+	</game>
+	<game name="Dinosaur Office - Team Building (World) (Aftermarket) (Unl)" id="0062">
+		<category>Video</category>
+		<description>Dinosaur Office - Team Building (World) (Aftermarket) (Unl)</description>
+		<rom name="Dinosaur Office - Team Building (World) (Aftermarket) (Unl).gba" size="17334272" crc="9cd0566e" md5="ffd96fecbc27a5928389ff6e671f50bb" sha1="9dc93f4c8d25a0e5d52deb8c7edf656b8f0c059d" sha256="c868dd63f4451505e20dc55468dcf5e41d84745a9fa187f06853d026a16213ed"/>
+	</game>
+	<game name="Dinosaur Office - Traffic (World) (Aftermarket) (Unl)" id="0063">
+		<category>Video</category>
+		<description>Dinosaur Office - Traffic (World) (Aftermarket) (Unl)</description>
+		<rom name="Dinosaur Office - Traffic (World) (Aftermarket) (Unl).gba" size="13107200" crc="96d90be9" md5="ad55b1d28eb8be14fb9cd638b9765e03" sha1="879d9c7f0951235607cedb9c8fd85e4fc9a1d452" sha256="06b82547778666203be1fcb77e2a552f8145e6e27f15afa74d236740407f75ba"/>
+	</game>
+	<game name="Dinosaur Office - Viral Videos (World) (Aftermarket) (Unl)" id="0064">
+		<category>Video</category>
+		<description>Dinosaur Office - Viral Videos (World) (Aftermarket) (Unl)</description>
+		<rom name="Dinosaur Office - Viral Videos (World) (Aftermarket) (Unl).gba" size="13139968" crc="e7338b7c" md5="e5c1d909fea4f5bc252e57524c857529" sha1="e6f089034f30757f8dce2eb6568e8f5d2d122d49" sha256="827e1eb95f28d6462c2c05052d0711f0c62c82a9dd2d76a7266c1979c264622a"/>
+	</game>
+	<game name="Eek! The Cat - A Sharkwork Orange (World) (Aftermarket) (Unl)" id="0080">
+		<category>Video</category>
+		<description>Eek! The Cat - A Sharkwork Orange (World) (Aftermarket) (Unl)</description>
+		<rom name="Eek! The Cat - A Sharkwork Orange (World) (Aftermarket) (Unl).gba" size="31129600" crc="4feab397" md5="0c324b7f024bdc87cb49ea0a0fc20f14" sha1="0bb061759804b46f201c39ccf9e7722a4407909e" sha256="10c9889e46bf1f48559cd6b0a565446b7427457b51f4b4a0d92191b6848b357b"/>
+	</game>
+	<game name="Eek! The Cat - Chariots of Fur (World) (Aftermarket) (Unl)" id="0081">
+		<category>Video</category>
+		<description>Eek! The Cat - Chariots of Fur (World) (Aftermarket) (Unl)</description>
+		<rom name="Eek! The Cat - Chariots of Fur (World) (Aftermarket) (Unl).gba" size="30998528" crc="5ea13d5a" md5="ca0bc39b160c3c936dd3e44ba5b018cd" sha1="7022193f78fcb89988483cca1bacb8e66182ac55" sha256="5c237cebe14f87861c9c94ff2b8c5ac557a9a007408d1e4530f495e4a491e3de"/>
+	</game>
+	<game name="Eek! The Cat - Eek Space-9 (World) (Aftermarket) (Unl)" id="0084">
+		<category>Video</category>
+		<description>Eek! The Cat - Eek Space-9 (World) (Aftermarket) (Unl)</description>
+		<rom name="Eek! The Cat - Eek Space-9 (World) (Aftermarket) (Unl).gba" size="30801920" crc="cfbb43d3" md5="c1221a65596235f8ff6c12836e9f55df" sha1="1b056d1449282c08eae0ed49ffc33f56346304fe" sha256="b3377b32ac2804ac7cbcfee4b09a91870aa6f436baf7834bfe5c647ad0cc9471"/>
+	</game>
+	<game name="Eek! The Cat - Eek's Funny Thing That He Does (World) (Aftermarket) (Unl)" id="0082">
+		<category>Video</category>
+		<description>Eek! The Cat - Eek's Funny Thing That He Does (World) (Aftermarket) (Unl)</description>
+		<rom name="Eek! The Cat - Eek's Funny Thing That He Does (World) (Aftermarket) (Unl).gba" size="31064064" crc="3773b28d" md5="9797539cc41b958b19c653e6aa4ca3dd" sha1="b13c1d3ae7f993deee10542390ac416b6c5cd1c6" sha256="061aec304b2f18dd3df013968d9dffab9f9f49e43d6306bd73eeed360cbaa0ba"/>
+	</game>
+	<game name="Eek! The Cat - Eekscaliber (World) (Aftermarket) (Unl)" id="0083">
+		<category>Video</category>
+		<description>Eek! The Cat - Eekscaliber (World) (Aftermarket) (Unl)</description>
+		<rom name="Eek! The Cat - Eekscaliber (World) (Aftermarket) (Unl).gba" size="31227904" crc="ed5792d4" md5="c625b72aa4e54b1dffe8d3d50525e330" sha1="2a903b53a371ef4132291452f5d192dace6dc5e8" sha256="aba1581bab2f0854a61b2958c1d8fe086d01c1efbf03a894ed1f72736b369df1"/>
+	</game>
+	<game name="Eek! The Cat - Eekstremely Dull (World) (Aftermarket) (Unl)" id="0085">
+		<category>Video</category>
+		<description>Eek! The Cat - Eekstremely Dull (World) (Aftermarket) (Unl)</description>
+		<rom name="Eek! The Cat - Eekstremely Dull (World) (Aftermarket) (Unl).gba" size="31162368" crc="28f73fe4" md5="eae0a8243bba5ce78f86a68d33ffbc47" sha1="3ea9bfa0d937150574affdb8de271cf7873ab042" sha256="8fd65653afe645b9239340ddc5917bd255852af1cff3db7cdd63ac10118a2cb9"/>
+	</game>
+	<game name="Eek! The Cat - Eeksy Rider (World) (Aftermarket) (Unl)" id="0086">
+		<category>Video</category>
+		<description>Eek! The Cat - Eeksy Rider (World) (Aftermarket) (Unl)</description>
+		<rom name="Eek! The Cat - Eeksy Rider (World) (Aftermarket) (Unl).gba" size="31096832" crc="ec1f5d37" md5="2aff89d1aa6cac2dcc334639893fd1f6" sha1="1359f5e802862b0a6f01e37fd5843a5b12edb7d4" sha256="754242d79cd3a234b671e9e73c74c60cc5fe547702d38fefb109347208441b50"/>
+	</game>
+	<game name="Eek! The Cat - Fatal Eektraction (World) (Aftermarket) (Unl)" id="0087">
+		<category>Video</category>
+		<description>Eek! The Cat - Fatal Eektraction (World) (Aftermarket) (Unl)</description>
+		<rom name="Eek! The Cat - Fatal Eektraction (World) (Aftermarket) (Unl).gba" size="31096832" crc="494997c3" md5="cc210c5df6b4219ff3c4cae0b4ffbdff" sha1="52e63ca7e162fe3a0296709b924b0dc4b19ce693" sha256="5547e468f1308e8925656e661cfe29f07dc882517aa8ee55785197385bb65cc4"/>
+	</game>
+	<game name="Eek! The Cat - Honey I Shrunk the Cat (World) (Aftermarket) (Unl)" id="0088">
+		<category>Video</category>
+		<description>Eek! The Cat - Honey I Shrunk the Cat (World) (Aftermarket) (Unl)</description>
+		<rom name="Eek! The Cat - Honey I Shrunk the Cat (World) (Aftermarket) (Unl).gba" size="15597568" crc="8bae90ef" md5="f694ad490b7568744ba6027a58b4c6a3" sha1="8ee80c6e4f54081c6b796983ab51d8c03e36c2d0" sha256="439b7073290e922702058461fe23ffc46c138057b39292cb67aad643a4a3470c"/>
+	</game>
+	<game name="Eek! The Cat - Natural Bored Kittens (World) (Aftermarket) (Unl)" id="0089">
+		<category>Video</category>
+		<description>Eek! The Cat - Natural Bored Kittens (World) (Aftermarket) (Unl)</description>
+		<rom name="Eek! The Cat - Natural Bored Kittens (World) (Aftermarket) (Unl).gba" size="31129600" crc="941da25e" md5="6c4ad69977fba77a2f216f42b56766f9" sha1="8fa3d5d5f305ac32653527860caf153c97d20a24" sha256="0a4abea021a4df38119a085bf7ef2b19cc2cb756722cac9bf75b5bafcc064877"/>
+	</game>
+	<game name="Eek! The Cat - OutbrEek (World) (Aftermarket) (Unl)" id="0090">
+		<category>Video</category>
+		<description>Eek! The Cat - OutbrEek (World) (Aftermarket) (Unl)</description>
+		<rom name="Eek! The Cat - OutbrEek (World) (Aftermarket) (Unl).gba" size="30834688" crc="4fea7a72" md5="fbf0151b8eaef67e6bdc3ea52192f820" sha1="344cdff52d4820932c3ba8ad5c57c91d61d93751" sha256="f4b2a764d390e7e4fd7010f411d0b6c20993f0aec29e1db6e397ccf1fb6a802b"/>
+	</game>
+	<game name="Eek! The Cat - Rock-Eek 6 (World) (Aftermarket) (Unl)" id="0091">
+		<category>Video</category>
+		<description>Eek! The Cat - Rock-Eek 6 (World) (Aftermarket) (Unl)</description>
+		<rom name="Eek! The Cat - Rock-Eek 6 (World) (Aftermarket) (Unl).gba" size="31096832" crc="7a05eb25" md5="a4ccee89bb5a3bf9b4d06e9cbe0435f5" sha1="6b3789fd599bf7d30788be38872f5832cb5edfaa" sha256="62e4e2fc8c8e5eb151414d5ff22aeaa0f7294afaf0e813c7b3e262f5e9e2c160"/>
+	</game>
+	<game name="Eek! The Cat - Shark Doggy Dog (World) (Aftermarket) (Unl)" id="0092">
+		<category>Video</category>
+		<description>Eek! The Cat - Shark Doggy Dog (World) (Aftermarket) (Unl)</description>
+		<rom name="Eek! The Cat - Shark Doggy Dog (World) (Aftermarket) (Unl).gba" size="30965760" crc="f8f2e313" md5="4c77bb1bd6bae7fe235f6a651ce33877" sha1="f169a86d11602d84181fd0161bc7ec6747d5c750" sha256="43f627396348d216aba49d8ac420c08136630526fed3a1c11005a31ee46fa136"/>
+	</game>
+	<game name="Eek! The Cat - Shark Therapy (World) (Aftermarket) (Unl)" id="0093">
+		<category>Video</category>
+		<description>Eek! The Cat - Shark Therapy (World) (Aftermarket) (Unl)</description>
+		<rom name="Eek! The Cat - Shark Therapy (World) (Aftermarket) (Unl).gba" size="30998528" crc="81bc6107" md5="b8110a37a43e49a6997ec3200ff1784d" sha1="9cca9b282e9441364e5acd7379c251674165eb13" sha256="9ebeedb4731366036de607f733d18f157eb6f54a3e588867a9a0ae9d86c86a95"/>
+	</game>
+	<game name="Eek! The Cat - The Sound of MusEek (World) (Aftermarket) (Unl)" id="0094">
+		<category>Video</category>
+		<description>Eek! The Cat - The Sound of MusEek (World) (Aftermarket) (Unl)</description>
+		<rom name="Eek! The Cat - The Sound of MusEek (World) (Aftermarket) (Unl).gba" size="31129600" crc="923aafde" md5="39d17755c4f0d1ef2192d1a88d254cd9" sha1="1f1071ba3a6e056357c04f653cc48d2333a6bff1" sha256="7200b00cf9d6bb2898e26e01bcf313133d6b83abddda1bd5b8a83cec03943a97"/>
+	</game>
+	<game name="GBA Groove - LoFi Lullabies (World) (Aftermarket) (Unl)" id="0045">
+		<category>Video</category>
+		<description>GBA Groove - LoFi Lullabies (World) (Aftermarket) (Unl)</description>
+		<rom name="GBA Groove - LoFi Lullabies (World) (Aftermarket) (Unl).gba" size="33128448" crc="ff858ea8" md5="f9f8c566a6a41653561d379d5f8142e5" sha1="e42166ed389ba80a38b91019b80b00fdca3252bd" sha256="b0df01221a74c81a5ef005f3318c95bf7ee3255b315365818c38e0d84a4cfe65"/>
+	</game>
+	<game name="Legend of Lofi - High Quality - Part 1 (World) (v2.0) (Aftermarket) (Unl)" id="0055" cloneofid="0051">
+		<category>Video</category>
+		<description>Legend of Lofi - High Quality - Part 1 (World) (v2.0) (Aftermarket) (Unl)</description>
+		<rom name="Legend of Lofi - High Quality - Part 1 (World) (v2.0) (Aftermarket) (Unl).gba" size="33095680" crc="a29a4d08" md5="4eee7ef1632eab7004fc6f03668c8043" sha1="5c5ba15aef8cf86fbfee102dd3d667c09a024215" sha256="f1a66bb2e2e75f2f8689d457dabc8d8822970958fde8933110857c9e2d458f55"/>
+	</game>
+	<game name="Legend of Lofi - High Quality - Part 2 (World) (v2.0) (Aftermarket) (Unl)" id="0054" cloneofid="0051">
+		<category>Video</category>
+		<description>Legend of Lofi - High Quality - Part 2 (World) (v2.0) (Aftermarket) (Unl)</description>
+		<rom name="Legend of Lofi - High Quality - Part 2 (World) (v2.0) (Aftermarket) (Unl).gba" size="33292288" crc="d30b0a69" md5="7368e6e8b68cf0d0aedc594fb8af25a3" sha1="1d0f5640c62823100802a9d99991c81321fd6a7e" sha256="cc97451742b7ed97d0826ce66370247d98069f7536e4c7e7a472c0f138acf1c9"/>
+	</game>
+	<game name="Legend of Lofi - High Quality - Part 3 (World) (v2.0) (Aftermarket) (Unl)" id="0053" cloneofid="0051">
+		<category>Video</category>
+		<description>Legend of Lofi - High Quality - Part 3 (World) (v2.0) (Aftermarket) (Unl)</description>
+		<rom name="Legend of Lofi - High Quality - Part 3 (World) (v2.0) (Aftermarket) (Unl).gba" size="33226752" crc="5514a608" md5="f30d9c738c8579d8e7e7695c4e0c8a8e" sha1="0b942ca93b86a61710e437995fbe9b051b49f33b" sha256="15ff28b000bd747b6218562e73edd3e078bfde99e319569edd69ffd68bb4470d"/>
+	</game>
+	<game name="Legend of Lofi - High Quality - Part 4 (World) (v2.0) (Aftermarket) (Unl)" id="0052" cloneofid="0051">
+		<category>Video</category>
+		<description>Legend of Lofi - High Quality - Part 4 (World) (v2.0) (Aftermarket) (Unl)</description>
+		<rom name="Legend of Lofi - High Quality - Part 4 (World) (v2.0) (Aftermarket) (Unl).gba" size="33226752" crc="996086fb" md5="dae558a19fdc9a4dcdf7effc2ed6a878" sha1="cdae6017134b235c4b939c3718fef5c68c932046" sha256="2af39aa13a53d8d207dc3ff0728d0d93d2203461591c831de7917a93067dc27f"/>
+	</game>
+	<game name="Legend of Lofi - High Quality - Part 5 (World) (v2.1) (Aftermarket) (Unl)" id="0051">
+		<category>Video</category>
+		<description>Legend of Lofi - High Quality - Part 5 (World) (v2.1) (Aftermarket) (Unl)</description>
+		<rom name="Legend of Lofi - High Quality - Part 5 (World) (v2.1) (Aftermarket) (Unl).gba" size="33062912" crc="30394a33" md5="34e3b78eb085880a66b4e11c3f2921d3" sha1="677e3fbd22eac9661365f798e141844628869f09" sha256="3c2fd484423f4d20022103a64db89348fbc3bf2c5b51069edbfb8dd000d1aa76"/>
+	</game>
+	<game name="Legend of Lofi - Low Quality - Part 1 (World) (Aftermarket) (Unl)" id="0050" cloneofid="0049">
+		<category>Video</category>
+		<description>Legend of Lofi - Low Quality - Part 1 (World) (Aftermarket) (Unl)</description>
+		<rom name="Legend of Lofi - Low Quality - Part 1 (World) (Aftermarket) (Unl).gba" size="33456128" crc="ec98d515" md5="c28e5f83f24a6f749b00cec061f16fd1" sha1="02d89347e83d030168916b1d5b5cb39f436564cf" sha256="6e981a29be40af50b1b0184ab0147d906d682547c3830c1499fa9a408ba32127"/>
+	</game>
+	<game name="Legend of Lofi - Low Quality - Part 2 (World) (Aftermarket) (Unl)" id="0049">
+		<category>Video</category>
+		<description>Legend of Lofi - Low Quality - Part 2 (World) (Aftermarket) (Unl)</description>
+		<rom name="Legend of Lofi - Low Quality - Part 2 (World) (Aftermarket) (Unl).gba" size="33488896" crc="9a3ad572" md5="99818b6d94cb97e5588e5ffd832c28e9" sha1="90a4fefd48cc5024b88591a29a79c5a720593dcf" sha256="e55b1f08e455a5347b2f7cbccf0ac448008f238db5f1c109019fed2c2bee7b0a"/>
+	</game>
+	<game name="Lizard of Aaaahs (World) (Aftermarket) (Unl)" id="0095">
+		<category>Video</category>
+		<description>Lizard of Aaaahs (World) (Aftermarket) (Unl)</description>
+		<rom name="Lizard of Aaaahs (World) (Aftermarket) (Unl).gba" size="30801920" crc="45d496d3" md5="27488c4af4922fc113a3ede6d906bed0" sha1="65b0a763932517d504abb0e39e9db316b2500c0a" sha256="66fe9c4e1416b877f7c5c4098a818ea7df9e7076a0c7a68302b4071fcab34e0c"/>
+	</game>
+	<game name="Lofi Radio (World) (Aftermarket) (Unl)" id="0048">
+		<category>Video</category>
+		<description>Lofi Radio (World) (Aftermarket) (Unl)</description>
+		<rom name="Lofi Radio (World) (Aftermarket) (Unl).gba" size="30965760" crc="4643636f" md5="b9b9302d41682066f9703f230477f987" sha1="7657efc85a8414a2d2065549e66bc0e0804a0153" sha256="f7cfec9d711c27c735525fc96daab8c7cb46b3f9ba6704fda61e819e2b38501d"/>
+	</game>
+	<game name="Popeye The Sailor Meets Ali Baba's Forty Thieves (World) (Aftermarket) (Unl)" id="0109">
+		<category>Video</category>
+		<description>Popeye The Sailor Meets Ali Baba's Forty Thieves (World) (Aftermarket) (Unl)</description>
+		<rom name="Popeye The Sailor Meets Ali Baba's Forty Thieves (World) (Aftermarket) (Unl).gba" size="25067520" crc="3d2b7e9a" md5="564728f953486c7f8af022f7765bcc93" sha1="7ed0b27ce1537610d62e3265ee1d8e7aa09ac649" sha256="9f1f609166eb0f5714339846242ca40eb4131765b59bdee72e6952703310d1b7"/>
+	</game>
+	<game name="Sleepy Time (World) (Aftermarket) (Unl)" id="0047">
+		<category>Video</category>
+		<description>Sleepy Time (World) (Aftermarket) (Unl)</description>
+		<rom name="Sleepy Time (World) (Aftermarket) (Unl).gba" size="33554432" crc="b4a8e893" md5="38c3116ec352ca043093d2655818f0d4" sha1="ba0a790b18de15009d711474aa25f29875e7f9fd" sha256="2bb0086c36e30adefc9b9dcdd9570d2aeb8536044bcdebbcf44d85bd5fe78c3a"/>
+	</game>
+	<game name="Sonic Boom - Aim Low (World) (Aftermarket) (Unl)" id="0065">
+		<category>Video</category>
+		<description>Sonic Boom - Aim Low (World) (Aftermarket) (Unl)</description>
+		<rom name="Sonic Boom - Aim Low (World) (Aftermarket) (Unl).gba" size="32899072" crc="a4b992a4" md5="a4ad407fb448506899d38137a38b8b45" sha1="321716a5cc8035d2f3c834db70e21024b26e01ec" sha256="13c292bbb45b74dc0fbec19ebac9a4905140474390dda87132749404f948da11"/>
+	</game>
+	<game name="Sonic Boom - Anything You Can Do, I Can Do Worse-er (World) (Aftermarket) (Unl)" id="0066">
+		<category>Video</category>
+		<description>Sonic Boom - Anything You Can Do, I Can Do Worse-er (World) (Aftermarket) (Unl)</description>
+		<rom name="Sonic Boom - Anything You Can Do, I Can Do Worse-er (World) (Aftermarket) (Unl).gba" size="32669696" crc="3e19389e" md5="e8243167ac5749881b056f1f80523f2f" sha1="bd9e8e22ddde7426d8eb77772480c822a099044f" sha256="6d689fcaf5b73c9b6996fbfc218e36d1751575a35d58ff3fb9d935a79ca5c7c5"/>
+	</game>
+	<game name="Sonic Boom - Blue with Envy (World) (Aftermarket) (Unl)" id="0067">
+		<category>Video</category>
+		<description>Sonic Boom - Blue with Envy (World) (Aftermarket) (Unl)</description>
+		<rom name="Sonic Boom - Blue with Envy (World) (Aftermarket) (Unl).gba" size="33488896" crc="c847a712" md5="cc00cd3e61abdebc86d1abcde55c694a" sha1="44c4d7a6ba6b3bea7f452f22ec7c419cf6cf6965" sha256="51ff04cf3f74a2181baa523a1d2dfcc7f54f8144bd2c3b36f690fc343bdea710"/>
+	</game>
+	<game name="Sonic Boom - Cabin Fever (World) (Aftermarket) (Unl)" id="0068">
+		<category>Video</category>
+		<description>Sonic Boom - Cabin Fever (World) (Aftermarket) (Unl)</description>
+		<rom name="Sonic Boom - Cabin Fever (World) (Aftermarket) (Unl).gba" size="32145408" crc="6a916ed9" md5="b440700a02b6d27a9354a987f3f5f27e" sha1="e422c79d1b85942fcd9bae26105151c4e8a8352c" sha256="299e32fb33201ea49934adb1483cf2e11d667fe789ad2db29abcffc4a6f054cc"/>
+	</game>
+	<game name="Sonic Boom - Curse of the Cross Eyed Moose (World) (Aftermarket) (Unl)" id="0069">
+		<category>Video</category>
+		<description>Sonic Boom - Curse of the Cross Eyed Moose (World) (Aftermarket) (Unl)</description>
+		<rom name="Sonic Boom - Curse of the Cross Eyed Moose (World) (Aftermarket) (Unl).gba" size="32636928" crc="751a7c3c" md5="2ea12b59baf9a28119fcea04ac3bf3d8" sha1="393a023540a261e14ab96ee341505fd6852e5040" sha256="fb71d14237a2cf56537242cce638810b9918bc19cb4fb0393eb0d0717c694851"/>
+	</game>
+	<game name="Sonic Boom - Double Doomsday (World) (Aftermarket) (Unl)" id="0070">
+		<category>Video</category>
+		<description>Sonic Boom - Double Doomsday (World) (Aftermarket) (Unl)</description>
+		<rom name="Sonic Boom - Double Doomsday (World) (Aftermarket) (Unl).gba" size="33095680" crc="e43df55f" md5="770fb5ee371ebce289de20e880501b99" sha1="b0f7feb5f1b012ce4a486e6ad1331d83372a52e8" sha256="6a340b1beed00bb2481473fe822c1bb1c87f177720ec62159b9845a08d23abd7"/>
+	</game>
+	<game name="Sonic Boom - Eggheads (World) (Aftermarket) (Unl)" id="0071">
+		<category>Video</category>
+		<description>Sonic Boom - Eggheads (World) (Aftermarket) (Unl)</description>
+		<rom name="Sonic Boom - Eggheads (World) (Aftermarket) (Unl).gba" size="32964608" crc="7be59036" md5="2ca5af68cbda469d068887abc8ba1889" sha1="6afd6a0e39a792422767f40d96d28683fe3f010b" sha256="1f01e2bf193ef5f2408dba06026431130f9d4a1f3208afd906831ef142f7486f"/>
+	</game>
+	<game name="Sonic Boom - Fortress of Squalitude (World) (Aftermarket) (Unl)" id="0072">
+		<category>Video</category>
+		<description>Sonic Boom - Fortress of Squalitude (World) (Aftermarket) (Unl)</description>
+		<rom name="Sonic Boom - Fortress of Squalitude (World) (Aftermarket) (Unl).gba" size="32964608" crc="2732961a" md5="cca58763993c80e07e3c4af2cd8fa6c7" sha1="db37f535660f66d947ccd2fdb05631d6c3b53157" sha256="0ee9b5d99a55b220c5db0641baca625f6c2da19b3a2d64f14ea56d14816b006e"/>
+	</game>
+	<game name="Sonic Boom - Guilt Tripping (World) (Aftermarket) (Unl)" id="0073">
+		<category>Video</category>
+		<description>Sonic Boom - Guilt Tripping (World) (Aftermarket) (Unl)</description>
+		<rom name="Sonic Boom - Guilt Tripping (World) (Aftermarket) (Unl).gba" size="33095680" crc="eb433ebc" md5="9882516547486efcecccca751bd528f2" sha1="29648e120e9fd97f9c8b279b29246f165df3b9e6" sha256="fbf51f70f503ce9453957a8731cdd6293810a958d6439caa78bc5afa8389da72"/>
+	</game>
+	<game name="Sonic Boom - It Takes a Village to Defeat a Hedgehog (World) (Aftermarket) (Unl)" id="0074">
+		<category>Video</category>
+		<description>Sonic Boom - It Takes a Village to Defeat a Hedgehog (World) (Aftermarket) (Unl)</description>
+		<rom name="Sonic Boom - It Takes a Village to Defeat a Hedgehog (World) (Aftermarket) (Unl).gba" size="33062912" crc="087a17bf" md5="ab9f4d2f01956c3ecd0a6aea3d02460a" sha1="5cfd8eb8d832d21d64fc150bcc6d26b52da86911" sha256="c770b81d241cd47139318233b6872acbbf1a5bd95aa4eaeab936d9903c821514"/>
+	</game>
+	<game name="Sonic Boom - Let's Play Musical Friends (World) (Aftermarket) (Unl)" id="0075">
+		<category>Video</category>
+		<description>Sonic Boom - Let's Play Musical Friends (World) (Aftermarket) (Unl)</description>
+		<rom name="Sonic Boom - Let's Play Musical Friends (World) (Aftermarket) (Unl).gba" size="33226752" crc="4f7e8a97" md5="b5bc4491a62344744a0bc074b98c0095" sha1="ad7d4f4833878ccc7055e65efbcb62fba20cd340" sha256="1731ead0f42752f3f9e9339fe11cc1d4ecae0da716fa4fc9c64d6f7e64c9ba51"/>
+	</game>
+	<game name="Sonic Boom - Nutwork (World) (Aftermarket) (Unl)" id="0076">
+		<category>Video</category>
+		<description>Sonic Boom - Nutwork (World) (Aftermarket) (Unl)</description>
+		<rom name="Sonic Boom - Nutwork (World) (Aftermarket) (Unl).gba" size="32768000" crc="ed3ead6a" md5="382f073ec182361d888f22b4e771b278" sha1="f89d6acee3095419d2eda71c1d79e73ba3dcf5e4" sha256="b96d96458a3145cb7148485513d00077e5de7a54d86e175afba6c7a7bb3f1c1c"/>
+	</game>
+	<game name="Sonic Boom - The Evil Dr. Orbot (World) (Aftermarket) (Unl)" id="0077">
+		<category>Video</category>
+		<description>Sonic Boom - The Evil Dr. Orbot (World) (Aftermarket) (Unl)</description>
+		<rom name="Sonic Boom - The Evil Dr. Orbot (World) (Aftermarket) (Unl).gba" size="33095680" crc="e8c0b3b3" md5="59955ab0738b13dac90d8783313b2034" sha1="175126d3946e61295993982cb04758a5761233b1" sha256="32fa41cbb22566fdb1abf8b31730669c8e8c7bbeb2d6a3c16f61fc7c50cc4678"/>
+	</game>
+	<game name="Sonic Boom - The Meteor (World) (Aftermarket) (Unl)" id="0078">
+		<category>Video</category>
+		<description>Sonic Boom - The Meteor (World) (Aftermarket) (Unl)</description>
+		<rom name="Sonic Boom - The Meteor (World) (Aftermarket) (Unl).gba" size="32931840" crc="d3c8e3bc" md5="696cbd2cc2722758a28597549cdfe21d" sha1="84a91ed46f4e055ef075b4e110091dd1510c6bab" sha256="c5d841e574e4e0bd0c79c19986e1db578e942b0d358edbd8c0744a5d54c8d82e"/>
+	</game>
+	<game name="Sonic Boom - The Sidekick (World) (Aftermarket) (Unl)" id="0079">
+		<category>Video</category>
+		<description>Sonic Boom - The Sidekick (World) (Aftermarket) (Unl)</description>
+		<rom name="Sonic Boom - The Sidekick (World) (Aftermarket) (Unl).gba" size="32964608" crc="bca89ca3" md5="25b4da5102d67d7a6cc985c2574aae39" sha1="93d24392e31fa7fa1b017eae2efbbb3d198739b7" sha256="8f995a947ff2bcd0f9d4fdc17e2e8bd9786f96f753b71104740ddaea25420c68"/>
+	</game>
+	<game name="Super Mario World - Episode 1 - Fire Sale (World) (Aftermarket) (Unl)" id="0096">
+		<category>Video</category>
+		<description>Super Mario World - Episode 1 - Fire Sale (World) (Aftermarket) (Unl)</description>
+		<rom name="Super Mario World - Episode 1 - Fire Sale (World) (Aftermarket) (Unl).gba" size="31522816" crc="5af74124" md5="be99bee37e94fde213ed3671934134a9" sha1="c715e8adff312d3ade93185d6cebcb2d493cc41e" sha256="4426b5ef402a3ed77b8d44ad6b4d503bb449269a75dc99d71c54b9b1644d98fa"/>
+	</game>
+	<game name="Super Mario World - Episode 10 - Rock TV (World) (Aftermarket) (Unl)" id="0105">
+		<category>Video</category>
+		<description>Super Mario World - Episode 10 - Rock TV (World) (Aftermarket) (Unl)</description>
+		<rom name="Super Mario World - Episode 10 - Rock TV (World) (Aftermarket) (Unl).gba" size="30179328" crc="ccb80716" md5="f264be61517134e0a205cb393df48661" sha1="3f05bfc29688ab70cc728bbe609d5b976730490e" sha256="56529485841d3fbdff9da902cefbe93336482204c700260442ee0e99ef9abe22"/>
+	</game>
+	<game name="Super Mario World - Episode 11 - The Yoshi Shuffle (World) (Aftermarket) (Unl)" id="0106">
+		<category>Video</category>
+		<description>Super Mario World - Episode 11 - The Yoshi Shuffle (World) (Aftermarket) (Unl)</description>
+		<rom name="Super Mario World - Episode 11 - The Yoshi Shuffle (World) (Aftermarket) (Unl).gba" size="31129600" crc="733bb9b0" md5="2e68c09c598269a2434935bf8992b5de" sha1="45875207d24653aa81c2bdd60bde639783c5c387" sha256="37e5379fdde3de91146e59ef2d1b00652837a4747a9d1cec0278ed46c4390b81"/>
+	</game>
+	<game name="Super Mario World - Episode 12 - A Little Learning (World) (Aftermarket) (Unl)" id="0107">
+		<category>Video</category>
+		<description>Super Mario World - Episode 12 - A Little Learning (World) (Aftermarket) (Unl)</description>
+		<rom name="Super Mario World - Episode 12 - A Little Learning (World) (Aftermarket) (Unl).gba" size="31227904" crc="dd8717c1" md5="c40f1cc69f7ce92f720b3845ebc2487d" sha1="26fcf34d2fd9f87f287d14fdeda9d8e234306db5" sha256="740b3559611665f804fd39dbbfd3adedd31250b6bb963218bd0d2e65f530ad4c"/>
+	</game>
+	<game name="Super Mario World - Episode 13 - Mama Luigi (World) (Aftermarket) (Unl)" id="0108">
+		<category>Video</category>
+		<description>Super Mario World - Episode 13 - Mama Luigi (World) (Aftermarket) (Unl)</description>
+		<rom name="Super Mario World - Episode 13 - Mama Luigi (World) (Aftermarket) (Unl).gba" size="32112640" crc="3d2bf1b0" md5="9e7d023dcbce3f754be72f6892a9a358" sha1="4a897d3de60f1bd3991803196f5b96c5916f9e8c" sha256="3e4d24daa33146a40071dd7a0569e086094daca3492b53fc30fdcda1f2fffc08"/>
+	</game>
+	<game name="Super Mario World - Episode 2 - The Wheel Thing (World) (Aftermarket) (Unl)" id="0097">
+		<category>Video</category>
+		<description>Super Mario World - Episode 2 - The Wheel Thing (World) (Aftermarket) (Unl)</description>
+		<rom name="Super Mario World - Episode 2 - The Wheel Thing (World) (Aftermarket) (Unl).gba" size="32145408" crc="9c5140d6" md5="c55f248758ac4bf5a5615c1ad28002d8" sha1="30b6b51d60ba9213e5c472bf52070eab98b43c74" sha256="b733164926cfc3b79aaa80d56dcb4b001186e22b54ebde299eb2bf19ff8359bc"/>
+	</game>
+	<game name="Super Mario World - Episode 3 - Send in the Clown (World) (Aftermarket) (Unl)" id="0098">
+		<category>Video</category>
+		<description>Super Mario World - Episode 3 - Send in the Clown (World) (Aftermarket) (Unl)</description>
+		<rom name="Super Mario World - Episode 3 - Send in the Clown (World) (Aftermarket) (Unl).gba" size="32112640" crc="88888a8c" md5="0bf5748da08aaa293dc36077e154d7f7" sha1="26c791180a1b35d8ab9cf7947d8db6c0367d7eb9" sha256="a088591ee77911bb470c06c728a6138a1fed603f6ff509e4a03e21cb07122c33"/>
+	</game>
+	<game name="Super Mario World - Episode 4 - Ghosts 'R' Us (World) (Aftermarket) (Unl)" id="0099">
+		<category>Video</category>
+		<description>Super Mario World - Episode 4 - Ghosts 'R' Us (World) (Aftermarket) (Unl)</description>
+		<rom name="Super Mario World - Episode 4 - Ghosts 'R' Us (World) (Aftermarket) (Unl).gba" size="32079872" crc="ca0d9b45" md5="4cc063c3fa95f21a7084352437705c86" sha1="a15fb94a371d783f78c069038c350e569ea9c370" sha256="5648965cbd4de941db8edefb411c2fb3fa9d199c4b7e08d8cabb4b0acb49e906"/>
+	</game>
+	<game name="Super Mario World - Episode 5 - The Night Before Cave Christmas (World) (Aftermarket) (Unl)" id="0100">
+		<category>Video</category>
+		<description>Super Mario World - Episode 5 - The Night Before Cave Christmas (World) (Aftermarket) (Unl)</description>
+		<rom name="Super Mario World - Episode 5 - The Night Before Cave Christmas (World) (Aftermarket) (Unl).gba" size="31981568" crc="564582fa" md5="7a5a6cded724873a5386179632d26e8e" sha1="ce8b3589a67dcd930d2e437efa0bf754f438cfa7" sha256="1da4d1980cb64445f528241e0de89539a809508dbbc13d18b49f7a9c7ac2d266"/>
+	</game>
+	<game name="Super Mario World - Episode 6 - King Scoopa Koopa (World) (Aftermarket) (Unl)" id="0101">
+		<category>Video</category>
+		<description>Super Mario World - Episode 6 - King Scoopa Koopa (World) (Aftermarket) (Unl)</description>
+		<rom name="Super Mario World - Episode 6 - King Scoopa Koopa (World) (Aftermarket) (Unl).gba" size="32112640" crc="edcb04de" md5="ee289f9e570398a0fb3e299ff1dcc035" sha1="1e8e89daf7faed9660f2dc3b6aa113df6de527c0" sha256="1d93115e0fe5e1be76282a048b793c75e83d9ff5393c2ae36753cf26d5f601cc"/>
+	</game>
+	<game name="Super Mario World - Episode 7 - Born to Ride (World) (Aftermarket) (Unl)" id="0102">
+		<category>Video</category>
+		<description>Super Mario World - Episode 7 - Born to Ride (World) (Aftermarket) (Unl)</description>
+		<rom name="Super Mario World - Episode 7 - Born to Ride (World) (Aftermarket) (Unl).gba" size="32145408" crc="0044466e" md5="202268e9377d211db4dfabcbd54a3cc9" sha1="105f0d0a500ea542f87b10b7c671b6c93e312f4a" sha256="c5c2d634b9c7f3d83f51ae941e827497dc60ba27f4aecc4358eda4cdf0dc6284"/>
+	</game>
+	<game name="Super Mario World - Episode 8 - Party Line (World) (Aftermarket) (Unl)" id="0103">
+		<category>Video</category>
+		<description>Super Mario World - Episode 8 - Party Line (World) (Aftermarket) (Unl)</description>
+		<rom name="Super Mario World - Episode 8 - Party Line (World) (Aftermarket) (Unl).gba" size="28672000" crc="ed103f04" md5="1542e464a1900c6571d39f5aad1ac5c9" sha1="df5e947880b634482081ee82f79f37d5ff7d009c" sha256="8b3f8661a870606c9c480e0c2158054cbec2a002b1b7eb251551553be4b4eb62"/>
+	</game>
+	<game name="Super Mario World - Episode 9 - Gopher Bash (World) (Aftermarket) (Unl)" id="0104">
+		<category>Video</category>
+		<description>Super Mario World - Episode 9 - Gopher Bash (World) (Aftermarket) (Unl)</description>
+		<rom name="Super Mario World - Episode 9 - Gopher Bash (World) (Aftermarket) (Unl).gba" size="31031296" crc="3a8f46ad" md5="a57fc21284ac0dc7e232dd3a655867db" sha1="160895e7953a3323647c0c9d2d00eeff17b57db5" sha256="3d2a076967e4ce6b954efd017d8608a5d5e53b2ccf50d62bb4b025933e684973"/>
+	</game>
+</datafile>

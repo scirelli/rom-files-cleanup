@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>429</id>
+		<name>Non-Redump - Sega - Nu 2</name>
+		<description>Non-Redump - Sega - Nu 2</description>
+		<subset>Non-Redump</subset>
+		<version>20240318-184737</version>
+		<author>NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Sangokushi Taisen (Japan) (v3.00.00) (Disc 1) (0006Q)" id="0001">
+		<category>Games</category>
+		<description>Sangokushi Taisen (Japan) (v3.00.00) (Disc 1) (0006Q)</description>
+		<rom name="Sangokushi Taisen (Japan) (v3.00.00) (Disc 1) (0006Q).iso" size="8386904064" crc="2d1c073d" md5="7069cc6a46ad6823272eaf67bc6bfc2b" sha1="3abfcabc808aa35629b1f2dd084773e8c0f8a1e9"/>
+	</game>
+	<game name="Sangokushi Taisen (Japan) (v3.00.00) (Disc 2) (0006Q)" id="0002" cloneofid="0001">
+		<category>Games</category>
+		<description>Sangokushi Taisen (Japan) (v3.00.00) (Disc 2) (0006Q)</description>
+		<rom name="Sangokushi Taisen (Japan) (v3.00.00) (Disc 2) (0006Q).iso" size="8387166208" crc="e92d94f3" md5="cc52824221955db3ab5e59dd2f97564d" sha1="928668c3acb9c49c16bcfda7d2f9978a26f55a69"/>
+	</game>
+	<game name="Sangokushi Taisen (Japan) (v3.00.00) (Disc 3) (0006Q)" id="0003" cloneofid="0001">
+		<category>Games</category>
+		<description>Sangokushi Taisen (Japan) (v3.00.00) (Disc 3) (0006Q)</description>
+		<rom name="Sangokushi Taisen (Japan) (v3.00.00) (Disc 3) (0006Q).iso" size="355598336" crc="77eae37c" md5="2640c5cf8d367d3c28a5fcceea1173d3" sha1="3a0afd9b5a6a458d4a42d5cf91c7333118bf038e"/>
+	</game>
+	<game name="Sangokushi Taisen (Japan) (v3.50.00) (Disc 1) (0006S)" id="0004">
+		<category>Games</category>
+		<description>Sangokushi Taisen (Japan) (v3.50.00) (Disc 1) (0006S)</description>
+		<rom name="Sangokushi Taisen (Japan) (v3.50.00) (Disc 1) (0006S).iso" size="8386904064" crc="9f1288e7" md5="c5d92482684b4b3dce99503b34c2d42e" sha1="9ab736cd17aed66d1da7fb77f4614fcd466bcb34"/>
+	</game>
+	<game name="Sangokushi Taisen (Japan) (v3.50.00) (Disc 2) (0006S)" id="0005" cloneofid="0004">
+		<category>Games</category>
+		<description>Sangokushi Taisen (Japan) (v3.50.00) (Disc 2) (0006S)</description>
+		<rom name="Sangokushi Taisen (Japan) (v3.50.00) (Disc 2) (0006S).iso" size="8387166208" crc="c54404e1" md5="69e5b7aaf6e0a87a2985244e91492900" sha1="dd8b80ae03b0be3a7bec526db4ced298e4748715"/>
+	</game>
+	<game name="Sangokushi Taisen (Japan) (v3.50.00) (Disc 3) (0006S)" id="0006" cloneofid="0004">
+		<category>Games</category>
+		<description>Sangokushi Taisen (Japan) (v3.50.00) (Disc 3) (0006S)</description>
+		<rom name="Sangokushi Taisen (Japan) (v3.50.00) (Disc 3) (0006S).iso" size="1927151616" crc="77d3b689" md5="4ad2be3baa25e2fb9ba3c5fd13da22bd" sha1="12d5e38ba6ac689ef099d6a6ab39ab20d4f0fc7f"/>
+	</game>
+	<game name="Sangokushi Taisen (Japan) (v1.01.00) (0006A)" id="0007">
+		<category>Games</category>
+		<description>Sangokushi Taisen (Japan) (v1.01.00) (0006A)</description>
+		<rom name="Sangokushi Taisen (Japan) (v1.01.00) (0006A).iso" size="5583798272" crc="95895380" md5="2dc1feb666d22956d9da7b486959932c" sha1="12abb3e1b1c75432fb8a9109d22716b52957b62c"/>
+	</game>
+	<game name="Sangokushi Taisen (Japan) (v1.05.01) (0006B)" id="0008">
+		<category>Games</category>
+		<description>Sangokushi Taisen (Japan) (v1.05.01) (0006B)</description>
+		<rom name="Sangokushi Taisen (Japan) (v1.05.01) (0006B).iso" size="6851002368" crc="9d4ad49e" md5="039d52f0f7146da685956fee27c23412" sha1="ee7312b1b60483fc43016dad97a4d47a4099625a"/>
+	</game>
+	<game name="Sangokushi Taisen (Japan) (v1.10.00) (Disc 2) (0006E)" id="0009">
+		<category>Games</category>
+		<description>Sangokushi Taisen (Japan) (v1.10.00) (Disc 2) (0006E)</description>
+		<rom name="Sangokushi Taisen (Japan) (v1.10.00) (Disc 2) (0006E).iso" size="1161412608" crc="46a9590f" md5="abc08bd067201dcbdfcd267aeba79418" sha1="1ab5d6b90c8e68df58b8e41b4f7d9eea733ae8d5"/>
+	</game>
+	<game name="Sangokushi Taisen (Japan) (v2.00.01) (Disc 1) (0006J)" id="0010">
+		<category>Games</category>
+		<description>Sangokushi Taisen (Japan) (v2.00.01) (Disc 1) (0006J)</description>
+		<rom name="Sangokushi Taisen (Japan) (v2.00.01) (Disc 1) (0006J).iso" size="8386904064" crc="3201c914" md5="61686d1fdf24dfeb022825da054710aa" sha1="137473d3e807c758051040dab467cb62cbf0c714"/>
+	</game>
+	<game name="Sangokushi Taisen (Japan) (v2.00.01) (Disc 2) (0006J)" id="0011" cloneofid="0010">
+		<description>Sangokushi Taisen (Japan) (v2.00.01) (Disc 2) (0006J)</description>
+		<rom name="Sangokushi Taisen (Japan) (v2.00.01) (Disc 2) (0006J).iso" size="5209718784" crc="761adfe2" md5="eaf70ad03f2150ede333c878e21d56fa" sha1="e3b90e865c048bf0a63f923102a6bc02dc01e394"/>
+	</game>
+	<game name="Sangokushi Taisen (Japan) (v2.50.01) (Disc 1) (0006M)" id="0012">
+		<category>Games</category>
+		<description>Sangokushi Taisen (Japan) (v2.50.01) (Disc 1) (0006M)</description>
+		<rom name="Sangokushi Taisen (Japan) (v2.50.01) (Disc 1) (0006M).iso" size="8386904064" crc="1d9a951a" md5="234202ecdf0a77413f294dd490c7991b" sha1="59bb82b332322d93b2330ed2728168bad27c3d04"/>
+	</game>
+	<game name="Sangokushi Taisen (Japan) (v2.50.01) (Disc 2) (0006M)" id="0013" cloneofid="0012">
+		<category>Games</category>
+		<description>Sangokushi Taisen (Japan) (v2.50.01) (Disc 2) (0006M)</description>
+		<rom name="Sangokushi Taisen (Japan) (v2.50.01) (Disc 2) (0006M).iso" size="6874333184" crc="bf81c6ee" md5="8adb15d35d10f35050b49bb15e22c067" sha1="a2d154bc1eef229b0300ac187ddeda46930227df"/>
+	</game>
+	<game name="Sangokushi Taisen (Japan) (v1.10.00) (Disc 1) (0006E)" id="0014">
+		<category>Games</category>
+		<description>Sangokushi Taisen (Japan) (v1.10.00) (Disc 1) (0006E)</description>
+		<rom name="Sangokushi Taisen (Japan) (v1.10.00) (Disc 1) (0006E).iso" size="8386904064" crc="84b35c8f" md5="ea50869be7217a2dead580d5682ab491" sha1="5d73bc33547237a6855ac818c2f75a3dc76488d9"/>
+	</game>
+</datafile>

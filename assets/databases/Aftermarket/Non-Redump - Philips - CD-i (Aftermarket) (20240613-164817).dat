@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>164</id>
+		<name>Non-Redump - Philips - CD-i (Aftermarket)</name>
+		<description>Non-Redump - Philips - CD-i (Aftermarket)</description>
+		<subset>Non-Redump</subset>
+		<version>20240613-164817</version>
+		<author>Hiccup, MeguCocoa, norkmetnoil577, rarenight, Seventy7, UnlockerPT</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Frog Feast (Unknown) (Demo) (Aftermarket) (Unl)" id="0181">
+		<description>Frog Feast (Unknown) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Frog Feast (Unknown) (Demo) (Aftermarket) (Unl).bin" size="5644800" crc="ec6a1db5" md5="d33037234ddb8a6536c0c6d8201754cd" sha1="1f05241bf51f71530c3dd029608a168446de8bf2"/>
+		<rom name="Frog Feast (Unknown) (Demo) (Aftermarket) (Unl).cue" size="108" crc="467192b2" md5="d7d90d487b88b6847c218ad52cbf3ff0" sha1="ea6eba97b8724bdb44ab207d2e456dd49d7831a3" sha256="70ad5271d68a17fa546e519f09ce9f1ce8cf2e4154db69ffd283f3bce7bc8d32"/>
+	</game>
+</datafile>

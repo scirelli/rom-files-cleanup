@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>88</id>
+		<name>Atari - 2600 (Aftermarket)</name>
+		<description>Atari - 2600 (Aftermarket)</description>
+		<version>20240912-120230</version>
+		<author>ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, SonGoku, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Amoeba Jump (World) (NTSC) (Aftermarket) (Unl)" id="0759">
+		<description>Amoeba Jump (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="amoeba_jump_NTSC.bin" size="4096" crc="bd556b76" md5="ebbbdf4a936732eba7c16523507b1111" sha1="a0e55971bac368902eb11838174f62d10e401a0a" sha256="73008d56ee67a832ff2be5d4b3d81d7305fb6dbdf11c60ccc502cc4dfacd5f38"/>
+	</game>
+	<game name="Amoeba Jump (World) (PAL 50Hz) (Aftermarket) (Unl)" id="0760" cloneofid="0759">
+		<description>Amoeba Jump (World) (PAL 50Hz) (Aftermarket) (Unl)</description>
+		<rom name="amoeba_jump_PAL50.bin" size="4096" crc="0366ad7c" md5="ccdc570cd66b12d97755caa88a3667ea" sha1="db7fcf14696c6d982d4ddc37e4841eef5efe3029" sha256="0c0efcae8b7ba8a921c1d5c6df6f89990609bd9cf4119724947bb3e11519a80d"/>
+	</game>
+	<game name="Amoeba Jump (World) (PAL 60Hz) (Aftermarket) (Unl)" id="0761" cloneofid="0759">
+		<description>Amoeba Jump (World) (PAL 60Hz) (Aftermarket) (Unl)</description>
+		<rom name="amoeba_jump_PAL60.bin" size="4096" crc="fa04ae89" md5="ca0035430dad7dd4f9391f232091d216" sha1="a4d87f3c130f4ed89b8e1c4d8f7c6bed87a88bca" sha256="e0f5ae1d61f8e39815641791f84b6514ce36d850a0c601229aa243b998ec536c"/>
+	</game>
+	<game name="Amoeba Jump (World) (v0.1) (Aftermarket) (Unl)" id="0762" cloneofid="0759">
+		<description>Amoeba Jump (World) (v0.1) (Aftermarket) (Unl)</description>
+		<rom name="Amoeba Jump v0.1.bin" size="4096" crc="4ffbb09b" md5="2649013b983ce353473168d2a0ce2bd3" sha1="a69d25f01d02ee022d3cca20542ea347ea1892de" sha256="d8669980afca8188e084b4168117f93da82aeffaca58ea16c64eea2febe8ef2d"/>
+	</game>
+	<game name="Amoeba Jump (World) (v1.1) (NTSC) (Aftermarket) (Unl)" id="0763" cloneofid="0759">
+		<description>Amoeba Jump (World) (v1.1) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Amoeba Jump v1.1 NTSC.bin" size="4096" crc="515fa592" md5="3b395ae0cc96eddea898ff2da4332481" sha1="b8dd13fe98dc818f1894a0df0530f5e12264661e" sha256="ff96b80722b0ce1edb55f5050537ab4b1ee43a4800df7ab7e56140dd5e5c23a6"/>
+	</game>
+	<game name="Amoeba Jump (World) (v1.1) (PAL) (Aftermarket) (Unl)" id="0764" cloneofid="0759">
+		<description>Amoeba Jump (World) (v1.1) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Amoeba Jump v1.1 PAL.bin" size="4096" crc="e592d6c8" md5="4d39a281703687b285a1f132690ef498" sha1="3ab427fb531030b60a7c2dc5c42e76519a03c40b" sha256="31321360c2f24231a35d18698dc21ee8dd9c3da82e4d16e5448af6609be579ba"/>
+	</game>
+	<game name="Amoeba Jump (World) (v1.2) (NTSC) (Aftermarket) (Unl)" id="0765" cloneofid="0759">
+		<description>Amoeba Jump (World) (v1.2) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Amoeba Jump v1.2 NTSC.bin" size="4096" crc="a5617694" md5="03e976a52dbfb5ee03d92fd6c0e9a405" sha1="3f9ed9d8ece40cad7907c01b8a559110caf59a3e" sha256="2d3ae21a543c47c8e941e8d6c278c53c1aed8a596587c48802350a7e8d8af138"/>
+	</game>
+	<game name="Amoeba Jump (World) (v1.2) (PAL) (Aftermarket) (Unl)" id="0766" cloneofid="0759">
+		<description>Amoeba Jump (World) (v1.2) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Amoeba Jump v1.2 PAL.bin" size="4096" crc="3644c33a" md5="04bff96f7e878aaf4d65dce325c8645a" sha1="78fc003879b084e6e6477c16ba840f58712803ae" sha256="d9cf2d5278efcea13d40cabdfff2714374ef5b37733501649108ea913471639f"/>
+	</game>
+	<game name="Amoeba Jump (World) (v1.3) (NTSC) (Aftermarket) (Unl)" id="0767" cloneofid="0759">
+		<description>Amoeba Jump (World) (v1.3) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Amoeba Jump v1.3 NTSC.bin" size="4096" crc="e4349cef" md5="539f3c42c4e15f450ed93cb96ce93af5" sha1="dccbfb28358ca8339920b584cf64465905ce1354" sha256="ef9ea75b2e14a20fb892be3747830ada1c8c84ad02ac1027271c377dab4573c1"/>
+	</game>
+	<game name="Amoeba Jump (World) (v1.3) (PAL) (Aftermarket) (Unl)" id="0768" cloneofid="0759">
+		<description>Amoeba Jump (World) (v1.3) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Amoeba Jump v1.3 PAL.bin" size="4096" crc="77112941" md5="0c72cc3a6658c1abd4b735ef55fa72e4" sha1="b04b1181950e2bb898ea23ff11de93c9b56fdc65" sha256="ac13927d055bc37b9e9faa2648a9da8fb656b4f127cbd57d07962b5770d7aa65"/>
+	</game>
+	<game name="Amoeba Jump (World) (Retron 77 Version) (Aftermarket) (Unl)" id="0769" cloneofid="0759">
+		<description>Amoeba Jump (World) (Retron 77 Version) (Aftermarket) (Unl)</description>
+		<rom name="Amoeba Jump - R77.bin" size="4096" crc="4e7b271c" md5="7761418d46af069b8cd80c29fe6cd814" sha1="57e093068be21f68faee4e5566a65f8a92a955e5" sha256="efe7d79eb377c056440dd6f43459cd30c2cb6f4acc8eb6685a7538406ac239da"/>
+	</game>
+	<game name="Angry Video Game Nerd K.O. Boxing (World) (NTSC) (Aftermarket) (Unl)" id="0745">
+		<description>Angry Video Game Nerd K.O. Boxing (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Angry Video Game Nerd K.O. Boxing (World) (NTSC) (Aftermarket) (Unl).bin" size="32768" crc="53f02c00" md5="6a7e6fc102bf7459f89419c548a79e2c" sha1="bbcac5c5b2384ab6aa83574e6b9486c4b60822d4" sha256="6c48029c02897591b9975893c9fc617a11faecea96f0631d82236979c070d772"/>
+	</game>
+	<game name="Angry Video Game Nerd K.O. Boxing (World) (PAL 60hz) (Aftermarket) (Unl)" id="0746" cloneofid="0745">
+		<description>Angry Video Game Nerd K.O. Boxing (World) (PAL 60hz) (Aftermarket) (Unl)</description>
+		<rom name="Angry Video Game Nerd K.O. Boxing (World) (PAL 60hz) (Aftermarket) (Unl).bin" size="32768" crc="9a8505b6" md5="27279303df0884b2423c2ed1fb7ddc92" sha1="f723b83145bd43e2fb4767e35bcb25958c8b2d03" sha256="a4e4a03d2ff20fdd98ea216e83f50bc52f853245250a84249e003edfcdaa707a"/>
+	</game>
+	<game name="Anguna 2600 (World) (Aftermarket) (Unl)" id="0743">
+		<description>Anguna 2600 (World) (Aftermarket) (Unl)</description>
+		<rom name="Anguna 2600 (World) (Aftermarket) (Unl).bin" size="16384" crc="d18e91a1" md5="f69a2458d29efaff1b4a76adb923e984" sha1="8bfbf3d404a15df315bf9c8bf0e5741ac1a42c96" sha256="847acf1b5da321ecf2854a25999d769ccffa1266ca88d604ee552413da7cea7f"/>
+	</game>
+	<game name="Assembloids (World) (Aftermarket) (Unl)" id="0787">
+		<description>Assembloids (World) (Aftermarket) (Unl)</description>
+		<rom name="Assembloids (World) (Aftermarket) (Unl).a26" size="4096" crc="c106ab8f" md5="35f2237213a6771500e324184c37d8b8" sha1="46e789a5843d5ce002932fd05386c580f3aeb026" sha256="7f0b747cf313e033d35587985123d1e0f9e23374e9c3d31c8451e2ead7de0171"/>
+	</game>
+	<game name="Free Play Florida 2017 (USA) (Aftermarket) (Pirate)" id="0816" cloneofid="0264">
+		<category>Games</category>
+		<description>Free Play Florida 2017 (USA) (Aftermarket) (Pirate)</description>
+		<rom name="Free Play Florida 2017 (USA) (Aftermarket) (Pirate).a26" size="16384" crc="05bd78b1" md5="1309db7ae19a85304d412f61a19985d7" sha1="3ac90be5ae2117f028e6ffdfe908b0107ee82b87" sha256="0f6ccbd317a6c68e09974004c0953f0c702b31d25d2b03f78408f3403432b0ae"/>
+	</game>
+	<game name="Go Fish! (World) (NTSC) (Aftermarket) (Unl)" id="0771">
+		<description>Go Fish! (World) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="GoFish_NTSC.bin" size="8192" crc="b99fc2bf" md5="787a2faebadc670a887a0e2483b8f034" sha1="c8094b18ea8d7dd0e1824a5fff2c26dd5f99a520" sha256="88bf14a0b44a2179174740a747b74ebf3dd52a8a55ae79489d0580025a17874d" status="verified"/>
+	</game>
+	<game name="Go Fish! (World) (PAL) (Aftermarket) (Unl)" id="0772" cloneofid="0771">
+		<description>Go Fish! (World) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="GoFish_PAL.bin" size="8192" crc="9a08fc7c" md5="1b64dbaba6bbc1d428e59f088e8018e7" sha1="f286f2e862ca8361c67d815afd9d4e7b27094557" sha256="c4eb26c295003a068a0ce6449d4f69440a0c9fa6645d955c31fd58b79b210c15" status="verified"/>
+	</game>
+	<game name="Halo 2600 (World) (Aftermarket) (Unl)" id="0770" cloneofid="0801">
+		<description>Halo 2600 (World) (Aftermarket) (Unl)</description>
+		<rom name="Halo2600_Final.bin" size="4096" crc="3978a823" md5="4afa7f377eae1cafb4265c68f73f2718" sha1="2a9647e27ab27e6cf82b3bf122edf212fa34ae86" sha256="ba093e70ca756cfb05b44165b2e8cabaf3834ee6ccba37e0293032a7ab02434f"/>
+	</game>
+	<game name="Halo 2600 (Europe) (PAL) (Aftermarket) (Unl)" id="0801">
+		<description>Halo 2600 (Europe) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Halo 2600 (Europe) (PAL) (Aftermarket) (Unl).a26" size="4096" crc="f16cafad" md5="48dc69b885fc07ca3beb7f8a2c12170c" sha1="dc41e5dc18f55027369b20228a4d622a23d56666" sha256="3a32bce4e20f6af954d75e35f3cb2ba6d57d903f4dcfc8f3976842da948c034b"/>
+	</game>
+	<game name="INV+ (World) (Aftermarket) (Unl)" id="0734">
+		<description>INV+ (World) (Aftermarket) (Unl)</description>
+		<rom name="INV+ (World) (Aftermarket) (Unl).a26" size="4096" crc="8ebde037" md5="9ea8ed9dec03082973244a080941e58a" sha1="74dc0247a9c9e4ecec1c173e01274e2391643a60" sha256="6ec18f59e4869a1c0f838b27b27f498f286282ae591fed37cd57feba8f869e75"/>
+	</game>
+	<game name="INV+ (World) (2004-04-29) (Beta) (Aftermarket) (Unl)" id="0736" cloneofid="0734">
+		<description>INV+ (World) (2004-04-29) (Beta) (Aftermarket) (Unl)</description>
+		<rom name="INV+ (World) (2004-04-29) (Beta) (Aftermarket) (Unl).a26" size="4096" crc="a9f28173" md5="5327c461045d277e2066008885d8e9c2" sha1="4789e2d47bbbb529e40d4e0c0364fd937ba87393" sha256="26798f419c2a05400eecea97b6b98cd60e62c2d84ce692256794c1988be46960"/>
+	</game>
+	<game name="INV+ (World) (2004-04-08) (Beta) (Aftermarket) (Unl)" id="0737" cloneofid="0734">
+		<description>INV+ (World) (2004-04-08) (Beta) (Aftermarket) (Unl)</description>
+		<rom name="INV+ (World) (2004-04-08) (Beta) (Aftermarket) (Unl).a26" size="4096" crc="37e26bac" md5="acde3415615c32a81a6cea62ff43f6cd" sha1="42e4a814fed49f36316e0ddd13fafd72b6bce8a0" sha256="ece629ea5e89df25151f67aeb483e3cf9810c6c3b68e3583daa2e454f0f9a50d"/>
+	</game>
+	<game name="Mystery Science Theater 2600 (USA) (Aftermarket) (Pirate)" id="0777" cloneofid="0262">
+		<category>Games</category>
+		<description>Mystery Science Theater 2600 (USA) (Aftermarket) (Pirate)</description>
+		<rom name="Mystery Science Theater 2600 (USA) (Aftermarket) (Pirate).a26" size="4096" crc="19747d95" md5="fa7e11a3dbea4365975cd2f094e61d25" sha1="5c66b2e171a8ad00d605a5e756e60de7b67c529b" sha256="6dbde6533c1eceae2a4d8c27ba165fbc4559ba7e4dbb0b69c2e706a75af07b52" status="verified"/>
+	</game>
+	<game name="Oozy the Goo Slime Quest (World) (Aftermarket) (Unl)" id="0799">
+		<category>Games</category>
+		<description>Oozy the Goo Slime Quest (World) (Aftermarket) (Unl)</description>
+		<rom name="Oozy the Goo Slime Quest (World) (Aftermarket) (Unl).a26" size="32768" crc="dd56e194" md5="94ae9d9a8561988164148b88d7891797" sha1="dd6b89d39fd57dc954d6948d0634ef23402993ea" sha256="6f24e61adf81196a6eda05adbf51e90a10a4ad603ae92a3e3ba904b23618320f" status="verified"/>
+	</game>
+	<game name="Oystron (World) (Aftermarket) (Unl)" id="0750">
+		<description>Oystron (World) (Aftermarket) (Unl)</description>
+		<rom name="Oystron (World) (Aftermarket) (Unl).bin" size="4096" crc="8155dccf" md5="91f0a708eeb93c133e9672ad2c8e0429" sha1="412e8a2438379878ee4de5c6bf4e5a9ee2707c8b" sha256="11c6f598587c8ef0b7579f990d828ab3bf04f217ad65b7011ad4cd61b8fdcc92"/>
+	</game>
+	<game name="Robo-Ninja Climb (World) (Aftermarket) (Unl)" id="0744">
+		<description>Robo-Ninja Climb (World) (Aftermarket) (Unl)</description>
+		<rom name="Robo-Ninja Climb (World) (Aftermarket) (Unl).bin" size="8192" crc="21bcc276" md5="2372dd6d58b8bb34882e171ce1143d3c" sha1="22fb7566fd96a02b17fa51a57cf3bca085200670" sha256="fe3438c29c37a783038a5b312209f000bb9da04c390345afa3152be78e32b2aa"/>
+	</game>
+	<game name="Sheep It Up! - NTSC (World) (Aftermarket) (Unl)" id="0747">
+		<description>Sheep It Up! - NTSC (World) (Aftermarket) (Unl)</description>
+		<rom name="Sheep It Up! - NTSC (World) (Aftermarket) (Unl).bin" size="4096" crc="5be003ad" md5="8debebc61916692e2d66f2edf4bed29c" sha1="d22009a4c4e92e0533bf4379d743f80f53064fde" sha256="1f8975fc9851399df2a31856c7c68eea0b668f5884a9f1ec53e7baf6674c5280"/>
+	</game>
+	<game name="Sheep It Up! - PAL (World) (Aftermarket) (Unl)" id="0748">
+		<description>Sheep It Up! - PAL (World) (Aftermarket) (Unl)</description>
+		<rom name="Sheep It Up! - PAL (World) (Aftermarket) (Unl).bin" size="4096" crc="13de1052" md5="1f6267db16ffeb90ba48890d5f84ac9e" sha1="b2d070404738c771e7c5bd3139858f7f8822d423" sha256="faab05e01e7dba0a5bbf25e387a5e7cef92fcbb29be1c817fc618c4dd52a4431"/>
+	</game>
+	<game name="Sheep It Up! - SECAM (World) (Aftermarket) (Unl)" id="0749">
+		<description>Sheep It Up! - SECAM (World) (Aftermarket) (Unl)</description>
+		<rom name="Sheep It Up! - SECAM (World) (Aftermarket) (Unl).bin" size="4096" crc="f915ad29" md5="da3f54e89b54b0a2391d0513ab8c9861" sha1="566249fc4b955fe7baab05e4818724d3387674b3" sha256="ba143ce6b40df39d0428e36c5062ae1c0557dfc6cf3d5d91eb843c4a1f354ed7"/>
+	</game>
+	<game name="synthcart (USA) (NTSC) (Aftermarket) (Unl)" id="0792" cloneofid="0802">
+		<description>synthcart (USA) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="synthcart (USA) (NTSC) (Aftermarket) (Unl).a26" size="8192" crc="5ddd1eba" md5="2c2aea31b01c6126c1a43e10cacbfd58" sha1="c24256c1d51246281a400fb03fc4ca465bd092dd" sha256="66ee784888b300befcdc8885ba11629391c329de34d4963cf677ff3cf459a0ae" status="verified"/>
+	</game>
+	<game name="synthcart (Europe) (PAL) (Aftermarket) (Unl)" id="0802">
+		<description>synthcart (Europe) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="synthcart (Europe) (PAL) (Aftermarket) (Unl).a26" size="8192" crc="c80ec2f8" md5="8b556c3d9ca8e5e6e665bd759b93ffae" sha1="c4c19c5e0d8b6fcf1aeafa0bd3c88ef3f834c59b" sha256="163a02b5683eaa552c37fb85a1817124ffc260d214623d088b1f2f3c15ad1e9b"/>
+	</game>
+	<game name="Tank AI (USA, Europe) (Aftermarket) (Unl)" id="0719">
+		<category>Games</category>
+		<description>Tank AI (USA, Europe) (Aftermarket) (Unl)</description>
+		<rom name="Tank AI (USA, Europe) (Aftermarket) (Unl).a26" size="16384" crc="a7ceea56" md5="4704e6dae883e35fe31e09e06d4ddbfc" sha1="0c382db92d8e6f3589da2e020b024bc24bc7dfc6" sha256="e9ea0c2485b2392b6e4122cc5e8eb284ca02efaffa744c9d6a0aea89bd6a9583"/>
+	</game>
+	<game name="Wall Jump Ninja (World) (2015-01-15) (NTSC) (Aftermarket) (Unl)" id="0753">
+		<description>Wall Jump Ninja (World) (2015-01-15) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="wall_jump_ninja_20150115_v1_0_NTSC.bin" size="4096" crc="353215e0" md5="3c56c0c5f6f97850ed0aa7bcc2a4e30e" sha1="a06fb0c60fff651b0be270e926f220706e86a5b4" sha256="ae6418f3a38938b4de3c73588dd1fe5bbecb45d6ee7db9a262192a8a137911c8"/>
+	</game>
+	<game name="Wall Jump Ninja (World) (2015-01-15) (PAL) (Aftermarket) (Unl)" id="0754">
+		<description>Wall Jump Ninja (World) (2015-01-15) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="wall_jump_ninja_20150115_v1_0_PAL.bin" size="4096" crc="a6574f27" md5="195a8ddf9debcc1444a86aef82b9c26d" sha1="1c7da4646c5f59596914f32ef7f4f04c0d62bff3" sha256="1b32bfff4a8d4c91e900a7f402343af7dabbf041872bff912d46a86bdb8fc3ad"/>
+	</game>
+	<game name="Wall Jump Ninja (World) (2015-01-15) (PAL 60Hz) (Aftermarket) (Unl)" id="0755">
+		<description>Wall Jump Ninja (World) (2015-01-15) (PAL 60Hz) (Aftermarket) (Unl)</description>
+		<rom name="wall_jump_ninja_20150115_v1_0_PAL60.bin" size="4096" crc="b491c2b6" md5="2489359c38551a1d96cbaa4e52d8bb30" sha1="bd3e8686a09175f51a0fcb51115d9b91b0e6b852" sha256="e13c718bedbdd706e1f66410d90976e50e52f6a13c55d97b044350bbf32bd234"/>
+	</game>
+	<game name="Wall Jump Ninja (World) (v1.1) (2016-05-08) (NTSC) (Aftermarket) (Unl)" id="0756">
+		<description>Wall Jump Ninja (World) (v1.1) (2016-05-08) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="wall_jump_ninja_20160508_v1_1_NTSC.bin" size="4096" crc="4f053653" md5="5da448a2e1a785d56bf4f04709678156" sha1="3864c9f26576bcb919ff00153a20418a1f7121c1" sha256="7136406cd150ad670d3b5c3182ed577ba2b1bf9627a488741554ad081c9c257c"/>
+	</game>
+	<game name="Wall Jump Ninja (World) (v1.1) (2016-05-08) (PAL) (Aftermarket) (Unl)" id="0757">
+		<description>Wall Jump Ninja (World) (v1.1) (2016-05-08) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="wall_jump_ninja_20160508_v1_1_PAL.bin" size="4096" crc="7c81e726" md5="9490206ba47a11332488240f3b91c477" sha1="8c99a56e2b3dadb0569c07bc13eb325df8e42cb8" sha256="ed2a6a30d8b61d92301b5ee995e0fa45350f7eed6c99fba74721b5f4801ec60c"/>
+	</game>
+	<game name="Wall Jump Ninja (World) (Aftermarket) (Unl)" id="0758">
+		<description>Wall Jump Ninja (World) (Aftermarket) (Unl)</description>
+		<rom name="wall_jump_ninja_20160508_v1_1_PAL60.bin" size="4096" crc="bb530a55" md5="eb56bef863bed75f203429e568c23d05" sha1="fba9479b04a1bb5c6cbd1893be59630acd3c8cb6" sha256="03d01fc7b8d79aced7a9fb8a89ae9b93315ae2366d742528bd3402e2254c1a29"/>
+	</game>
+</datafile>

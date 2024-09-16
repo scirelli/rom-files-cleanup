@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>292</id>
+		<name>Non-Redump - Sega - ALLS</name>
+		<description>Non-Redump - Sega - ALLS</description>
+		<subset>Non-Redump</subset>
+		<version>20240912-024923</version>
+		<author>Gefflon, NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Chrono Regalia (Japan) (v1.01) (0003A)" id="0005">
+		<category>Games</category>
+		<description>Chrono Regalia (Japan) (v1.01) (0003A)</description>
+		<rom name="Chrono Regalia (Japan) (v1.01) (0003A).iso" size="4064139264" crc="adf94711" md5="35932a853ad33adf1d42f28ff041c977" sha1="842c2e79e5775eae3d3f69d7918813b935f7f108" serial="CDA-0003A-1"/>
+	</game>
+	<game name="Chrono Regalia (Japan) (v1.20) (0003C)" id="0006" cloneofid="0005">
+		<category>Games</category>
+		<description>Chrono Regalia (Japan) (v1.20) (0003C)</description>
+		<rom name="Chrono Regalia (Japan) (v1.20) (0003C).iso" size="3981826048" crc="133bed2c" md5="6e1f12d191f6122de160c2b387821b1c" sha1="6c470bdc8f0b6ff24fd54b00fa264cbde2b44ed1" serial="CDA-0003C-1"/>
+	</game>
+	<game name="Fate - Grand Order Arcade (Japan) (v3.00) (Disc 1) (0004AB)" id="0001">
+		<description>Fate - Grand Order Arcade (Japan) (v3.00) (Disc 1) (0004AB)</description>
+		<rom name="Fate - Grand Order Arcade (Japan) (v3.00) (Disc 1) (0004AB).iso" size="8386904064" crc="ee4f9fa6" md5="0bbfc298fc98db6d5f5e779a209af950" sha1="c82dc0c2d8de205a58fed4d9a5362359ef65e72e" mia="yes"/>
+	</game>
+	<game name="Fate - Grand Order Arcade (Japan) (v5.00) (Disc 1) (0004AV)" id="0002" cloneofid="0001">
+		<description>Fate - Grand Order Arcade (Japan) (v5.00) (Disc 1) (0004AV)</description>
+		<rom name="Fate - Grand Order Arcade (Japan) (v5.00) (Disc 1) (0004AV).iso" size="8386904064" crc="43ba6e53" md5="ba6028f37ed025bef9ed090b2b01aae7" sha1="fd441cfe08842b5516824822fa8570f523ebb5c5" mia="yes"/>
+	</game>
+	<game name="Fate - Grand Order Arcade (Japan) (v3.00) (Disc 2) (0004AB)" id="0003">
+		<description>Fate - Grand Order Arcade (Japan) (v3.00) (Disc 2) (0004AB)</description>
+		<rom name="Fate - Grand Order Arcade (Japan) (v3.00) (Disc 2) (0004AB).iso" size="1323679744" crc="d7bc8270" md5="e7d780f35f2e9ae41a121c97f2ef1c85" sha1="917516b384fddbde35e85adbaf3e9ea6b40bea89" mia="yes"/>
+	</game>
+	<game name="Fate - Grand Order Arcade (Japan) (v7.00) (Disc 3) (0004CC)" id="0004">
+		<description>Fate - Grand Order Arcade (Japan) (v7.00) (Disc 3) (0004CC)</description>
+		<rom name="Fate - Grand Order Arcade (Japan) (v7.00) (Disc 3) (0004CC).iso" size="1537867776" crc="d788b5c4" md5="8c7c6a9ef9f5f063ceb462590ff04d93" sha1="f2510ed28a17fe38ce45312cffb2bc72ba1c326f" mia="yes"/>
+	</game>
+	<game name="Initial D - The Arcade (Japan) (v1.00.03) (Disc 1) (0010)" id="0007">
+		<description>Initial D - The Arcade (Japan) (v1.00.03) (Disc 1) (0010)</description>
+		<rom name="Initial D - The Arcade (Japan) (v1.00.03) (Disc 1) (0010).iso" size="8386904064" crc="9cb2e2e2" md5="f91882755e94a228511b275462d94b60" sha1="58b1d27c2af0401c54c846e85a3856299c99d91d" serial="CDA-0010-1D"/>
+	</game>
+	<game name="Initial D - The Arcade (Japan) (v1.00.03) (Disc 2) (0010)" id="0008">
+		<description>Initial D - The Arcade (Japan) (v1.00.03) (Disc 2) (0010)</description>
+		<rom name="Initial D - The Arcade (Japan) (v1.00.03) (Disc 2) (0010).iso" size="6829768704" crc="68c777ee" md5="b8a1f86cd295e8544c1b5b4b5e445245" sha1="852a142b86b2d9d4a419695ba3661a2c2a705e21" serial="CDA-0010-2D"/>
+	</game>
+	<game name="Sega World Drivers Championship (Japan) (v1.00.01) (Disc 1) (0002)" id="0009">
+		<description>Sega World Drivers Championship (Japan) (v1.00.01) (Disc 1) (0002)</description>
+		<rom name="Sega World Drivers Championship (Japan) (v1.00.01) (Disc 1) (0002).iso" size="8386904064" crc="d8f6521b" md5="2e13ef5f5e8c2a06cb55085342a74a93" sha1="0706baaa74d90c7b98d676fc6275ef35a711ff75" mia="yes" serial="CDA-0002-1D"/>
+	</game>
+	<game name="Sega World Drivers Championship (Japan) (v1.00.01) (Disc 2) (0002)" id="0010">
+		<description>Sega World Drivers Championship (Japan) (v1.00.01) (Disc 2) (0002)</description>
+		<rom name="Sega World Drivers Championship (Japan) (v1.00.01) (Disc 2) (0002).iso" size="3018194944" crc="6d9c272a" md5="398ab33d31e1ce96acb4fc800f64a15b" sha1="28fcdf8bde2c6705972f482c49a1d1b584a987ff" mia="yes" serial="CDA-0002-2D"/>
+	</game>
+</datafile>

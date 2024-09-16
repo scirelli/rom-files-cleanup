@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>321</id>
+		<name>MP3 CD</name>
+		<description>MP3 CD</description>
+		<subset>Non-Game</subset>
+		<version>20240203-070844</version>
+		<author>Intothisworld</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Dawkins, Richard - The Selfish Gene (USA)" id="0001">
+		<category>Audio</category>
+		<description>Audiobooks, Literature</description>
+		<rom name="Dawkins, Richard - The Selfish Gene (USA).cue" size="107" crc="ef283b02" sha1="f8e2e2819847ffaf44f75470f5f1249b87654d36"/>
+		<rom name="Dawkins, Richard - The Selfish Gene (USA).bin" size="824926368" crc="99c4f87a" md5="447187a47490729c2a8af01ce0972b40" sha1="fb1c39c1533cd7c7e54aef00ba7683d8dd9877cd"/>
+	</game>
+	<game name="Rothfuss, Patrick - The Name of the Wind (USA) (Disc 1)" id="0002">
+		<category>Audio</category>
+		<description>Audiobooks, Literature</description>
+		<rom name="Rothfuss, Patrick - The Name of the Wind (USA) (Disc 1).cue" size="121" crc="092300c8" sha1="0d964e557b9312d0a762dba7541c6d6f3a14148a"/>
+		<rom name="Rothfuss, Patrick - The Name of the Wind (USA) (Disc 1).bin" size="699795264" crc="f92b6044" md5="0441cfb3b4c9e4558f8a1a572119fc73" sha1="69167a6a50f6a6cf4a5aa32ba84560287d02467c"/>
+	</game>
+	<game name="Rothfuss, Patrick - The Name of the Wind (USA) (Disc 2)" id="0003">
+		<category>Audio</category>
+		<description>Audiobooks, Literature</description>
+		<rom name="Rothfuss, Patrick - The Name of the Wind (USA) (Disc 2).cue" size="121" crc="087e2619" sha1="59ef4d7240e239fda6ed8906115370e981fe5c36"/>
+		<rom name="Rothfuss, Patrick - The Name of the Wind (USA) (Disc 2).bin" size="754483968" crc="66d990ba" md5="41d0093fe624099013e3de21edf9aa21" sha1="b8863c7d4d5fd3ca784ee520b5b4d2e25d6808b0"/>
+	</game>
+	<game name="Rothfuss, Patrick - The Wise Man's Fear (USA) (Disc 1)" id="0004">
+		<category>Audio</category>
+		<description>Audiobooks, Literature</description>
+		<rom name="Rothfuss, Patrick - The Wise Man's Fear (USA) (Disc 1).cue" size="120" crc="3c753dd8" sha1="3be6e1608c1ce32fe210bdc1d1cc49de1d38224a"/>
+		<rom name="Rothfuss, Patrick - The Wise Man's Fear (USA) (Disc 1).bin" size="809680704" crc="c552e19c" md5="6d9585536852fc01afbc64cb1536215c" sha1="5afe9492484a404133625742e5517b9d9ee72da8"/>
+	</game>
+	<game name="Rothfuss, Patrick - The Wise Man's Fear (USA) (Disc 2)" id="0005">
+		<category>Audio</category>
+		<description>Audiobooks, Literature</description>
+		<rom name="Rothfuss, Patrick - The Wise Man's Fear (USA) (Disc 2).cue" size="120" crc="3d281b09" sha1="9ea1dae6e7a1e3df810ed123b38fc8b763d6163d"/>
+		<rom name="Rothfuss, Patrick - The Wise Man's Fear (USA) (Disc 2).bin" size="815821776" crc="ca86e551" md5="1feb7a71973c0a849d38533323a829cc" sha1="e2b54fceecfdeeaee9481967763cd07b71d198ff"/>
+	</game>
+	<game name="Rothfuss, Patrick - The Wise Man's Fear (USA) (Disc 3)" id="0006">
+		<category>Audio</category>
+		<description>Audiobooks, Literature</description>
+		<rom name="Rothfuss, Patrick - The Wise Man's Fear (USA) (Disc 3).cue" size="120" crc="8b33fb79" sha1="f66fbf0851f9cf2ce4fcf3fd1501deceeb9459d6"/>
+		<rom name="Rothfuss, Patrick - The Wise Man's Fear (USA) (Disc 3).bin" size="740113248" crc="eaf7239a" md5="21aee133b23a62a3003bf01e1934eb73" sha1="2744b8c0fc2de2264227ca86ee77a8664ccb7c39"/>
+	</game>
+</datafile>

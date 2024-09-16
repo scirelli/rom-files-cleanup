@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>166</id>
+		<name>Non-Redump - Sega - Sega Mega CD + Sega CD (Aftermarket)</name>
+		<description>Non-Redump - Sega - Sega Mega CD + Sega CD (Aftermarket)</description>
+		<subset>Non-Redump</subset>
+		<version>20231229-110423</version>
+		<author>bikerspade, Hiccup, Seventy7</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="240p Test Suite (World) (v1.23) (Program) (Aftermarket) (Unl)" id="0040">
+		<description>240p Test Suite (World) (v1.23) (Program) (Aftermarket) (Unl)</description>
+		<rom name="240pSuite_JP.cue" size="285" crc="b0222e24" md5="6eba79bf7b5420d54e2922a4589ad55a" sha1="0c1a6cfd3a53d3621d4f8990f593f43cc43af0d4" sha256="3bb2b2bf64f0e7e032432771bafc12162080244b3a4bd9a9eec38219dc29c427"/>
+		<rom name="240p_MegaCD_JP.iso" size="1048576" crc="1a342625" md5="40d0b819890668f08a33bef13c070a53" sha1="1208099c6bc4d9f7f4a1b369cf67c80eef9bbc8b" sha256="5c893b056340979a90afcf7fc0057421290649eb16e82c27ac1b39ab70bf4cd1"/>
+		<rom name="240p_SegaCD_Track-02.wav" size="2645956" crc="5d11087a" md5="07774b0d949ff1fed7e12eac547dfd65" sha1="2ae1890e3e52cbfc0abbe38a2321b58ed0ec7cf1" sha256="9d6003f937bb4d7105a7d2e740c3b306efe18e3dbb6db11157fab1528fba418d"/>
+		<rom name="240p_SegaCD_Track-03.wav" size="4182032" crc="45731230" md5="9835d28f1544585eca5f83faa9a878dd" sha1="554584190468f2305d3d5f4aff7bc517f04d8280" sha256="2d819faa2f65f6792c212a79bf846a135430228a57e2d7cf76bffdb915e2042e"/>
+		<rom name="240p_MegaCD_EU.iso" size="1048576" crc="80caf155" md5="f5c7cbc820d6b359bed8459367d3a74b" sha1="ca194d03ddd3e2d33c84085f56f75236bbbc8c47" sha256="f3dec95110a689d4f2784eb6275ef84de450d4aab28079857a64e898734033c3"/>
+		<rom name="240p_SegaCD_USA.iso" size="1048576" crc="a3917574" md5="49b529531ff1ce9a0f1d7d1a119f202a" sha1="f2fbad6310a0de7e69917fe4e088e59b2f446db9" sha256="ea5460a2fc56397f0f4a588db6d0652f46718aa851a92e39cbef38b52c1fa895"/>
+		<rom name="240pSuite_EU.cue" size="287" crc="d5cc1b74" md5="fe71545c1212664c1858d80fb4b67b88" sha1="e971299b597408b573da47ac82b4a9d4580a5638" sha256="945f5fb47997d1a63057db0b7285a66a7ebba0c41bbd4a60991e62b6b90eec70"/>
+		<rom name="240pSuite_USA.cue" size="286" crc="c2c0827f" md5="82f2a0259315368fbd5e688245366d8f" sha1="7dcd85bbf66c6977ec20939be804880bcb28fec9" sha256="6e832cc64eee9782da21562f6869a5b67c482aecbb0dc9311de7baa8ee6fda73"/>
+	</game>
+</datafile>

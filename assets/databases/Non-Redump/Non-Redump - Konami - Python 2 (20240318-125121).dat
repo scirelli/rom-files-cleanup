@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>293</id>
+		<name>Non-Redump - Konami - Python 2</name>
+		<description>Non-Redump - Konami - Python 2</description>
+		<subset>Non-Redump</subset>
+		<version>20240318-125121</version>
+		<author>Gefflon, NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Dancing Stage SuperNOVA (Europe) (Install Disk)" id="0001">
+		<description>Dancing Stage SuperNOVA (Europe) (Install Disk)</description>
+		<rom name="Dancing Stage SuperNOVA (Europe) (Install Disk).iso" size="4002709504" crc="95e713bb" md5="49db9be25831e87140f2fd67ecd7e99b" sha1="8e2799b9316367f3fb10b1e5bc4a6cc9ff1bcb2a" mia="yes" serial="KNAD 00009"/>
+	</game>
+	<game name="DrumMania V2 (Japan)" id="0003">
+		<category>Games</category>
+		<description>DrumMania V2 (Japan)</description>
+		<rom name="DrumMania V2 (Japan).iso" size="1963196416" crc="c03db223" md5="87b396f9eb247dc86487bc5648f1a995" sha1="9709ca3568307f1ee9de4e7c6d6327822d66f04d" sha256="4ededc432736631fe5ed0ac5bd352f403dcbd348ceaa884d61cc9c175bd0106e" serial="KNAD 00002"/>
+	</game>
+	<game name="DrumMania V3 (Japan)" id="0004">
+		<category>Games</category>
+		<description>DrumMania V3 (Japan)</description>
+		<rom name="DrumMania V3 (Japan).iso" size="3802136576" crc="0bbc4e58" md5="00928bb7acbd1cfd6a7e86e9fc1d7f26" sha1="e835a905f7ee5fe557b1cbeaba64098428cbc1d2" sha256="dbc4bb33ae50e66f1b5fd381866a648a1132861fdb220f1ddbe7bafbb4703654" serial="KNAD 00007"/>
+	</game>
+	<game name="GuitarFreaks V2 (Japan)" id="0002">
+		<category>Games</category>
+		<description>GuitarFreaks V2 (Japan)</description>
+		<rom name="GuitarFreaks V2 (Japan).iso" size="1963196416" crc="cfca3113" md5="b0bbd460c36939fba6282cd4505bd7b8" sha1="410764602cddb55527620460289bfbb984ba52cc" sha256="01e152dd9af161292a15fe3bd0848b03004ab548eaf10ef1ca3facef1fab3b0a" serial="KNAD 00001"/>
+	</game>
+</datafile>

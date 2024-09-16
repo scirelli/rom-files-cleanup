@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>105</id>
+		<name>Mattel - Intellivision (Aftermarket)</name>
+		<description>Mattel - Intellivision (Aftermarket)</description>
+		<version>20240611-224904</version>
+		<author>Aringon, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, omonim2007, Psychofox11, RetroUprising, SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="DK Arcade (World) (Intelligentvision) (Aftermarket) (Unl)" id="0221">
+		<category>Games</category>
+		<description>DK Arcade (World) (Intelligentvision) (Aftermarket) (Unl)</description>
+		<rom name="DK Arcade (World) (Intelligentvision) (Aftermarket) (Unl).int" size="49152" crc="ef1bec41" md5="607d0a959d1c64f6feb66433b4171d5f" sha1="fad323a8c88b7155ec4456e8909fe21e3cdbbe07" sha256="0bb995f068921a7f7513e4e2251d6bcc15fa630a6c64362f34efc9f80ba3e776"/>
+	</game>
+</datafile>

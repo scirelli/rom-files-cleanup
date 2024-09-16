@@ -1,0 +1,342 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>376</id>
+		<name>DVD-ROM</name>
+		<description>DVD-ROM</description>
+		<subset>Non-Game</subset>
+		<version>20240903-084717</version>
+		<author>Aringon, bikerspade, Intothisworld, NovaAurora, SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="13-inch MacBook Pro (USA) (Applications Install DVD) (OEM)" id="0044">
+		<category>Applications</category>
+		<description>Apple Macintosh - Operating Systems, Applications</description>
+		<rom name="13-inch MacBook Pro (USA) (Applications Install DVD) (OEM).iso" size="5003116544" crc="50a5d0ae" md5="587f7c52d4ba3efcf7da4a1ee2151c66" sha1="127a9f53bf51cbd5f58228672455f574a7844082"/>
+	</game>
+	<game name="13-inch MacBook Pro (USA) (Mac OS X Install DVD) (OEM)" id="0045">
+		<category>Applications</category>
+		<description>Apple Macintosh - Operating Systems</description>
+		<rom name="13-inch MacBook Pro (USA) (Mac OS X Install DVD) (OEM).iso" size="8313602048" crc="a88270c5" md5="d9c5cf8bf5c40e1ca9bdcca9c191802f" sha1="c6d94953e7f4b93cdabcdc7a6bd603f64078011d"/>
+	</game>
+	<game name="Adobe Creative Suite 3 - Video Workshop (USA)" id="0027">
+		<category>Applications</category>
+		<description>Apple Macintosh, IBM PC - Applications, Creative Resources, Educational, Multimedia</description>
+		<rom name="Adobe Creative Suite 3 - Video Workshop (USA).iso" size="2712600576" crc="9ff5cb54" md5="d98d9640f574cd9c90b127af3279d9a8" sha1="af720c6341732b03b361a19ddebb048003615d43"/>
+	</game>
+	<game name="Adobe Creative Suite 3 Web Standard (USA) (Content)" id="0039">
+		<category>Applications</category>
+		<description>Apple Macintosh - PowerPC, Intel - Applications</description>
+		<rom name="Adobe Creative Suite 3 Web Standard (USA) (Content).iso" size="214360064" crc="f6df2259" md5="d4acbd8252d56c63366cdb73134b6ce1" sha1="5aab7651e430ef5932120578151cfdb802b2553d"/>
+	</game>
+	<game name="Adobe Creative Suite 3 Web Standard (USA) (Application)" id="0038">
+		<category>Applications</category>
+		<description>Apple Macintosh - PowerPC, Intel - Applications</description>
+		<rom name="Adobe Creative Suite 3 Web Standard (USA) (Application).iso" size="1471209472" crc="3a4ba036" md5="3f47cbdd5f44acc46130d6d5ea70a00d" sha1="6a00840b4b49bb51321cfc2589d7d41536dd422b"/>
+	</game>
+	<game name="Adobe Photoshop Elements 9 (USA) (Disk 1 - Mac OS)" id="0029">
+		<category>Applications</category>
+		<description>Apple Macintosh - Applications, Multimedia</description>
+		<rom name="Adobe Photoshop Elements 9 (USA) (Disk 1 - Mac OS).iso" size="4268537856" crc="4532bd44" md5="63ab3b16ba0669e23337a7c2fb69825c" sha1="ce38ecccf8c0dad2c42a6002b7b23b6e8ce3887c"/>
+	</game>
+	<game name="Adobe Photoshop Elements 9 (USA) (Disk 1 - Windows)" id="0028">
+		<category>Applications</category>
+		<description>IBM PC Compatible - Applications, Multimedia</description>
+		<rom name="Adobe Photoshop Elements 9 (USA) (Disk 1 - Windows).iso" size="3146201088" crc="085f9c99" md5="c7a4fe68f379f18bcf2fad839ee9e60b" sha1="0aed7cca053750c3c634ea26fa1974ef92a4c674"/>
+	</game>
+	<game name="Art Explosion 500,000 (USA) (Disc 3)" id="0064">
+		<description>Win(x86) - Creative Resources, Multimedia</description>
+		<rom name="Art Explosion 500,000 (USA) (Disc 3).iso" size="6555303936" crc="12cbe5e1" md5="95016e68f0fba8b60c05a50f068d096d" sha1="b95ab0f27f162dd161a4901883404d8d51c1d4f5" sha256="6b1ee9e506d530098c025f1a7e314e307bf8ba20b9047bb4784f022a402dada3"/>
+	</game>
+	<game name="Art Explosion 500,000 (USA) (Disc 1)" id="0062">
+		<description>Win(x86) - Creative Resources, Multimedia</description>
+		<rom name="Art Explosion 500,000 (USA) (Disc 1).iso" size="3094544384" crc="081de31b" md5="78a9614e94a585f4017cd18e7d1e76b9" sha1="499dce995adcd4e4aad4b8d898e2a3316ad51a1d" sha256="bc7c8c1ce6f464ef149ac5e640f4590ed54431baeace195a948ddfb5226acc0c"/>
+	</game>
+	<game name="Art Explosion 500,000 (USA) (Disc 2)" id="0063">
+		<description>Win(x86) - Creative Resources, Multimedia</description>
+		<rom name="Art Explosion 500,000 (USA) (Disc 2).iso" size="6944653312" crc="1ecaed54" md5="71925492f70c28dcd73f1d645a89bf3b" sha1="a6956878820f1daecb307d09bfafdf54302ac091" sha256="8cf98761d4b4d6368d27514f5d848fc635e95bcfc085a116ecc1e4718306728e"/>
+	</game>
+	<game name="Art Explosion 500,000 (USA) (Disc 4)" id="0065">
+		<description>Win(x86) - Creative Resources, Multimedia</description>
+		<rom name="Art Explosion 500,000 (USA) (Disc 4).iso" size="5405671424" crc="00e62bef" md5="de45c4e7cc6f41b25420221787288974" sha1="fe6ea1a5072fb3d78fa7be83bdceb4607982eca6" sha256="6d2e43386f166aee5214a600854148f283a0a8783c57086a98c7cd3f179fe9ca"/>
+	</game>
+	<game name="ASRock - AMD Series - AAM4-12c - Driver DVD (USA) (v1.2c)" id="0019">
+		<category>Applications</category>
+		<description>IBM PC Compatible - Drivers, Utilities</description>
+		<rom name="ASRock - AMD Series - AAM4-12c - Driver DVD (USA) (v1.2c).iso" size="4366925824" crc="a0109730" md5="2dd3fdf320cb462ec33148bed5fd9d5e" sha1="4be782f2da9f4dd1393afa644b750f8d2652c67b"/>
+	</game>
+	<game name="ASUS Graphics Card - GPU Tweak II &amp; Driver (USA)" id="0020">
+		<category>Applications</category>
+		<description>IBM PC Compatible - Applications, Drivers, Utilities</description>
+		<rom name="ASUS Graphics Card - GPU Tweak II &amp; Driver (USA).iso" size="4385112064" crc="de5f095c" md5="7f82a6087ec02eb3616a4578a9a83ee2" sha1="160c0259c46df89fbccea457d10b6a3f18ba1a92"/>
+	</game>
+	<game name="ASUS Motherboard - P8P67 Series (USA)" id="0021">
+		<category>Applications</category>
+		<description>IBM PC Compatible - Drivers, Utilities</description>
+		<rom name="ASUS Motherboard - P8P67 Series (USA).iso" size="2698477568" crc="50d430fc" md5="b78f9175b68fa56f602b453a2d0580d1" sha1="c79a2e373feac461a0f789ade650afbbdaf35dad" sha256="286529af03aaff6023888ee36e8efdc32a01a8888a8ee04bf7cb26f599785427"/>
+	</game>
+	<game name="ASUS Motherboard - TUF Gaming - B450 Series - Support DVD (World) (v1375.02)" id="0022">
+		<description>IBM PC Compatible - Applications, Drivers, Utilities</description>
+		<rom name="ASUS Motherboard - TUF Gaming - B450 Series - Support DVD (World) (v1375.02).iso" size="6002094080" crc="1b764658" md5="634f4905358adaa3e4ca6a478c14e1a0" sha1="d48e80bd596e985ee872a63143c105119edc5e37"/>
+	</game>
+	<game name="Celestron TheSkyX First Light Edition (USA)" id="0060">
+		<category>Applications</category>
+		<description>Win(x86) - Applications</description>
+		<rom name="Celestron TheSkyX First Light Edition (USA).iso" size="1016102912" crc="41cdd158" md5="40afcdb5ee345711b2354b4dda8ebae6" sha1="f119b836067aa3d86d8e2f322fa0fbb51bef5bde" sha256="df09593489ba8e51dcc9375da6a29d90b86d74ef0e4d17a8eaa82739cf3a1f6a"/>
+	</game>
+	<game name="eMac - Mac OS X Install Disc 1 (USA) (v1.0) (OEM)" id="0046">
+		<category>Applications</category>
+		<description>Apple Macintosh - Operating Systems</description>
+		<rom name="eMac - Mac OS X Install Disc 1 (USA) (v1.0) (OEM).iso" size="6074761216" crc="62fdc795" md5="752e0f3f72fd628385e65e93688567c3" sha1="755fae90e331ef353c0d7c8d822ab3084504df35"/>
+	</game>
+	<game name="eMac - Software Install and Restore 1 of 2 (USA) (DVD v1.0)" id="0047">
+		<category>Applications</category>
+		<description>Apple Macintosh - Operating Systems</description>
+		<rom name="eMac - Software Install and Restore 1 of 2 (USA) (DVD v1.0).iso" size="4170770432" crc="c0ac9bfd" md5="941aad57fdc04187bcc277779fec50cb" sha1="d49f791b77ef9122becab038ef09d2da35c8b1cd"/>
+	</game>
+	<game name="eMac - Software Install and Restore 2 of 2 (USA) (DVD v1.1)" id="0048">
+		<category>Applications</category>
+		<description>Apple Macintosh - Operating Systems</description>
+		<rom name="eMac - Software Install and Restore 2 of 2 (USA) (DVD v1.1).iso" size="3670007808" crc="60b7f63d" md5="ada922b7de04a456de4b1d165feebfd0" sha1="b351d70101b631f76c46dca35c8d3fdb6c6425eb"/>
+	</game>
+	<game name="EVGA - Display Driver Installation Disc (USA) (GeForce GTX 900 Series)" id="0023">
+		<description>IBM PC Compatible - Drivers, Utilities</description>
+		<rom name="EVGA - Display Driver Installation Disc (USA) (GeForce GTX 900 Series).iso" size="1130856448" crc="8a4b5a9a" md5="0a450deeaf8f4fce75000670dcf6be42" sha1="85961b4107bf2d4a1092df976bafddfb4f9a9d5e"/>
+	</game>
+	<game name="Hallmark Card Studio 2010 Deluxe (USA)" id="0061">
+		<category>Applications</category>
+		<description>Win(x86) - Applications</description>
+		<rom name="Hallmark Card Studio 2010 Deluxe (USA).iso" size="4090167296" crc="04307069" md5="12312c07f8234f51195edb231929b146" sha1="c60335121323d3873ccfe43d7d4d8d189d863c61"/>
+	</game>
+	<game name="Hallmark Card Studio for Mac - Version 2 (USA)" id="0040">
+		<category>Applications</category>
+		<description>Apple Macintosh - Applications, Multimedia</description>
+		<rom name="Hallmark Card Studio for Mac - Version 2 (USA).iso" size="4398153728" crc="1ded9552" md5="0ec17253cb982fdf6af0e56ca36b737b" sha1="4e681d1f255216be8f0a47d5e607cfb25a7d1a03"/>
+	</game>
+	<game name="Honda Navigation System - 2011 White DVD Update - United States and Southern Canada (USA) (v4.92)" id="0036">
+		<description>Embedded Systems - Automotive</description>
+		<rom name="Honda Navigation System - 2011 White DVD Update - United States and Southern Canada (USA) (v4.92).iso" size="7806296064" crc="5a1c9079" md5="3da79dea76e6e057261dd7729936db8b" sha1="767b7b732f48617361f65a76430957b573a867c9"/>
+	</game>
+	<game name="Honda Navigation System - 2020 White DVD Update - United States and Southern Canada (USA) (v4.J0)" id="0037">
+		<description>Embedded Systems - Automotive</description>
+		<rom name="Honda Navigation System - 2020 White DVD Update - United States and Southern Canada (USA) (v4.J0).iso" size="6657263616" crc="f0c89800" md5="6c9b1855edf7abe3f1cdf805a2ccb1f9" sha1="b5bf6d6678963ecd051c12ed3f030731f44a0376"/>
+	</game>
+	<game name="HP Upgrade Manager (USA) (586185-B21)" id="0058">
+		<description>IBM PC Compatible - Operating Systems</description>
+		<rom name="HP Upgrade Manager (USA) (586185-B21).iso" size="4340908032" crc="ec96a3db" md5="0247957b84277fef170c715ca44bbca6" sha1="d2b89c4365880f70aa6123dd512901c76d13d64d" sha256="a14bbb06071e744f1b1922d02ba1a8f82295c24cb8a88ef692c3d5e29175d9d3"/>
+	</game>
+	<game name="iLife '05 - Install DVD (USA) (v5.0)" id="0041">
+		<category>Applications</category>
+		<description>Apple Macintosh - Applications</description>
+		<rom name="iLife '05 - Install DVD (USA) (v5.0).iso" size="3856367616" crc="858c2203" md5="bb28a1ec5a7447f94303a74b74b084eb" sha1="7a9a3e32ef946a59fe7d9007f815149aba80be02"/>
+	</game>
+	<game name="iMac - Applications Install DVD (USA) (v4.0)" id="0049">
+		<category>Applications</category>
+		<description>Apple Macintosh - Operating Systems, Applications</description>
+		<rom name="iMac - Applications Install DVD (USA) (v4.0).iso" size="3833200640" crc="4d3eada2" md5="acb4936f45ae37428fa0fb109fb2151d" sha1="d84f3b8638a5f47b816be95e118f96bb3be30048"/>
+	</game>
+	<game name="iMac - Software Install and Restore (Includes Apple Hardware Test) (USA) (DVD v1.1)" id="0050">
+		<category>Applications</category>
+		<description>Apple Macintosh - Operating Systems</description>
+		<rom name="iMac - Software Install and Restore (Includes Apple Hardware Test) (USA) (DVD v1.1).iso" size="4167133184" crc="bc841db4" md5="9d117e2473e1febc80ac26f4200e2bdf" sha1="afbed1b1c48da6687ccad1306ae2406126965f85"/>
+	</game>
+	<game name="iMac G5 - Mac OS X Install Disc 1 (USA) (v1.0)" id="0051">
+		<category>Applications</category>
+		<description>Apple Macintosh - Operating Systems</description>
+		<rom name="iMac G5 - Mac OS X Install Disc 1 (USA) (v1.0).iso" size="6071517184" crc="9b59217b" md5="825c18556913a98c9e6d15e0c1bb20cc" sha1="762f0d470e97da65534d64f5383c5e2eec710784"/>
+	</game>
+	<game name="Komputer Swiat - 2011-08 - Zlota plyta DVD (Poland)" id="0011">
+		<category>Covermount</category>
+		<description>IBM PC Compatible - Applications, Covermounts, Educational, Utilities</description>
+		<rom name="Komputer Swiat - 2011-08 - Zlota plyta DVD (Poland).iso" size="2798387200" crc="77dc1fa3" md5="0a6e61a7142ed63b89deac871ce6ed8f" sha1="639e387931b4846e5ac7c5ae79a6d0de20f166d1"/>
+	</game>
+	<game name="Komputer Swiat - 2014-08 - 10 systemow operacyjnych (Poland)" id="0014">
+		<category>Covermount</category>
+		<description>IBM PC Compatible - Applications, Covermounts, Operating Systems</description>
+		<rom name="Komputer Swiat - 2014-08 - 10 systemow operacyjnych (Poland).iso" size="8404762624" crc="4dbbd4d2" md5="a21eaa201049fae1f3651d8d96530ac4" sha1="e5b063c10933350bb8f2edfa2b01a6bcc6ceb31f"/>
+	</game>
+	<game name="Komputer Swiat - 2015-01 - Plyta ratunkowa 2015 (Poland)" id="0005">
+		<category>Covermount</category>
+		<description>IBM PC Compatible - Applications, Covermounts, Utilities</description>
+		<rom name="Komputer Swiat - 2015-01 - Plyta ratunkowa 2015 (Poland).iso" size="1218772992" crc="acfdc9de" md5="3ee424e30389f9d07b86ce5275b00370" sha1="b30bbd19e2dd53cca9bc19e08486eb373a071406"/>
+	</game>
+	<game name="Komputer Swiat - 2015-05 - Plyta chroniaca prywatnosc w sieci (Poland)" id="0004">
+		<category>Covermount</category>
+		<description>IBM PC Compatible - Covermounts, Operating Systems</description>
+		<rom name="Komputer Swiat - 2015-05 - Plyta chroniaca prywatnosc w sieci (Poland).iso" size="1906800640" crc="f9247384" md5="d7f215d6e801a43f46c52cfa08f02050" sha1="66c30c233a906476153f29d9b54718f5e8ecc834"/>
+	</game>
+	<game name="Komputer Swiat - 2016-08 - Ubuntu 16 (Poland)" id="0010">
+		<category>Covermount</category>
+		<description>IBM PC Compatible - Covermounts, Operating Systems</description>
+		<rom name="Komputer Swiat - 2016-08 - Ubuntu 16 (Poland).iso" size="8191475712" crc="1946e09f" md5="610346191de23764272ef54d847a6d21" sha1="aa5516cc7568de996f5d65fdc8541ca1fcec0767"/>
+	</game>
+	<game name="Komputer Swiat - 2017-01 - Kompletne aktualizacje do Windows 10 (Poland)" id="0009">
+		<category>Covermount</category>
+		<description>IBM PC Compatible - Applications, Covermounts, Drivers, Operating Systems, Utilities</description>
+		<rom name="Komputer Swiat - 2017-01 - Kompletne aktualizacje do Windows 10 (Poland).iso" size="7183859712" crc="7cf6f189" md5="3450bdfe4ce260aef868115e6da7229c" sha1="9fbf4e1e713b67e29694798950421feccd507e13"/>
+	</game>
+	<game name="Komputer Swiat - 2017-05 - Zostan anonimowy (Poland)" id="0007">
+		<category>Covermount</category>
+		<description>IBM PC Compatible - Covermounts, Operating Systems</description>
+		<rom name="Komputer Swiat - 2017-05 - Zostan anonimowy (Poland).iso" size="1209139200" crc="66f5d384" md5="25dabf84b185e2ff7036df652711b04b" sha1="8c65b74f4082b368143625cb46dbcf2ef29634d7"/>
+	</game>
+	<game name="Komputer Swiat - 2018-01 - Najlepsze darmowe programy do Windows - Edycja 2018 (Poland)" id="0008">
+		<category>Covermount</category>
+		<description>IBM PC Compatible - Applications, Covermounts, Multimedia, Utilities</description>
+		<rom name="Komputer Swiat - 2018-01 - Najlepsze darmowe programy do Windows - Edycja 2018 (Poland).iso" size="3575971840" crc="6d8840ac" md5="65431f7c3e667212c709f282811b6a9c" sha1="60e5528c6cc60fcf782d7587c95a5c87a6e75afc"/>
+	</game>
+	<game name="Komputer Swiat - 2019-12 - Plyta antywirusowa 2019 (Poland)" id="0003">
+		<category>Covermount</category>
+		<description>IBM PC Compatible - Applications, Covermounts, Utilities</description>
+		<rom name="Komputer Swiat - 2019-12 - Plyta antywirusowa 2019 (Poland).iso" size="6295126016" crc="438ef8ef" md5="584ca857b8e63ee70893a1c7f1283202" sha1="dbc9797d64f0c8a00d0808a410ad803b0cd11d69"/>
+	</game>
+	<game name="Linux Magazine - 2014-04 - Linux Mint (Poland)" id="0001">
+		<category>Covermount</category>
+		<description>Linux - Covermounts, Operating Systems</description>
+		<rom name="Linux Magazine - 2014-04 - Linux Mint (Poland).iso" size="1356300288" crc="a0c7270b" md5="bace9a8f23c9b6e984a5894669946122" sha1="9fae4f46346bbbbdb1f582e2b3ad02bbcc6b4c9b"/>
+	</game>
+	<game name="Linux Magazine - 2014-05 - Knoppix 7.3 (Poland)" id="0002">
+		<category>Covermount</category>
+		<description>Linux - Covermounts, Operating Systems</description>
+		<rom name="Linux Magazine - 2014-05 - Knoppix 7.3 (Poland).iso" size="4254545920" crc="2c8cc647" md5="f158a0f30915319090d0fb58897e4dfd" sha1="1a6214d4819b1c4a7e74ed2c3d187a316a4c06ef"/>
+	</game>
+	<game name="Mac OS X Install Disc 2 (USA)" id="0052">
+		<description>Apple Macintosh - Operating Systems</description>
+		<rom name="Mac OS X Install Disc 2 (USA).iso" size="8389820416" crc="cc7d2c0d" md5="cf26ae11d3f7550e5d2e8833c53c30f2" sha1="4c1d885758ee010345114a25a9f81ba047a0c70c"/>
+	</game>
+	<game name="Mac OS X Server (USA) (v10.4) (Install DVD)" id="0053">
+		<description>Apple Macintosh - Operating Systems</description>
+		<rom name="Mac OS X Server (USA) (v10.4) (Install DVD).iso" size="2779676672" crc="9e4f8bcb" md5="27c8e5045d9f9efe9cc0a2baddd6bbdb" sha1="5cdcb9603c794299848e802c577d60f6b06911d7"/>
+	</game>
+	<game name="Mantenimiento PC - Aprenda a ensamblar una computadora (Latin America)" id="0013">
+		<category>Applications</category>
+		<category>Covermount</category>
+		<description>IBM PC Compatible - Applications, Covermounts, Operating Systems, Utilities</description>
+		<rom name="Mantenimiento PC - Aprenda a ensamblar una computadora (Latin America).iso" size="2432368640" crc="2fd66dbc" md5="89b87cceeb2695869859874176f05f56" sha1="c0a952a3974034cf9cfa03c6af1442f08b44f23f"/>
+	</game>
+	<game name="Microsoft Office 2008 - Mac (USA)" id="0042">
+		<category>Applications</category>
+		<description>Apple Macintosh - Applications</description>
+		<rom name="Microsoft Office 2008 - Mac (USA).iso" size="608370688" crc="cd49ded2" md5="7d20b772de288613de2017506a48f18a" sha1="cbccdc7030825ec5c9e46e0efceb107399c514f8"/>
+	</game>
+	<game name="Microsoft Windows 7 Home Premium Upgrade Media (USA) (586193-001) (HP OEM)" id="0059">
+		<description>IBM PC Compatible - Operating Systems</description>
+		<rom name="Microsoft Windows 7 Home Premium Upgrade Media (USA) (586193-001) (HP OEM).iso" size="4382818304" crc="840e8710" md5="976b7e724fc42388f705ed4abdba4ba7" sha1="46dacc8b8d7e65be7be7791245d91ae9c1a0effd" sha256="5410743332b415ce2a6513dc062a8189e4d6945682c4bd705736f46a4de22c2f"/>
+	</game>
+	<game name="MSI - Drivers &amp; Utilities (USA) (G71-MMD1042-N56)" id="0057">
+		<description>IBM PC Compatible - Drivers, Utilities</description>
+		<rom name="MSI - Drivers &amp; Utilities (USA) (G71-MMD1042-N56).iso" size="3904864256" crc="a7064d95" md5="ec86b7c36fd2f4fe36c61d1fc6a0fda7" sha1="9c0496d09d86368a7339bc9b57aa420d246cfe6d" sha256="60e317fb928012810f56052cc9eb9e09547bbe30e5da58478281c34920343c8a"/>
+	</game>
+	<game name="MSI - Drivers &amp; Utilities (Australia) (G71-VNT1052-N56)" id="0024">
+		<description>IBM PC Compatible - Drivers, Utilities</description>
+		<rom name="MSI - Drivers &amp; Utilities (Australia) (G71-VNT1052-N56).iso" size="1206648832" crc="c702007a" md5="d5b4fedca4507d427bd70fc496ac3bfc" sha1="696b56ea78ee1c721e0a6448ae1cb16c44907ef2"/>
+	</game>
+	<game name="PC Format - 2018-06 (Poland)" id="0006">
+		<category>Covermount</category>
+		<description>IBM PC Compatible - Applications, Covermounts, Utilities</description>
+		<rom name="PC Format - 2018-06 (Poland).iso" size="4710563840" crc="c918e79f" md5="15ce6408825cbccd785adba598cdadc7" sha1="2afe391085215057993f0fe3cb58d710e010e037"/>
+	</game>
+	<game name="PC Format - 2018-07 - 40 Praktycznych usprawnien - Darmowe aplikacje przydatne na co dzien (Poland)" id="0055">
+		<category>Covermount</category>
+		<description>Windows (IBM PC) - Applications, Covermounts, Utilities</description>
+		<rom name="PC Format - 2018-07 - 40 Praktycznych usprawnien - Darmowe aplikacje przydatne na co dzien (Poland).iso" size="8036057088" crc="83e1fae2" md5="6b9dddd7a7c8675c6d28e6d794c882e3" sha1="8b86d1aeca08d376a2c8702a6fcd5ea7649a457f"/>
+	</game>
+	<game name="PC Format - 2018-11 - Chmura pod kontrola - Zlota plyta (Poland)" id="0012">
+		<category>Covermount</category>
+		<description>Windows (IBM PC) - Applications, Covermounts, Operating Systems, Utilities</description>
+		<rom name="PC Format - 2018-11 - Chmura pod kontrola - Zlota plyta (Poland).iso" size="8393555968" crc="f223529f" md5="ce7c83c52dd362ecb7f7b4e7079ef48f" sha1="f39771879b12f6bd71b82459196d5ba9456a5246"/>
+	</game>
+	<game name="Pinnacle Studio 17 (USA)" id="0056">
+		<category>Applications</category>
+		<description>Win(x86) - Applications, Creative Resources</description>
+		<rom name="Pinnacle Studio 17 (USA).iso" size="3458766848" crc="2cb0f265" md5="537a5d15c227f3d15eedd01f7025f043" sha1="e17e245d57f606e0931759409998ac39cbcafc1a"/>
+	</game>
+	<game name="Plextor - DVD Writing Software (World) (v10.01)" id="0025">
+		<description>IBM PC Compatible - Applications, Drivers, Utilities</description>
+		<rom name="Plextor - DVD Writing Software (World) (v10.01).iso" size="850493440" crc="88e8beba" md5="a08c558dfe4b480e688ecc4a6b99e003" sha1="441d2f80e1198bf28d0c222dab2d8f1672c1e4b9"/>
+	</game>
+	<game name="Power Mac G4 - Software Install and Restore (USA)" id="0054">
+		<category>Applications</category>
+		<description>Apple Macintosh - Operating Systems</description>
+		<rom name="Power Mac G4 - Software Install and Restore (USA).iso" size="3814002688" crc="44e8b074" md5="6e816d4769ad6afb39b7b1269b45e0e2" sha1="ba47a3e5c801d20f67bd7f0a896f71e26043a94b"/>
+	</game>
+	<game name="Prime X570 Series - AMD X570 Support DVD (World) (v1346.04)" id="0026">
+		<description>IBM PC Compatible - Applications, Drivers, Utilities</description>
+		<rom name="Prime X570 Series - AMD X570 Support DVD (World) (v1346.04).iso" size="3441610752" crc="390e93f8" md5="f62f8ba2cccb874538db475d9b9263d8" sha1="0fbba49acac1b82095655e29418c0f33719ca80e"/>
+	</game>
+	<game name="Print Shop for Mac, The - Version 3 (USA)" id="0043">
+		<category>Applications</category>
+		<description>Apple Macintosh - Intel - Applications, Multimedia</description>
+		<rom name="Print Shop for Mac, The - Version 3 (USA).iso" size="4535156736" crc="62e5f50e" md5="f976f3db09d90162c93a86cca0f933e1" sha1="4a4554eda4d03efb1b187e330717c73cfdb0fbd7"/>
+	</game>
+	<game name="Print Shop, The - Version 23 (USA) (Disc 1 - Install-Program Disc)" id="0030">
+		<category>Applications</category>
+		<description>IBM PC Compatible - Applications, Multimedia</description>
+		<rom name="Print Shop, The - Version 23 (USA) (Disc 1 - Install-Program Disc).iso" size="3636559872" crc="2a40ea12" md5="49d2f8c631ec9005601ac0d16eb90d03" sha1="6384b2ed7a58d5fedae61a01784e7b3cb9d15356"/>
+	</game>
+	<game name="Print Shop, The - Version 23 (USA) (Disc 2 - Image Disc)" id="0031">
+		<category>Applications</category>
+		<description>IBM PC Compatible - Applications, Multimedia</description>
+		<rom name="Print Shop, The - Version 23 (USA) (Disc 2 - Image Disc).iso" size="4667080704" crc="70db6db4" md5="a0f575bc9bd670b0f1c197fcdb23ac21" sha1="fe5450f974e17c88c90b7468d9d1f9c3adbd41f8"/>
+	</game>
+	<game name="PrintMaster Nick Jr. Edition (USA) (v1.0)" id="0032">
+		<category>Applications</category>
+		<description>IBM PC Compatible - Applications, Multimedia</description>
+		<rom name="PrintMaster Nick Jr. Edition (USA) (v1.0).iso" size="1009057792" crc="a30c6edb" md5="26ef7ffa8566725cbd0eb617bd5c9c14" sha1="067c251da75311771dc1aab51fb9e1b23877a756"/>
+	</game>
+	<game name="Red Hat Linux 9 (USA) (Complete operating system on DVD)" id="0016">
+		<description>IBM PC Compatible - Applications, Operating Systems</description>
+		<rom name="Red Hat Linux 9 (USA) (Complete operating system on DVD).iso" size="3682054144" crc="86ee7901" md5="4552b0be6f19e12ee5a7751dafdb65ed" sha1="e4692c9b4dd0f6de344460d8f55e40d18a5b55cc" mia="yes"/>
+	</game>
+	<game name="Scrapbook Factory Deluxe 5 (USA) (Installation Disc) (05SNW-01A)" id="0068" cloneofid="0070">
+		<category>Applications</category>
+		<description>Win(x86) - Applications</description>
+		<rom name="Scrapbook Factory Deluxe 5 (USA) (Installation Disc) (05SNW-01A).iso" size="5395283968" crc="e3ef50e1" md5="c3416e5defe80150c46704be316e634f" sha1="fed672fb8c35be4313f4cf17a904558e7c613a3e" sha256="5d8f9bdf6d4a335deffd0f7aa3af470320d94c73d566699bd240c41cf0c99361"/>
+	</game>
+	<game name="Scrapbook Factory Deluxe 5 (USA) (Bonus Fonts &amp; Graphics)" id="0069">
+		<category>Applications</category>
+		<description>Win(x86) - Applications</description>
+		<rom name="Scrapbook Factory Deluxe 5 (USA) (Bonus Fonts &amp; Graphics).iso" size="3123412992" crc="d14768cc" md5="0f0ceae55418dcea4f4a891089f8f81c" sha1="ebe0a2356aa9e2e8b2f1c170260a9d830ca98b59" sha256="709ab89b29b0b67f5ef99303722eb047c8ac03392851a7fd995ee5d3e041b769"/>
+	</game>
+	<game name="Scrapbook Factory Deluxe 5 (USA) (Installation Disc) (05SNW-01D)" id="0070">
+		<description>Win(x86) - Applications</description>
+		<rom name="Scrapbook Factory Deluxe 5 (USA) (Installation Disc) (05SNW-01D).iso" size="5357109248" crc="001588cb" md5="c374908a75524a943ceccdde4e034018" sha1="c83885195e2f5bbcf36ca7ce5c4b917a4b541a51" sha256="da425fc9fc78ccc2681eddd9df63b4de08d2abc631a5f7907a16799fab8bfd7a"/>
+	</game>
+	<game name="Windows 7 Home Premium - Includes Service Pack 1 (USA) (32-bit)" id="0034">
+		<description>IBM PC Compatible - Operating Systems</description>
+		<rom name="Windows 7 Home Premium - Includes Service Pack 1 (USA) (32-bit).iso" size="2564476928" crc="85b5ef4a" md5="0afa9359c62dc7b320205d3863c60385" sha1="6071b4553fcf0ea53d589a846b5ae76743dd68fc"/>
+	</game>
+	<game name="Windows 7 Home Premium - Includes Service Pack 1 (USA) (64-bit)" id="0035">
+		<description>IBM PC Compatible - Operating Systems</description>
+		<rom name="Windows 7 Home Premium - Includes Service Pack 1 (USA) (64-bit).iso" size="3320903680" crc="4a182640" md5="da319b5826162829c436306bebea7f0f" sha1="6c9058389c1e2e5122b7c933275f963edf1c07b9"/>
+	</game>
+	<game name="Windows 7 Professional - Includes Service Pack 1 (USA) (64-bit) (X17-58153) (OEM)" id="0017">
+		<category>Applications</category>
+		<description>IBM PC Compatible - Operating Systems</description>
+		<rom name="Windows 7 Professional - Includes Service Pack 1 (USA) (64-bit) (X17-58153) (OEM).iso" size="3320905728" crc="e509b0a0" md5="4229d6b035271d8478c99ce66b5bb851" sha1="dac9af1dfdbb40997aeb50b87808ce0a0a859dae"/>
+	</game>
+	<game name="Windows 7 Professional - Includes Service Pack 1 (USA) (64-bit) (X17-58517) (OEM)" id="0018">
+		<category>Applications</category>
+		<description>IBM PC Compatible - Operating Systems</description>
+		<rom name="Windows 7 Professional - Includes Service Pack 1 (USA) (64-bit) (X17-58517) (OEM).iso" size="3320903680" crc="b4a190a5" md5="39134fad6ccc6292a5e81a5dcedc4d13" sha1="5998495086fde086b2c8a1e490d8f1cd1dcc99cc"/>
+	</game>
+	<game name="Windows 7 Professional SP1 - 64-Bit - Reinstallation DVD (USA) (Dell OEM)" id="0033">
+		<description>IBM PC Compatible - Operating Systems</description>
+		<rom name="Windows 7 Professional SP1 - 64-Bit - Reinstallation DVD (USA) (Dell OEM).iso" size="3345514496" crc="057c595e" md5="baf6dfa6035e1b76b375872c12a2043d" sha1="65d0450eb0e21d624e8391fbe6a065d280fd88f1"/>
+	</game>
+	<game name="Windows 8.1 Pro - Hatsubai Kinen Pack (Japan) (DSP-ban)" id="0015">
+		<category>Multimedia</category>
+		<description>Win(x86) - Multimedia, Operating Systems</description>
+		<rom name="Windows 8.1 Pro - Hatsubai Kinen Pack (Japan) (DSP-ban).iso" size="2184486912" crc="09bc70fe" md5="49f7a2bf39410c954b5cfe0593da9874" sha1="fc45a07960c7ea50ef748cada7aee7fe9437f87a"/>
+	</game>
+	<game name="Windows Vista Ultimate (USA) (32-bit)" id="0066">
+		<description>IBM PC Compatible - Operating Systems</description>
+		<rom name="Windows Vista Ultimate (USA) (32-bit).iso" size="2678620160" crc="5677821a" md5="faa10234a00ce3633f9ab5e12291a753" sha1="d870e4b9651309cee10bc19823e2972da91bd662" sha256="878127221e6aeedb645af44d3ccfbc9e796503f5161044fe6805a03dd78b9cd6"/>
+	</game>
+	<game name="Windows Vista Ultimate (USA) (64-bit)" id="0067">
+		<description>IBM PC Compatible - Operating Systems</description>
+		<rom name="Windows Vista Ultimate (USA) (64-bit).iso" size="3796500480" crc="834ad54b" md5="5c8adcb2308078183657fd5b3b763348" sha1="824828cf57bf1c5e5a7359e2a7de02733a3b18ab" sha256="651877cffe66c463f67c9ae5e762752ab197194bb121586a0bb3ef633c194cdb"/>
+	</game>
+</datafile>

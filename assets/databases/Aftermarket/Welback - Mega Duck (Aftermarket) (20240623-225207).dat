@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>240</id>
+		<name>Welback - Mega Duck (Aftermarket)</name>
+		<description>Welback - Mega Duck (Aftermarket)</description>
+		<version>20240623-225207</version>
+		<author>rarenight, SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Waternet (World) (Aftermarket) (Unl)" id="0026">
+		<description>Waternet (World) (Aftermarket) (Unl)</description>
+		<rom name="Waternet (World) (Aftermarket) (Unl).bin" size="32768" crc="d6f9dcfa" md5="34d48f05d6be1d64b22732fc03b19301" sha1="c7181cee5ddee2f665d21c38b5a44838f7b8f511" sha256="7c46baf25f89c28c3932f6fb1218edac05d9939c483be16e6e54a6fa69d10f1e"/>
+	</game>
+</datafile>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>77</id>
+		<name>Nintendo - Satellaview (Aftermarket)</name>
+		<description>Nintendo - Satellaview (Aftermarket)</description>
+		<version>20240814-132614</version>
+		<author>BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="BS Supercooked! (World) (Aftermarket) (Unl)" id="3692">
+		<category>Games</category>
+		<description>BS Supercooked! (World) (Aftermarket) (Unl)</description>
+		<rom name="BS Supercooked! (World) (Aftermarket) (Unl).bs" size="524288" crc="2e3eacb8" md5="e686edd361f0daa288fd116ab90603ff" sha1="03889d88bfd077f42dde840b6af73ad254c77912" sha256="b787c8cd0bb2ddf022f4d9e3bbb1866f5e453872eb3af8da4b268abda72a0336"/>
+	</game>
+</datafile>

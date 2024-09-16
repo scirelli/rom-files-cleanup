@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>441</id>
+		<name>Non-Redump - Sega - Nu SX</name>
+		<description>Non-Redump - Sega - Nu SX</description>
+		<subset>Non-Redump</subset>
+		<version>20240818-013431</version>
+		<author>Gefflon, NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Kemono Friends 3 - Planet Tours (Japan) (v1.00.03) (0011A)" id="0001">
+		<category>Games</category>
+		<description>Kemono Friends 3 - Planet Tours (Japan) (v1.00.03) (0011A)</description>
+		<rom name="Kemono Friends 3 - Planet Tours (Japan) (v1.00.03) (0011A).iso" size="3673292800" crc="bc65dc7f" md5="94b38a8b2d9cfec45693bff55ce461ce" sha1="c59c079b90da8253f3a15afa90530bcc5e90678a" serial="CDN-0011A-1"/>
+	</game>
+</datafile>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>162</id>
+		<name>Non-Redump - Nintendo - Wii U</name>
+		<description>Non-Redump - Nintendo - Wii U</description>
+		<subset>Non-Redump</subset>
+		<version>20231229-065143</version>
+		<author>Hiccup, NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Disney Infinity 2.0 - Play Without Limits (Scandinavia) (En,Sv,No,Da,Fi) (Rev 4)" id="0002" cloneofid="0001">
+		<category>Games</category>
+		<description>Disney Infinity 2.0 - Play Without Limits (Scandinavia) (En,Sv,No,Da,Fi) (Rev 4)</description>
+		<rom name="Disney Infinity 2.0 - Play Without Limits (Scandinavia) (En,Sv,No,Da,Fi) (Rev 4).wud" size="25025314816" crc="bfcee7a5" md5="ca1edb8b1bdfa449308c0f1d0a78e217" sha1="18b9bffeec11ab6fceff13bf294549fb7e375d1a" serial="WUP-P-ADRZ-04-512EUR-0"/>
+		<rom name="Disney Infinity 2.0 - Play Without Limits (Scandinavia) (En,Sv,No,Da,Fi) (Rev 4).key" size="16" crc="c962badc" md5="39347e518451f14d2129d432fbef6ad8" sha1="8a20af825a8e3479cee2b2c84e070d8191923764"/>
+	</game>
+	<game name="Disney Infinity 2.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl) (Rev 5)" id="0001">
+		<category>Games</category>
+		<description>Disney Infinity 2.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl) (Rev 5)</description>
+		<rom name="Disney Infinity 2.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl) (Rev 5).wud" size="25025314816" crc="85ea8aac" md5="09f60d7d6791ef5fae259207b9f86cf7" sha1="aba93185f4858f344ffc5fe6f5bd138232d0cfa0" serial="WUP-P-ADRP-05-512EUR-0"/>
+		<rom name="Disney Infinity 2.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl) (Rev 5).key" size="16" crc="de980287" md5="1a827846d427435739eaac1958db0630" sha1="3902a2051217368c39e1f07e2f228be512700b70"/>
+	</game>
+	<game name="Mario &amp; Sonic at the Rio 2016 Olympic Games (USA) (Beta) (2016-02-11)" id="0003">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mario &amp; Sonic at the Rio 2016 Olympic Games (USA) (Beta) (2016-02-11)</description>
+		<rom name="Mario &amp; Sonic at the Rio 2016 Olympic Games (USA) (Beta) (2016-02-11).wud" size="25025314816" crc="633a97a1" md5="c2cd0dd3eaa3bba4844916ff256c765a" sha1="2dabc83166bed4ab249bce8f59843da1350c80c3" sha256="9794f598d77e8ed101ee553ced788502f3c918a01bb88c7930d269f51adf719f"/>
+	</game>
+</datafile>

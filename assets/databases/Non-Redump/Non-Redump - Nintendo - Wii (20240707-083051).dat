@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>161</id>
+		<name>Non-Redump - Nintendo - Wii</name>
+		<description>Non-Redump - Nintendo - Wii</description>
+		<subset>Non-Redump</subset>
+		<version>20240707-083051</version>
+		<author>Gefflon, Hiccup, NovaAurora, rarenight, relax</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] Wii (USA) (NAND)" id="0006">
+		<description>[BIOS] Wii (USA) (NAND)</description>
+		<rom name="[BIOS] Wii (USA) (NAND).bin" size="553648128" crc="7e65f2e8" md5="384b6fa29c7f98039c239f89331b2678" sha1="32841236e8b7e40bc1dd5a4bd3cec07c2c00d3a3" sha256="fb97dd5f1bc31aae36eb6531505b4fba955b31c9df493412a28a87b8e0d06dd7"/>
+		<rom name="[BIOS] Wii (USA) (NAND) (BackupMii Key Dump).bin" size="1024" crc="b593a301" md5="0cbb98943fa9f289ab5f048b2a42c195" sha1="2e1731ea815eaf779fc7abda0e36905c4dd8ee3b" sha256="ab6ebc9f13b2e26a57a395513ff9684e2797f50a2d18b0d9a04710fb18022836"/>
+	</game>
+	<game name="Board Checker RVL F (Japan)" id="0016">
+		<category>Applications</category>
+		<description>Board Checker RVL F (Japan)</description>
+		<rom name="Board Checker RVL F (Japan).iso" size="268435456" crc="d0f781c9" md5="4468ae59cda59b184382c301c13191db" sha1="d02ef9f11c8c9601a2a6a79038fe10b5d7dab7c5" sha256="9333b27f74a333d0bfae8c6666767001905ecb9ada9ab7b9d434be5edf77f91f" serial="123J01"/>
+	</game>
+	<game name="Boy and His Blob, A (USA) (Beta) (2008-10-24)" id="0017" cloneofid="0018">
+		<category>Preproduction</category>
+		<description>Boy and His Blob, A (USA) (Beta) (2008-10-24)</description>
+		<rom name="Boy and His Blob, A (USA) (Beta) (2008-10-24).iso" size="4707319808" crc="a4bb2358" md5="6d6a08d8de191be22070006b5b320365" sha1="5db6a7c1e4c78b36bd81279930894629e68ca56e" sha256="b1bff65074c97ded395324b95e205447b46bb6dbf0bbe8b980d8d8cd6e6859e0" serial="RELSAB"/>
+	</game>
+	<game name="Boy and His Blob, A (USA) (Beta) (2009-05-27)" id="0018">
+		<category>Preproduction</category>
+		<description>Boy and His Blob, A (USA) (Beta) (2009-05-27)</description>
+		<rom name="Boy and His Blob, A (USA) (Beta) (2009-05-27).iso" size="4707319808" crc="b2fcfc15" md5="32b99d476502cb623fcc078d6c6355d1" sha1="48cdf9ea547c46e0ff706dfea0cd2cc77caab2fe" sha256="8aae88e5fc7b7d2534317e9481ce0b309ab46c5fdafe412f2b3c008c24b6252f" serial="RELSAB"/>
+	</game>
+	<game name="Conduit, The (USA) (Demo) (Kiosk, E3 2008)" id="0005">
+		<description>Conduit, The (USA) (Demo) (Kiosk, E3 2008)</description>
+		<rom name="Conduit, The (USA) (Demo) (Kiosk, E3 2008).iso" size="4699979776" crc="7d7ab896" md5="ee23da7b7cfe8cde0cb96fed60edc85d" sha1="f341fd19737d3b52178fb5917211565cdd55a887" sha256="804e085bc7c6da21d28bced1f70ac8560a61c1152aee251f9be050e66da16410" serial="RABAZZ"/>
+		<rom name="The_Conduit_E3_2008_Help.jpg" size="1402615" crc="dc3cdb6f" md5="63e62f4820fea9c1e7d6b950d29ea165" sha1="ad3b41d6fe39fc09f4f3511c1d7f7c4d6732c748" sha256="d99c6c8b37431ed23e99d3b412eea9037fc599f901ef9ca82aebe81e9ac114e9"/>
+	</game>
+	<game name="Connie Talbot - Over the Rainbow (Europe) (Proto)" id="0007">
+		<description>Connie Talbot - Over the Rainbow (Europe) (Proto)</description>
+		<rom name="Connie Talbot - Over the Rainbow (Europe) (Proto).iso" size="4707319808" crc="786d13aa" md5="4a39c0146ca1291985e319a5ab84b695" sha1="c02c0f6a278252ac76304bb7b821c9caa999d3c3" serial="ROIPUG"/>
+	</game>
+	<game name="DS-Wii Remote Test Ver 1.0 (Unknown)" id="0023">
+		<category>Applications</category>
+		<description>DS-Wii Remote Test Ver 1.0 (Unknown)</description>
+		<rom name="DS-Wii Remote Test Ver 1.0 (Unknown).iso" size="4707319808" crc="1a55a2b6" md5="99ceabd348ff86a41f3f376ba0db1ac8" sha1="532a92f9ceb50a5be69b6935a4ec3a794aaafd6c" sha256="7c5b6ad78dd181fb8a8da71134a9f8e89f43ae8a109da2f5ac2c4ccb101723b0" serial="RELSAB"/>
+	</game>
+	<game name="Food Network - Cook or Be Cooked (USA) (Beta) (Demo)" id="0022">
+		<category>Demos</category>
+		<description>Food Network - Cook or Be Cooked (USA) (Beta) (Demo)</description>
+		<rom name="Food Network - Cook or Be Cooked (USA) (Beta) (Demo).iso" size="4707319808" crc="d5bff057" md5="92a1cac96b7f21e54bc8218376fac4b0" sha1="5d4ffd9c34591b7d05c1e645944f1c231179bcc0" sha256="60b92c71dc6303cb314d5c8bb9da6917702c4b08d449ba5bd3a801c12e74f15c" serial="SFOEAF"/>
+	</game>
+	<game name="Heatseeker (USA) (Beta) [b]" id="0012">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Heatseeker (USA) (Beta) [b]</description>
+		<rom name="Heatseeker (USA) (Beta) [b].iso" size="4699979776" crc="ed78a91a" md5="74acff564cae85603d76dd3c6fec2973" sha1="b498ce6dd9b3d1c1f16521c0416d1f514252fb02" sha256="6e23d9790bd7ef32992c9ef27b5411e004a3e5896871dd9567bb26612d3dfc29" status="baddump" serial="RHSE36"/>
+	</game>
+	<game name="Legend of Zelda, The - Twilight Princess (Europe) (Demo) (Kiosk)" id="0003">
+		<description>Legend of Zelda, The - Twilight Princess (Europe) (Demo) (Kiosk)</description>
+		<rom name="Legend of Zelda, The - Twilight Princess (Europe) (Demo) (Kiosk).iso" size="4699979776" crc="9e280f94" md5="6aa87493a4d10d8bdae703388b079386" sha1="21932a1e00433787380aaffd64916317b7b09335" serial="DZDP01"/>
+	</game>
+	<game name="Madden NFL 12 (USA) (Beta) (2011-06-02)" id="0008">
+		<category>Demos</category>
+		<category>Preproduction</category>
+		<description>Madden NFL 12 (USA) (Beta) (2011-06-02)</description>
+		<rom name="Madden NFL 12 (USA) (Beta) (2011-06-02).iso" size="4707188736" crc="446c9423" md5="e9456da1e7437e39b08d434edc15947a" sha1="34d4255261312da59ec10e7564a522ea47cd64a6" serial="SM7E69"/>
+	</game>
+	<game name="Madden NFL 12 (USA) (Beta) (2011-06-03)" id="0009" cloneofid="0008">
+		<category>Demos</category>
+		<category>Preproduction</category>
+		<description>Madden NFL 12 (USA) (Beta) (2011-06-03)</description>
+		<rom name="Madden NFL 12 (USA) (Beta) (2011-06-03).iso" size="4707188736" crc="7de59716" md5="24467f4174c9a685e98ed2335a24f32b" sha1="d82d36ac553b46a3fbdf5c6ec096a045495e7c93" serial="SM7E69"/>
+	</game>
+	<game name="Madden NFL 12 (USA) (Beta) (2011-01-12)" id="0010" cloneofid="0008">
+		<category>Demos</category>
+		<category>Preproduction</category>
+		<description>Madden NFL 12 (USA) (Beta) (2011-01-12)</description>
+		<rom name="Madden NFL 12 (USA) (Beta) (2011-01-12).iso" size="4707188736" crc="ab176948" md5="dd82a9833cdb2a492eadeff75349fa22" sha1="c14462dd815bcb51f589f5c0371b9973caca56ee" serial="SMEE69"/>
+	</game>
+	<game name="Mighty Switch Force! (USA) (Proto) (2011-12-01)" id="0019">
+		<category>Preproduction</category>
+		<description>Mighty Switch Force! (USA) (Proto) (2011-12-01)</description>
+		<rom name="Mighty3Wii_Built.7z" size="153678341" crc="f8e46818" md5="f14b40f266c116e0db9bde41f539a3c2" sha1="8583b442fa36d8f91adc88a1eaa1be555aa107bc" sha256="62451a89326c3828421d73d1960c18dc24ddbfa19d5b902fba258bbfec7fa3de"/>
+		<rom name="MSF Wii Playable.7z" size="159586202" crc="8cda71a5" md5="c63e82e51fbe9f85b47843729bb58d39" sha1="e15e42be968b506df62faece514d9f4e6f3849a5" sha256="ce590b02ce49ab3ef9520da39b20225f295b4e5c4f3ee8ec7a5615c6386ada3a"/>
+	</game>
+	<game name="Rock Band 2 (USA) (Beta) (2008-10-07)" id="0015">
+		<category>Games</category>
+		<description>Rock Band 2 (USA) (Beta) (2008-10-07)</description>
+		<rom name="Rock Band 2 (USA) (Beta) (2008-10-07).iso" size="4707319808" crc="98df40aa" md5="163152fc794d613c89a6177139c8b363" sha1="9b266f4e1254b7a10282b4d556550ffd55ce5662" sha256="cb779119017b1ce76dbb67b6877ab4d05293aed9d51ffa6997b047e77df65e8a" serial="SZAE69"/>
+	</game>
+	<game name="RVL Diag Ver 4.4 (Japan)" id="0024">
+		<category>Applications</category>
+		<description>RVL Diag Ver 4.4 (Japan)</description>
+		<rom name="RVL Diag Ver 4.4 (Japan).iso" size="4707319808" crc="3c5919fd" md5="cd2c15adf10b9957c4493250c7091674" sha1="99b8ce159c229eab8225c3d4054dcbaabab3ed00" sha256="bb88add013d5e9244454db5f2e5a2d8de57010b482c1e941bf4a763611cfa20c" serial="100J01"/>
+	</game>
+	<game name="RVL Uji Diag Ver 1.0 (Japan)" id="0027">
+		<description>RVL Uji Diag Ver 1.0 (Japan)</description>
+		<rom name="RVL Uji Diag Ver 1.0 (Japan).iso" size="4707319808" crc="8dd83866" md5="6457d9983cc2d76babffdc84df4ed70f" sha1="d14926faadff9cb7802e6773dff68441f2362dd0" sha256="53135ea36a904af0a2f2c7b651c1886fbdc4b6381e597dd54d5e3a7f8abf2dd1" serial="121J01"/>
+	</game>
+	<game name="Sky Crawlers, The - Innocent Aces (USA) (Proto)" id="0011">
+		<description>Sky Crawlers, The - Innocent Aces (USA) (Proto)</description>
+		<rom name="Sky Crawlers, The - Innocent Aces (USA) (Proto).iso" size="4699979776" crc="1309cbb1" md5="09d1ef3239e5d8fc43e50f9e9a997cc8" sha1="6107fb2d5b1770853a4e88c48de72988eb1eaec8" serial="RQREXJ"/>
+	</game>
+	<game name="The House of the Dead - Overkill (USA) (Beta)" id="0013">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>The House of the Dead - Overkill (USA) (Beta)</description>
+		<rom name="The House of the Dead - Overkill (USA) (Beta).iso" size="4699979776" crc="65d05fd8" md5="95067a4282a7977ad3ba12bf2e6be7c5" sha1="cfdad09ae7f8c9a594c10df44ebd969e9becfe65" sha256="57d09896ecf712abb3525b733fc96b689e0629f56aa7fdf034ed2907e93b3154" serial="RHOE8P"/>
+	</game>
+	<game name="Update Program (Unknown)" id="0025">
+		<category>Applications</category>
+		<description>Update Program (Unknown)</description>
+		<rom name="Update Program (Unknown).iso" size="4707319808" crc="e80767b5" md5="02cb79a03ab9878e9fb0aea101db21ef" sha1="139f71bfb490aa0d2c7d1be4ea56df3b2b0b38b4" sha256="7b0c97e6733dec1d84b528e62fd8c67b1c22424ad6f7b6c07970bf44040212f4" serial="RABA01"/>
+	</game>
+	<game name="Urban Extreme - Street Rage (Europe) (Beta) (2009-01-29)" id="0014">
+		<description>Urban Extreme - Street Rage (Europe) (Beta) (2009-01-29)</description>
+		<rom name="Urban Extreme - Street Rage (Europe) (Beta) (2009-01-29).iso" size="4707319808" crc="cc07cecf" md5="94bca3e811d49a77300f4b8ba2a293fb" sha1="48a4b6e8123ed5a3f2653d6ec75d9611a3c59afd" sha256="5ac661350cfd52a89c121144b7ed21e8be918833de737f4e3036e271fc96ee3c" serial="RUXPUG"/>
+	</game>
+	<game name="WAD Installer (Unknown)" id="0026">
+		<category>Applications</category>
+		<description>WAD Installer (Unknown)</description>
+		<rom name="WAD Installer (Unknown).iso" size="4707319808" crc="a1669fa8" md5="33a34cbf3b2ec76bac5a77e20bc5d0b2" sha1="19beebfec212cb641534003318432f507c1965eb" sha256="56b114a04088c9a05f5a1e67f774ce827c1119e4a4057d0b906e1d7bda4ff137" serial="RELSAB"/>
+	</game>
+</datafile>

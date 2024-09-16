@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>30</id>
+		<name>Atari - Lynx (LNX)</name>
+		<description>Atari - Lynx (LNX)</description>
+		<version>20240826-013459</version>
+		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, omonim2007, Psychofox11, rarenight, relax, UnlockerPT, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Awesome Golf (World) (Atari Lynx Collection 1) (Unl)" id="0404" cloneofid="0004">
+		<category>Games</category>
+		<description>Awesome Golf (World) (Atari Lynx Collection 1) (Unl)</description>
+		<rom name="Awesome Golf (World) (Atari Lynx Collection 1) (Unl).lnx" size="262208" crc="55c41e59" md5="074933cdef2dce545629862d88c7c23f" sha1="55c7d7bdc246133c4454eb2eab1fe7eb7f24c9e3" sha256="0d051b7b69f1f928e57049302f535c3c6fe3255b1747067fd3ffd5fc95aaa485"/>
+	</game>
+	<game name="Basketbrawl (World) (Atari Lynx Collection 1) (Unl)" id="0405" cloneofid="0006">
+		<category>Games</category>
+		<description>Basketbrawl (World) (Atari Lynx Collection 1) (Unl)</description>
+		<rom name="Basketbrawl (World) (Atari Lynx Collection 1) (Unl).lnx" size="262208" crc="a41b3d47" md5="675928b7957be8e4d81242bc946015ce" sha1="cfe4708a881564b1ad75cdbe6da526c06d19a9c1" sha256="f3ebfd7c714268804605c55a420f2c21616d604b7d75128ff520c3e38c33f6bf"/>
+	</game>
+	<game name="Crystal Mines II - Buried Treasure (World) (Unl)" id="0266">
+		<category>Games</category>
+		<description>Crystal Mines II - Buried Treasure (World) (Unl)</description>
+		<rom name="Crystal Mines II - Buried Treasure (World) (Unl).lnx" size="262208" crc="5ada9b79" md5="cf28f66fe3e9415e1ee880b6bf3f6aa3" sha1="f74cf43a8e9d58abf85b4ef95385d4fa804810ea" sha256="3ff7d68adc9ec21538adf33ab11394c7219232d16e980a69f428a469eab0b2fb"/>
+	</game>
+	<game name="Dracula - The Undead (World) (Atari Lynx Collection 1) (Unl)" id="0407" cloneofid="0025">
+		<category>Games</category>
+		<description>Dracula - The Undead (World) (Atari Lynx Collection 1) (Unl)</description>
+		<rom name="Dracula - The Undead (World) (Atari Lynx Collection 1) (Unl).lnx" size="262208" crc="95b4a0e6" md5="1c0b1f336fc16c540e073dcbbbe21967" sha1="0b791c0ee0f71d9a564732ae41398f7193303d02" sha256="1f40dc928d23d7ebfa1403c302bdc30955bef3808e2b2cd649c4c50a2ce916ee"/>
+	</game>
+	<game name="Gordo 106 (World) (Atari Lynx Collection 1) (Unl)" id="0408" cloneofid="0033">
+		<category>Games</category>
+		<description>Gordo 106 (World) (Atari Lynx Collection 1) (Unl)</description>
+		<rom name="Gordo 106 (World) (Atari Lynx Collection 1) (Unl).lnx" size="262208" crc="b90d79de" md5="b5cbc9b9a6f7b84829f080c98384cf54" sha1="39170bbbc637833abc33f121a1c304562a769a02" sha256="00d2a0ba3843efd06f0f086038700a47315cc932acc01b12ab63fe653d2d551b"/>
+	</game>
+	<game name="Ishido - The Way of Stones (World) (Atari Lynx Collection 1) (Unl)" id="0409" cloneofid="0037">
+		<category>Games</category>
+		<description>Ishido - The Way of Stones (World) (Atari Lynx Collection 1) (Unl)</description>
+		<rom name="Ishido - The Way of Stones (World) (Atari Lynx Collection 1) (Unl).lnx" size="131136" crc="c95c82e6" md5="f01b0648fb95b12c427cdeb4403094c1" sha1="9491fc8809258f98917b525a7472a43d495ba249" sha256="c3804cca8cb7277bc6cbe25cb0f084c9cb3f686eb8d0574cdf10fb6888579172"/>
+	</game>
+	<game name="Jimmy Connors' Tennis (World) (Atari Lynx Collection 1) (Unl)" id="0410" cloneofid="0038">
+		<category>Games</category>
+		<description>Jimmy Connors' Tennis (World) (Atari Lynx Collection 1) (Unl)</description>
+		<rom name="Jimmy Connors' Tennis (World) (Atari Lynx Collection 1) (Unl).lnx" size="524352" crc="619f9194" md5="79d9acc959eaaec6a1ea78ca40a725d3" sha1="83aaa48b215d7a062af509e96a2e756fc3e4d356" sha256="7d0fd063ea0ea4f49795caf6426fc1709fe4ea0f3b4796d780de5498b7def854"/>
+	</game>
+	<game name="Malibu Bikini Volleyball (World) (Atari Lynx Collection 1) (Unl)" id="0412" cloneofid="0048">
+		<category>Games</category>
+		<description>Malibu Bikini Volleyball (World) (Atari Lynx Collection 1) (Unl)</description>
+		<rom name="Malibu Bikini Volleyball (World) (Atari Lynx Collection 1) (Unl).lnx" size="262208" crc="2ff89d87" md5="0ea7aaddc4be270f58a147da89c9d719" sha1="54782dbe5a1923be588bce6a0f35049345eec1b4" sha256="a12df2028d78171a6644e819b05f9904b00d2f37b65d24c5e14819d5796c2166"/>
+	</game>
+	<game name="Mines 2 (World) (Demo) (Unl)" id="0268">
+		<category>Games</category>
+		<description>Mines 2 (World) (Demo) (Unl)</description>
+		<rom name="Mines 2 (World) (Demo) (Unl).lnx" size="262208" crc="e0a31b32" md5="b53aa250116a44e2877fd6b40e2e36e9" sha1="b4526971a4f43ca1753d07a482ea2efdb603b6e7" sha256="b5287b51c339efd32856c18231e83ac541b4123221c3d59e8df79665131979bf"/>
+	</game>
+	<game name="Power Factor (World) (Atari Lynx Collection 1) (Unl)" id="0413" cloneofid="0058">
+		<category>Games</category>
+		<description>Power Factor (World) (Atari Lynx Collection 1) (Unl)</description>
+		<rom name="Power Factor (World) (Atari Lynx Collection 1) (Unl).lnx" size="262208" crc="ef013e39" md5="4e34a36f451eb2a458c5376559e99631" sha1="2006d1e0ec4277794917714a944e359cc7fe83de" sha256="cc91e440192bfd05a621f77a4c69ed1d0db5803b538dfd1ea3fead2a59bb3d25"/>
+	</game>
+	<game name="Puzzler 2000 (World) (Proto) (Unl)" id="0282">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Puzzler 2000 (World) (Proto) (Unl)</description>
+		<rom name="Puzzler 2000 (World) (Proto) (Unl).lnx" size="262208" crc="d7241881" md5="8de649611b61934b67b2ee8dde47e603" sha1="0804caa4e15bcde2a51b475103787539c2578d0a" sha256="cab2668156e3c21ff73595d31edc9bad5d31d0632b360f6fb9fbdd287fe2c2b9"/>
+	</game>
+	<game name="Raiden (USA) (Beta)" id="0060" cloneofid="0101">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Raiden (USA) (Beta)</description>
+		<rom name="Raiden (USA) (Beta).lnx" size="262208" crc="d62fe6bf" md5="c51f494e41bbc5f9c2900e9467c5d4cd" sha1="469aa2d72959de155466e84cc284a06609389a2d" sha256="6014d2451219edfe4370c0c6335208df0ef19ac4e54bcd170aa697013956a746"/>
+	</game>
+	<game name="Super Skweek (World) (Atari Lynx Collection 1) (Unl)" id="0415" cloneofid="0075">
+		<category>Games</category>
+		<description>Super Skweek (World) (Atari Lynx Collection 1) (Unl)</description>
+		<rom name="Super Skweek (World) (Atari Lynx Collection 1) (Unl).lnx" size="262208" crc="f0c52c73" md5="0cc205b59644216f052d55fc002de863" sha1="2d9ddc4b6394f212afb7b1684adc79f47161a7eb" sha256="170a19f91080f35ee9204530600f93abf6a2bb9345bb181c421e330de99848c3"/>
+	</game>
+	<game name="T-Tris (World) (Pirate)" id="0226">
+		<category>Games</category>
+		<description>T-Tris (World) (Pirate)</description>
+		<rom name="T-Tris (World) (Pirate).lnx" size="262208" crc="f4d80d0b" md5="dc92f0c42811c8691fa921a4dd2897c2" sha1="de0186250918daf76125d50ba2f3fc8f2f309110" sha256="017afb35a4d601c8a01ed1a25d468aee55f07c56c252c880c18ea9921992c26c"/>
+	</game>
+	<game name="T-Tris (World) (Pirate) (Alt)" id="0227" cloneofid="0226">
+		<category>Games</category>
+		<description>T-Tris (World) (Pirate) (Alt)</description>
+		<rom name="T-Tris (World) (Pirate) (Alt).lnx" size="262208" crc="86099145" md5="de8cd0f21c20bdbb092be20fcdc85e81" sha1="da55e0b4f1312dc95c9ee2c99f7139a6d3b5f306" sha256="81af20835a8cdfdd5fa677f3804d9b1c0a0d5b410b74869b505a5ebb73fba865"/>
+	</game>
+	<game name="Zaku (World) (Unl)" id="0092">
+		<category>Games</category>
+		<description>Zaku (World) (Unl)</description>
+		<rom name="Zaku (World) (Unl).lnx" size="524352" crc="3d82e190" md5="b37cf00379b80452d8bca13abe7269d6" sha1="6377dd0ef9bee6b6bd05736dadd2b36c0a02b8c3" sha256="82ab7f3700c529635478dfa49c835ae1ceb8813ff4166ed5a7f9163fe058af2c"/>
+	</game>
+	<game name="Zaku (World) (Beta) (Unl)" id="0093" cloneofid="0092">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Zaku (World) (Beta) (Unl)</description>
+		<rom name="Zaku (World) (Beta) (Unl).lnx" size="262208" crc="8819e916" md5="6c22f4e6acd7aeef5fd134fcbca05715" sha1="24c2f137d4a8040762b8b5f669918675e53637b4" sha256="99e51f540dd6fc98b995715029df176d9d036a3498e308e032f1122e5e1c2bb8"/>
+	</game>
+</datafile>

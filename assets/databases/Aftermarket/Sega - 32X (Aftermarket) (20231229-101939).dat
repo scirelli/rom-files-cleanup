@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>17</id>
+		<name>Sega - 32X (Aftermarket)</name>
+		<description>Sega - 32X (Aftermarket)</description>
+		<version>20231229-101939</version>
+		<author>bikerspade, BitLooter, ElBarto, FakeShemp, gigadeath, Hiccup, nnssxx, norkmetnoil577, omonim2007, relax, Seventy7, SonGoku, Special T, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="240p Test Suite (World) (Program) (Aftermarket) (Unl)" id="0217">
+		<description>240p Test Suite (World) (Program) (Aftermarket) (Unl)</description>
+		<rom name="240p Test Suite (World) (Program) (Aftermarket) (Unl).32x" size="1966080" crc="0e320ae8" md5="2db9c9aeb705427b5a919a592fd9ef8f" sha1="f0039765f9adb55be8ceb4349a8cf80aa23a3429" sha256="a66868652ac0b72b0e32b2811d101501345b74b1eb036f46290ce147d8293be1"/>
+	</game>
+</datafile>

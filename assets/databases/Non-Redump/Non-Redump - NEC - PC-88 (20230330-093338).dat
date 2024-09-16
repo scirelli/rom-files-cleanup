@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>405</id>
+		<name>Non-Redump - NEC - PC-88</name>
+		<description>Non-Redump - NEC - PC-88</description>
+		<subset>Non-Redump</subset>
+		<version>20230330-093338</version>
+		<author>Hiccup, SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Mirrors (Japan)" id="0001">
+		<description>Mirrors (Japan)</description>
+		<rom name="Mirrors (Japan).cue" size="623" crc="3fff63ba" md5="0bd8f2b6024590722d1ddc4faac63866" sha1="c09c6ab150f77b2dee0b918344ef9ae72b7b98e8" sha256="927fb7d8bf1f47c1d866294208c7cd0409f11fa4f2b447fee161c3f489d544f4"/>
+		<rom name="Mirrors (Japan).ccd" size="3500" crc="0a43d376" md5="80273154a2daf2d107a282b353a86246" sha1="c33810b8cde9c899809c36bec8af404cae309233" sha256="5512efcec20279753e1c6fef0c5aae37f2f3f05bb3ae3900b5db0f688d4a67ac"/>
+		<rom name="Mirrors (Japan).sub" size="22521600" crc="0c0d1c4c" md5="e45923398b1d150f71e6056bd0974d15" sha1="22dd9781f8056b26d0e6b157acd359972c81ba2c" sha256="c20c93ff3a2cf3a1e3a18b5f8046ec6f6198a916b417a01678b0b9d10eed9046"/>
+		<rom name="Mirrors (Japan).img" size="551779200" crc="6ec305a3" md5="84e583ec62372ca9dd0d737dce38b5d8" sha1="b78195508e0f5f38717285ddec13f6439d497423" sha256="258533b4ac5fd8b16170ddf9509dcf2d6c4a0959bac61e999b3d14c9c0b48d65"/>
+	</game>
+</datafile>

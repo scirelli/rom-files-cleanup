@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>14</id>
+		<name>Nintendo - Pokemon Mini (Aftermarket)</name>
+		<description>Nintendo - Pokemon Mini (Aftermarket)</description>
+		<version>20240624-060553</version>
+		<author>Arctic Circle System, Flashfire42, psykopat, rarenight, relax, SonGoku, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+</datafile>

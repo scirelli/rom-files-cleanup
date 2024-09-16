@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>30</id>
+		<name>Atari - Lynx (BLL)</name>
+		<description>Atari - Lynx (BLL)</description>
+		<version>20240826-013459</version>
+		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, omonim2007, Psychofox11, rarenight, relax, UnlockerPT, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Mines 2 (World) (Demo) (Unl)" id="0268">
+		<category>Games</category>
+		<description>Mines 2 (World) (Demo) (Unl)</description>
+		<rom name="Mines 2 (World) (Demo) (Unl).bll" size="5087" crc="cb7e0472" md5="3962e56b23312c3bea8d4deaeaeaead6" sha1="2776b2df46da82cc586fc9c739e7d386832631bf" sha256="fbe8191cd71f1c1fec56f7a2c9f5504d45ae2d7dafea5196c37f8a10a73a0baf"/>
+	</game>
+	<game name="T-Tris (World) (Pirate)" id="0226">
+		<category>Games</category>
+		<description>T-Tris (World) (Pirate)</description>
+		<rom name="T-Tris (World) (Pirate).bll" size="15914" crc="2708643d" md5="dbc654e957184ff2ad67c23fbe181540" sha1="75c2f2853996dcaf73a014a6f03b6590108b8d59" sha256="0f615ab0d69c09d2b017aebf957c2e75ef230c52f21ad74aaf1a2437c2b42d59"/>
+	</game>
+	<game name="T-Tris (World) (Pirate) (Alt)" id="0227" cloneofid="0226">
+		<category>Games</category>
+		<description>T-Tris (World) (Pirate) (Alt)</description>
+		<rom name="T-Tris (World) (Pirate) (Alt).bll" size="15700" crc="a261fcbc" md5="1b6a8a0b7f80332e9c7dfecaded8683e" sha1="d337d0b38e22f42c92691ad2a80d48125d908b7f" sha256="0f062abb8351ed2ac964f813b739d0d5588341ad71061e43f828093bcb83098e"/>
+	</game>
+</datafile>

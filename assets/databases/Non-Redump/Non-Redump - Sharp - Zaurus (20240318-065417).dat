@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>427</id>
+		<name>Non-Redump - Sharp - Zaurus</name>
+		<description>Non-Redump - Sharp - Zaurus</description>
+		<subset>Non-Redump</subset>
+		<version>20240318-065417</version>
+		<author>NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Zaurus Color Pocket Soft Collection CD-ROM (Japan)" id="0001">
+		<category>Applications</category>
+		<description>Zaurus Color Pocket Soft Collection CD-ROM (Japan)</description>
+		<rom name="Zaurus Color Pocket Soft Collection CD-ROM (Japan).cue" size="116" crc="f233c083" sha1="df42461998c29c98f9a5c88cc0036e859862f234"/>
+		<rom name="Zaurus Color Pocket Soft Collection CD-ROM (Japan).bin" size="20074320" crc="922cba1f" md5="0740b49e88fea289d76264bac2d05678" sha1="fd26dbbd8b836772083af25b8560a718c10505fa"/>
+	</game>
+</datafile>

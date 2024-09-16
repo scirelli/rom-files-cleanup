@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>442</id>
+		<name>Non-Redump - Sega NAOMI Satellite Terminal PC</name>
+		<description>Non-Redump - Sega NAOMI Satellite Terminal PC</description>
+		<subset>Non-Redump</subset>
+		<version>20240817-233118</version>
+		<author>Gefflon, NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Sega Yonin Uchi Mahjong MJ (Japan) (Update Disc) (Rev A)" id="0001">
+		<category>Applications</category>
+		<description>Sega Yonin Uchi Mahjong MJ (Japan) (Update Disc) (Rev A)</description>
+		<rom name="Sega Yonin Uchi Mahjong MJ (Japan) (Update Disc) (Rev A).cue" size="122" crc="f95502b9" sha1="60dd4100e01167943e23f542306f240ef2b6d465"/>
+		<rom name="Sega Yonin Uchi Mahjong MJ (Japan) (Update Disc) (Rev A).bin" size="289206624" crc="a0c60aac" md5="a714d9e3d6cf6f7621504739fcea1f23" sha1="29c8ce5afc18fb5fbe0f134e5311477522f2a97b"/>
+	</game>
+	<game name="Sega Yonin Uchi Mahjong MJ (Japan) (Update Disc) (Rev B)" id="0002">
+		<category>Applications</category>
+		<description>Sega Yonin Uchi Mahjong MJ (Japan) (Update Disc) (Rev B)</description>
+		<rom name="Sega Yonin Uchi Mahjong MJ (Japan) (Update Disc) (Rev B).cue" size="122" crc="f8082468" sha1="4da61137aebdad3f069b85dc508f191627950aeb"/>
+		<rom name="Sega Yonin Uchi Mahjong MJ (Japan) (Update Disc) (Rev B).bin" size="289531200" crc="06499be9" md5="a21536f5b8c1626a63cd3d7173c63323" sha1="9142ba8df87104d3b30177045beb9417d2305f0b"/>
+	</game>
+	<game name="Sega Yonin Uchi Mahjong MJ (Japan) (Update Disc) (Rev C)" id="0003">
+		<category>Applications</category>
+		<description>Sega Yonin Uchi Mahjong MJ (Japan) (Update Disc) (Rev C)</description>
+		<rom name="Sega Yonin Uchi Mahjong MJ (Japan) (Update Disc) (Rev C).cue" size="122" crc="4e13c418" sha1="e9d90921527dae8f391a5cdea442220c2e948218"/>
+		<rom name="Sega Yonin Uchi Mahjong MJ (Japan) (Update Disc) (Rev C).bin" size="289975728" crc="7b5ad42d" md5="ac7e9d68a8fdf988e85b806bc2b87455" sha1="0e23d447b81d2aa99e994726623df5670b68990c"/>
+	</game>
+	<game name="Sega Yonin Uchi Mahjong MJ Network Taisen Ver. (Japan) (Update Disc) (Rev D)" id="0004">
+		<category>Applications</category>
+		<description>Sega Yonin Uchi Mahjong MJ Network Taisen Ver. (Japan) (Update Disc) (Rev D)</description>
+		<rom name="Sega Yonin Uchi Mahjong MJ Network Taisen Ver. (Japan) (Update Disc) (Rev D).cue" size="142" crc="85c9f9db" sha1="2f20e68a6b073b2a02b56ef1ee4804e8ef3b90e1"/>
+		<rom name="Sega Yonin Uchi Mahjong MJ Network Taisen Ver. (Japan) (Update Disc) (Rev D).bin" size="289959264" crc="a5ebfccc" md5="162f15f3411889859301f2547f59b629" sha1="2c7081a7810bcc7953bdf1fb815465c0ef0f4a66"/>
+	</game>
+	<game name="Sega Yonin Uchi Mahjong MJ Network Taisen Ver. (Japan) (Update Disc) (Rev E)" id="0005">
+		<category>Applications</category>
+		<description>Sega Yonin Uchi Mahjong MJ Network Taisen Ver. (Japan) (Update Disc) (Rev E)</description>
+		<rom name="Sega Yonin Uchi Mahjong MJ Network Taisen Ver. (Japan) (Update Disc) (Rev E).cue" size="142" crc="33d219ab" sha1="fcf3cd149fcc31a45ecf4a46d78134af759628d2"/>
+		<rom name="Sega Yonin Uchi Mahjong MJ Network Taisen Ver. (Japan) (Update Disc) (Rev E).bin" size="289959264" crc="b4753b52" md5="053a7ff4ee9fd784611009b6542a53b8" sha1="39a8cde848d634dd4899b3423b1d5c24df671b6c"/>
+	</game>
+	<game name="Sega Yonin Uchi Mahjong MJ Network Taisen Ver. (Japan) (Update Disc) (Rev F)" id="0006">
+		<category>Applications</category>
+		<description>Sega Yonin Uchi Mahjong MJ Network Taisen Ver. (Japan) (Update Disc) (Rev F)</description>
+		<rom name="Sega Yonin Uchi Mahjong MJ Network Taisen Ver. (Japan) (Update Disc) (Rev F).cue" size="142" crc="328f3f7a" sha1="4bc611830bb663fa093861059f1a98440a881abd"/>
+		<rom name="Sega Yonin Uchi Mahjong MJ Network Taisen Ver. (Japan) (Update Disc) (Rev F).bin" size="289959264" crc="bcb5effc" md5="2466d8e7b02a7f6c6dc1b99191273aa1" sha1="1d720385c0906d90ae8f8c8c63e0af8c2309d023"/>
+	</game>
+</datafile>

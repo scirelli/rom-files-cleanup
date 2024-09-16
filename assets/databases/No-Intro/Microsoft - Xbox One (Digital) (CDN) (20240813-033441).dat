@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>253</id>
+		<name>Microsoft - Xbox One (Digital) (CDN)</name>
+		<description>Microsoft - Xbox One (Digital) (CDN)</description>
+		<version>20240813-033441</version>
+		<author>FakeShemp, Hiccup, NESBrew12, SonGoku, xprism, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+</datafile>

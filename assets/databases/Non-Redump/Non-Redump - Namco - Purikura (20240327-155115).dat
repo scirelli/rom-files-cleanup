@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>432</id>
+		<name>Non-Redump - Namco - Purikura</name>
+		<description>Non-Redump - Namco - Purikura</description>
+		<subset>Non-Redump</subset>
+		<version>20240327-155115</version>
+		<author>Gefflon, NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Setsugekka - Version Up CD (Japan) (Ver. A1) (Disc 1)" id="0001">
+		<category>Add-Ons</category>
+		<description>Setsugekka - Version Up CD (Japan) (Ver. A1) (Disc 1)</description>
+		<rom name="Setsugekka - Version Up CD (Japan) (Ver. A1) (Disc 1).bin" size="333304272" crc="5d586a4f" md5="c67734bd753698133c7fa399137f879d" sha1="7fa65367f35c50dbf1d3026e1f76f9a32157881d" mia="yes"/>
+	</game>
+	<game name="Setsugekka - Version Up CD (Japan) (Ver. A1) (Disc 2)" id="0002">
+		<category>Add-Ons</category>
+		<description>Setsugekka - Version Up CD (Japan) (Ver. A1) (Disc 2)</description>
+		<rom name="Setsugekka - Version Up CD (Japan) (Ver. A1) (Disc 2).bin" size="698626320" crc="0bbc947c" md5="77f07979916b3ca37a62352965321bd6" sha1="658405a2bb7f7575ce19f1a5dc4f79b86e0d950e" mia="yes"/>
+	</game>
+	<game name="Setsugekka - Version Up CD (Japan) (Ver. A1) (Disc 3)" id="0003">
+		<category>Add-Ons</category>
+		<description>Setsugekka - Version Up CD (Japan) (Ver. A1) (Disc 3)</description>
+		<rom name="Setsugekka - Version Up CD (Japan) (Ver. A1) (Disc 3).bin" size="335157648" crc="80a9f79d" md5="b39e1ab1b0ff9bf494de2b1c6c387de3" sha1="f5a7a57a36aef9ed3285208a0747660fbb5d7021" mia="yes"/>
+	</game>
+</datafile>

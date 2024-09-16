@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"io"
 	"io/fs"
+	"net/http"
 	"os"
-	"path"
 	"path/filepath"
 	"strings"
 
@@ -32,31 +32,50 @@ func main() {
 	var notFound, totalChecked int
 	//config := NewConfig()
 
-	romDict = loadDatabases(defaultDatabaseFiles)
-	fmt.Printf("%d ROMs loaded from databases\n", len(romDict))
+	romDict = loadAllDatabases(defaultDatabaseFiles)
+	logger.Infof("%d ROMs loaded from databases\n", len(romDict))
 	if err := filepath.WalkDir(defaultROMsFolder, func(path string, d fs.DirEntry, err error) error {
+		var hash []map[string]string
+
 		if d.IsDir() {
 			return nil
 		}
 
-		// Open a zip archive for reading.
-		r, err := zip.OpenReader(path)
-		if err != nil {
-			logger.Error(err)
-			return nil
+		if isArchive(path) {
+			if r, err := zip.OpenReader(path); err == nil {
+				defer r.Close()
+				for _, f := range r.File {
+					logger.Infof("Decompressed from zip file: %s\n", f.Name)
+					if r, err := f.Open(); err == nil {
+						if h := hashBytes(r); h != "" {
+							hash = append(hash, map[string]string{"h": h, "f": f.Name})
+						}
+						r.Close()
+					}
+				}
+			}
+		} else {
+			if h := hashFile(path); h != "" {
+				hash = append(hash, map[string]string{"h": h, "f": path})
+			}
 		}
-		defer r.Close()
 
-		//fmt.Printf("%s | %s\n", path, romDict[hashFile(path)].Name)
-		if romDict[hashFile(path)].Name == "" {
-			notFound++
+		for _, h := range hash {
+			if romDict[h["h"]].Name == "" {
+				logger.Warnf("Not found: %s\n", h["f"])
+				notFound++
+			} else {
+				//logger.Info(romDict[h["h"]].Name)
+			}
 		}
+
 		totalChecked++
+
 		return nil
 	}); err != nil {
 		logger.Error(err)
 	}
-	fmt.Printf("Could not find %d ROMs out of %d in any loaded database. %.2f%% not found\n", notFound, totalChecked, (float64(notFound)/float64(totalChecked))*100)
+	logger.Warnf("Could not find %d ROMs out of %d in any loaded database. %.2f%% not found\n", notFound, totalChecked, (float64(notFound)/float64(totalChecked))*100)
 }
 
 func hashFile(file string) string {
@@ -80,35 +99,64 @@ func hashBytes(data io.Reader) string {
 	return fmt.Sprintf("%x", h.Sum(nil))
 }
 
-func loadDatabases(dataFiles string) map[string]model.Game {
-	var romDict = make(map[string]model.Game)
-	databaseFiles, err := os.ReadDir(dataFiles)
-	if err != nil {
-		logger.Error(err)
-		return romDict
+func loadDatabase(romDict map[string]model.Game, dataFile string) map[string]model.Game {
+	var datomaticData model.DatoMaticDataFile
+	if fileData, err := os.ReadFile(dataFile); err == nil {
+		if err := xml.Unmarshal(fileData, &datomaticData); err == nil {
+			for _, game := range datomaticData.Games {
+				romDict[strings.ToLower(game.Rom.Sha1)] = game
+			}
+		} else {
+			logger.Warnf("%v", err)
+		}
+	} else {
+		logger.Warnf("%v", err)
 	}
 
-	for _, file := range databaseFiles {
-		var datomaticData model.DatoMaticDataFile
-		if file.IsDir() {
-			continue
+	return romDict
+}
+
+func loadAllDatabases(databaseDir string) map[string]model.Game {
+	var romDict = make(map[string]model.Game)
+
+	if err := filepath.WalkDir(defaultDatabaseFiles, func(path string, d fs.DirEntry, err error) error {
+		if d.IsDir() {
+			return nil
 		}
-		fileData, err := os.ReadFile(path.Join(defaultDatabaseFiles, file.Name()))
-		if err != nil {
-			logger.Infof("%v", err)
-			continue
-		}
-		if err := xml.Unmarshal(fileData, &datomaticData); err != nil {
-			logger.Infof("%v", err)
-			continue
-		}
-		for _, game := range datomaticData.Games {
-			romDict[strings.ToLower(game.Rom.Sha1)] = game
-		}
+		logger.Infof("Loading database '%s'", path)
+		romDict = loadDatabase(romDict, path)
+		return nil
+	}); err != nil {
+		logger.Error(err)
 	}
+
 	return romDict
 }
 
 func fileNameWithoutExtension(fileName string) string {
 	return fileName[:len(fileName)-len(filepath.Ext(fileName))]
+}
+
+func isArchive(fileName string) bool {
+	file, err := os.Open(fileName)
+	if err != nil {
+		logger.Warn(err)
+		return false
+	}
+	defer file.Close()
+
+	buff := make([]byte, 512) // why 512 bytes ? see http://golang.org/pkg/net/http/#DetectContentType
+	_, err = file.Read(buff)
+	if err != nil {
+		logger.Warn(err)
+		return false
+	}
+
+	filetype := http.DetectContentType(buff)
+
+	switch filetype {
+	case "application/x-gzip", "application/zip":
+		return true
+	}
+	return false
 }

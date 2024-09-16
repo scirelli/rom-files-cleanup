@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>165</id>
+		<name>Non-Redump - Sega - Dreamcast (Aftermarket)</name>
+		<description>Non-Redump - Sega - Dreamcast (Aftermarket)</description>
+		<subset>Non-Redump</subset>
+		<version>20231230-212004</version>
+		<author>Arctic Circle System, bikerspade, FakeShemp, Hiccup, MeguCocoa, NovaAurora, rarenight, Seventy7</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="240p Test Suite (World) (v2.03) (Aftermarket) (Unl)" id="0107">
+		<description>240p Test Suite (World) (v2.03) (Aftermarket) (Unl)</description>
+		<rom name="240p Test Suite (World) (v2.03) (Aftermarket) (Unl).cdi" size="17427472" crc="7d924b9f" md5="e966596785c842abecb50723a9fafaac" sha1="3756f4df0b09e6c31ab52a2d2fa97e418c8c46a3" sha256="e5ede4cf5b3daa654e775f00a1da387fb6fa69f98d2ecf0062cdb6237dbe8074"/>
+	</game>
+	<game name="Postal (World) (Aftermarket) (Unl)" id="0090">
+		<description>Postal (World) (Aftermarket) (Unl)</description>
+		<rom name="PostalDigital-fjjcui.zip" size="536380768" crc="8157aa57" md5="c29ef96712d5c069f0fcd5876239f8f1" sha1="79337efb0f291cd875681ca80ef78694754828be" sha256="376da4aacd8aebf623201e43d4b0202f24daccc51e3e5bed4ab568f55afa5cbe" status="verified"/>
+	</game>
+	<game name="Yeah Yeah Beebiss II (Unknown) (Aftermarket) (Unl) [b]" id="0004">
+		<description>Yeah Yeah Beebiss II (Unknown) (Aftermarket) (Unl) [b]</description>
+		<rom name="Yeah Yeah Beebiss II (Unknown) (Aftermarket) (Unl) [b].cdi" size="809329050" crc="557dc487" md5="eae55d8f74ed0ade51c1832c58df4e77" sha1="1693c2cb54474e2c1d1ff2fc3fb3380ad6e63131" sha256="19cfb87f379de5a926a3b2c45105a9e60a09491d1ff32757e2a14b6d599c75c2" status="baddump"/>
+	</game>
+</datafile>

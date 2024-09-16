@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>430</id>
+		<name>Non-Redump - Sega - Nu 1.1</name>
+		<description>Non-Redump - Sega - Nu 1.1</description>
+		<subset>Non-Redump</subset>
+		<version>20240319-073142</version>
+		<author>NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="KanColle Arcade (Japan) (v3.40.00) (Disc 1) (0004AE)" id="0001">
+		<category>Games</category>
+		<description>KanColle Arcade (Japan) (v3.40.00) (Disc 1) (0004AE)</description>
+		<rom name="KanColle Arcade (Japan) (v3.40.00) (Disc 1) (0004AE).iso" size="8386936832" crc="b697284c" md5="f148373b9122131c61433026e9ccc76d" sha1="09072f961f6e69808eed2c4832ee04d0863b9655" sha256="36a621e73f09e27157ba0495e13ef527302056ed2754f5c046dea2c848b39d76" serial="CDN-0004AE-1D"/>
+	</game>
+	<game name="KanColle Arcade (Japan) (v6.00.00) (Disc 2) (0004BM)" id="0002">
+		<category>Games</category>
+		<description>KanColle Arcade (Japan) (v6.00.00) (Disc 2) (0004BM)</description>
+		<rom name="KanColle Arcade (Japan) (v6.00.00) (Disc 2) (0004BM).iso" size="8387166208" crc="c56c8fb5" md5="e5ee6ad2932ee3d8f81158dbcdfc95d8" sha1="788505781579dc88ecf6eab6092b374bd42de19c" sha256="49db2da9153b845d0aae0649fc8d6160bd978318f8711fe39073b251a946729e" serial="CDN-0004BM-2D"/>
+	</game>
+	<game name="KanColle Arcade (Japan) (v6.00.00) (Disc 3) (0004BM)" id="0003">
+		<category>Games</category>
+		<description>KanColle Arcade (Japan) (v6.00.00) (Disc 3) (0004BM)</description>
+		<rom name="KanColle Arcade (Japan) (v6.00.00) (Disc 3) (0004BM).iso" size="1345454080" crc="7701d8b9" md5="d229476583481ca015eae327f6cf1f5f" sha1="7d3272a6897fdc3d9f64d9ed29fdf314a36c25e9" sha256="c50c5f63ad75949517f01021decb7f75a91218ef288d7ad6e0b9b9b4302d5654" serial="CDN-0004BM-3"/>
+	</game>
+</datafile>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>11</id>
+		<name>Microsoft - MSX2 (Aftermarket)</name>
+		<description>Microsoft - MSX2 (Aftermarket)</description>
+		<version>20231015-143336</version>
+		<author>C. V. Reynolds, Gefflon, gigadeath, MeguCocoa, omonim2007, Powerpuff, rarenight, SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Brunilda (World) (v1.1) (Aftermarket) (Unl)" id="0200">
+		<description>Brunilda (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="RWBrunildaMSX2_v1_01.rom" size="1277952" crc="9eb9bad0" md5="e64516057017949edf78d8517a14028b" sha1="fe239a9d71352f4b45e6df64a38341544c197cfb" sha256="51eecd63a5ea3fec1334a050dc65c383f7d2a74d81bf97feebb59ef9c251ad75"/>
+	</game>
+	<game name="Sword of Ianna, The (World) (Fr) (v1.2) (Aftermarket) (Unl)" id="0202">
+		<description>Sword of Ianna, The (World) (Fr) (v1.2) (Aftermarket) (Unl)</description>
+		<rom name="ianna.rom" size="720896" crc="6dddeb62" md5="3e900c93a758c417afe6bb3c11434c7a" sha1="1463f1e0216ad9f944bb1da748a01034da445cef" sha256="80541939340cfdf5a1179ac87661b1b472adfb678a763db643fbb8fddc98576f"/>
+	</game>
+	<game name="Sword of Ianna, The (World) (En,Es) (v1.2) (Aftermarket) (Unl)" id="0201">
+		<description>Sword of Ianna, The (World) (En,Es) (v1.2) (Aftermarket) (Unl)</description>
+		<rom name="ianna.rom" size="720896" crc="3e9aeb2b" md5="a5cbdd2d012cccd49b8bce76db66e55c" sha1="82cf4caa78571a750403e592e3ac87c249ac4604" sha256="63888ad76582b512c9d09fc44639085d8599f239f4263aa5f918dc2a731d5e99"/>
+	</game>
+</datafile>

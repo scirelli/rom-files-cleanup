@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>411</id>
+		<name>Non-Redump - Merit Megatouch</name>
+		<description>Non-Redump - Merit Megatouch</description>
+		<subset>Non-Redump</subset>
+		<version>20230411-180804</version>
+		<author>NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Megatouch Ion 2014 (USA) (Installation Disc 1)" id="0001">
+		<category>Applications</category>
+		<description>Megatouch Ion 2014 (USA) (Installation Disc 1)</description>
+		<rom name="Megatouch Ion 2014 (USA) (Installation Disc 1).iso" size="3644127232" crc="c5551233" md5="fbf684b8c054ac0882dfa996c5b59382" sha1="c0e4433d07c3751b223d65a43127d23290e6613b"/>
+	</game>
+	<game name="Megatouch Ion 2014 (USA) (Installation Disc 2)" id="0002">
+		<category>Applications</category>
+		<description>Megatouch Ion 2014 (USA) (Installation Disc 2)</description>
+		<rom name="Megatouch Ion 2014 (USA) (Installation Disc 2).iso" size="4259676160" crc="15f9c6b3" md5="b5e6ff32b8bdcb06ac222f8d35a9f476" sha1="efa47654e9c3e4bec17f7ed3793ae31c454882d3"/>
+	</game>
+</datafile>

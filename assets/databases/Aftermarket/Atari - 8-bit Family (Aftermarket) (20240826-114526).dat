@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>203</id>
+		<name>Atari - 8-bit Family (Aftermarket)</name>
+		<description>Atari - 8-bit Family (Aftermarket)</description>
+		<version>20240826-114526</version>
+		<author>Arctic Circle System, FakeShemp, Gefflon, MeguCocoa, rarenight, SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Tristam Island (World) (v9) (Demo) (Aftermarket) (Unl)" id="0008">
+		<description>Tristam Island (World) (v9) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Tristam Island (World) (v9) (Demo) (Aftermarket) (Unl).atr" size="138256" crc="9585c3b5" md5="cc9e4a3834763fa2145078420d27835d" sha1="7505cac240ed92b33eba89671e0637e9c72dde91" sha256="27cbbd2fe7b8f7cf1652067a1b41899eae38adb3cf0756bbfc5f68f6de62d47a"/>
+	</game>
+</datafile>

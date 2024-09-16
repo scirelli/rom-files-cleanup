@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>255</id>
+		<name>Source Code - Atari - 2600 (Aftermarket)</name>
+		<description>Source Code - Atari - 2600 (Aftermarket)</description>
+		<subset>Source Code</subset>
+		<version>20240806-224451</version>
+		<author>Arctic Circle System, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="INV+ (World) (2004-06-09) (Aftermarket) (Unl)" id="0001">
+		<description>INV+ (World) (2004-06-09) (Aftermarket) (Unl)</description>
+		<rom name="inv60904.a" size="85870" crc="7efa26d3" md5="f931e42b59d5a0c1d9950a4f6c64dfa8" sha1="4db47cfc3a26e6fc608350148fe4baeda8bcc44b" sha256="4ba468ae2992421bc7dbc12c7167f712e115c78f8cee8477caaa0d08b19b5090"/>
+	</game>
+	<game name="INV+ (World) (2004-04-29) (Beta) (Aftermarket) (Unl)" id="0002" cloneofid="0001">
+		<description>INV+ (World) (2004-04-29) (Beta) (Aftermarket) (Unl)</description>
+		<rom name="inv42904.a" size="84831" crc="2dc2c6bc" md5="929894f068647acc2a8255d18fde9021" sha1="ab6ce73383088d43c89a8a67b98f8f63eb2dbcb6" sha256="fc2729d128335891fec57ba89eeb533f5e37dbfcfec584f9a45879427cce2a19"/>
+	</game>
+</datafile>
