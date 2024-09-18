@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>8-Bit Productions Commander X16 - Games - [PRG]</name>
+		<description>8-Bit Productions Commander X16 - Games - [PRG] (TOSEC-v2023-08-29)</description>
+		<category>TOSEC</category>
+		<version>2023-08-29</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CX16 Maze (2019-11-25)(JimmyDansbo)(GPLv3)">
+		<description>CX16 Maze (2019-11-25)(JimmyDansbo)(GPLv3)</description>
+		<rom name="CX16 Maze (2019-11-25)(JimmyDansbo)(GPLv3).prg" size="1939" crc="c8157a87" md5="ba1bee1ca65e7d646cd63466092909d3" sha1="d50956a275c682c6468b7d6bb669f6498f1f3e54"/>
+	</game>
+	<game name="CX16 Maze (2019-12-24)(JimmyDansbo)(GPLv3)">
+		<description>CX16 Maze (2019-12-24)(JimmyDansbo)(GPLv3)</description>
+		<rom name="CX16 Maze (2019-12-24)(JimmyDansbo)(GPLv3).prg" size="2553" crc="b4bc4610" md5="67f9cacc6def8d773b567cfdb94616f2" sha1="7ea7bbd35b3c2ff71a292e441231c812bc6d3e2e"/>
+	</game>
+	<game name="CX16 Maze (2020-01-01)(JimmyDansbo)(GPLv3)">
+		<description>CX16 Maze (2020-01-01)(JimmyDansbo)(GPLv3)</description>
+		<rom name="CX16 Maze (2020-01-01)(JimmyDansbo)(GPLv3).prg" size="2942" crc="14c3c3a0" md5="ad936e73649af43d2ba86dafba9ee023" sha1="5ed56a6340f1486d09457a6c665abfae70252543"/>
+	</game>
+	<game name="CX16 Maze (2020-01-07)(JimmyDansbo)(GPLv3)">
+		<description>CX16 Maze (2020-01-07)(JimmyDansbo)(GPLv3)</description>
+		<rom name="CX16 Maze (2020-01-07)(JimmyDansbo)(GPLv3).prg" size="3534" crc="3a3c64a3" md5="d4aa738acabe75f28c2d7040fd6fc9c9" sha1="b2f82df48ad64f5723b96b8f13b102349718f087"/>
+	</game>
+</datafile>

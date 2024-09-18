@@ -4,6 +4,7 @@ import (
 	"archive/zip"
 	"crypto/sha1"
 	"encoding/xml"
+	"flag"
 	"fmt"
 	"io"
 	"io/fs"
@@ -27,14 +28,22 @@ var logger = log.New("Main", log.DEFAULT_LOG_LEVEL)
 		  - https://stackoverflow.com/questions/18194688/how-can-i-determine-if-a-file-is-a-zip-file
 		  - https://pkg.go.dev/archive/zip
 */
+
+type RomDict map[string]model.Rom
+
 func main() {
-	var romDict map[string]model.Game
-	var notFound, totalChecked int
+	var romDict RomDict
+	var notFound, totalChecked, dupesCnt int
+	dupes := make(map[string]struct{})
 	//config := NewConfig()
 
-	romDict = loadAllDatabases(defaultDatabaseFiles)
+	var romPath *string = flag.String("rom-path", defaultROMsFolder, fmt.Sprintf("path to the ROMs directory. Default '%s'", defaultROMsFolder))
+	var databasePath *string = flag.String("database-path", defaultDatabaseFiles, fmt.Sprintf("path to the ROM databases directory. Default '%s'", defaultDatabaseFiles))
+	flag.Parse()
+
+	romDict = loadAllDatabases(*databasePath)
 	logger.Infof("%d ROMs loaded from databases\n", len(romDict))
-	if err := filepath.WalkDir(defaultROMsFolder, func(path string, d fs.DirEntry, err error) error {
+	if err := filepath.WalkDir(*romPath, func(path string, d fs.DirEntry, err error) error {
 		var hash []map[string]string
 
 		if d.IsDir() {
@@ -61,21 +70,23 @@ func main() {
 		}
 
 		for _, h := range hash {
-			if romDict[h["h"]].Name == "" {
-				logger.Warnf("Not found: %s\n", h["f"])
-				notFound++
+			if _, ok := dupes[h["h"]]; ok {
+				dupesCnt++
 			} else {
-				//logger.Info(romDict[h["h"]].Name)
+				dupes[h["h"]] = struct{}{}
+				if _, ok := romDict[h["h"]]; !ok {
+					logger.Warnf("Not found: %s\n", h["f"])
+					notFound++
+				}
 			}
 		}
-
-		totalChecked++
 
 		return nil
 	}); err != nil {
 		logger.Error(err)
 	}
-	logger.Warnf("Could not find %d ROMs out of %d in any loaded database. %.2f%% not found\n", notFound, totalChecked, (float64(notFound)/float64(totalChecked))*100)
+	totalChecked = len(dupes)
+	logger.Warnf("\nCould not find %d ROMs out of %d in any loaded database. \n%.2f%% not found\nDuplicates: %d", notFound, totalChecked, (float64(notFound)/float64(totalChecked))*100, dupesCnt)
 }
 
 func hashFile(file string) string {
@@ -99,12 +110,14 @@ func hashBytes(data io.Reader) string {
 	return fmt.Sprintf("%x", h.Sum(nil))
 }
 
-func loadDatabase(romDict map[string]model.Game, dataFile string) map[string]model.Game {
+func loadDatabase(romDict RomDict, dataFile string) RomDict {
 	var datomaticData model.DatoMaticDataFile
 	if fileData, err := os.ReadFile(dataFile); err == nil {
 		if err := xml.Unmarshal(fileData, &datomaticData); err == nil {
 			for _, game := range datomaticData.Games {
-				romDict[strings.ToLower(game.Rom.Sha1)] = game
+				for _, rom := range game.Rom {
+					romDict[strings.ToLower(rom.Sha1)] = rom
+				}
 			}
 		} else {
 			logger.Warnf("%v", err)
@@ -116,10 +129,10 @@ func loadDatabase(romDict map[string]model.Game, dataFile string) map[string]mod
 	return romDict
 }
 
-func loadAllDatabases(databaseDir string) map[string]model.Game {
-	var romDict = make(map[string]model.Game)
+func loadAllDatabases(databaseDir string) RomDict {
+	var romDict = make(RomDict)
 
-	if err := filepath.WalkDir(defaultDatabaseFiles, func(path string, d fs.DirEntry, err error) error {
+	if err := filepath.WalkDir(databaseDir, func(path string, d fs.DirEntry, err error) error {
 		if d.IsDir() {
 			return nil
 		}

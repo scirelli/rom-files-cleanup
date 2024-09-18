@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Jaguar - Games - [JAG]</name>
+		<description>Atari Jaguar - Games - [JAG] (TOSEC-v2024-01-15)</description>
+		<category>TOSEC</category>
+		<version>2024-01-15</version>
+		<author>Cid - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Assassin, The - Part 1 (demo-playable) (1999)(OMC Games)(PD)">
+		<description>Assassin, The - Part 1 (demo-playable) (1999)(OMC Games)(PD)</description>
+		<rom name="Assassin, The - Part 1 (demo-playable) (1999)(OMC Games)(PD).jag" size="268096" crc="0db47415" md5="99706ffdd652b348d86368b211e2c3c0" sha1="219b5d3e0d6d40ec4883cce2ca38fa7ca1adad18"/>
+	</game>
+	<game name="Assassin, The - Part 1 (demo-playable) (1999)(OMC Games)(PD)[a]">
+		<description>Assassin, The - Part 1 (demo-playable) (1999)(OMC Games)(PD)[a]</description>
+		<rom name="Assassin, The - Part 1 (demo-playable) (1999)(OMC Games)(PD)[a].jag" size="268096" crc="d5c01e77" md5="1bb30cf0b5a1e928918cd0f09da30869" sha1="f35b8d44e57b154c57fd9428d80dba567e546e4a"/>
+	</game>
+	<game name="Assassin, The v1.0 (demo-playable) (199x)(OMC Games)(PD)">
+		<description>Assassin, The v1.0 (demo-playable) (199x)(OMC Games)(PD)</description>
+		<rom name="Assassin, The v1.0 (demo-playable) (199x)(OMC Games)(PD).jag" size="1006304" crc="4750bbff" md5="95c1fb6adce52072a25ea93741908f74" sha1="ae9b9952ad52cff22ccf8bd2d677cf096e4055cb"/>
+	</game>
+	<game name="Painter (1995-12-29)(Sinister Developments)(PD)">
+		<description>Painter (1995-12-29)(Sinister Developments)(PD)</description>
+		<rom name="Painter (1995-12-29)(Sinister Developments)(PD).jag" size="163146" crc="27c7c6a3" md5="4406a84d18aed221c086215248ed66a4" sha1="6f58b9907b178eabc1f385eb19b2a7a38d9df586"/>
+	</game>
+	<game name="Painter (1995-12-29)(Sinister Developments)(PD)[a]">
+		<description>Painter (1995-12-29)(Sinister Developments)(PD)[a]</description>
+		<rom name="Painter (1995-12-29)(Sinister Developments)(PD)[a].jag" size="163072" crc="71269584" md5="c17071b3c543e26170af27b77589ba4f" sha1="ea4f524c1399921b828a9d5722662a354c94160b"/>
+	</game>
+	<game name="Slam Racer (1996)(Sinister Developments)(proto)">
+		<description>Slam Racer (1996)(Sinister Developments)(proto)</description>
+		<rom name="Slam Racer (1996)(Sinister Developments)(proto).jag" size="1809163" crc="fbdeda89" md5="74304c8124571ab4077b33211720b248" sha1="b867b754d36adc8ca23904eb34f0192b3a5c8b0a"/>
+	</game>
+</datafile>

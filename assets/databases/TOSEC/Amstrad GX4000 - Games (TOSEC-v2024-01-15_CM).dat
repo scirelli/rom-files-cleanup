@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Amstrad GX4000 - Games</name>
+		<description>Amstrad GX4000 - Games (TOSEC-v2024-01-15)</description>
+		<category>TOSEC</category>
+		<version>2024-01-15</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Blinky's Scary School v1.3 (2023-01-31)(Zisquier)">
+		<description>Blinky's Scary School v1.3 (2023-01-31)(Zisquier)</description>
+		<rom name="Blinky's Scary School v1.3 (2023-01-31)(Zisquier).cpr" size="524556" crc="c64db447" md5="ff8e589439aa206e6fd3542f4c28dc1f" sha1="26cfd352ffced76091e4e0b0ec8596a83dab28ff"/>
+	</game>
+	<game name="Chloe Aprende a Reciclar (2023-07-20)(Churrosoft)(ES)">
+		<description>Chloe Aprende a Reciclar (2023-07-20)(Churrosoft)(ES)</description>
+		<rom name="Chloe Aprende a Reciclar (2023-07-20)(Churrosoft)(ES).cpr" size="524556" crc="de06a7dc" md5="145a780bb3d5bd7405fa115874a49f94" sha1="c3a80f232d78180691dd326a803cbad65e72564b"/>
+	</game>
+	<game name="CPC Soccer Community Edition (2021-01-04)(Voxel Tower)">
+		<description>CPC Soccer Community Edition (2021-01-04)(Voxel Tower)</description>
+		<rom name="CPC Soccer Community Edition (2021-01-04)(Voxel Tower).cpr" size="524556" crc="76a32b6f" md5="c5be1334dafd7d4acbacfc397343a934" sha1="138de8f296112d6a2612174132b8dcb855a8b165"/>
+	</game>
+	<game name="Cross Bomber (2020-08-26)(Caruso, Fabrizio)">
+		<description>Cross Bomber (2020-08-26)(Caruso, Fabrizio)</description>
+		<rom name="Cross Bomber (2020-08-26)(Caruso, Fabrizio).cpr" size="524556" crc="ff4ca7bf" md5="405a55461b1f32f81a7923e7c8e526a7" sha1="e7f2f192ecc0e118cc853e5e57a6966df0b51096"/>
+	</game>
+	<game name="Cross Bomber (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Bomber (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Bomber (2021-05-13)(Caruso, Fabrizio).cpr" size="524556" crc="51ef3116" md5="7a1bd36df200eb153f986d804406b847" sha1="751964971f3204f35605107bd82898dfceb82a8b"/>
+	</game>
+	<game name="Cross Chase (2018-04-15)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-04-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-04-15)(Caruso, Fabrizio).cpr" size="524556" crc="9cfb4a59" md5="b14328c7821f7360f8ec511a38b483e6" sha1="9869e7cd8c89d10f92ed4185fbc330ab757c620a"/>
+	</game>
+	<game name="Cross Chase (2018-05-19)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-05-19)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-05-19)(Caruso, Fabrizio).cpr" size="524556" crc="aa2bc8c0" md5="eda8b451fdbfb96a4108ba619d0d331c" sha1="0d6eb719ec5596c1499e818828e167c550a05e48"/>
+	</game>
+	<game name="Cross Chase (2018-07-19)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-07-19)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-07-19)(Caruso, Fabrizio).cpr" size="524556" crc="4e9f5ed8" md5="6d66b0aa4fe811d777a47a8268a3498a" sha1="80c4680ac7209fd7a9cfcb579ac7849e6e258448"/>
+	</game>
+	<game name="Cross Chase (2018-08-04)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-08-04)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-08-04)(Caruso, Fabrizio).cpr" size="524556" crc="293ed500" md5="50f6ea63c9b4d0b57661eb78a7b81510" sha1="9fe0fad5f2224be8bc367a99e25e572353518ea7"/>
+	</game>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio).cpr" size="524556" crc="473c0091" md5="6e837fb35a7f3e0be1de543b6066f488" sha1="3fdcd0ca01bc79d4759ac13af56c22f01a52bd4e"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).cpr" size="524556" crc="4915666d" md5="809d42c3402a4e87f29e8eb9ab89c170" sha1="aec07cf8574b83a2e831bd36a762958758640fe7"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).cpr" size="524556" crc="09b66662" md5="0ec500ad7bb5cfd67517e3556d614b3b" sha1="e374455ea86801203d4a5858a637b1ea045c6aa1"/>
+	</game>
+	<game name="Cross Horde (2021-04-16)(Caruso, Fabrizio)[mode0]">
+		<description>Cross Horde (2021-04-16)(Caruso, Fabrizio)[mode0]</description>
+		<rom name="Cross Horde (2021-04-16)(Caruso, Fabrizio)[mode0].cpr" size="524556" crc="7872aef3" md5="17e80d68f19f21c63c54ce9d5a608be0" sha1="8748490d6ce796cd03e5f5a38dbdc00a755466a3"/>
+	</game>
+	<game name="Cross Horde (2021-04-16)(Caruso, Fabrizio)[mode1][cpcrslib]">
+		<description>Cross Horde (2021-04-16)(Caruso, Fabrizio)[mode1][cpcrslib]</description>
+		<rom name="Cross Horde (2021-04-16)(Caruso, Fabrizio)[mode1][cpcrslib].cpr" size="524556" crc="9cefc04d" md5="d34b339c6417a12c0ad12c5ed7e37825" sha1="98c8714b0e41849ce26a0ae23cfaeb1484a2798a"/>
+	</game>
+	<game name="Cross Horde (2021-04-16)(Caruso, Fabrizio)[mode2]">
+		<description>Cross Horde (2021-04-16)(Caruso, Fabrizio)[mode2]</description>
+		<rom name="Cross Horde (2021-04-16)(Caruso, Fabrizio)[mode2].cpr" size="524556" crc="4686b8a0" md5="5cae2f72a514d7b7a9df313ff2af3f49" sha1="8b1bebc556c40b0d2c7b36a868fee639db753740"/>
+	</game>
+	<game name="Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[mode0]">
+		<description>Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[mode0]</description>
+		<rom name="Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[mode0].cpr" size="524556" crc="b5fd7f07" md5="23ef027a59445e6f8e6fe6b1ac4e728a" sha1="aa177448f92660ec3932e79b86331acf2ff0140b"/>
+	</game>
+	<game name="Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[mode1][cpcrslib]">
+		<description>Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[mode1][cpcrslib]</description>
+		<rom name="Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[mode1][cpcrslib].cpr" size="524556" crc="6bd70ddf" md5="d1bc2ec958fd05a7c3422788b9b8a191" sha1="8c6ec36126a22e63762f9362df39638948844c92"/>
+	</game>
+	<game name="Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[mode2]">
+		<description>Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[mode2]</description>
+		<rom name="Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[mode2].cpr" size="524556" crc="57d60f8e" md5="b0841852b8898911faca485e815797c4" sha1="1c10139793076e8bf918054ea0fe5ed4b707ff4f"/>
+	</game>
+	<game name="Cross Shoot (2020-07-03)(Caruso, Fabrizio)">
+		<description>Cross Shoot (2020-07-03)(Caruso, Fabrizio)</description>
+		<rom name="Cross Shoot (2020-07-03)(Caruso, Fabrizio).cpr" size="524556" crc="9bae7b15" md5="66e450189418fd6727751b62b646bdf4" sha1="db2d41c0eaed91414fe77c0725d90249da54ba03"/>
+	</game>
+	<game name="Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)">
+		<description>Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)</description>
+		<rom name="Cross Snake Preview (2020-12-05)(Caruso, Fabrizio).cpr" size="524556" crc="435f301e" md5="4bfe02a880115dee1d5cfb6de7ffc039" sha1="7dbb4fcac17dce1e5f7bf8de6150758ee9aef6f1"/>
+	</game>
+	<game name="Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[mode0]">
+		<description>Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[mode0]</description>
+		<rom name="Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[mode0].cpr" size="524556" crc="934f15cb" md5="1e2c327a81f7e19acc9d98fa9843270f" sha1="ef79d12de0c3f25a16412f7362858065703d9d57"/>
+	</game>
+	<game name="Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[mode1][cpcrslib]">
+		<description>Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[mode1][cpcrslib]</description>
+		<rom name="Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[mode1][cpcrslib].cpr" size="524556" crc="3e018da2" md5="45647d7348495dc98480d98cc842c5a3" sha1="3e1f9e6cc040e9e0e01928acebb0ad3f9ff212f5"/>
+	</game>
+	<game name="Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[mode2]">
+		<description>Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[mode2]</description>
+		<rom name="Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[mode2].cpr" size="524556" crc="77efc982" md5="69d03a6dcdc0321e71c67b2abe04f36d" sha1="6837c745a726b7c210be0b36ea8e5d7c5296c109"/>
+	</game>
+	<game name="Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[mode0]">
+		<description>Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[mode0]</description>
+		<rom name="Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[mode0].cpr" size="524556" crc="40f9c8c6" md5="8e8adcf581195ffded088382ce17221e" sha1="877261f3c86140d648f27f0133a6e5247573ba73"/>
+	</game>
+	<game name="Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[mode1][cpcrslib]">
+		<description>Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[mode1][cpcrslib]</description>
+		<rom name="Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[mode1][cpcrslib].cpr" size="524556" crc="c03ec39b" md5="836575350f931c34f0ce5eb1aa76b4d8" sha1="63ef12f0e6f14a75c83c73ebcc75653e04e054ae"/>
+	</game>
+	<game name="Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[mode2]">
+		<description>Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[mode2]</description>
+		<rom name="Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[mode2].cpr" size="524556" crc="de51cca1" md5="14c5075af9363047e79791b12edc0f24" sha1="8aa9ac11862f69080d206ab84868d8a71e60a71a"/>
+	</game>
+	<game name="Cross Verbix (2022-12-05)(Caruso, Fabrizio)">
+		<description>Cross Verbix (2022-12-05)(Caruso, Fabrizio)</description>
+		<rom name="Cross Verbix (2022-12-05)(Caruso, Fabrizio).cpr" size="524556" crc="06718fc2" md5="c6a069306d6e71c44cd13dbd1891fb48" sha1="449359fd9f135fb33788e05bf4d9ef004a0317c2"/>
+	</game>
+	<game name="Culotte de Zelda, La v3.2 (2022-07-05)(Zisquier)">
+		<description>Culotte de Zelda, La v3.2 (2022-07-05)(Zisquier)</description>
+		<rom name="Culotte de Zelda, La v3.2 (2022-07-05)(Zisquier).cpr" size="524556" crc="c2261a40" md5="67c66829dc2456c48bb84e9cd93fe354" sha1="cb9d0ad4d3379902215d29ddfad6dfe241c13649"/>
+	</game>
+	<game name="Culotte de Zelda, La v3.2 (2022-07-05)(Zisquier)(fr)">
+		<description>Culotte de Zelda, La v3.2 (2022-07-05)(Zisquier)(fr)</description>
+		<rom name="Culotte de Zelda, La v3.2 (2022-07-05)(Zisquier)(fr).cpr" size="524556" crc="c1e8061c" md5="3aaad81cb74dec43fd0a29c88379aee2" sha1="17e63d0ea81505a61c2a3f4e5a707d72a167d5a7"/>
+	</game>
+	<game name="Goldorak Versus (2023-03-27)(Zisquier)(fr)">
+		<description>Goldorak Versus (2023-03-27)(Zisquier)(fr)</description>
+		<rom name="Goldorak Versus (2023-03-27)(Zisquier)(fr).cpr" size="524556" crc="6d9c8b7c" md5="5b0d71950a013fcef25a677b85aa4d27" sha1="d5505fd27464ca3d426deed0e86a439a1b0689ca"/>
+	</game>
+	<game name="Heroes Rescue (2020-01-13)(Defecto Digital Studios)(es)">
+		<description>Heroes Rescue (2020-01-13)(Defecto Digital Studios)(es)</description>
+		<rom name="Heroes Rescue (2020-01-13)(Defecto Digital Studios)(es).cpr" size="262284" crc="461d2dcb" md5="1efc48a6fceb23b715889e1d80c8a6fc" sha1="84373496b0091cb80e88d47c0faf8cf1cd005a33"/>
+	</game>
+	<game name="Missile Command (2022)(Ayor61 - TITAN)(FR)">
+		<description>Missile Command (2022)(Ayor61 - TITAN)(FR)</description>
+		<rom name="Missile Command (2022)(Ayor61 - TITAN)(FR).cpr" size="524556" crc="ad7d9292" md5="4ec986f9f70ca9873b316c233914725e" sha1="a3154f7b7822e2f13493855162c4c53841f18f29"/>
+	</game>
+	<game name="Rigor Mortis (2023-07-20)(Churrosoft)(ES)">
+		<description>Rigor Mortis (2023-07-20)(Churrosoft)(ES)</description>
+		<rom name="Rigor Mortis (2023-07-20)(Churrosoft)(ES).cpr" size="524556" crc="ae3ec912" md5="2226d64463e8f1f433cbead67f305ecd" sha1="953a43b42b860e48257103037a0821cd4ab20c06"/>
+	</game>
+	<game name="Rigor Mortis (2023-07-20)(Churrosoft)(ES)(en)">
+		<description>Rigor Mortis (2023-07-20)(Churrosoft)(ES)(en)</description>
+		<rom name="Rigor Mortis (2023-07-20)(Churrosoft)(ES)(en).cpr" size="524556" crc="0704c518" md5="d5f489c767a85602bfb92f5982f8377b" sha1="a55da414c3d9fd1209ad1cf64c8466b7443b54b6"/>
+	</game>
+	<game name="Shuriken (2023-06-30)(Caruso, Fabrizio)[mode0]">
+		<description>Shuriken (2023-06-30)(Caruso, Fabrizio)[mode0]</description>
+		<rom name="Shuriken (2023-06-30)(Caruso, Fabrizio)[mode0].cpr" size="524556" crc="53c642c0" md5="0d0dd37cb5d6837033227322a1ab174b" sha1="77c5cd69bdad733af8e21b2346077edf43fe3c7f"/>
+	</game>
+	<game name="Space Cowboy in Lost Planet (2020-11-15)(Voxel Tower)">
+		<description>Space Cowboy in Lost Planet (2020-11-15)(Voxel Tower)</description>
+		<rom name="Space Cowboy in Lost Planet (2020-11-15)(Voxel Tower).cpr" size="524556" crc="d22e8c7d" md5="5acbc5eb076c6385a51fe71abab2e001" sha1="c5fe95f3f711d6e83bd56419764584c92dc405f8"/>
+	</game>
+	<game name="Stinger (2023-10-08)(Caruso, Fabrizio)[mode0]">
+		<description>Stinger (2023-10-08)(Caruso, Fabrizio)[mode0]</description>
+		<rom name="Stinger (2023-10-08)(Caruso, Fabrizio)[mode0].cpr" size="524556" crc="bf98f24d" md5="5d37776fc8321a8e1ae181fa934a3380" sha1="28098f356c03d80c0f4d2364dc048bdcdc89f308"/>
+	</game>
+	<game name="Stinger (2023-10-08)(Caruso, Fabrizio)[mode2]">
+		<description>Stinger (2023-10-08)(Caruso, Fabrizio)[mode2]</description>
+		<rom name="Stinger (2023-10-08)(Caruso, Fabrizio)[mode2].cpr" size="524556" crc="6fb0f271" md5="8d4d029a63c0bbd09c393fc3d3edadb2" sha1="2f0ff87430ed75aac2912800d6c12c83dc18e484"/>
+	</game>
+	<game name="Stinger (2023-10-08)(Caruso, Fabrizio)[XXX]">
+		<description>Stinger (2023-10-08)(Caruso, Fabrizio)[XXX]</description>
+		<rom name="Stinger (2023-10-08)(Caruso, Fabrizio)[XXX].cpr" size="524556" crc="ab985926" md5="cad7fc54bb7a36674fd3301f3f791d84" sha1="aee3c60ed774335bc3c2ff86bbf7176411f87f7c"/>
+	</game>
+	<game name="Stinger (2023-10-11)(Caruso, Fabrizio)[mode0]">
+		<description>Stinger (2023-10-11)(Caruso, Fabrizio)[mode0]</description>
+		<rom name="Stinger (2023-10-11)(Caruso, Fabrizio)[mode0].cpr" size="524556" crc="c1ad97b8" md5="0a3fe49b4bcabf337519c9bd45b3260d" sha1="49b6a41992800c59a1d3640f6581ff57350a1cc7"/>
+	</game>
+	<game name="Tenebra (2022-12-07)(Haplo)(AU)">
+		<description>Tenebra (2022-12-07)(Haplo)(AU)</description>
+		<rom name="Tenebra (2022-12-07)(Haplo)(AU).cpr" size="524556" crc="fd870e3b" md5="bee5e33432ceac8441d1199d850d08ed" sha1="e3dcfd5583d8489ac8bc56d1fa9868f0a1dbe0ac"/>
+	</game>
+</datafile>

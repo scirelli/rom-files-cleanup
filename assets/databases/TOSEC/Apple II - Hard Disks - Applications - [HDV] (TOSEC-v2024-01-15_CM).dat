@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Hard Disks - Applications - [HDV]</name>
+		<description>Apple II - Hard Disks - Applications - [HDV] (TOSEC-v2024-01-15)</description>
+		<category>TOSEC</category>
+		<version>2024-01-15</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(alpha).hdv" size="33554432" crc="4ddd712c" md5="e5b00be58ab4d8a374f69ab667737f9c" sha1="2bf9047d510c043e653c806d322dfb16a18f8a98"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(da)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(da)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(da)(alpha).hdv" size="33554432" crc="8f24692b" md5="a46792510803bafbaafe748ffea7c4fc" sha1="d5ba28dc889dad238320b093a72f31428274f22a"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(de)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(de)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(de)(alpha).hdv" size="33554432" crc="bcf82b2d" md5="1593d411589eb561620e856df7d04e9b" sha1="8a210f819984abb34dac3aa8692df1a5d4b7de40"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(es)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(es)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(es)(alpha).hdv" size="33554432" crc="c55e999e" md5="22090e36d24b1f5726e9b5bec871f8ce" sha1="47469605b0ce91367488b793e7f1384745c4dc4d"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(fr)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(fr)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(fr)(alpha).hdv" size="33554432" crc="fdc47281" md5="1d4cc5941946f8bc05c37cc2ef8cd41a" sha1="e914c3591521c50c576a2b984e896ef463d4a86b"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(it)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(it)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(it)(alpha).hdv" size="33554432" crc="d1556efc" md5="a4a08821c24dc1513e02708951fcb4a6" sha1="fe94cc5ccabf7e5e54d2b6f9b5a367f87e285e83"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(pt)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(pt)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(pt)(alpha).hdv" size="33554432" crc="144a6985" md5="e3b5f91d69fe34fd07e9e7c5464053ab" sha1="fa1bfdfb3dab16b4130f3ec458edede648e45a9e"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(sv)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(sv)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha2 (2023-02-01)(Bell, Joshua)(IIE)(sv)(alpha).hdv" size="33554432" crc="30be8d9c" md5="0fda4138d7c034b6e4fab7d27c9d34a3" sha1="21f8eeb73f1c800800f92a8d5fc626dd3962fdb6"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(alpha).hdv" size="33554432" crc="8718c9c3" md5="59e970b16e8853dc234d18e6ea936e61" sha1="22c2793ce4ea13e5d417fd45d7a45e6e8bcc72bb"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(da)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(da)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(da)(alpha).hdv" size="33554432" crc="cdfb3ae2" md5="d2313cd5f904f0f166bb8b7e053371fc" sha1="dfa6e6e669dc56679fce0f2724e29e5df60665e0"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(de)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(de)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(de)(alpha).hdv" size="33554432" crc="0cbd14ba" md5="40820ef581e6b0a04f621cbf5a1f023c" sha1="f796f02ff97fe62c08853cc3ba08956658655e68"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(es)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(es)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(es)(alpha).hdv" size="33554432" crc="d902b4b8" md5="a782e74317e3430b4cb2a2999499901a" sha1="e4d1193935f06c74656215d89ff70720091c930d"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(fr)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(fr)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(fr)(alpha).hdv" size="33554432" crc="f3aeeaaf" md5="5d74387788a569770bff9c092209dc32" sha1="d64ae97d6951a760ec986c5b4a72acfd5c6183f5"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(it)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(it)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(it)(alpha).hdv" size="33554432" crc="86bdd413" md5="98d9a03ba1fd9be0b094910caa34c980" sha1="1cef9850943d95b0054bee1ad2cb8187efd4c6c9"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(pt)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(pt)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(pt)(alpha).hdv" size="33554432" crc="dc858d4d" md5="ecbd6b2d4c76402221835ee13181f118" sha1="2881529cb649c34fdf3068483af625832ea5b93d"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(sv)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(sv)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha3 (2023-03-02)(Bell, Joshua)(IIE)(sv)(alpha).hdv" size="33554432" crc="564d250b" md5="3c6ddc229707f92afd6a9000cfd44296" sha1="b2c87975f4cf2394b138dde2e7dec7329ff33779"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(alpha).hdv" size="33554432" crc="40f1ad2d" md5="51bcee54e5608e213feab621d7e9e905" sha1="5d6bfa5b8563919a088e060a6876795fd6ab7823"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(da)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(da)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(da)(alpha).hdv" size="33554432" crc="d17a166a" md5="e6b94e1bc18f5dcf583fe2b1f556518a" sha1="8248c4942b8f34488935d81a76c96af0facf5935"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(de)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(de)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(de)(alpha).hdv" size="33554432" crc="8d63c47b" md5="47c4814835a42c7cb008226ee0b71cfe" sha1="31c34fefe1fd9a9c4882fdaad3ab3923eca8fa85"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(es)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(es)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(es)(alpha).hdv" size="33554432" crc="a3d89751" md5="c02feba5f20f91a73c15840225dc6d07" sha1="e02ff1c62bf36cd6ab33fa368ae52ecccf7edb0e"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(fr)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(fr)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(fr)(alpha).hdv" size="33554432" crc="2cd506e9" md5="c81f4a7a8ab05d93a306f19a9e8e61aa" sha1="de47aeecd8429b0d9fe780941174ce605243767b"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(it)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(it)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(it)(alpha).hdv" size="33554432" crc="8ba325a7" md5="b30ca2eb44c4c61b01f92abdde3663dd" sha1="16c92813f59a688c2fa4c75a80bb00a6e5374fb3"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(pt)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(pt)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(pt)(alpha).hdv" size="33554432" crc="a70c93aa" md5="c568428de9da1ca81354dc411f358108" sha1="82bf97cba60653fda4ff2348c3fa5e306f3c3b16"/>
+	</game>
+	<game name="Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(sv)(alpha)">
+		<description>Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(sv)(alpha)</description>
+		<rom name="Apple II DeskTop v1.3-alpha4 (2023-03-02)(Bell, Joshua)(IIE)(sv)(alpha).hdv" size="33554432" crc="bab814c2" md5="bfdd1095e1a317393f9669e687f1c93e" sha1="8a5a7d7350d80710aa31e6229a6af42e2ec8cd0c"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(alpha).hdv" size="33554432" crc="58c3fdce" md5="1075784ac407729d840b5727e86823eb" sha1="9aa0aafa04e271e2621cf483a65ca99bcf4511e2"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(da)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(da)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(da)(alpha).hdv" size="33554432" crc="1063e0f5" md5="9427ca72cbe571f3061fe92d9d4ad2e9" sha1="607f09af912e5f20e2dd4d09d87d2fa107f2788d"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(de)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(de)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(de)(alpha).hdv" size="33554432" crc="bd1bcdff" md5="329e289ac672a69cbfbf633e8f663ed7" sha1="d8ed05cd9e3ec114a6150ac908cf6677699ffa33"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(es)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(es)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(es)(alpha).hdv" size="33554432" crc="846a7fd9" md5="6db0cd1884b512e3655caf718bf7020e" sha1="0a34e20689739bc19f05e0020d846e142cfb0815"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(fr)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(fr)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(fr)(alpha).hdv" size="33554432" crc="2d7ad834" md5="4dbe8ea69cc54debd14d9f207544ba63" sha1="f2860c9521fb267a07c35e72110689872d428850"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(it)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(it)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(it)(alpha).hdv" size="33554432" crc="70886632" md5="56eebf35b6d4a264d851d6e5eec5d0c9" sha1="4f3e93ccaea77e90da7ca8d71ed7efc78f111e5b"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(nl)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(nl)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(nl)(alpha).hdv" size="33554432" crc="1f6dc71b" md5="78a038d05808f732deb22c72626fd58d" sha1="915e4d0e3e044ad747eac16161c6861867aa39f1"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(pt)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(pt)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(pt)(alpha).hdv" size="33554432" crc="3d4cd09e" md5="72ff3c7842e40fc7df833e63689eb825" sha1="533bb003a4575a80a9d794627f20961f3e90d04b"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(sv)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(sv)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha1 (2023-10-01)(Bell, Joshua)(IIE)(sv)(alpha).hdv" size="33554432" crc="af5ad0cc" md5="dc3ab3ad4f1e9c284f0ec33b07180bbe" sha1="6455df005483ba1a2894eb432c8feb2df69a92d6"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(alpha).hdv" size="33554432" crc="20589224" md5="391d41f5941f78fcaca895aa0d485903" sha1="47abdfc67c97781700859b0c22053d34d0bb3410"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(da)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(da)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(da)(alpha).hdv" size="33554432" crc="0afca06b" md5="741d1de47c59760fcba391c5f5a8688b" sha1="7230e48064448ecebb5e843cbab2e5342a6a1583"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(de)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(de)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(de)(alpha).hdv" size="33554432" crc="55582253" md5="467506804ed37528cd26c2618f5203ea" sha1="5d344410e04cf65e39d781b889a9cc69f4a829c7"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(es)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(es)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(es)(alpha).hdv" size="33554432" crc="493a9c35" md5="d99a7342ac551278f2d456ac1ebc6a2f" sha1="bcbd4d9e4f4b852f439eef15fdae336c04575fd0"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(fr)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(fr)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(fr)(alpha).hdv" size="33554432" crc="b8c95cde" md5="b9b1b0ca225489591716458d6f7ba13a" sha1="7d88a8bdc6daa39901b5acfcd4329c3c3728c0bb"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(it)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(it)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(it)(alpha).hdv" size="33554432" crc="c88ddbcf" md5="1965d3e9a81a635f5361b1f7e821e085" sha1="cd81714b32af8fcc0d1a5681efd366880a422445"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(nl)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(nl)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(nl)(alpha).hdv" size="33554432" crc="46826b63" md5="e14f4aa845791f77a1407d738fd13749" sha1="5e688aaf93c6beafda4f13f695394b80a17b9dcc"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(pt)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(pt)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(pt)(alpha).hdv" size="33554432" crc="6dfba7d3" md5="4dc86aca27efe91658d4fd954116c674" sha1="127928d58612cee9ab88b3a26e9c510835f5c5d4"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(sv)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(sv)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha2 (2023-11-02)(Bell, Joshua)(IIE)(sv)(alpha).hdv" size="33554432" crc="a8fe8386" md5="ddfedc9453c96413567439378b9dee1a" sha1="8fa63e4c2239f5099a7022d4639eea869137369a"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(alpha).hdv" size="33554432" crc="d0022c7b" md5="1d01180f41b17c2d06b977f88fc8e0cd" sha1="16af0ea448a6b5577d4e0cdfd0812c715bdf1c8e"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(da)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(da)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(da)(alpha).hdv" size="33554432" crc="5939dd0e" md5="61e36b4877dddcdb0cd1e08ee577c3b8" sha1="12e26d3d7c08c712879adfc881209c9f108bbf53"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(de)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(de)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(de)(alpha).hdv" size="33554432" crc="b6abda79" md5="f1399fe624ad45e3b42928fdccc3a659" sha1="4d3a222c899f82f4e335afbb1c973bad40eb8cfd"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(es)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(es)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(es)(alpha).hdv" size="33554432" crc="161f4081" md5="e7be9810a5d79a7ccb1786e409eb3901" sha1="ee2a99343e56a3cdf3d812ee10aa51f90a3f7911"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(it)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(it)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(it)(alpha).hdv" size="33554432" crc="01f87d53" md5="7dc5575f960ae44d1be3eeaf171baef6" sha1="9befe921971f788d0ae75a6e57cf6fe0034b9029"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(nl)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(nl)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(nl)(alpha).hdv" size="33554432" crc="f253362e" md5="ef4954f2c2d8830b928ca419b8809eb6" sha1="2b0f4b12ac87d971a802c2fa36088c510e4932aa"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(pt)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(pt)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(pt)(alpha).hdv" size="33554432" crc="cea30cb3" md5="f4e3b5891be2c9f2cb3b81dc5438eb9b" sha1="02bfc933ffcfbb361be0f3dc8d71c259375fbb12"/>
+	</game>
+	<game name="Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(sv)(alpha)">
+		<description>Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(sv)(alpha)</description>
+		<rom name="Apple II DeskTop v1.4-alpha3 (2023-12-02)(Bell, Joshua)(IIE)(sv)(alpha).hdv" size="33554432" crc="f689aa4c" md5="ff864802ed4020f5f387526b18bfaeb8" sha1="6e3ffbc7521e4f2bbe24f0eb6fc8e6a0cd4073e4"/>
+	</game>
+</datafile>

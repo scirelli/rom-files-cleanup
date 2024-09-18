@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Applications - [PO]</name>
+		<description>Apple II - Applications - [PO] (TOSEC-v2023-10-03)</description>
+		<category>TOSEC</category>
+		<version>2023-10-03</version>
+		<author>TKaos - bigboo - Cassiel - jjs - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Apple II DeskTop v1.2-prealpha0 (2019-02-03)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha0 (2019-02-03)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha0 (2019-02-03)(Bell, Joshua)(IIE).po" size="819200" crc="7feb44ea" md5="3c5ff6bfc2b959da9879e031cb0b6840" sha1="37ab90219065f34e3f78764677befa2e4b7931f2"/>
+	</game>
+	<game name="Apple II DeskTop v1.2-prealpha10 (2020-02-03)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha10 (2020-02-03)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha10 (2020-02-03)(Bell, Joshua)(IIE).po" size="819200" crc="c156ecb5" md5="eb9b32b984b097a270b82ed6d36f7e05" sha1="40881d0b0e7d5517eace2814453316b35f8fd723"/>
+	</game>
+	<game name="Apple II DeskTop v1.2-prealpha11 (2020-03-13)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha11 (2020-03-13)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha11 (2020-03-13)(Bell, Joshua)(IIE).po" size="819200" crc="212568a5" md5="5e71673c30c09c07a3da37848ca27290" sha1="e016d7a08616a27e24aff01fb76a5ab34267190a"/>
+	</game>
+	<game name="Apple II DeskTop v1.2-prealpha12 (2020-04-14)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha12 (2020-04-14)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha12 (2020-04-14)(Bell, Joshua)(IIE).po" size="819200" crc="dc70f1b2" md5="2e068aba18eced48c975b62b74206877" sha1="2cc88dd03945f86779293cc7b1a6e03e9f0a917a"/>
+	</game>
+	<game name="Apple II DeskTop v1.2-prealpha14 (2020-06-14)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha14 (2020-06-14)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha14 (2020-06-14)(Bell, Joshua)(IIE).po" size="819200" crc="ddee3ca4" md5="6d6685d19fb2f8f2e54f4616ae5c5354" sha1="a1d32d847b071ff7c826805e02d579c2c37205cd"/>
+	</game>
+	<game name="Apple II DeskTop v1.2-prealpha17 (2020-07-05)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha17 (2020-07-05)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha17 (2020-07-05)(Bell, Joshua)(IIE).po" size="819200" crc="aeff4334" md5="d0a485ad8e4ca04703d0ea5f372e3428" sha1="577e5efcf3d373f92e3931c660fcba216a44c10f"/>
+	</game>
+	<game name="Apple II DeskTop v1.2-prealpha18 (2020-09-10)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha18 (2020-09-10)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha18 (2020-09-10)(Bell, Joshua)(IIE).po" size="819200" crc="fe376c12" md5="9609963dbdaa041886d15bd99f3b5aba" sha1="157f176bb63f98220bbf8b74a768157fbd2aea5b"/>
+	</game>
+	<game name="Apple II DeskTop v1.2-prealpha19 (2020-11-08)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha19 (2020-11-08)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha19 (2020-11-08)(Bell, Joshua)(IIE).po" size="819200" crc="2690edd1" md5="aa467e5d2813377cdcbf8af538c50657" sha1="74db70cb1a79dac1fc014cde840626f186af4de8"/>
+	</game>
+	<game name="Apple II DeskTop v1.2-prealpha2 (2019-04-03)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha2 (2019-04-03)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha2 (2019-04-03)(Bell, Joshua)(IIE).po" size="819200" crc="49d17762" md5="40f36934f4d6b6a9b775fa19863a37de" sha1="fb6bc0e82b408b9bfbb0721fdc91a1d737184398"/>
+	</game>
+	<game name="Apple II DeskTop v1.2-prealpha20 (2020-11-13)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha20 (2020-11-13)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha20 (2020-11-13)(Bell, Joshua)(IIE).po" size="819200" crc="2a8a5375" md5="8e3be1b400897b5bab31d7913d30dbdd" sha1="f39891a32154a3cca4551bc18762fbc884e99e50"/>
+	</game>
+	<game name="Apple II DeskTop v1.2-prealpha21 (2020-11-15)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha21 (2020-11-15)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha21 (2020-11-15)(Bell, Joshua)(IIE).po" size="819200" crc="02ce5a84" md5="204a21b5b7421be79e8e7c3105771978" sha1="8c442c7eb91ffa4edc293ac6f42fd2f1a70a838b"/>
+	</game>
+	<game name="Apple II DeskTop v1.2-prealpha22 (2020-11-25)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha22 (2020-11-25)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha22 (2020-11-25)(Bell, Joshua)(IIE).po" size="819200" crc="3d901ccb" md5="e86f3c36010e6ee106e2bd5bc184b69f" sha1="ede8894842f78d35e552268c151b3da99b042a3c"/>
+	</game>
+	<game name="Apple II DeskTop v1.2-prealpha3 (2019-04-04)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha3 (2019-04-04)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha3 (2019-04-04)(Bell, Joshua)(IIE).po" size="819200" crc="0fe06880" md5="3b380e18feda7ad51e12a90d41e1574b" sha1="79408c1d8ad7fa494344b376e1a9cf13bbe3bb65"/>
+	</game>
+	<game name="Apple II DeskTop v1.2-prealpha4 (2019-04-04)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha4 (2019-04-04)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha4 (2019-04-04)(Bell, Joshua)(IIE).po" size="819200" crc="20579585" md5="838ebd652fadabf92b682b4303726b09" sha1="62b6b1adf8d3cf5169b2aa3305b0bfface060071"/>
+	</game>
+	<game name="Apple II DeskTop v1.2-prealpha5 (2019-05-06)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha5 (2019-05-06)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha5 (2019-05-06)(Bell, Joshua)(IIE).po" size="819200" crc="f5743c89" md5="34971e26fc7bfc059894d9e9a8815ec8" sha1="70c4d7e17b7e78e3e1ad9eee6f6f3108a0ff42a9"/>
+	</game>
+	<game name="Apple II DeskTop v1.2-prealpha6 (2019-07-12)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha6 (2019-07-12)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha6 (2019-07-12)(Bell, Joshua)(IIE).po" size="819200" crc="e3df0a93" md5="9a9b970ad53cac710b0beb36feaa1753" sha1="6230a563cc96c6c77c48b529d08322db4d6452c2"/>
+	</game>
+	<game name="Apple II DeskTop v1.2-prealpha7 (2019-07-27)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha7 (2019-07-27)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha7 (2019-07-27)(Bell, Joshua)(IIE).po" size="819200" crc="dc76c877" md5="141de3fca858cae2c4177d2ec726f1c8" sha1="52391f368f82b1b0b21fcc256d4d5620e18c010a"/>
+	</game>
+	<game name="Apple II DeskTop v1.2-prealpha8 (2019-07-31)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha8 (2019-07-31)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha8 (2019-07-31)(Bell, Joshua)(IIE).po" size="819200" crc="1e980b13" md5="9005e5c1bcab200e26756620d8d4a285" sha1="af6894b7fa1303a3c711287255d464df7aac57fd"/>
+	</game>
+	<game name="Apple II DeskTop v1.2-prealpha9 (2020-01-05)(Bell, Joshua)(IIE)">
+		<description>Apple II DeskTop v1.2-prealpha9 (2020-01-05)(Bell, Joshua)(IIE)</description>
+		<rom name="Apple II DeskTop v1.2-prealpha9 (2020-01-05)(Bell, Joshua)(IIE).po" size="819200" crc="335bbbf8" md5="82f1bbb6293cb90780a5e95aac36672e" sha1="fb9a618f5f125d57d71e27d1718446290158a40b"/>
+	</game>
+	<game name="Applecorn (2021-12-08)(Webber-Manners, Bobbi)(IIEE)(GPLv3)">
+		<description>Applecorn (2021-12-08)(Webber-Manners, Bobbi)(IIEE)(GPLv3)</description>
+		<rom name="Applecorn (2021-12-08)(Webber-Manners, Bobbi)(IIEE)(GPLv3).po" size="819200" crc="1afab5eb" md5="144a93ed5b00137e9f13aca651eb2a43" sha1="3702550456067788537cea878f8c87266cc18dfd"/>
+	</game>
+	<game name="Applecorn v0.52 (2023-01-17)(Webber-Manners, Bobbi)(IIEE)(GPLv3)(beta)">
+		<description>Applecorn v0.52 (2023-01-17)(Webber-Manners, Bobbi)(IIEE)(GPLv3)(beta)</description>
+		<rom name="Applecorn v0.52 (2023-01-17)(Webber-Manners, Bobbi)(IIEE)(GPLv3)(beta).po" size="819200" crc="b41264c7" md5="b315fb2335371080b83f87104b50bdd5" sha1="4f835fe88eb6b60a84102d499cfb31cba77f0f59"/>
+	</game>
+	<game name="AppleWorks v3.0 (1989)(CLARIS)(DE)">
+		<description>AppleWorks v3.0 (1989)(CLARIS)(DE)</description>
+		<rom name="AppleWorks v3.0 (1989)(CLARIS)(DE).po" size="819200" crc="86cf514b" md5="0b5fd265c90442c38202d2873dd70e7c" sha1="d739e7407430a77b6cb96f1ce92d629e92cbed18"/>
+	</game>
+	<game name="AppleWorks v3.2 (1989)(CLARIS)(DE)[a][Filemaster &amp; UltraMacros]">
+		<description>AppleWorks v3.2 (1989)(CLARIS)(DE)[a][Filemaster &amp; UltraMacros]</description>
+		<rom name="AppleWorks v3.2 (1989)(CLARIS)(DE)[a][Filemaster &amp; UltraMacros].po" size="819200" crc="502b38b2" md5="bbce84dcb8f634d111d54274536fad1e" sha1="60efa15b62e606588c93c36d8959b660f8e82689"/>
+	</game>
+	<game name="AppleWorks v3.2 (1989)(CLARIS)(DE)[Filemaster &amp; UltraMacros]">
+		<description>AppleWorks v3.2 (1989)(CLARIS)(DE)[Filemaster &amp; UltraMacros]</description>
+		<rom name="AppleWorks v3.2 (1989)(CLARIS)(DE)[Filemaster &amp; UltraMacros].po" size="819200" crc="16feb476" md5="ec7a9839f407497f9a8b5b77c39dd776" sha1="a29aaba7b65a78ec9d554e873c595a5b43bdad95"/>
+	</game>
+	<game name="AW 3 Expander v1.3.1 (1991)(Applied Engineering)(IIE)">
+		<description>AW 3 Expander v1.3.1 (1991)(Applied Engineering)(IIE)</description>
+		<rom name="AW 3 Expander v1.3.1 (1991)(Applied Engineering)(IIE).po" size="819200" crc="c15fae16" md5="d7a1b5ccb490b3a884ede4d2a69a4874" sha1="e84b111805413f5ee3a3e0a811682d2360a5aa28"/>
+	</game>
+	<game name="DiskMaker 8 v1.1 (2023-09-08)(Percival, Mark)(IIEE)(GPLv2)[128K]">
+		<description>DiskMaker 8 v1.1 (2023-09-08)(Percival, Mark)(IIEE)(GPLv2)[128K]</description>
+		<rom name="DiskMaker 8 v1.1 (2023-09-08)(Percival, Mark)(IIEE)(GPLv2)[128K].po" size="819200" crc="58b2d523" md5="af34b00a06727f14fb0bca86db813a18" sha1="954889eb2ef7f95bace081b0c7535f901226e775"/>
+	</game>
+	<game name="emailler v0.91 (2020-06-30)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)(alpha)">
+		<description>emailler v0.91 (2020-06-30)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)(alpha)</description>
+		<rom name="emailler v0.91 (2020-06-30)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)(alpha).po" size="819200" crc="630e8ffa" md5="e5c665996789cbc8cb41656f0bd5e26a" sha1="54a0b78a49c9adc0c64c16f9b03bb6bb151f6a4a"/>
+	</game>
+	<game name="emailler v0.93 (2020-08-02)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)(alpha)">
+		<description>emailler v0.93 (2020-08-02)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)(alpha)</description>
+		<rom name="emailler v0.93 (2020-08-02)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)(alpha).po" size="819200" crc="8b928377" md5="6e08e2e6446ced9d87e4a17f45259d66" sha1="ed3c0e443ea0f936a6fb126d89cb73b9b51fe266"/>
+	</game>
+	<game name="emailler v0.95 (2020-08-03)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)(alpha)">
+		<description>emailler v0.95 (2020-08-03)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)(alpha)</description>
+		<rom name="emailler v0.95 (2020-08-03)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)(alpha).po" size="819200" crc="76ea2541" md5="67b26d118b0b73d4df82d3f24d847774" sha1="437d629c30e1f4989b2a36bb71bd74fdb0a997b6"/>
+	</game>
+	<game name="emailler v0.97 (2020-08-09)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)(alpha)">
+		<description>emailler v0.97 (2020-08-09)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)(alpha)</description>
+		<rom name="emailler v0.97 (2020-08-09)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)(alpha).po" size="819200" crc="ca7898a4" md5="95ce4e0487743b2ce5625fda35f74432" sha1="54c8a12fc1b86006f42b341045055013fb4e2f1d"/>
+	</game>
+	<game name="emailler v1.00 (2020-08-19)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v1.00 (2020-08-19)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v1.00 (2020-08-19)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="854071c1" md5="d2b3b1ef36ed57da6929d0ebad3fbd4e" sha1="fb808c8f0ce4fb95b5bd77c5b4226df8b3cb24c5"/>
+	</game>
+	<game name="emailler v1.00a (2020-09-02)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v1.00a (2020-09-02)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v1.00a (2020-09-02)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="76e0fa78" md5="2736cbf377756be6c3c862584a84610d" sha1="b7ccaef3937f0a946161fc34e1cdb478f7c2caf4"/>
+	</game>
+	<game name="emailler v1.10 (2020-11-09)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v1.10 (2020-11-09)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v1.10 (2020-11-09)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="0dc32951" md5="d199d55cb68239442f4f2a2aa32fb6d7" sha1="ef6ce2cc6ee1a0b02d52a7eb99981afc9b3577db"/>
+	</game>
+	<game name="emailler v2.0.0 (2020-10-30)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v2.0.0 (2020-10-30)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v2.0.0 (2020-10-30)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="fee094af" md5="7973f5b049d7af949b77ef8ba04aee40" sha1="df66262bd008a3d0a2be53ddd767b2ba8e3ae687"/>
+	</game>
+	<game name="emailler v2.0.0 (2020-10-30)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)[a]">
+		<description>emailler v2.0.0 (2020-10-30)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)[a]</description>
+		<rom name="emailler v2.0.0 (2020-10-30)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)[a].po" size="819200" crc="abfe2889" md5="3fee524afaef6e9d79c794d3693380bf" sha1="423f731438524f223a7412e7330fcd76a0922a31"/>
+	</game>
+	<game name="emailler v2.1.0 (2021-05-19)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v2.1.0 (2021-05-19)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v2.1.0 (2021-05-19)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="530a21ac" md5="f97f24d9e8a34e28627d18bfc1abf0fb" sha1="9dfeaeaaf0ffe9b6bc6ed25a083ab5eed2497bc3"/>
+	</game>
+	<game name="emailler v2.1.1 (2021-05-20)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v2.1.1 (2021-05-20)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v2.1.1 (2021-05-20)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="8413d0b9" md5="51eb12f47e6ce984846a0deba5a1b851" sha1="6e975e19c46d65055eb7f5fc236f0e2b0575b0be"/>
+	</game>
+	<game name="emailler v2.1.10 (2021-11-13)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v2.1.10 (2021-11-13)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v2.1.10 (2021-11-13)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="bd8896f4" md5="81fdccccc4b192dd25a5e82c73530b3e" sha1="8cbc3b33fbcdc9d2948ea555cd33d15c380f9f52"/>
+	</game>
+	<game name="emailler v2.1.11 (2021-11-13)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v2.1.11 (2021-11-13)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v2.1.11 (2021-11-13)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="2e51d773" md5="9d7a43d3a9dd9f1383e9ad557adf760d" sha1="672ed993addb62997e3366c33e9c32d80d064443"/>
+	</game>
+	<game name="emailler v2.1.12 (2021-11-15)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v2.1.12 (2021-11-15)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v2.1.12 (2021-11-15)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="dfa1447a" md5="e9aef9b62c4a4544a4dec50c372d7417" sha1="257fecd941b660459b7560ecc4b941780da62d99"/>
+	</game>
+	<game name="emailler v2.1.13 (2021-11-16)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v2.1.13 (2021-11-16)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v2.1.13 (2021-11-16)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="8469909b" md5="59079c942bc41408cda8bda0c17996a4" sha1="95a98e945f9758132ee0514e287c96ea7b638959"/>
+	</game>
+	<game name="emailler v2.1.14 (2022-09-04)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v2.1.14 (2022-09-04)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v2.1.14 (2022-09-04)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="d9d6b865" md5="7343955e6f3f27df0434c2475cc8a0a6" sha1="487e88f3692f2180b6531ca28bca466a997e81cd"/>
+	</game>
+	<game name="emailler v2.1.2 (2021-05-21)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v2.1.2 (2021-05-21)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v2.1.2 (2021-05-21)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="3da8c3fa" md5="a4c601ae3bfcd55ded4240f23f84d881" sha1="55c1f3dcd7c7ee6f67f3f1cc112aff422ff98215"/>
+	</game>
+	<game name="emailler v2.1.3 (2021-05-24)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v2.1.3 (2021-05-24)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v2.1.3 (2021-05-24)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="c09fdade" md5="dbe3f8ab1411fa963c35cfd497220ca8" sha1="c4d03c5f85bc9f45b7172b339034cc9d1fd1688d"/>
+	</game>
+	<game name="emailler v2.1.4 (2021-05-30)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v2.1.4 (2021-05-30)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v2.1.4 (2021-05-30)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="d0873184" md5="4533a7463cb7fdc2de718dc20018cf30" sha1="28899a48eed90f6668d4ac4f269ae2f3a18b1065"/>
+	</game>
+	<game name="emailler v2.1.5 (2021-06-05)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v2.1.5 (2021-06-05)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v2.1.5 (2021-06-05)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="eed995bf" md5="aa666df5c780317900e7f883cbeb7267" sha1="b4916431e2cf2298f2703b770f40c9d221c4da21"/>
+	</game>
+	<game name="emailler v2.1.6 (2021-06-13)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v2.1.6 (2021-06-13)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v2.1.6 (2021-06-13)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="c0f6743c" md5="445a25f88cdc514b7574dc4dffd33fd9" sha1="933bebb7d5e74a49fed9ed36dafd82e548877d7e"/>
+	</game>
+	<game name="emailler v2.1.7 (2021-07-06)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v2.1.7 (2021-07-06)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v2.1.7 (2021-07-06)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="4d89b33a" md5="e332978a38356bd84173c25526c1874d" sha1="cd6475b555c39b583b7f9057237e5fa7559dcb7e"/>
+	</game>
+	<game name="emailler v2.1.8 (2021-08-29)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v2.1.8 (2021-08-29)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v2.1.8 (2021-08-29)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="52ff02f1" md5="020986e9208106cefd1e8517b7eb760a" sha1="a135e2255c288566860585b678359efe89c8518a"/>
+	</game>
+	<game name="emailler v2.1.9 (2021-11-12)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)">
+		<description>emailler v2.1.9 (2021-11-12)(Webber-Manners, Bobbi)(IIEE)(MPL1.1)</description>
+		<rom name="emailler v2.1.9 (2021-11-12)(Webber-Manners, Bobbi)(IIEE)(MPL1.1).po" size="819200" crc="2ceb7a6c" md5="3ee87d4910c6e86c24e60d1549829e7b" sha1="dba87944195c37c52e615320bab05218583ae4df"/>
+	</game>
+	<game name="Graffidisk v1.0 (2018-08-16)(Brutal Deluxe - Morris, John K.)(IIE)">
+		<description>Graffidisk v1.0 (2018-08-16)(Brutal Deluxe - Morris, John K.)(IIE)</description>
+		<rom name="Graffidisk v1.0 (2018-08-16)(Brutal Deluxe - Morris, John K.)(IIE).po" size="819200" crc="8b14a862" md5="a0cfc2c43c6b0c3d85ec2335072faf0c" sha1="427a20aebeb392f0cf6596d98d42dc2511ed34cb"/>
+	</game>
+	<game name="I'm fEDD Up v1.0 (2012)(Brutal Deluxe)(IIE)(FR)(en)">
+		<description>I'm fEDD Up v1.0 (2012)(Brutal Deluxe)(IIE)(FR)(en)</description>
+		<rom name="I'm fEDD Up v1.0 (2012)(Brutal Deluxe)(IIE)(FR)(en).po" size="819200" crc="bc367151" md5="dfa97da584eadf86321e67e273b1469b" sha1="5d97987e8e8cc7321bea3d02f6be4dd7ff9bf485"/>
+	</game>
+	<game name="I'm fEDD Up v1.1 (2012-10-02)(Brutal Deluxe)(IIE)(FR)(en)">
+		<description>I'm fEDD Up v1.1 (2012-10-02)(Brutal Deluxe)(IIE)(FR)(en)</description>
+		<rom name="I'm fEDD Up v1.1 (2012-10-02)(Brutal Deluxe)(IIE)(FR)(en).po" size="819200" crc="a07e3213" md5="6bc6bfdea64a64bc8d3d2e7f01a3812b" sha1="53543ea94c72c310d0009ee6fbd0be4523e0db40"/>
+	</game>
+	<game name="I'm fEDD Up v2 (2016-02-10)(Brutal Deluxe)(IIE)(FR)(en)">
+		<description>I'm fEDD Up v2 (2016-02-10)(Brutal Deluxe)(IIE)(FR)(en)</description>
+		<rom name="I'm fEDD Up v2 (2016-02-10)(Brutal Deluxe)(IIE)(FR)(en).po" size="819200" crc="12ba945e" md5="07152bbd8dcb14a4314773d1266b1457" sha1="21c87cff6119fe1392bd8d520b8606dea38a5dd2"/>
+	</game>
+	<game name="I'm fEDD Up v2.1 (2016-05-11)(Brutal Deluxe)(IIE)(FR)(en)">
+		<description>I'm fEDD Up v2.1 (2016-05-11)(Brutal Deluxe)(IIE)(FR)(en)</description>
+		<rom name="I'm fEDD Up v2.1 (2016-05-11)(Brutal Deluxe)(IIE)(FR)(en).po" size="819200" crc="9fa43cdb" md5="32891c54d44c85596032d4f3ab8a49fd" sha1="1a77cc54a95a51d2a4c8afacf60f672efc82674d"/>
+	</game>
+	<game name="I'm fEDD Up v2.2 (2017-01-05)(Brutal Deluxe)(IIE)(FR)(en)">
+		<description>I'm fEDD Up v2.2 (2017-01-05)(Brutal Deluxe)(IIE)(FR)(en)</description>
+		<rom name="I'm fEDD Up v2.2 (2017-01-05)(Brutal Deluxe)(IIE)(FR)(en).po" size="819200" crc="44547086" md5="a31251e4d9e27096dd80ee9c15a09351" sha1="3d4cb3eaeb30311255c9418c861466a3ad40a447"/>
+	</game>
+	<game name="I'm fEDD Up v2.3 (2017-04)(Brutal Deluxe)(IIE)(FR)(en)">
+		<description>I'm fEDD Up v2.3 (2017-04)(Brutal Deluxe)(IIE)(FR)(en)</description>
+		<rom name="I'm fEDD Up v2.3 (2017-04)(Brutal Deluxe)(IIE)(FR)(en).po" size="819200" crc="712d7a20" md5="008682a9277a054bc24fedf4c632249c" sha1="44754b428fb4cdfc889935837a15dae3ac0bc3fd"/>
+	</game>
+	<game name="Label Shop v2.0 (1989)(Bréjoux)(IIEE)(FR)">
+		<description>Label Shop v2.0 (1989)(Bréjoux)(IIEE)(FR)</description>
+		<rom name="Label Shop v2.0 (1989)(Bréjoux)(IIEE)(FR).po" size="819200" crc="8bc3d3a1" md5="8bedc638ec60156252ca4b7bfa48f0f1" sha1="21e7429a947454e2a6f46ca84ebd14a5893c18e9"/>
+	</game>
+	<game name="MultiScribe v2.0 (1987)(StyleWare)[inc FontPaks 1-5]">
+		<description>MultiScribe v2.0 (1987)(StyleWare)[inc FontPaks 1-5]</description>
+		<rom name="MultiScribe v2.0 (1987)(StyleWare)[inc FontPaks 1-5].po" size="819200" crc="63ca5126" md5="750fce825dbb90746c5c5e1258db9351" sha1="ef17e771ea19a06a73035cf110d1970a3117fc03"/>
+	</game>
+	<game name="PC Transporter System Disk v2.0.5 (1991)(Applied Engineering)">
+		<description>PC Transporter System Disk v2.0.5 (1991)(Applied Engineering)</description>
+		<rom name="PC Transporter System Disk v2.0.5 (1991)(Applied Engineering).po" size="819200" crc="db3c2a29" md5="fa17a14593281b32a9c602cb51b532c0" sha1="d8ee8db39f453128c4d6f0644e172b558e195349"/>
+	</game>
+	<game name="Program Writer v2.0 (1989-04-21)(Beagle Bros)(IIE)(US)[64K]">
+		<description>Program Writer v2.0 (1989-04-21)(Beagle Bros)(IIE)(US)[64K]</description>
+		<rom name="Program Writer v2.0 (1989-04-21)(Beagle Bros)(IIE)(US)[64K].po" size="819200" crc="2de8efe3" md5="a5bfb828e5d4e32a71a5462654a41698" sha1="16646712f71b5d87b38831b87c13d1e7d897bd6b"/>
+	</game>
+	<game name="Scholastic HyperScreen v1.0 (1990)(Scholastic)(IIE)(US)[128K]">
+		<description>Scholastic HyperScreen v1.0 (1990)(Scholastic)(IIE)(US)[128K]</description>
+		<rom name="Scholastic HyperScreen v1.0 (1990)(Scholastic)(IIE)(US)[128K].po" size="819200" crc="add6ed6b" md5="92b0643c7f6b868b3d6313201241a3e5" sha1="cd0b8fa283de0e2c57bc0e98d3b86437e9a427c1"/>
+	</game>
+	<game name="Scholastic HyperScreen v2.0 (1990)(Scholastic)(IIE)(US)[128K]">
+		<description>Scholastic HyperScreen v2.0 (1990)(Scholastic)(IIE)(US)[128K]</description>
+		<rom name="Scholastic HyperScreen v2.0 (1990)(Scholastic)(IIE)(US)[128K].po" size="819200" crc="85d9a873" md5="6b6563185787c05524e06049dd7dd1c3" sha1="c7c9c1c9b43f92f028faa1a105c7b972076b344b"/>
+	</game>
+	<game name="You, DustHead! v1 (2016-02)(Brutal Deluxe)(IIE)(FR)(en)">
+		<description>You, DustHead! v1 (2016-02)(Brutal Deluxe)(IIE)(FR)(en)</description>
+		<rom name="You, DustHead! v1 (2016-02)(Brutal Deluxe)(IIE)(FR)(en).po" size="819200" crc="a9b72c74" md5="aff8f4b1818e2ff7b6351c53e60e8384" sha1="a607149e737c0bf3afb4da1504ab2190a3352b04"/>
+	</game>
+	<game name="You, DustHead! v1.1 (2016-02)(Brutal Deluxe)(IIE)(FR)(en)">
+		<description>You, DustHead! v1.1 (2016-02)(Brutal Deluxe)(IIE)(FR)(en)</description>
+		<rom name="You, DustHead! v1.1 (2016-02)(Brutal Deluxe)(IIE)(FR)(en).po" size="819200" crc="886168c5" md5="8d795e427cc65bd92e840bacafa6d36a" sha1="f21f134e6fcbadfa1d87474fdb65abd2ab651db4"/>
+	</game>
+	<game name="Zapple-II (2019-11-03)(Webber-Manners, Bobbi)(BSD2)">
+		<description>Zapple-II (2019-11-03)(Webber-Manners, Bobbi)(BSD2)</description>
+		<rom name="Zapple-II (2019-11-03)(Webber-Manners, Bobbi)(BSD2).po" size="819200" crc="3df62f84" md5="98a664eb1edec6b73a6749859cb8b909" sha1="8aa9b06f2255b0228caf658954bbfa71eede664c"/>
+	</game>
+</datafile>

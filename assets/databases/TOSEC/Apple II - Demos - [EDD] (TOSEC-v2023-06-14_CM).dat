@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Demos - [EDD]</name>
+		<description>Apple II - Demos - [EDD] (TOSEC-v2023-06-14)</description>
+		<category>TOSEC</category>
+		<version>2023-06-14</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Deck the Halls with Random House Software (1984)(Random House)(II+)(US)">
+		<description>Deck the Halls with Random House Software (1984)(Random House)(II+)(US)</description>
+		<rom name="Deck the Halls with Random House Software (1984)(Random House)(II+)(US).edd" size="2310144" crc="06b7b47c" md5="097d86b4c0d39fed2cc4453fca066d19" sha1="9bbd94ec304b2a373cb7ee04d1a14273a1ea0a21"/>
+	</game>
+</datafile>

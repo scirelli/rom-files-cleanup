@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Thomson MO5 - Games - [M5]</name>
+		<description>Thomson MO5 - Games - [M5] (TOSEC-v2024-01-15)</description>
+		<category>TOSEC</category>
+		<version>2024-01-15</version>
+		<author>mictlantecuhtle - Leto_II - Cassiel</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Airbus (1984)(Vifi-Nathan)(FR)">
+		<description>Airbus (1984)(Vifi-Nathan)(FR)</description>
+		<rom name="Airbus (1984)(Vifi-Nathan)(FR).m5" size="16384" crc="0686d6b5" md5="79de6b8466a75ff6cd91bd7a9176c66c" sha1="f5341425cb3cfeba6358c8199c6cc852334ff624"/>
+	</game>
+	<game name="Blitz (1985)(To Tek)">
+		<description>Blitz (1985)(To Tek)</description>
+		<rom name="Blitz (1985)(To Tek).m5" size="16384" crc="9725c110" md5="6a1bad0554829dc1e518880e710288df" sha1="d5b8882708e539f449746c5451054359b1273f3a"/>
+	</game>
+	<game name="Blitz! (1985)(To Tek)[a]">
+		<description>Blitz! (1985)(To Tek)[a]</description>
+		<rom name="Blitz! (1985)(To Tek)[a].m5" size="16384" crc="19dde6c1" md5="bfa10931d02b14ac50b72b7622d274de" sha1="625c3b59843859fba13ea27394d9f8fc9faacaeb"/>
+	</game>
+	<game name="Controle Aerien (1984)(Vifi-Nathan)">
+		<description>Controle Aerien (1984)(Vifi-Nathan)</description>
+		<rom name="Controle Aerien (1984)(Vifi-Nathan).m5" size="16384" crc="897687fa" md5="596e879670a73a8020a43c522d0947f0" sha1="fc3b4ceff31c996a9388fd1dba642dce69c58f18"/>
+	</game>
+	<game name="Cross Bomber (2022-04-29)(Caruso, Fabrizio)">
+		<description>Cross Bomber (2022-04-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Bomber (2022-04-29)(Caruso, Fabrizio).m5" size="8564" crc="0ab52c63" md5="e51f6e4d8a2e21e8ded05d89fd377d3e" sha1="09e1796d636a9cd9a8a545eb5260667f5956d17a"/>
+	</game>
+	<game name="Cross Bomber (2023-10-26)(Caruso, Fabrizio)">
+		<description>Cross Bomber (2023-10-26)(Caruso, Fabrizio)</description>
+		<rom name="Cross Bomber (2023-10-26)(Caruso, Fabrizio).k5" size="10015" crc="578e390f" md5="1c806c22471eafacf7511301a27ff156" sha1="865071f5670173bcedbda11537521782a0d2f5d2"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).m5" size="11545" crc="ba127a01" md5="7eb8283657518ff43b27e2a4dddd068b" sha1="2c803443176ccef1be8120c1c9badd5b18294014"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).m5" size="15775" crc="6a6cd0e0" md5="76a974f694bd2ca318c460c839b185a2" sha1="a9a8df628cf5618cad538ff8c3a22b02ea005043"/>
+	</game>
+	<game name="Cross Chase (2022-04-29)(Caruso, Fabrizio)">
+		<description>Cross Chase (2022-04-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2022-04-29)(Caruso, Fabrizio).m5" size="19031" crc="ffd92dab" md5="238f9ee4f72a7bec37f7fe618992aeb7" sha1="fe23a5de1b6a74203116065b3e744a9d4b58db03"/>
+	</game>
+	<game name="Cross Chase (2023-10-26)(Caruso, Fabrizio)">
+		<description>Cross Chase (2023-10-26)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2023-10-26)(Caruso, Fabrizio).k5" size="14520" crc="7721bba7" md5="b1e5741e6c56d55c0c568bd4da38ae23" sha1="328dbb755a2bfc0c3dba685b785a591600124ec5"/>
+	</game>
+	<game name="Cross Horde (2022-04-29)(Caruso, Fabrizio)">
+		<description>Cross Horde (2022-04-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Horde (2022-04-29)(Caruso, Fabrizio).m5" size="15099" crc="9575c69d" md5="8665b495d72c22deffe223bdabc7af9e" sha1="a87cd873b62160d1674c5b0a029069bba858ce1b"/>
+	</game>
+	<game name="Cross Horde (2023-10-26)(Caruso, Fabrizio)">
+		<description>Cross Horde (2023-10-26)(Caruso, Fabrizio)</description>
+		<rom name="Cross Horde (2023-10-26)(Caruso, Fabrizio).k5" size="14892" crc="08837fde" md5="7464672c87619e6c58d427fc29a6e492" sha1="0a3c2f13b597b1eafaec9f919e407d15f48b7d5d"/>
+	</game>
+	<game name="Cross Shoot (2022-04-29)(Caruso, Fabrizio)">
+		<description>Cross Shoot (2022-04-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Shoot (2022-04-29)(Caruso, Fabrizio).m5" size="28829" crc="4ba180b6" md5="3bbade4932f64557a4fbbcf00c9fb553" sha1="351afa82ffe31a547236ea7c4a9371a6fbaf27da"/>
+	</game>
+	<game name="Cross Shoot (2023-10-26)(Caruso, Fabrizio)">
+		<description>Cross Shoot (2023-10-26)(Caruso, Fabrizio)</description>
+		<rom name="Cross Shoot (2023-10-26)(Caruso, Fabrizio).k5" size="25735" crc="ff527e4c" md5="9c86f450841908709b604cf98c0197d1" sha1="47acd2a9c6c425bce7e5b33c1cc4ca738dd63f71"/>
+	</game>
+	<game name="Cross Snake (2022-04-29)(Caruso, Fabrizio)">
+		<description>Cross Snake (2022-04-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Snake (2022-04-29)(Caruso, Fabrizio).m5" size="16912" crc="0aa6975a" md5="ca4a0c66f345383cf1c13d5c88aa9d7c" sha1="b0447fe1820bb7bf01af7842499b4b629c8b76ff"/>
+	</game>
+	<game name="Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)">
+		<description>Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)</description>
+		<rom name="Cross Snake Preview (2020-12-05)(Caruso, Fabrizio).m5" size="7386" crc="75267a68" md5="a8f3b54b76a4dc97cfba48607ea05525" sha1="20e4e59ee2d520025e1ddae09732572bb0be006d"/>
+	</game>
+	<game name="Cross Snake (2023-10-26)(Caruso, Fabrizio)">
+		<description>Cross Snake (2023-10-26)(Caruso, Fabrizio)</description>
+		<rom name="Cross Snake (2023-10-26)(Caruso, Fabrizio).k5" size="16814" crc="467c7f15" md5="858031286dd66e32f951b87e0e84666f" sha1="696cb762fb02774293319c29883a4a1cb44a84cc"/>
+	</game>
+	<game name="Cross Verbix (2022-12-12)(Caruso, Fabrizio)">
+		<description>Cross Verbix (2022-12-12)(Caruso, Fabrizio)</description>
+		<rom name="Cross Verbix (2022-12-12)(Caruso, Fabrizio).m5" size="15987" crc="e63e9ef5" md5="97fc15c618e980111804def21574030a" sha1="623dd759f3fc186118bfc01e96155f7daf05e64a"/>
+	</game>
+	<game name="Cross Verbix (2023-10-26)(Caruso, Fabrizio)">
+		<description>Cross Verbix (2023-10-26)(Caruso, Fabrizio)</description>
+		<rom name="Cross Verbix (2023-10-26)(Caruso, Fabrizio).k5" size="15875" crc="5f108c73" md5="bd241cc202e178e5d5311e35521a5a7d" sha1="3267e9534747da85b7c7437594a35496300f74a0"/>
+	</game>
+	<game name="Enigmatika (1984)(Answare)(FR)">
+		<description>Enigmatika (1984)(Answare)(FR)</description>
+		<rom name="Enigmatika (1984)(Answare)(FR).m5" size="16384" crc="af2a0ce5" md5="8cff42f0375d36c5399207cf00f9c6a2" sha1="f14c167f61ac8c82b34fc689acc5c33eb1829ab6"/>
+	</game>
+	<game name="Gemini (1982)(Vifi-Nathan)(FR)">
+		<description>Gemini (1982)(Vifi-Nathan)(FR)</description>
+		<rom name="Gemini (1982)(Vifi-Nathan)(FR).m5" size="16384" crc="cc30bba2" md5="5bf4b4c84a697bebb63d8b6fdcec2b4c" sha1="67be5d9736c50d6c8c4237eec483b0fef1574a4a"/>
+	</game>
+	<game name="Glouton (1986)(Hebdogiciel)(FR)">
+		<description>Glouton (1986)(Hebdogiciel)(FR)</description>
+		<rom name="Glouton (1986)(Hebdogiciel)(FR).m5" size="16384" crc="c4f65bfc" md5="eca61e3e892e31a0ffb34720a44eb822" sha1="1090e0acf99b240c5f22e20458464d96e1237eda"/>
+	</game>
+	<game name="Glouton (1986)(Hebdogiciel)(FR)[a]">
+		<description>Glouton (1986)(Hebdogiciel)(FR)[a]</description>
+		<rom name="Glouton (1986)(Hebdogiciel)(FR)[a].m5" size="16384" crc="c7375598" md5="0aba3954bb55090ca211642a4aa804fe" sha1="f4497198af448582eb05c2da1d236cd8cae4219a"/>
+	</game>
+	<game name="Melimemot (1983)(Vifi-Nathan)(FR)">
+		<description>Melimemot (1983)(Vifi-Nathan)(FR)</description>
+		<rom name="Melimemot (1983)(Vifi-Nathan)(FR).m5" size="16384" crc="8bf8f98d" md5="e71e69c6289314f9fc0ce79de1f5229c" sha1="603656e072c30e0231f4fd16d0a778003eb8836f"/>
+	</game>
+	<game name="Melodia (1982)(Vifi-Nathan)(FR)">
+		<description>Melodia (1982)(Vifi-Nathan)(FR)</description>
+		<rom name="Melodia (1982)(Vifi-Nathan)(FR).m5" size="16384" crc="f3c9eaf2" md5="d4e4d43822536ea432ba41211980bba8" sha1="90d1b03febc206c73ea582c0c50d00d551c1e3d0"/>
+	</game>
+	<game name="Miner 2049er (198x)(To Tek)(FR)">
+		<description>Miner 2049er (198x)(To Tek)(FR)</description>
+		<rom name="Miner 2049er (198x)(To Tek)(FR).m5" size="16384" crc="a3fe074a" md5="071c764e11540db3c3777bb69c7257aa" sha1="179e111030c1d04733a297bf07b5bfacca17e859"/>
+	</game>
+	<game name="Shuriken (2023-06-30)(Caruso, Fabrizio)">
+		<description>Shuriken (2023-06-30)(Caruso, Fabrizio)</description>
+		<rom name="Shuriken (2023-06-30)(Caruso, Fabrizio).m5" size="14686" crc="28d28946" md5="396cb7f4adfec3070b83d9a6050dc89d" sha1="6c4a8961e3c372a0f8c8b00da528afaa37130915"/>
+	</game>
+	<game name="Shuriken (2023-10-26)(Caruso, Fabrizio)">
+		<description>Shuriken (2023-10-26)(Caruso, Fabrizio)</description>
+		<rom name="Shuriken (2023-10-26)(Caruso, Fabrizio).k5" size="14690" crc="abd6c539" md5="e0f4a8ee22e0af8cf07a13860219d5b5" sha1="9f6121e3dff2c0a605e764fe7e4efbb134ccac3a"/>
+	</game>
+	<game name="Stinger (2023-10-08)(Caruso, Fabrizio)">
+		<description>Stinger (2023-10-08)(Caruso, Fabrizio)</description>
+		<rom name="Stinger (2023-10-08)(Caruso, Fabrizio).m5" size="23317" crc="393ec81d" md5="a2db61530be5dae15acd23ecf8434680" sha1="651919f00972a5ff7407934e273213d55dcfede3"/>
+	</game>
+	<game name="Stinger (2023-10-26)(Caruso, Fabrizio)">
+		<description>Stinger (2023-10-26)(Caruso, Fabrizio)</description>
+		<rom name="Stinger (2023-10-26)(Caruso, Fabrizio).k5" size="23317" crc="fa02f3ff" md5="bb2ee060e1fc3f9b10916e572ed2ddbd" sha1="8d516fe8b4bfd33f0e07218ec621276d01d53044"/>
+	</game>
+	<game name="Trap (1982)(Vifi-Nathan)(FR)">
+		<description>Trap (1982)(Vifi-Nathan)(FR)</description>
+		<rom name="Trap (1982)(Vifi-Nathan)(FR).m5" size="16384" crc="95fb063b" md5="6ebfb95b9388a923eac79d70bafc0480" sha1="7f90b9fd3c7931afd5f4cd0584c34f12f80d9049"/>
+	</game>
+	<game name="Tridi444 (1982)(Vifi-Nathan)(FR)">
+		<description>Tridi444 (1982)(Vifi-Nathan)(FR)</description>
+		<rom name="Tridi444 (1982)(Vifi-Nathan)(FR).m5" size="16384" crc="d74554e2" md5="78784c8208e2a023893c8ccca0ae6e4e" sha1="b091d4926e63ad77c04e793883fe6436c43dc91e"/>
+	</game>
+</datafile>

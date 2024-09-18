@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Educational - [PO]</name>
+		<description>Apple II - Educational - [PO] (TOSEC-v2023-06-14)</description>
+		<category>TOSEC</category>
+		<version>2023-06-14</version>
+		<author>TKaos - bigboo - Cassiel - jjs - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Troll Sports Math - Math Word Problems for Grades 4-6 (1991)(Troll Associates)(II+)(US)[req 3.5 drive]">
+		<description>Troll Sports Math - Math Word Problems for Grades 4-6 (1991)(Troll Associates)(II+)(US)[req 3.5 drive]</description>
+		<rom name="Troll Sports Math - Math Word Problems for Grades 4-6 (1991)(Troll Associates)(II+)(US)[req 3.5 drive].po" size="819200" crc="468174b2" md5="fa9571d8287adfece14e27b842ccb255" sha1="0589b0531d1982e78c229bc0a294ae9513901ec9"/>
+	</game>
+</datafile>

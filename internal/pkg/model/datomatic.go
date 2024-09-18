@@ -25,13 +25,14 @@ type Game struct {
 	Name        string `xml:"name,attr"`
 	CloneOfId   string `xml:"cloneofid,attr"`
 	Description string `xml:"description"`
-	Rom         Rom    `xml:"rom"`
+	Rom         []Rom  `xml:"rom"`
 }
 
 type Rom struct {
-	Name string `xml:"name,attr"`
-	Size string `xml:"size,attr"`
-	CRC  string `xml:"crc,attr"`
-	Md5  string `xml:"md5,attr"`
-	Sha1 string `xml:"sha1,attr"`
+	Name   string `xml:"name,attr"`
+	Size   string `xml:"size,attr"`
+	CRC    string `xml:"crc,attr"`
+	Md5    string `xml:"md5,attr"`
+	Sha1   string `xml:"sha1,attr"`
+	Sha256 string `xml:"sha256,attr"`
 }

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>8-Bit Productions Commander X16 - Games - [Multipart]</name>
+		<description>8-Bit Productions Commander X16 - Games - [Multipart] (TOSEC-v2024-01-15)</description>
+		<category>TOSEC</category>
+		<version>2024-01-15</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="x16wars v1.0 (2022-01-02)(Nelson, Cameron)(MIT)">
+		<description>x16wars v1.0 (2022-01-02)(Nelson, Cameron)(MIT)</description>
+		<rom name="letter.chr" size="4738" crc="11bfeba2" md5="b315592c25ed400eb9cc3ce5a7f0fe25" sha1="ddccb2fe6db49c222665399f7ba6ef3a21f23622"/>
+		<rom name="sprites.chr" size="1602" crc="70bf4a72" md5="d642dce83f542e0af750272497a6536f" sha1="12369c6d6bfe5c949a60a8a8ce5664713793f55b"/>
+		<rom name="tile.chr" size="1154" crc="3d76affd" md5="5b17a81e7262134d280dd9a443a9ae29" sha1="a3529433fc7200d0f07e5f4ca5fe74b858fd4c0a"/>
+		<rom name="wars.prg" size="24714" crc="72c7a1b7" md5="4e7d4123fb7cf5b173fb6181c77a694d" sha1="e8c8c0cc6c09b926a2054a6421c96aae9d2c193a"/>
+	</game>
+	<game name="x16wars v1.1 (2022-08-06)(Nelson, Cameron)(MIT)">
+		<description>x16wars v1.1 (2022-08-06)(Nelson, Cameron)(MIT)</description>
+		<rom name="letter.chr" size="4738" crc="11bfeba2" md5="b315592c25ed400eb9cc3ce5a7f0fe25" sha1="ddccb2fe6db49c222665399f7ba6ef3a21f23622"/>
+		<rom name="sprites.chr" size="1602" crc="70bf4a72" md5="d642dce83f542e0af750272497a6536f" sha1="12369c6d6bfe5c949a60a8a8ce5664713793f55b"/>
+		<rom name="tile.chr" size="1154" crc="3d76affd" md5="5b17a81e7262134d280dd9a443a9ae29" sha1="a3529433fc7200d0f07e5f4ca5fe74b858fd4c0a"/>
+		<rom name="wars.prg" size="27163" crc="fa726878" md5="b593372df0e0b8079d8609c5ee370d57" sha1="eabe7faf5bf41e6fe78dfc266940db736f7fa8ef"/>
+	</game>
+	<game name="x16wars v2.0 (2022-09-09)(Nelson, Cameron)(MIT)">
+		<description>x16wars v2.0 (2022-09-09)(Nelson, Cameron)(MIT)</description>
+		<rom name="A_RIVER.MAP" size="252" crc="38055b9c" md5="10a462b5a7f24ad4bf0103b1d1ecbf81" sha1="e2dc614ee6edccf4503fe300888d1f91acdf3fd1"/>
+		<rom name="JEWELCANAL.MAP" size="334" crc="7f7bd426" md5="61290374b6adbf20fbbd6a150eacd76f" sha1="7281a2266a3caf88cf64c162c4704e260f34423d"/>
+		<rom name="LETTER.CHR" size="4738" crc="11bfeba2" md5="b315592c25ed400eb9cc3ce5a7f0fe25" sha1="ddccb2fe6db49c222665399f7ba6ef3a21f23622"/>
+		<rom name="SPRITES.CHR" size="1602" crc="70bf4a72" md5="d642dce83f542e0af750272497a6536f" sha1="12369c6d6bfe5c949a60a8a8ce5664713793f55b"/>
+		<rom name="TILE.CHR" size="1410" crc="af7350fd" md5="75027b490db4236f721c72073bbf0241" sha1="ccd5328ee2944c61079bf8a4dc6a26ab16a2baa9"/>
+		<rom name="WARS.PRG" size="30351" crc="6e8f22d7" md5="35ba3959b4560c943f5da2cff4b473a9" sha1="b9622cfd0047df74b31964cb734d163a5f626b61"/>
+	</game>
+	<game name="x16wars v2.1 (2022-09-12)(Nelson, Cameron)(MIT)">
+		<description>x16wars v2.1 (2022-09-12)(Nelson, Cameron)(MIT)</description>
+		<rom name="JEWELCANAL.MAP" size="336" crc="3c1d817c" md5="d17ee4a4152caba391c18a0612485a91" sha1="a31fb26e5864cd595bab852ac9592770be480b27"/>
+		<rom name="LETTER.CHR" size="4738" crc="11bfeba2" md5="b315592c25ed400eb9cc3ce5a7f0fe25" sha1="ddccb2fe6db49c222665399f7ba6ef3a21f23622"/>
+		<rom name="POINTINGRIVER.MAP" size="252" crc="7878e1d8" md5="055ecc47bc3fcffdc4002bde1906542b" sha1="58002e387f793c2ff2b8d83a1618f14e99c041fd"/>
+		<rom name="SPRITES.CHR" size="1602" crc="70bf4a72" md5="d642dce83f542e0af750272497a6536f" sha1="12369c6d6bfe5c949a60a8a8ce5664713793f55b"/>
+		<rom name="TILE.CHR" size="1410" crc="af7350fd" md5="75027b490db4236f721c72073bbf0241" sha1="ccd5328ee2944c61079bf8a4dc6a26ab16a2baa9"/>
+		<rom name="WARS.PRG" size="29379" crc="870fad5f" md5="72e59ad7aef4d448a51b3f375c84d71a" sha1="787e5396789385264dad0b959089fd56a31fd01e"/>
+	</game>
+	<game name="x16wars v4.4.1 (2023-10-13)(Nelson, Cameron)(MIT)">
+		<description>x16wars v4.4.1 (2023-10-13)(Nelson, Cameron)(MIT)</description>
+		<rom name="ARROW.CHR" size="1280" crc="7dd6739d" md5="4951d990c421d9e91711aab45d7308fa" sha1="e182c633af2922111a1487c01ac33853e2b25c8c"/>
+		<rom name="BLUE.CHR" size="4098" crc="139cbd2b" md5="1c378e97a8eb9f6c3189585c0884477c" sha1="45dd5f0395fdb81a9682d879dd977e9d93dd44b0"/>
+		<rom name="EXPL.CHR" size="4610" crc="849241a9" md5="a1a70cc9a9ba5263ca82d0fad52625c0" sha1="163e181104e1a11c6d6f3c330aaaa3cc50051795"/>
+		<rom name="GREEN.CHR" size="4098" crc="ca3bc8f1" md5="1b4a2c1bfb35fac55bc62d8539b8dbc5" sha1="22b2567e8429b7d38aab48da644f63d043152996"/>
+		<rom name="LETTER.CHR" size="4738" crc="11bfeba2" md5="b315592c25ed400eb9cc3ce5a7f0fe25" sha1="ddccb2fe6db49c222665399f7ba6ef3a21f23622"/>
+		<rom name="MAPS\JEWELCANAL.MAP" size="339" crc="527edcc4" md5="e7aeb0ab903ee75ddc7684b7300dad97" sha1="b8ae10b4af31966f5728a3dd64a7594879363f3a"/>
+		<rom name="MAPS\NORMANDIE.MAP" size="380" crc="42a973a2" md5="12a21d69ec357ebd5e830a46114556e2" sha1="1466d50d3262e654102eefe5f5fe5bfe6c384448"/>
+		<rom name="MAPS\POINTINGRIVER.MAP" size="252" crc="7e1d0ce4" md5="7d4d0b459e3576a0b5a2b61e55a3fc16" sha1="ca918b2f645442a58a9aae83b72decf67df5aaf4"/>
+		<rom name="MAPS\WRENCHISLAND.MAP" size="418" crc="a6e330ac" md5="251c50980ea019aba0eb6563bae4e5f6" sha1="17ea8f1542eeabe97293d46dfd6ff4b25b272614"/>
+		<rom name="PALETTE.BIN" size="512" crc="720e5813" md5="11726524d0580d464a365519e627659e" sha1="a046539024fe9a27d0bb7f3513062d3231be7829"/>
+		<rom name="RED.CHR" size="4098" crc="6734b984" md5="eb7a99058520d6cb5520af003ca16552" sha1="e67f1826a7eee4cf371d8ed715c03088c3273994"/>
+		<rom name="SOUND\ANDY.ZSM" size="35623" crc="0a0445d1" md5="58eb96cc86488d9e209dc07b0a2361c6" sha1="4b55931ae4e13b71cf200c1eba2a281d79ad61bc"/>
+		<rom name="SOUND\DRAKE.ZSM" size="34046" crc="6bdd3cf3" md5="05351064c6ff55daa24d3e4c5b95da04" sha1="92395f71d4408b87797eecc5ca4a44867dbd36a6"/>
+		<rom name="SOUND\EXPLING.ZCM" size="9224" crc="9a920ace" md5="b96c36d774b92e1368f3fa425f848ae1" sha1="702f2b5da491a6829967e8ca837e777e92f967d9"/>
+		<rom name="SOUND\GRIT.ZSM" size="28634" crc="f86e4612" md5="939f944328eff885fc8cdf6eb87d1664" sha1="5d7b34854b19f27d539c0e7f0ec4cc39fccfd964"/>
+		<rom name="SOUND\INACTION.ZCM" size="15059" crc="3dbd48ae" md5="cbd550345bf684d9590d042f5d35ae21" sha1="516db218c9c3b31f3708b1b0d03732350f0827df"/>
+		<rom name="SOUND\MAINTHEME.ZCM" size="757376" crc="c9b8ee94" md5="c98da83186dc86626b98216c77446c63" sha1="358a8de5201584f1ed0284ee04a53a91ad96715a"/>
+		<rom name="SOUND\MISSUCCESS.ZCM" size="105854" crc="1ac84fb2" md5="de4fde209ab6dbe3ab7f4aa47b1cadcc" sha1="5d6527364db1a199145b958876a6ffd10ea9f6c7"/>
+		<rom name="SOUND\MVCURSOR1.ZCM" size="8383" crc="aa8cb74c" md5="86373efad3c25054263becd93c1c0b28" sha1="2f1ed906974d2f394f61e5a51b62d96f54ff0fde"/>
+		<rom name="SOUND\MVCURSOR2.ZCM" size="9073" crc="2fb4b0a3" md5="196ffc9b9d59259dc928db0ba62fd3c1" sha1="f98ec9e410f27cc5ebc74f6429aba07cc3b8a19f"/>
+		<rom name="SOUND\NELL.ZSM" size="37804" crc="b0d31828" md5="ff16a1877a8cd11972e607ea98291bbd" sha1="34f0757edeb9fb28f50a4ae0ac688727f2b58e35"/>
+		<rom name="SOUND\SAMI.ZSM" size="41427" crc="b7d5a444" md5="115aafe91100dde2e4dbaf9c74b02470" sha1="40a975c15210d56d54a88ea467cdd1238888bc47"/>
+		<rom name="SOUND\SELNOUNIT.ZCM" size="12161" crc="601330f5" md5="e1e8378c00888dea71dc16222fee8ace" sha1="fd359f3a472e7d03afb8d3152985cde171e29447"/>
+		<rom name="SOUND\SELUNIT.ZCM" size="13639" crc="8f1f70d9" md5="7936b714173c26136333d0ac926841dd" sha1="57476ad615c85fc5af2fd23dca32afe2904a150e"/>
+		<rom name="SOUND\UNSELECT.ZCM" size="13169" crc="880aaa34" md5="062f6b68883e217287d87180694f4ba5" sha1="2c18717c6010c024ea3da085b8677cc3415a7934"/>
+		<rom name="SPRITES.CHR" size="3138" crc="9d2426be" md5="fd7bda85c0a5cb00be439537a990bc2b" sha1="3a96773bc4eb4e605923f4ff0ce3b01e0cd8755e"/>
+		<rom name="TILE.CHR" size="1922" crc="51c96925" md5="292637278270c5d20b65daabab4828cd" sha1="f596bcce316f199fee1d3766097269d7337f674c"/>
+		<rom name="WARS.PRG" size="33644" crc="6ec5bc50" md5="cbd250d26eee6444a40129cca0f3f48f" sha1="4df36973623b9111e475c666889017729cacd0d9"/>
+		<rom name="YELLOW.CHR" size="4098" crc="1fcc73c5" md5="dbc27666e2c204c502cf053eb9d6afca" sha1="5a1c7e830b1b0b9f6e040c04292eb3388174460b"/>
+	</game>
+</datafile>

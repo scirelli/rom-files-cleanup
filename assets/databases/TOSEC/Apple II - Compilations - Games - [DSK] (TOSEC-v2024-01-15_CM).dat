@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Compilations - Games - [DSK]</name>
+		<description>Apple II - Compilations - Games - [DSK] (TOSEC-v2024-01-15)</description>
+		<category>TOSEC</category>
+		<version>2024-01-15</version>
+		<author>TKaos - Cassiel - jjs - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Apple User Games Disk #1 (1985)(Database Publications)">
+		<description>Apple User Games Disk #1 (1985)(Database Publications)</description>
+		<rom name="Apple User Games Disk #1 (1985)(Database Publications).dsk" size="143360" crc="e2ec4018" md5="368bd3e66f8d88bb704a5f8624a6ca46" sha1="eff33f4b93714eb9d775bd5b88b37a5d500b47bd"/>
+	</game>
+	<game name="Apple-Vention 80 (1983-12-29)(DeLucia, Kirk)">
+		<description>Apple-Vention 80 (1983-12-29)(DeLucia, Kirk)</description>
+		<rom name="Apple-Vention 80 (1983-12-29)(DeLucia, Kirk).dsk" size="143360" crc="2ffd472f" md5="1740b6698620b14887e78fd5d14b7924" sha1="e00c28edcfd4cd7cfe420f1c0d2368865746bd58"/>
+	</game>
+	<game name="Arcade Album #1 (1983)(Penguin Software)(US)[48K]">
+		<description>Arcade Album #1 (1983)(Penguin Software)(US)[48K]</description>
+		<rom name="Arcade Album #1 (1983)(Penguin Software)(US)[48K].dsk" size="143360" crc="7bad1cf8" md5="297d0436e2eca64ae2a7170d862a9f48" sha1="9fd182584c3ad60c2a9dc8b93637fe7b691b3693"/>
+	</game>
+	<game name="Basic Games (19xx)(Illini Microcomputers)">
+		<description>Basic Games (19xx)(Illini Microcomputers)</description>
+		<rom name="Basic Games (19xx)(Illini Microcomputers).dsk" size="143360" crc="07d335b5" md5="082b74384ff3b64c9bfd384a0aec77f0" sha1="35a9939c9abc3f0b97d7dfa087f080ef885342ab"/>
+	</game>
+	<game name="Beagle Bag (1983)(Beagle Bros)(II+)(US)[48K]">
+		<description>Beagle Bag (1983)(Beagle Bros)(II+)(US)[48K]</description>
+		<rom name="Beagle Bag (1983)(Beagle Bros)(II+)(US)[48K].dsk" size="143360" crc="f2e4bd18" md5="81d7b7c0b04e1081464cb864a6df82c3" sha1="9641e987ceddf90949a0c2239a7ffaee62ec6afa"/>
+	</game>
+	<game name="Beagle Bag (1983)(Beagle Bros)(II+)(US)[a2][48K]">
+		<description>Beagle Bag (1983)(Beagle Bros)(II+)(US)[a2][48K]</description>
+		<rom name="Beagle Bag (1983)(Beagle Bros)(II+)(US)[a2][48K].dsk" size="143360" crc="5078ff31" md5="0f9c01789aaba25d9ec6f51a98069a9e" sha1="87cba46941863b3d0ad9fdede3a82210e5db1e11"/>
+	</game>
+	<game name="Beagle Bag (1983)(Beagle Bros)(II+)(US)[a][48K]">
+		<description>Beagle Bag (1983)(Beagle Bros)(II+)(US)[a][48K]</description>
+		<rom name="Beagle Bag (1983)(Beagle Bros)(II+)(US)[a][48K].dsk" size="143360" crc="8a01aa05" md5="2b4b9f323ec9801b1d8cdf2c054f69a7" sha1="6bfc84fccc52c5daa742faca3de0e47fec127201"/>
+	</game>
+	<game name="Best of Bill Budge, The (19xx)(Tom)">
+		<description>Best of Bill Budge, The (19xx)(Tom)</description>
+		<rom name="Best of Bill Budge, The (19xx)(Tom).dsk" size="143360" crc="3bc1f214" md5="eb1a3ed0da2c181085958acdeef7c5da" sha1="7556e7a6612bec7636b33d6e6675024f29460493"/>
+	</game>
+	<game name="Best of Bill Budge, The (19xx)(Tom)[a]">
+		<description>Best of Bill Budge, The (19xx)(Tom)[a]</description>
+		<rom name="Best of Bill Budge, The (19xx)(Tom)[a].dsk" size="143360" crc="85b497f5" md5="62fac060ef7ca64773f05d60bea60784" sha1="1f44b03e49b5988e10c9f2950e4a1e4f6761ae3c"/>
+	</game>
+	<game name="Best of Hardcore Computing (19xx)(-)">
+		<description>Best of Hardcore Computing (19xx)(-)</description>
+		<rom name="Best of Hardcore Computing (19xx)(-).dsk" size="143360" crc="616d1668" md5="7c56ba73a84957bbb88d079e30e3d43e" sha1="7471923f0be0748329a49ec6941157e3f29ce3b9"/>
+	</game>
+	<game name="Best of MUSE, The (1980)(MUSE Software)(II)(US)[f later models][32K]">
+		<description>Best of MUSE, The (1980)(MUSE Software)(II)(US)[f later models][32K]</description>
+		<rom name="Best of MUSE, The (1980)(MUSE Software)(II)(US)[f later models][32K].dsk" size="143360" crc="d000d19a" md5="2a4a3d8c95843966a43879cb130c6f25" sha1="5abe1c6775ad9707779951cadb931275029da179"/>
+	</game>
+	<game name="Campaign Trilogy (1982)(Synergistic Software)(II+)(Side A)[cr 4am]">
+		<description>Campaign Trilogy (1982)(Synergistic Software)(II+)(Side A)[cr 4am]</description>
+		<rom name="Campaign Trilogy (1982)(Synergistic Software)(II+)(Side A)[cr 4am].dsk" size="143360" crc="2ac785e6" md5="147482f10762e662a8b477b199de4082" sha1="c377255bc975d5039739a79adcc87da3a23ff5ae"/>
+	</game>
+	<game name="Campaign Trilogy (1982)(Synergistic Software)(II+)(Side B)">
+		<description>Campaign Trilogy (1982)(Synergistic Software)(II+)(Side B)</description>
+		<rom name="Campaign Trilogy (1982)(Synergistic Software)(II+)(Side B).dsk" size="143360" crc="37137e35" md5="317ddc112641ade324b3a3edb85ea0f1" sha1="3cbbfaa18e5ce4786d5ffaf53f58820156ce2276"/>
+	</game>
+	<game name="Cassette 50 (1983)(Cascade Games)[cassette conversion]">
+		<description>Cassette 50 (1983)(Cascade Games)[cassette conversion]</description>
+		<rom name="Cassette 50 (1983)(Cascade Games)[cassette conversion].dsk" size="143360" crc="dbc0d93a" md5="ab4b263febce91862312ba37e8b49952" sha1="36777da1b68064794c52433db29d742797897522"/>
+	</game>
+	<game name="Epyx 3-Pack (1980)(Automated Simulations)(II+)[cr 4am]">
+		<description>Epyx 3-Pack (1980)(Automated Simulations)(II+)[cr 4am]</description>
+		<rom name="Epyx 3-Pack (1980)(Automated Simulations)(II+)[cr 4am].dsk" size="143360" crc="a48d559a" md5="205c30a38f92295f709d2d101d8786e1" sha1="02c425fb01810a847e0567f10b9d5081fce90e68"/>
+	</game>
+	<game name="Games (19xx)(American Software Publishing Company)[req Integer BASIC]">
+		<description>Games (19xx)(American Software Publishing Company)[req Integer BASIC]</description>
+		<rom name="Games (19xx)(American Software Publishing Company)[req Integer BASIC].dsk" size="143360" crc="0bc35edd" md5="563f41d43e6a594935dee2087ae7b61b" sha1="a5c85a37cd24acbe9a25078b3cfde66e2b1fc04b"/>
+	</game>
+	<game name="Generic Computer Games (1980)(Huntington Computing)[cr 4am]">
+		<description>Generic Computer Games (1980)(Huntington Computing)[cr 4am]</description>
+		<rom name="Generic Computer Games (1980)(Huntington Computing)[cr 4am].dsk" size="143360" crc="2f18272f" md5="45273319d2f2a71604ab4a15c3287987" sha1="ecd93702cf283a25779a8a829e5e20e16f44b56a"/>
+	</game>
+	<game name="Golden Apple Casino (1981)(Rosen, R.)">
+		<description>Golden Apple Casino (1981)(Rosen, R.)</description>
+		<rom name="Golden Apple Casino (1981)(Rosen, R.).dsk" size="143360" crc="544d8ae2" md5="f38f3d2e4922400b973a44fb352ab342" sha1="89ef5bef67ab4c4f220560d3b1d0c5b96445f592"/>
+	</game>
+	<game name="Golden Oldies Vol. 1 (1985)(Software Country)(Side A)[cr Blade]">
+		<description>Golden Oldies Vol. 1 (1985)(Software Country)(Side A)[cr Blade]</description>
+		<rom name="Golden Oldies Vol. 1 (1985)(Software Country)(Side A)[cr Blade].dsk" size="143360" crc="5c1723b7" md5="f31c13f759e800de81efdc38e9213518" sha1="c49bd3f74b3533b61d189e8fc7cca00256672695"/>
+	</game>
+	<game name="Golden Oldies Vol. 1 (1985)(Software Country)(Side A)[cr Thundercats]">
+		<description>Golden Oldies Vol. 1 (1985)(Software Country)(Side A)[cr Thundercats]</description>
+		<rom name="Golden Oldies Vol. 1 (1985)(Software Country)(Side A)[cr Thundercats].dsk" size="143360" crc="d2ca7d58" md5="79023a7c3fba02439bd31a02f7c3653c" sha1="b35f5aed9420b55acb6496709914fe014385ac0e"/>
+	</game>
+	<game name="Golden Oldies Vol. 1 (1985)(Software Country)(Side B)[cr Blade]">
+		<description>Golden Oldies Vol. 1 (1985)(Software Country)(Side B)[cr Blade]</description>
+		<rom name="Golden Oldies Vol. 1 (1985)(Software Country)(Side B)[cr Blade].dsk" size="143360" crc="5d2a819e" md5="23c69ce838854954cde6bdab4771df50" sha1="c81bcca5db626a2c89d16db71ec2f0c26c71ce5b"/>
+	</game>
+	<game name="Golden Oldies Vol. 1 (1985)(Software Country)(Side B)[cr Thundercats]">
+		<description>Golden Oldies Vol. 1 (1985)(Software Country)(Side B)[cr Thundercats]</description>
+		<rom name="Golden Oldies Vol. 1 (1985)(Software Country)(Side B)[cr Thundercats].dsk" size="143360" crc="dbf20c3f" md5="78f660e19114dd33f50f61d30357836b" sha1="7de001cec9df205faeded5fa4deeaa784df563c7"/>
+	</game>
+	<game name="Hangtown Trilogy, The v2.2 (1990)(Critical Thinking Press)(Side A)[cr 4am]">
+		<description>Hangtown Trilogy, The v2.2 (1990)(Critical Thinking Press)(Side A)[cr 4am]</description>
+		<rom name="Hangtown Trilogy, The v2.2 (1990)(Critical Thinking Press)(Side A)[cr 4am].dsk" size="143360" crc="3382adcc" md5="8aa8ee6440fca5ec01a2224894a2e42b" sha1="5261b408e845ff54e0304040677bcc5388f336ff"/>
+	</game>
+	<game name="Hangtown Trilogy, The v2.2 (1990)(Critical Thinking Press)(Side A)[cr 4am][earlier crack]">
+		<description>Hangtown Trilogy, The v2.2 (1990)(Critical Thinking Press)(Side A)[cr 4am][earlier crack]</description>
+		<rom name="Hangtown Trilogy, The v2.2 (1990)(Critical Thinking Press)(Side A)[cr 4am][earlier crack].dsk" size="143360" crc="8154e335" md5="1fab29b772fbfd5de7d0fd2c87ff936b" sha1="be65913a0c61c8c1cd5ecb72b016ce1fb2f17301"/>
+	</game>
+	<game name="Hangtown Trilogy, The v2.2 (1990)(Critical Thinking Press)(Side B)[cr 4am]">
+		<description>Hangtown Trilogy, The v2.2 (1990)(Critical Thinking Press)(Side B)[cr 4am]</description>
+		<rom name="Hangtown Trilogy, The v2.2 (1990)(Critical Thinking Press)(Side B)[cr 4am].dsk" size="143360" crc="e1359e3a" md5="e8e463f6bbde7f652b28cb40f3b4bb6e" sha1="efa7cd4791a42533edd65aa67a7656d74976e0f5"/>
+	</game>
+	<game name="Hangtown Trilogy, The v2.2 (1990)(Critical Thinking Press)[cr 4am][work disk]">
+		<description>Hangtown Trilogy, The v2.2 (1990)(Critical Thinking Press)[cr 4am][work disk]</description>
+		<rom name="Hangtown Trilogy, The v2.2 (1990)(Critical Thinking Press)[cr 4am][work disk].dsk" size="143360" crc="c7192483" md5="e34e570c14cd2bb04ef51e83485c4649" sha1="a163b7a1b58454fe2d7e939738f81a25773d6c7f"/>
+	</game>
+	<game name="Microzone &amp; Northwoods Adventure (1984)(Scholastic)(Side A)[cr Black Bag - Club]">
+		<description>Microzone &amp; Northwoods Adventure (1984)(Scholastic)(Side A)[cr Black Bag - Club]</description>
+		<rom name="Microzone &amp; Northwoods Adventure (1984)(Scholastic)(Side A)[cr Black Bag - Club].dsk" size="143360" crc="f3d45077" md5="e0d2eb8a02b84e602bf316f2c55d5945" sha1="2ba9573b53bc8353040acf15bb4ea1f81f96e45f"/>
+	</game>
+	<game name="Microzone &amp; Northwoods Adventure (1984)(Scholastic)(Side B)[cr Black Bag - Club]">
+		<description>Microzone &amp; Northwoods Adventure (1984)(Scholastic)(Side B)[cr Black Bag - Club]</description>
+		<rom name="Microzone &amp; Northwoods Adventure (1984)(Scholastic)(Side B)[cr Black Bag - Club].dsk" size="143360" crc="e5121089" md5="210cb88ea11ddb83358de5e64492818b" sha1="b8cc15fc1a614a8269b5a7c48eebde51a340bdcc"/>
+	</game>
+	<game name="Mystery Double Feature (1984)(Scholastic)(Side A)[cr 4am]">
+		<description>Mystery Double Feature (1984)(Scholastic)(Side A)[cr 4am]</description>
+		<rom name="Mystery Double Feature (1984)(Scholastic)(Side A)[cr 4am].dsk" size="143360" crc="18795e37" md5="dc2c2703e8284c1432ee39648d52ec36" sha1="d998f1c63969f20ee18df6c9bd6c4e7b74440970"/>
+	</game>
+	<game name="Mystery Double Feature (1984)(Scholastic)(Side B)[cr 4am]">
+		<description>Mystery Double Feature (1984)(Scholastic)(Side B)[cr 4am]</description>
+		<rom name="Mystery Double Feature (1984)(Scholastic)(Side B)[cr 4am].dsk" size="143360" crc="5ba5504b" md5="d92955761b275ff23d1e15f714f191c0" sha1="8ad90c38e95a7cef99c919454e26764094a9a6b7"/>
+	</game>
+	<game name="Mystery Double Feature (1984)(Scholastic)[cr 4am][work disk]">
+		<description>Mystery Double Feature (1984)(Scholastic)[cr 4am][work disk]</description>
+		<rom name="Mystery Double Feature (1984)(Scholastic)[cr 4am][work disk].dsk" size="143360" crc="ed071887" md5="0a034342512b9a98fa7562116488d462" sha1="adc10d686e6fb4ab93f6d4fa4a47c6c441755cbd"/>
+	</game>
+	<game name="Nibble Apple II Classics (1990)(MindCraft)(Side A)">
+		<description>Nibble Apple II Classics (1990)(MindCraft)(Side A)</description>
+		<rom name="Nibble Apple II Classics (1990)(MindCraft)(Side A).dsk" size="143360" crc="c63b0355" md5="e6e0f65e89b75f52d8ca06294001c30b" sha1="7cbe3a4224cf9ec4e9c23b58f8966c783fc0e5ba"/>
+	</game>
+	<game name="Nibble Apple II Classics (1990)(Mindcraft)(Side A)[a]">
+		<description>Nibble Apple II Classics (1990)(Mindcraft)(Side A)[a]</description>
+		<rom name="Nibble Apple II Classics (1990)(Mindcraft)(Side A)[a].dsk" size="143360" crc="4eddd35f" md5="6d384d0ba45bb175abbf0186e2e18cf7" sha1="def209b9b0c3753a1b82fa31d44041654f66eaf1"/>
+	</game>
+	<game name="Nibble Apple II Classics (1990)(MindCraft)(Side B)">
+		<description>Nibble Apple II Classics (1990)(MindCraft)(Side B)</description>
+		<rom name="Nibble Apple II Classics (1990)(MindCraft)(Side B).dsk" size="143360" crc="be85f3ce" md5="c56f010708d231ab7c1d3c16a1b0cd67" sha1="dabf31e6fb79592adc2c7f2ed4ed2433cdefcff9"/>
+	</game>
+	<game name="Nibble Apple II Classics (1990)(Mindcraft)(Side B)[a]">
+		<description>Nibble Apple II Classics (1990)(Mindcraft)(Side B)[a]</description>
+		<rom name="Nibble Apple II Classics (1990)(Mindcraft)(Side B)[a].dsk" size="143360" crc="6fb2d337" md5="a1c6347b6523a5e81c63f6ea18cd23df" sha1="62a610b73b3a424f0507c71ef5ff13d5c5c5d20f"/>
+	</game>
+	<game name="Pinball by Maxx and Friends (19xx)(Maxx)(PD)[a][PCS]">
+		<description>Pinball by Maxx and Friends (19xx)(Maxx)(PD)[a][PCS]</description>
+		<rom name="Pinball by Maxx and Friends (19xx)(Maxx)(PD)[a][PCS].dsk" size="143360" crc="8fb2e768" md5="26e1673c320e2aa33ab61d294314080f" sha1="6922fd215ebf7ce6470e1c51c32b89d5fada7ae3"/>
+	</game>
+	<game name="Pinball by Maxx and Friends (19xx)(Maxx)(PD)[PCS]">
+		<description>Pinball by Maxx and Friends (19xx)(Maxx)(PD)[PCS]</description>
+		<rom name="Pinball by Maxx and Friends (19xx)(Maxx)(PD)[PCS].dsk" size="143360" crc="2eea0366" md5="e7a8a094c2f634b46d9478902c7b1825" sha1="04eea4eaefa4930fc1e49c00e9326b4c13b90e06"/>
+	</game>
+	<game name="Snack Attack and Friends (1983)(Funtastic)(II+)[b fastdsk rip D5AAAA address prologue T01-T20 only][48K]">
+		<description>Snack Attack and Friends (1983)(Funtastic)(II+)[b fastdsk rip D5AAAA address prologue T01-T20 only][48K]</description>
+		<rom name="Snack Attack and Friends (1983)(Funtastic)(II+)[b fastdsk rip D5AAAA address prologue T01-T20 only][48K].dsk" size="143360" crc="5577581a" md5="a66a921f64ff3d9f1af509256d02fd01" sha1="32f764e2eb68b9bfb07475fb937c229245537ab1"/>
+	</game>
+	<game name="Snack Attack and Friends (1983)(Funtastic)(II+)[b fastdsk rip T00 only][48K]">
+		<description>Snack Attack and Friends (1983)(Funtastic)(II+)[b fastdsk rip T00 only][48K]</description>
+		<rom name="Snack Attack and Friends (1983)(Funtastic)(II+)[b fastdsk rip T00 only][48K].dsk" size="143360" crc="006e4314" md5="eb53e5c98239707735f62654b2cb1926" sha1="6e090a4ad60cbde2e96936fdd95c33143ec2486f"/>
+	</game>
+	<game name="Snack Attack and Friends (1983)(Funtastic)(II+)[cr 4am][48K]">
+		<description>Snack Attack and Friends (1983)(Funtastic)(II+)[cr 4am][48K]</description>
+		<rom name="Snack Attack and Friends (1983)(Funtastic)(II+)[cr 4am][48K].dsk" size="143360" crc="d0b0e973" md5="62de2010bab83d2f466d669bbbf09a73" sha1="291941cce82803435426154fd5d87917edf92388"/>
+	</game>
+	<game name="Snack Attack and Friends (1983)(Funtastic)(II+)[cr 4am][work disk]">
+		<description>Snack Attack and Friends (1983)(Funtastic)(II+)[cr 4am][work disk]</description>
+		<rom name="Snack Attack and Friends (1983)(Funtastic)(II+)[cr 4am][work disk].dsk" size="143360" crc="964c156c" md5="b922eceb375e71e36ef30be20ad8566a" sha1="c8813a370a25adb5e481c5432fe9a3aafe03ffea"/>
+	</game>
+	<game name="Space Games - Appointment at Aldebaran &amp; Procyon Warrior (1981)(Synergistic Software)(II+)[cr 4am]">
+		<description>Space Games - Appointment at Aldebaran &amp; Procyon Warrior (1981)(Synergistic Software)(II+)[cr 4am]</description>
+		<rom name="Space Games - Appointment at Aldebaran &amp; Procyon Warrior (1981)(Synergistic Software)(II+)[cr 4am].dsk" size="143360" crc="0e44e284" md5="fa71118d1a3f25c85f503ceec36bcf27" sha1="9771e6eee41bef375a88c96abaa44c1e76fd25f6"/>
+	</game>
+	<game name="Tank Attack &amp; Death Run (1980)(Synergistic Software)(II+)[cr 4am]">
+		<description>Tank Attack &amp; Death Run (1980)(Synergistic Software)(II+)[cr 4am]</description>
+		<rom name="Tank Attack &amp; Death Run (1980)(Synergistic Software)(II+)[cr 4am].dsk" size="143360" crc="f0dd901b" md5="576870478fb9cee26779748d5b8c6c52" sha1="fabf685b8939c2597d3fad42c6015925f02161de"/>
+	</game>
+	<game name="Temple of Apshai Trilogy (1985)(Epyx)(II+)(US)[64K]">
+		<description>Temple of Apshai Trilogy (1985)(Epyx)(II+)(US)[64K]</description>
+		<rom name="Temple of Apshai Trilogy (1985)(Epyx)(II+)(US)[64K].dsk" size="143360" crc="7aaf88e5" md5="658d4917ad8a5e994a8f5a768f6c354a" sha1="878e762ade8b014ba36e27db80bce4ce1a84c379"/>
+	</game>
+	<game name="Temple of Apshai Trilogy (1985)(Epyx)(II+)(US)[cr 4am][64K]">
+		<description>Temple of Apshai Trilogy (1985)(Epyx)(II+)(US)[cr 4am][64K]</description>
+		<rom name="Temple of Apshai Trilogy (1985)(Epyx)(II+)(US)[cr 4am][64K].dsk" size="143360" crc="73031a38" md5="f68ec7cb79f90c219eff42e836343232" sha1="34128800bca3ba312a119ee718740b2c58110df8"/>
+	</game>
+	<game name="Temple of Apshai Trilogy (1985)(Epyx)(II+)(US)[cr 4am][64K][earlier crack]">
+		<description>Temple of Apshai Trilogy (1985)(Epyx)(II+)(US)[cr 4am][64K][earlier crack]</description>
+		<rom name="Temple of Apshai Trilogy (1985)(Epyx)(II+)(US)[cr 4am][64K][earlier crack].dsk" size="143360" crc="b3bf9da9" md5="a4396a64ca9301d5eab0cf41cfc1386d" sha1="31e03cef9f0bb5630889d3af0f27b8244f2c0090"/>
+	</game>
+	<game name="Temple of Apshai Trilogy (1985)(Epyx)(II+)(US)[cr Digital Gang][64K]">
+		<description>Temple of Apshai Trilogy (1985)(Epyx)(II+)(US)[cr Digital Gang][64K]</description>
+		<rom name="Temple of Apshai Trilogy (1985)(Epyx)(II+)(US)[cr Digital Gang][64K].dsk" size="143360" crc="e9c31fec" md5="20c47853846741d9542b60247c0b3071" sha1="ccf5058f802cc374db90a8f34e43de26ac87221d"/>
+	</game>
+	<game name="VGI-Doom &amp; VGI-Myst (demo-playable) (2021-06-25)(VMW Software)">
+		<description>VGI-Doom &amp; VGI-Myst (demo-playable) (2021-06-25)(VMW Software)</description>
+		<rom name="VGI-Doom &amp; VGI-Myst (demo-playable) (2021-06-25)(VMW Software).dsk" size="143360" crc="e6b0f6fe" md5="95a7bf3f91c30e1bae1800a6a5d1a80b" sha1="16961540fb343c33a2b42c56268c869bb9885fe0"/>
+	</game>
+	<game name="Wade Clarke 5 Adventures (2015)(Clarke, Wade)">
+		<description>Wade Clarke 5 Adventures (2015)(Clarke, Wade)</description>
+		<rom name="Wade Clarke 5 Adventures (2015)(Clarke, Wade).dsk" size="143360" crc="ca033bfd" md5="a187f6568e4687cfe40c5f70ff8e0237" sha1="3049d0dc945d48ffb6a147665c7283b16d206430"/>
+	</game>
+	<game name="Washington Apple Pi User Group Games Disk (19xx)(-)(ACE)">
+		<description>Washington Apple Pi User Group Games Disk (19xx)(-)(ACE)</description>
+		<rom name="Washington Apple Pi User Group Games Disk (19xx)(-)(ACE).dsk" size="143360" crc="7ff6de84" md5="12dc77e7babcd5378dbeb5079b34007d" sha1="d796cd2d4bb61b02e1124c501ee578dcf24010d3"/>
+	</game>
+	<game name="XYZZY Presents Gebelli Software (19xx)(XYZZY)[Firebird, Russki Duck, Horizon V]">
+		<description>XYZZY Presents Gebelli Software (19xx)(XYZZY)[Firebird, Russki Duck, Horizon V]</description>
+		<rom name="XYZZY Presents Gebelli Software (19xx)(XYZZY)[Firebird, Russki Duck, Horizon V].dsk" size="143360" crc="12f36149" md5="aa808ed15e166373089dc19ad24ca00a" sha1="edba1c1eb69a0256043538b1e5b970105e9efd5f"/>
+	</game>
+</datafile>

@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MGT Sam Coupe - Games - [DSK]</name>
+		<description>MGT Sam Coupe - Games - [DSK] (TOSEC-v2024-01-15)</description>
+		<category>TOSEC</category>
+		<version>2024-01-15</version>
+		<author>dirkpitt - Grendel - Cowering - Cassiel - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Adventures Of Captain Comic, The (19xx)(Lars)">
+		<description>Adventures Of Captain Comic, The (19xx)(Lars)</description>
+		<rom name="Adventures Of Captain Comic, The (19xx)(Lars).dsk" size="819200" crc="a1c627e5" md5="8f5b11ddb0291fcd5daa18542ee6c231" sha1="49ce0b29fd3cd57bffa589c7d46da8e8731f610c"/>
+	</game>
+	<game name="Blokker (1995)(McGreal, Stephen)">
+		<description>Blokker (1995)(McGreal, Stephen)</description>
+		<rom name="Blokker (1995)(McGreal, Stephen).dsk" size="819200" crc="462e07d8" md5="ed9aeca093a77a46993b083d601db7c2" sha1="740289ee8eab1fb50e074133a671ae02bd02ee82"/>
+	</game>
+	<game name="Boing! (1992)(Noesis Software)">
+		<description>Boing! (1992)(Noesis Software)</description>
+		<rom name="Boing! (1992)(Noesis Software).dsk" size="819200" crc="c7f81167" md5="92d093342185808e41cdf88295265387" sha1="7305db3c9db95980d5e167e4b71aa680edef6055"/>
+	</game>
+	<game name="Cross Bomber (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Bomber (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Bomber (2021-05-13)(Caruso, Fabrizio).dsk" size="14777" crc="42818d16" md5="d1382d7168ac4f48f0897944bef5eba3" sha1="455714274d7d4ef070ce29068dc084f14ed2803f"/>
+	</game>
+	<game name="Cross Chase (2018-04-15)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-04-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-04-15)(Caruso, Fabrizio).dsk" size="17386" crc="3ce1429e" md5="b46c253e4fc90082bced667a8af129dc" sha1="f0e3ccdccd06e6fdf1af00b21c22b75e1836d05c"/>
+	</game>
+	<game name="Cross Chase (2018-05-19)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-05-19)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-05-19)(Caruso, Fabrizio).dsk" size="16449" crc="b41765a1" md5="ba3633c6ea8f00b33c762570018272a8" sha1="0eaa89dd8163d5729f16314887369fefeb5429cc"/>
+	</game>
+	<game name="Cross Chase (2018-07-19)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-07-19)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-07-19)(Caruso, Fabrizio).dsk" size="16296" crc="1b0e0736" md5="841a3df2a4bd210190359677dfc7e263" sha1="a86046bc3c5ea17f7503853850c56373ea5e12ba"/>
+	</game>
+	<game name="Cross Chase (2018-08-04)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-08-04)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-08-04)(Caruso, Fabrizio).dsk" size="16453" crc="d874d475" md5="6331aa4222b14c5b94ab246d79ec3af9" sha1="5177c23c08299c53e208230c1ed38d28938524fa"/>
+	</game>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio).dsk" size="16268" crc="19d7a7ad" md5="9701de10e0b2b690ad6f73f62334448d" sha1="3dad2d8a7f70806cff6fd228d92796e470677eef"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).dsk" size="15706" crc="3aa4dd27" md5="5cf04101c9bb1b28534ef65864b64ba7" sha1="eb83f53f57a41831d628f1e84175adce9279bcb2"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).dsk" size="18931" crc="a796ed71" md5="d9243f07188abf0f76a9fbd21f7495e9" sha1="a09c28fe5d178bc941e17a780779e8e055e71190"/>
+	</game>
+	<game name="Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)">
+		<description>Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)</description>
+		<rom name="Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio).dsk" size="17989" crc="01f1d9b9" md5="79bcab34ed7895818cbe89e0909f5786" sha1="ad071aff2f50c6cbb48e6310bffa40d13dace2cd"/>
+	</game>
+	<game name="Cross Shoot (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Shoot (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Shoot (2021-05-13)(Caruso, Fabrizio).dsk" size="20710" crc="51165c33" md5="9b1410933e60bd87a817339e384ef970" sha1="1f0532fdbd7aa44562a52e93fc54add37e9710aa"/>
+	</game>
+	<game name="Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)">
+		<description>Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)</description>
+		<rom name="Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio).dsk" size="18330" crc="3c4508d5" md5="203ffd941042e4e48e1ce3dfba9991ae" sha1="d3dd92ab727eb85da294e6a2126eff51ea9eb38c"/>
+	</game>
+	<game name="Curse of the Serpent's Eye (1994)(Dream World Adventures)">
+		<description>Curse of the Serpent's Eye (1994)(Dream World Adventures)</description>
+		<rom name="Curse of the Serpent's Eye (1994)(Dream World Adventures).dsk" size="819200" crc="ac955e2e" md5="032f444e0f3921b1957c56afb30985d7" sha1="30a2c484f2a78332364d5f40e77f04c96fdfb4f5"/>
+	</game>
+	<game name="Curse of the Serpent's Eye (1994)(Dream World Adventures)[a2]">
+		<description>Curse of the Serpent's Eye (1994)(Dream World Adventures)[a2]</description>
+		<rom name="Curse of the Serpent's Eye (1994)(Dream World Adventures)[a2].dsk" size="819200" crc="08456a6a" md5="ce6f9d7ac2f26211d7f5cb666b66424c" sha1="ce3b7d2392abb62267aa841fc829e8e885d049d5"/>
+	</game>
+	<game name="Curse of the Serpent's Eye (1994)(Dream World Adventures)[a3]">
+		<description>Curse of the Serpent's Eye (1994)(Dream World Adventures)[a3]</description>
+		<rom name="Curse of the Serpent's Eye (1994)(Dream World Adventures)[a3].dsk" size="819200" crc="9c10b6f3" md5="eb2781fa43ca3e17caaff9e18cc9daed" sha1="3f8e3594237cbcb59bbae1e353e9fae095c8390c"/>
+	</game>
+	<game name="Curse of the Serpent's Eye (1994)(Dream World Adventures)[a4]">
+		<description>Curse of the Serpent's Eye (1994)(Dream World Adventures)[a4]</description>
+		<rom name="Curse of the Serpent's Eye (1994)(Dream World Adventures)[a4].dsk" size="819200" crc="5c5051b3" md5="afe522c03850f55d7c1bda2eb82189b4" sha1="d15436cde71617172da49ffe49c1ed2c40b550b1"/>
+	</game>
+	<game name="Curse of the Serpent's Eye (1994)(Dream World Adventures)[a]">
+		<description>Curse of the Serpent's Eye (1994)(Dream World Adventures)[a]</description>
+		<rom name="Curse of the Serpent's Eye (1994)(Dream World Adventures)[a].dsk" size="819200" crc="7f110d10" md5="bac7557b27777da1afb1d3ac40505083" sha1="dfbe6a04bbad8d8053f913d2a94d41b4e7f76916"/>
+	</game>
+	<game name="Defender (1998)(Persona - Digital Reality)">
+		<description>Defender (1998)(Persona - Digital Reality)</description>
+		<rom name="Defender (1998)(Persona - Digital Reality).dsk" size="819200" crc="cfa24737" md5="c001f700a8f021b97579089d25fc5305" sha1="b2fb849b26855f14358532d82518e6c2df042449"/>
+	</game>
+	<game name="Dino Sourcerer (1993)(Softdisk Inc.)">
+		<description>Dino Sourcerer (1993)(Softdisk Inc.)</description>
+		<rom name="Dino Sourcerer (1993)(Softdisk Inc.).dsk" size="819200" crc="77fcdab6" md5="a7df94cb250663c3e7e6afb373a2db60" sha1="8ad878ca2e67e04120fd8d16c9febe242bcb3eb8"/>
+	</game>
+	<game name="Domino Box (1997)(Supplement Software)">
+		<description>Domino Box (1997)(Supplement Software)</description>
+		<rom name="Domino Box (1997)(Supplement Software).dsk" size="819200" crc="23abd828" md5="67c9cd9ffe0f054d7597247925bb4528" sha1="7eda0ecab957db7df4cff9ae8c8f24e3cfe57c86"/>
+	</game>
+	<game name="Football League Manager (1994)(Key Software - FRED Publishing)">
+		<description>Football League Manager (1994)(Key Software - FRED Publishing)</description>
+		<rom name="Football League Manager (1994)(Key Software - FRED Publishing).dsk" size="819200" crc="4c243eb7" md5="53e14ca9368918947b7943fe234fabaf" sha1="131dbd7f7a5ef066200d898b69f4557bb04858a6"/>
+	</game>
+	<game name="Golden Sword of Bhakhor, The (1997)(Persona)">
+		<description>Golden Sword of Bhakhor, The (1997)(Persona)</description>
+		<rom name="Golden Sword of Bhakhor, The (1997)(Persona).dsk" size="819200" crc="0e7046f6" md5="71855f0b7af01604dc19a0744bb858c6" sha1="ca1c05aa6235c099ca50f08f8a56e6fdef57cb2b"/>
+	</game>
+	<game name="Manic Miner (1992)(Revelation Software)">
+		<description>Manic Miner (1992)(Revelation Software)</description>
+		<rom name="Manic Miner (1992)(Revelation Software).dsk" size="819200" crc="02708a54" md5="02306d5e60295f8b2613f36e3ff894b2" sha1="a2d5634f5e64960db21eed38c1cef79bd2e13e7a"/>
+	</game>
+	<game name="Ore Warz II (1990)(McGugan, William)">
+		<description>Ore Warz II (1990)(McGugan, William)</description>
+		<rom name="Ore Warz II (1990)(McGugan, William).dsk" size="819200" crc="1e1ec42b" md5="30a31d7a0583883b0aa2465b0fcece8f" sha1="0b86dfa283f00d848f3709df230e5c0aa5375f0d"/>
+	</game>
+	<game name="Park DBS (19xx)(-)">
+		<description>Park DBS (19xx)(-)</description>
+		<rom name="Park DBS (19xx)(-).dsk" size="819200" crc="f91fd693" md5="0dd5f167b3376b27a0122d1b0881853d" sha1="a00c2c2536987f3488b4097a35762333910d91b7"/>
+	</game>
+	<game name="Poker 18 SamCoupe 512k (19xx)(Supplement Software)">
+		<description>Poker 18 SamCoupe 512k (19xx)(Supplement Software)</description>
+		<rom name="Poker 18 SamCoupe 512k (19xx)(Supplement Software).dsk" size="819200" crc="4abf93ea" md5="22e0fe5a399cf81e5719cb32cc2a8eb6" sha1="af51d3b23fb04ca4ebe8e358aacae9ce4865e77a"/>
+	</game>
+	<game name="Prince of Persia (19xx)(Revelation)">
+		<description>Prince of Persia (19xx)(Revelation)</description>
+		<rom name="Prince of Persia (19xx)(Revelation).dsk" size="819200" crc="c115389e" md5="ff3b67c63d8dc3e14cdddaf836c1c2f7" sha1="0d343f79b4ee2ad313f0030ad81d280d1513a6f2"/>
+	</game>
+	<game name="Sam Cards (1994)(Daton)">
+		<description>Sam Cards (1994)(Daton)</description>
+		<rom name="Sam Cards (1994)(Daton).dsk" size="819200" crc="e7a9be33" md5="b081e3fd6121aaa998dcb1f9de88024a" sha1="8f5c91dca950cf40a74baaf73c8317ac7fc0409d"/>
+	</game>
+	<game name="Sam X (19xx)(Supplement Software)">
+		<description>Sam X (19xx)(Supplement Software)</description>
+		<rom name="Sam X (19xx)(Supplement Software).dsk" size="819200" crc="e59a2a81" md5="d7b0b1d78d8e5b978b4f280646402344" sha1="17f1598a7a86a461380bebd792f09ff4e5309788"/>
+	</game>
+	<game name="Shanghai (1990)(Fuxsoft)">
+		<description>Shanghai (1990)(Fuxsoft)</description>
+		<rom name="Shanghai (1990)(Fuxsoft).dsk" size="819200" crc="cc1bcaf3" md5="06633eed9bfd6b8b5730f275a51cdc92" sha1="b9c29d7cbf6eb2b4c8a84178cf9c68caf23c4df0"/>
+	</game>
+	<game name="Shuriken (2023-06-30)(Caruso, Fabrizio)">
+		<description>Shuriken (2023-06-30)(Caruso, Fabrizio)</description>
+		<rom name="Shuriken (2023-06-30)(Caruso, Fabrizio).dsk" size="17769" crc="b5cdf14c" md5="62a7fa6672cd7f0757bd48532fd3c5bc" sha1="55cf94f89f9c6a39cc1f62e3b742086b258235e9"/>
+	</game>
+	<game name="SoulMagician (1992)(Pc-Act)">
+		<description>SoulMagician (1992)(Pc-Act)</description>
+		<rom name="SoulMagician (1992)(Pc-Act).dsk" size="819200" crc="b4d76c6f" md5="2ac210392a4108f4dac2f6e7a4582e30" sha1="93a88a4ae3122535e9b27f20aaa3255617394ad7"/>
+	</game>
+	<game name="Stinger (2023-10-08)(Caruso, Fabrizio)">
+		<description>Stinger (2023-10-08)(Caruso, Fabrizio)</description>
+		<rom name="Stinger (2023-10-08)(Caruso, Fabrizio).dsk" size="19022" crc="8259dc36" md5="a73125356962dcfa52c798062d06b74a" sha1="660ea5df6a9ebe0f10f2b9de103aa4244defedff"/>
+	</game>
+	<game name="Tetris (1990)(Lord Insanity)">
+		<description>Tetris (1990)(Lord Insanity)</description>
+		<rom name="Tetris (1990)(Lord Insanity).dsk" size="819200" crc="121f96ef" md5="43e2e28dea883f478e1430910764d723" sha1="9512ff9145a1a8170544fd62a370ead258835181"/>
+	</game>
+	<game name="Triltex (1991)(Fred Software)">
+		<description>Triltex (1991)(Fred Software)</description>
+		<rom name="Triltex (1991)(Fred Software).dsk" size="819200" crc="40290c8a" md5="95960d5c8c649cb36d772b89f509034e" sha1="36176294cd77987ba37c236e15fe3738119de548"/>
+	</game>
+	<game name="ZZZ-UNK-explosion#zx spectrum 48 emulator + commander (1996)">
+		<description>ZZZ-UNK-explosion#zx spectrum 48 emulator + commander (1996)</description>
+		<rom name="ZZZ-UNK-explosion#zx spectrum 48 emulator + commander (1996).dsk" size="819200" crc="688a2a61" md5="42c38487dabdeefb224d3e18e366f7f3" sha1="b3ebe8a6b04112692045bcde22d93d528373744c"/>
+	</game>
+	<game name="ZZZ-UNK-lemmings raw data disk 2 (1992) (dma-chris white)">
+		<description>ZZZ-UNK-lemmings raw data disk 2 (1992) (dma-chris white)</description>
+		<rom name="ZZZ-UNK-lemmings raw data disk 2 (1992) (dma-chris white).dsk" size="819222" crc="4f7639e0" md5="b764f44d4de5c700dbb20711c3588f9e" sha1="37a07723b63f70e4e4fbfa404eaff8f79a663328"/>
+	</game>
+	<game name="ZZZ-UNK-lemmings raw data disk 3 (1992) (dma-chris white)">
+		<description>ZZZ-UNK-lemmings raw data disk 3 (1992) (dma-chris white)</description>
+		<rom name="ZZZ-UNK-lemmings raw data disk 3 (1992) (dma-chris white).dsk" size="819222" crc="a1584967" md5="b24e188c5b1c29c13ac726e73a02822e" sha1="88c1b4cc32c447fabd5a001b12f4d135e3bc6b51"/>
+	</game>
+	<game name="ZZZ-UNK-lemmings#assemble disk 1 (19xx) (chris white)">
+		<description>ZZZ-UNK-lemmings#assemble disk 1 (19xx) (chris white)</description>
+		<rom name="ZZZ-UNK-lemmings#assemble disk 1 (19xx) (chris white).dsk" size="819222" crc="472ff830" md5="a465f0169a6b9f2ab7f2e74c39e84f3a" sha1="1728212697f7f87efded0e9b3b2e01b04db4a5f5"/>
+	</game>
+	<game name="ZZZ-UNK-lemmings#dos test side 1 (19xx) (chris white)">
+		<description>ZZZ-UNK-lemmings#dos test side 1 (19xx) (chris white)</description>
+		<rom name="ZZZ-UNK-lemmings#dos test side 1 (19xx) (chris white).dsk" size="819222" crc="b35d0291" md5="094a58ae7dafa426c55b3215ca65cbb7" sha1="5147789dee59e765ecf50fafa85807b3cb3cda4d"/>
+	</game>
+	<game name="ZZZ-UNK-lemmings#dos test side 2 (19xx) (chris white)">
+		<description>ZZZ-UNK-lemmings#dos test side 2 (19xx) (chris white)</description>
+		<rom name="ZZZ-UNK-lemmings#dos test side 2 (19xx) (chris white).dsk" size="839702" crc="458bfaf3" md5="9b1af0c9b4a6e5de78bf1432f3fcf1bc" sha1="0f3b3afec168ccd39c862eff36af93aba245adcd"/>
+	</game>
+	<game name="ZZZ-UNK-lemmings#front end gfx (19xx) (chris white)">
+		<description>ZZZ-UNK-lemmings#front end gfx (19xx) (chris white)</description>
+		<rom name="ZZZ-UNK-lemmings#front end gfx (19xx) (chris white).dsk" size="819222" crc="150328c8" md5="fc16171cd0182a22c5bdbde2a41e3b50" sha1="eb7d939ef4e7c67bdeea7655a3a9d9f4e4e52a67"/>
+	</game>
+	<game name="ZZZ-UNK-lemmings#gfx iff 1 (19xx) (chris white)">
+		<description>ZZZ-UNK-lemmings#gfx iff 1 (19xx) (chris white)</description>
+		<rom name="ZZZ-UNK-lemmings#gfx iff 1 (19xx) (chris white).dsk" size="819222" crc="567ac163" md5="8ebd33000f46cbcc7bae814b9ecefb12" sha1="88ff7de9ce729251caf6ce0c503ffb21d3f08ed2"/>
+	</game>
+	<game name="ZZZ-UNK-lemmings#gfx iff 2 (19xx) (chris white)">
+		<description>ZZZ-UNK-lemmings#gfx iff 2 (19xx) (chris white)</description>
+		<rom name="ZZZ-UNK-lemmings#gfx iff 2 (19xx) (chris white).dsk" size="819222" crc="0392c282" md5="36f2ce3e41924a4b68293edfcd4be352" sha1="df933a4814217f4309e323c2ea0f8c80e1ffead2"/>
+	</game>
+	<game name="ZZZ-UNK-lemmings#stuff from dma (19xx) (chris white)">
+		<description>ZZZ-UNK-lemmings#stuff from dma (19xx) (chris white)</description>
+		<rom name="ZZZ-UNK-lemmings#stuff from dma (19xx) (chris white).dsk" size="819222" crc="ac18a5ed" md5="f8d93360672ab701ab98040a344d3cf1" sha1="a152aaf11d7968be796d29dec0027bbac0cdddec"/>
+	</game>
+	<game name="ZZZ-UNK-prince of persia demo (1990) (revelation-chris white) [a]">
+		<description>ZZZ-UNK-prince of persia demo (1990) (revelation-chris white) [a]</description>
+		<rom name="ZZZ-UNK-prince of persia demo (1990) (revelation-chris white) [a].dsk" size="819222" crc="6b78d395" md5="35a306182d13bc3da9084ed0fbe85b73" sha1="fa53a9bfdeb63b8c12af60e30e06d047965f211f"/>
+	</game>
+	<game name="ZZZ-UNK-prince of persia demo.tap">
+		<description>ZZZ-UNK-prince of persia demo.tap</description>
+		<rom name="ZZZ-UNK-prince of persia demo.tap.dsk" size="138851" crc="846d50a3" md5="41993d55ecb61867fbbd74cef87a30f9" sha1="b39815818eaeec29930c2e68c9e9da131952b29d"/>
+	</game>
+	<game name="ZZZ-UNK-prince of persia#assemble disk (1990) (chris white)">
+		<description>ZZZ-UNK-prince of persia#assemble disk (1990) (chris white)</description>
+		<rom name="ZZZ-UNK-prince of persia#assemble disk (1990) (chris white).dsk" size="819222" crc="c5df63a5" md5="b01496d5030b5d594441b4b6d32c323c" sha1="b71a1a0b743fc88cdc07d5b4b61c2dc67bc5b08d"/>
+	</game>
+	<game name="ZZZ-UNK-prince of persia#assembly &amp; pokers (1990) (chris white)">
+		<description>ZZZ-UNK-prince of persia#assembly &amp; pokers (1990) (chris white)</description>
+		<rom name="ZZZ-UNK-prince of persia#assembly &amp; pokers (1990) (chris white).dsk" size="819222" crc="15955b30" md5="df64e1bb142b73c5a55f5935b05ccf14" sha1="199006e5dda04afb7013cd80e0171004313d56bc"/>
+	</game>
+	<game name="ZZZ-UNK-prince of persia#screens 1 (1990) (chris white)">
+		<description>ZZZ-UNK-prince of persia#screens 1 (1990) (chris white)</description>
+		<rom name="ZZZ-UNK-prince of persia#screens 1 (1990) (chris white).dsk" size="819222" crc="de09d527" md5="8442a2a99bbcf3f25523a2d495bec0af" sha1="c067756be71f90190dd417683952e00d7817deca"/>
+	</game>
+	<game name="ZZZ-UNK-prince of persia#screens 1 (1990) (chris white) [a]">
+		<description>ZZZ-UNK-prince of persia#screens 1 (1990) (chris white) [a]</description>
+		<rom name="ZZZ-UNK-prince of persia#screens 1 (1990) (chris white) [a].dsk" size="819222" crc="be44a6de" md5="6fb0f28219c710069a128cf9b72903cc" sha1="a82e1d6a033e646ac3d7caa863aa13a5b1515a47"/>
+	</game>
+	<game name="ZZZ-UNK-prince of persia#screens 2 (1990) (chris white)">
+		<description>ZZZ-UNK-prince of persia#screens 2 (1990) (chris white)</description>
+		<rom name="ZZZ-UNK-prince of persia#screens 2 (1990) (chris white).dsk" size="819222" crc="f11d0c6a" md5="4e55c29c45c9035e904fb039bb8c4192" sha1="c495f64bf40bef90f1d0df304b436fe981b70244"/>
+	</game>
+	<game name="ZZZ-UNK-prince of persia#show levels (1990) (chris white)">
+		<description>ZZZ-UNK-prince of persia#show levels (1990) (chris white)</description>
+		<rom name="ZZZ-UNK-prince of persia#show levels (1990) (chris white).dsk" size="819222" crc="5460b820" md5="97438538ff6e159c61f25ef11b390134" sha1="68fff55e01869f2290a4146e320e7d344760a6df"/>
+	</game>
+	<game name="ZZZ-UNK-prince of persia#source (1990) (chris white)">
+		<description>ZZZ-UNK-prince of persia#source (1990) (chris white)</description>
+		<rom name="ZZZ-UNK-prince of persia#source (1990) (chris white).dsk" size="819222" crc="4eb74b3d" md5="b4d24cdb40695cffee1ccd6dc3a1eff6" sha1="dc577fb57f95840776b8df94ac12807d3631fb52"/>
+	</game>
+	<game name="ZZZ-UNK-prince of persia#trans disk &amp; gamedos (1990) (chris white)">
+		<description>ZZZ-UNK-prince of persia#trans disk &amp; gamedos (1990) (chris white)</description>
+		<rom name="ZZZ-UNK-prince of persia#trans disk &amp; gamedos (1990) (chris white).dsk" size="819222" crc="9faad3e9" md5="b58f9c964c1b5b0a654c9ed5fab6fac1" sha1="b2f49339e24ea8c5c8c7e5847dffbef839036c79"/>
+	</game>
+	<game name="ZZZ-UNK-prince of persia#ys cover mount demo (1990) (chris white)">
+		<description>ZZZ-UNK-prince of persia#ys cover mount demo (1990) (chris white)</description>
+		<rom name="ZZZ-UNK-prince of persia#ys cover mount demo (1990) (chris white).dsk" size="819222" crc="a2a162a4" md5="2ba7e47c22e17ce2698bf1f18c10feb0" sha1="b38616f126b3cfbabd1ec17c0e311fef5b127a74"/>
+	</game>
+	<game name="ZZZ-UNK-princeofpersiascreens1">
+		<description>ZZZ-UNK-princeofpersiascreens1</description>
+		<rom name="ZZZ-UNK-princeofpersiascreens1.dsk" size="819200" crc="364ed4b4" md5="5a5cc0012b8ed3549cf0aa0064af23fb" sha1="34834b07f4de3bd56d85f8f4a2a9bd58ed8d2a4a"/>
+	</game>
+	<game name="ZZZ-UNK-princeofpersiascreens2">
+		<description>ZZZ-UNK-princeofpersiascreens2</description>
+		<rom name="ZZZ-UNK-princeofpersiascreens2.dsk" size="819200" crc="0b46c8a8" md5="71da41e98d1c20a6e3fb10d483c4a9e5" sha1="fc7624b86196091942dff32f4fa9f71f1e10bb0e"/>
+	</game>
+</datafile>

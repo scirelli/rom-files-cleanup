@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple II - Hard Disks - Compilations - Games - [HDV]</name>
+		<description>Apple II - Hard Disks - Compilations - Games - [HDV] (TOSEC-v2024-01-15)</description>
+		<category>TOSEC</category>
+		<version>2024-01-15</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Pitch Dark rev 4 (2021-03-31)(4am)(MIT)">
+		<description>Pitch Dark rev 4 (2021-03-31)(4am)(MIT)</description>
+		<rom name="Pitch Dark rev 4 (2021-03-31)(4am)(MIT).hdv" size="33553920" crc="86f200bb" md5="1eb08888deb5b9cb874adbe61bb87ad2" sha1="58b1a648917d498393af57bcd57a2ae641578911"/>
+	</game>
+	<game name="Pitch Dark rev 5 (2023-05-03)(4am)(MIT)">
+		<description>Pitch Dark rev 5 (2023-05-03)(4am)(MIT)</description>
+		<rom name="Pitch Dark rev 5 (2023-05-03)(4am)(MIT).hdv" size="33553920" crc="91d06db1" md5="bed22e0405d607240e62aa872bededaa" sha1="ae6cea489b0e48392a1bbbb94bd0938417fdaa8e"/>
+	</game>
+	<game name="Total 4Play v1.0 (2020-10-17)(Lukazi)(AU)">
+		<description>Total 4Play v1.0 (2020-10-17)(Lukazi)(AU)</description>
+		<rom name="Total 4Play v1.0 (2020-10-17)(Lukazi)(AU).hdv" size="33553920" crc="8813100a" md5="722464e6b089cf2f825d500d7105c379" sha1="c3a19106a89b9de820fa4dd2f70d11838eb86750"/>
+	</game>
+	<game name="Total Replay II - Instant Replay v1.0-alpha.1 (2022-11-09)(4am)(MIT)">
+		<description>Total Replay II - Instant Replay v1.0-alpha.1 (2022-11-09)(4am)(MIT)</description>
+		<rom name="Total Replay II - Instant Replay v1.0-alpha.1 (2022-11-09)(4am)(MIT).hdv" size="33553920" crc="40af162d" md5="b412bb020b2e28f4f262000c8fe17bdc" sha1="cacc17ec07b90b0ea91e1605403c423768b17300"/>
+	</game>
+	<game name="Total Replay II - Instant Replay v1.0-alpha.2 (2023-11-13)(4am)(MIT)(alpha)">
+		<description>Total Replay II - Instant Replay v1.0-alpha.2 (2023-11-13)(4am)(MIT)(alpha)</description>
+		<rom name="Total Replay II - Instant Replay v1.0-alpha.2 (2023-11-13)(4am)(MIT)(alpha).hdv" size="33553920" crc="9feb54e2" md5="41c15f4a8730067d312f78b302275836" sha1="d0c6e02e1d7aaf6b481f31d7ccab98c0ef4389e2"/>
+	</game>
+	<game name="Total Replay II - Instant Replay v1.0-alpha.3 (2023-11-14)(4am)(MIT)(alpha)">
+		<description>Total Replay II - Instant Replay v1.0-alpha.3 (2023-11-14)(4am)(MIT)(alpha)</description>
+		<rom name="Total Replay II - Instant Replay v1.0-alpha.3 (2023-11-14)(4am)(MIT)(alpha).hdv" size="33553920" crc="3a0cd064" md5="f10ce209a5e82c9c22fd6dbc5f5447e3" sha1="2e5b9e536cd308e2d94f071bec5a11bdf2274416"/>
+	</game>
+	<game name="Total Replay v4.0 (2021-02-13)(4am - qkumba)">
+		<description>Total Replay v4.0 (2021-02-13)(4am - qkumba)</description>
+		<rom name="Total Replay v4.0 (2021-02-13)(4am - qkumba).hdv" size="33553920" crc="e44e6648" md5="3f53a6b78d0d001ad4b3c0001c102e78" sha1="0eecbd6e8256bf96f3e87851832f7546dfd3bea8"/>
+	</game>
+	<game name="Total Replay v4.0-alpha3 (2020-08-28)(4am - qkumba)(MIT)(alpha)">
+		<description>Total Replay v4.0-alpha3 (2020-08-28)(4am - qkumba)(MIT)(alpha)</description>
+		<rom name="Total Replay v4.0-alpha3 (2020-08-28)(4am - qkumba)(MIT)(alpha).hdv" size="33553920" crc="44d52244" md5="03078d7334d4c277644ac037d9014538" sha1="2045b51f9076a5187cafd31675011cf03a69890c"/>
+	</game>
+	<game name="Total Replay v4.0-rc1 (2020-12-08)(4am - qkumba)(MIT)(pre-release)">
+		<description>Total Replay v4.0-rc1 (2020-12-08)(4am - qkumba)(MIT)(pre-release)</description>
+		<rom name="Total Replay v4.0-rc1 (2020-12-08)(4am - qkumba)(MIT)(pre-release).hdv" size="33553920" crc="67116407" md5="ae01feabf145036e81cc3c985a2e02a9" sha1="6ffa0a47e7d99adc207bff0f29fe71ec6cec2057"/>
+	</game>
+	<game name="Total Replay v4.01 (2021-02-18)(4am - qkumba)(MIT)">
+		<description>Total Replay v4.01 (2021-02-18)(4am - qkumba)(MIT)</description>
+		<rom name="Total Replay v4.01 (2021-02-18)(4am - qkumba)(MIT).hdv" size="33553920" crc="176f79e5" md5="255861aec51b48317c0daf18dc02db23" sha1="f368a0332fa14a62025b09f45c766a18b0c9b360"/>
+	</game>
+	<game name="Total Replay v5.0-alpha1 (2022-05-19)(4am - qkumba)(MIT)">
+		<description>Total Replay v5.0-alpha1 (2022-05-19)(4am - qkumba)(MIT)</description>
+		<rom name="Total Replay v5.0-alpha1 (2022-05-19)(4am - qkumba)(MIT).hdv" size="33553920" crc="c6a5eb60" md5="0374379c7ee92479bf36948c5b579484" sha1="686bb7cc5c72c7607fa2d861670861758391b67a"/>
+	</game>
+	<game name="Total Replay v5.0-alpha2 (2022-05-29)(4am - qkumba)(MIT)">
+		<description>Total Replay v5.0-alpha2 (2022-05-29)(4am - qkumba)(MIT)</description>
+		<rom name="Total Replay v5.0-alpha2 (2022-05-29)(4am - qkumba)(MIT).hdv" size="33553920" crc="c6276b90" md5="1b72f3417f370ca3f5ab335ac8e3eee1" sha1="5e7606be296a06af32c5dd1cc4d58efdecd4c90f"/>
+	</game>
+	<game name="Total Replay v5.0-alpha3 (2022-06-11)(4am - qkumba)(MIT)">
+		<description>Total Replay v5.0-alpha3 (2022-06-11)(4am - qkumba)(MIT)</description>
+		<rom name="Total Replay v5.0-alpha3 (2022-06-11)(4am - qkumba)(MIT).hdv" size="33553920" crc="13d99326" md5="0f939c1c97a152048449b9455ea65af4" sha1="1ab9a2be9ac1eed07fa94f65a1430e21e814c315"/>
+	</game>
+	<game name="Total Replay v5.0-alpha4 (2022-07-26)(4am - qkumba)(MIT)">
+		<description>Total Replay v5.0-alpha4 (2022-07-26)(4am - qkumba)(MIT)</description>
+		<rom name="Total Replay v5.0-alpha4 (2022-07-26)(4am - qkumba)(MIT).hdv" size="33553920" crc="409b8def" md5="628efdc0ec02ce1577279c7bfa02123d" sha1="57176c30e4afedd31fc0a61ccb4b90fe02d6d936"/>
+	</game>
+	<game name="Total Replay v5.0-beta.1 (2022-10-03)(4am)(MIT)">
+		<description>Total Replay v5.0-beta.1 (2022-10-03)(4am)(MIT)</description>
+		<rom name="Total Replay v5.0-beta.1 (2022-10-03)(4am)(MIT).hdv" size="33553920" crc="94b042d8" md5="3d300350d6d3e8a4238e5582a28276b5" sha1="6c6213454e0d98941f911b2ce64e4c62d450d14f"/>
+	</game>
+	<game name="Total Replay v5.0-beta.2 (2022-10-13)(4am)(MIT)">
+		<description>Total Replay v5.0-beta.2 (2022-10-13)(4am)(MIT)</description>
+		<rom name="Total Replay v5.0-beta.2 (2022-10-13)(4am)(MIT).hdv" size="33553920" crc="6c70bde7" md5="1de829345d80a185c81d71f75be7ee2c" sha1="25105871fb2eb13410497bb094c630b2eb200bc6"/>
+	</game>
+	<game name="Total Replay v5.0-beta.3 (2022-11-09)(4am)(MIT)">
+		<description>Total Replay v5.0-beta.3 (2022-11-09)(4am)(MIT)</description>
+		<rom name="Total Replay v5.0-beta.3 (2022-11-09)(4am)(MIT).hdv" size="33553920" crc="338e0919" md5="a5d26b84d6020d1c9146dc6e322e9bb1" sha1="75ba8da03644ef154323a41b4fa40a247966b05f"/>
+	</game>
+	<game name="Total Replay v5.0.1 (2023-11-13)(4am)(MIT)">
+		<description>Total Replay v5.0.1 (2023-11-13)(4am)(MIT)</description>
+		<rom name="Total Replay v5.0.1 (2023-11-13)(4am)(MIT).hdv" size="33553920" crc="77864889" md5="988e7fcba89eae0e7efb13966ed18e30" sha1="a1ec7c00ca44ca64dcf532c86b23cd27c24a7723"/>
+	</game>
+	<game name="Wizard Replay v1.0 (2023-11-07)(4am)(MIT)">
+		<description>Wizard Replay v1.0 (2023-11-07)(4am)(MIT)</description>
+		<rom name="Wizard Replay v1.0 (2023-11-07)(4am)(MIT).hdv" size="33553920" crc="60bb0dc2" md5="624573b594692bbfcf0b12504fe0466a" sha1="0a3a1857af8b4d3427535c3bd9fbda8bede409a0"/>
+	</game>
+</datafile>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - Applications - Data</name>
+		<description>Commodore Amiga - Applications - Data (TOSEC-v2024-03-27)</description>
+		<category>TOSEC</category>
+		<version>2024-03-27</version>
+		<author>Crashdisk</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="AnimFonts II (1991)(Kara Computer Graphics)[h AFL]">
+		<description>AnimFonts II (1991)(Kara Computer Graphics)[h AFL]</description>
+		<rom name="AnimFonts II (1991)(Kara Computer Graphics)[h AFL].adf" size="901120" crc="9056f6a2" md5="2eabeb0b001d9697fbfdcb02078ed46a" sha1="edfd7af52db15cce043dd119fb05b6f4c454eb68"/>
+	</game>
+	<game name="Colour IFF Fonts (1992)(Bad Boyz)[h PD-Soft][WB]">
+		<description>Colour IFF Fonts (1992)(Bad Boyz)[h PD-Soft][WB]</description>
+		<rom name="Colour IFF Fonts (1992)(Bad Boyz)[h PD-Soft][WB].adf" size="901120" crc="be622fcd" md5="dd88b61ca559c4cbd485bd6161639416" sha1="d7176b97d867a7f3a9c88cc932aa8b0e6b37c51a"/>
+	</game>
+	<game name="Colour IFF Fonts (1992)(Bad Boyz)[WB]">
+		<description>Colour IFF Fonts (1992)(Bad Boyz)[WB]</description>
+		<rom name="Colour IFF Fonts (1992)(Bad Boyz)[WB].adf" size="901120" crc="f238aac4" md5="817912846684cb263f5de23650bc90ae" sha1="6f043531966098bd667512ae472cdf21fc91ff54"/>
+	</game>
+	<game name="Demo Maniac Extras (1992)(17-Bit Software)(Disk 1 of 3)">
+		<description>Demo Maniac Extras (1992)(17-Bit Software)(Disk 1 of 3)</description>
+		<rom name="Demo Maniac Extras (1992)(17-Bit Software)(Disk 1 of 3).adf" size="901120" crc="076cee8c" md5="5a2ec0c6c942c3e41908297d2c0a96c1" sha1="b87bc52b11440f3562e60a3f568c390b40facbbd"/>
+	</game>
+	<game name="Demo Maniac Extras (1992)(17-Bit Software)(Disk 2 of 3)">
+		<description>Demo Maniac Extras (1992)(17-Bit Software)(Disk 2 of 3)</description>
+		<rom name="Demo Maniac Extras (1992)(17-Bit Software)(Disk 2 of 3).adf" size="901120" crc="0c98adf5" md5="b301c587e4cfe834a7471293780d9872" sha1="5bc3095326c3d6acf309afb48ebb21ffc23ed6ee"/>
+	</game>
+	<game name="Demo Maniac Extras (1992)(17-Bit Software)(Disk 3 of 3)">
+		<description>Demo Maniac Extras (1992)(17-Bit Software)(Disk 3 of 3)</description>
+		<rom name="Demo Maniac Extras (1992)(17-Bit Software)(Disk 3 of 3).adf" size="901120" crc="de3135f6" md5="197e3a011bd9a9f78a0ac93a576c86d1" sha1="323b46f8221874f00d3cf5a9acc030ad98b18ebe"/>
+	</game>
+	<game name="Font Disk One (19xx)(Exile)">
+		<description>Font Disk One (19xx)(Exile)</description>
+		<rom name="Font Disk One (19xx)(Exile).adf" size="901120" crc="e5e02849" md5="90066c73e7fa4bd44e23a6ceabff0989" sha1="427dfe5cf8317e53006ffef335cae198a3f31abc"/>
+	</game>
+	<game name="Fonts (1990-09-21)(The Skunk)[h AMOS PD]">
+		<description>Fonts (1990-09-21)(The Skunk)[h AMOS PD]</description>
+		<rom name="Fonts (1990-09-21)(The Skunk)[h AMOS PD].adf" size="901120" crc="3f0098b8" md5="f6f27e3beff1f92901560a66110546df" sha1="2e88992fc43da67598d4343227c0681adab4ac2d"/>
+	</game>
+	<game name="Gelignite Fonts I (1991)(Pandemonium)">
+		<description>Gelignite Fonts I (1991)(Pandemonium)</description>
+		<rom name="Gelignite Fonts I (1991)(Pandemonium).adf" size="901120" crc="d2a7255c" md5="ec39f0a9da5a93421cd913e6730ad36f" sha1="cf65323d2ff94f485de8474f4e84521a6e481aaa"/>
+	</game>
+	<game name="Gelignite Fonts I (1991)(Pandemonium)[h PDSoft]">
+		<description>Gelignite Fonts I (1991)(Pandemonium)[h PDSoft]</description>
+		<rom name="Gelignite Fonts I (1991)(Pandemonium)[h PDSoft].adf" size="901120" crc="84e1ee97" md5="4fdec2593b16cf887d60fe157afd538b" sha1="af628a931e1fa33b719879146072c2c6ee1069fa"/>
+	</game>
+	<game name="Gelignite Fonts II (1991)(Pandemonium)">
+		<description>Gelignite Fonts II (1991)(Pandemonium)</description>
+		<rom name="Gelignite Fonts II (1991)(Pandemonium).adf" size="901120" crc="8a3ee5df" md5="ca632e880ea2a86759bcf294ee8ef0e9" sha1="d276621ae832d0c0f98f6ca7bd231cce800ac979"/>
+	</game>
+	<game name="Gelignite Fonts II (1991)(Pandemonium)[h PDSoft]">
+		<description>Gelignite Fonts II (1991)(Pandemonium)[h PDSoft]</description>
+		<rom name="Gelignite Fonts II (1991)(Pandemonium)[h PDSoft].adf" size="901120" crc="b62e8751" md5="ad7e734a9e4daf9e5ab7fc0349dbfffa" sha1="d30989db4fa5ccd1a51455eb5f78d23ca6e96608"/>
+	</game>
+	<game name="Gelignite Fonts III (1992)(Pandemonium)">
+		<description>Gelignite Fonts III (1992)(Pandemonium)</description>
+		<rom name="Gelignite Fonts III (1992)(Pandemonium).adf" size="901120" crc="58e8854e" md5="98a45e183908a7c5079b1de165005645" sha1="a26a62a1f574ad5168c6b511ad28d8fcc1f419ac"/>
+	</game>
+	<game name="Gelignite Fonts IV (1992)(Pandemonium)">
+		<description>Gelignite Fonts IV (1992)(Pandemonium)</description>
+		<rom name="Gelignite Fonts IV (1992)(Pandemonium).adf" size="901120" crc="5e733182" md5="fb4b65ac86da8e9dd5713939e78b657c" sha1="4c15b7a9e43d2be7de12ef25e7eec297d1b47898"/>
+	</game>
+	<game name="Gradient Fonts for RSI Demo-Maker #01 (2022-09-02)(Yomarumon Dreams)">
+		<description>Gradient Fonts for RSI Demo-Maker #01 (2022-09-02)(Yomarumon Dreams)</description>
+		<rom name="Gradient Fonts for RSI Demo-Maker #01 (2022-09-02)(Yomarumon Dreams).adf" size="901120" crc="820f366c" md5="01ac394b19bcd22602c22961931e447b" sha1="4730ba4fe1e18df7548bd7d0d91642d952cdf311"/>
+	</game>
+	<game name="Gradient Fonts for RSI Demo-Maker #02 (2022-09-02)(Yomarumon Dreams)">
+		<description>Gradient Fonts for RSI Demo-Maker #02 (2022-09-02)(Yomarumon Dreams)</description>
+		<rom name="Gradient Fonts for RSI Demo-Maker #02 (2022-09-02)(Yomarumon Dreams).adf" size="901120" crc="19a3af86" md5="6e64021aba01c67c05d7e588a550cc58" sha1="9e782aadb39b0908cb2bc1691664447b232d1660"/>
+	</game>
+	<game name="Gradient Fonts for RSI Demo-Maker #03 (2022-09-02)(Yomarumon Dreams)">
+		<description>Gradient Fonts for RSI Demo-Maker #03 (2022-09-02)(Yomarumon Dreams)</description>
+		<rom name="Gradient Fonts for RSI Demo-Maker #03 (2022-09-02)(Yomarumon Dreams).adf" size="901120" crc="78c697b5" md5="645ca3ad91b87050ca98c4fbc43b370b" sha1="702ae40ca091547bf39756a98f2dccb0f87ae9ff"/>
+	</game>
+	<game name="Gradient Fonts for RSI Demo-Maker #04 (2022-09-02)(Yomarumon Dreams)">
+		<description>Gradient Fonts for RSI Demo-Maker #04 (2022-09-02)(Yomarumon Dreams)</description>
+		<rom name="Gradient Fonts for RSI Demo-Maker #04 (2022-09-02)(Yomarumon Dreams).adf" size="901120" crc="55c7d1eb" md5="8cad6b21ce5cc83d024d04f5c345f47a" sha1="7171328be88c376e0c9394cad15485a113726499"/>
+	</game>
+	<game name="Gradient Fonts for RSI Demo-Maker #05 (2022-09-02)(Yomarumon Dreams)">
+		<description>Gradient Fonts for RSI Demo-Maker #05 (2022-09-02)(Yomarumon Dreams)</description>
+		<rom name="Gradient Fonts for RSI Demo-Maker #05 (2022-09-02)(Yomarumon Dreams).adf" size="901120" crc="d7b4f868" md5="cdd87f385e57f7119b7b0541edd8cfc0" sha1="d43f2ae4a2bd857f05aa38ed944a108e6a65b24b"/>
+	</game>
+	<game name="Gradient Fonts for RSI Demo-Maker #06 (2022-09-02)(Yomarumon Dreams)">
+		<description>Gradient Fonts for RSI Demo-Maker #06 (2022-09-02)(Yomarumon Dreams)</description>
+		<rom name="Gradient Fonts for RSI Demo-Maker #06 (2022-09-02)(Yomarumon Dreams).adf" size="901120" crc="d13f857a" md5="83c976fc70c4c863c095694fb3866aa8" sha1="e9b0e96c76779f611c39ca1c735f5cde2addb371"/>
+	</game>
+	<game name="Gradient Fonts for RSI Demo-Maker #07 (2022-09-02)(Yomarumon Dreams)">
+		<description>Gradient Fonts for RSI Demo-Maker #07 (2022-09-02)(Yomarumon Dreams)</description>
+		<rom name="Gradient Fonts for RSI Demo-Maker #07 (2022-09-02)(Yomarumon Dreams).adf" size="901120" crc="30de3b8c" md5="53520d2f51ff42630c24f6b751e5a649" sha1="d99dbddd1e971118beadaf2adc4ca7750e8e930a"/>
+	</game>
+	<game name="Gradient Fonts for RSI Demo-Maker #08 (2022-09-02)(Yomarumon Dreams)">
+		<description>Gradient Fonts for RSI Demo-Maker #08 (2022-09-02)(Yomarumon Dreams)</description>
+		<rom name="Gradient Fonts for RSI Demo-Maker #08 (2022-09-02)(Yomarumon Dreams).adf" size="901120" crc="1d202a4d" md5="570c215389460b8cc5a08b1d14170e01" sha1="f2b23484947343a0947cc373e5bda9369b1d35d7"/>
+	</game>
+	<game name="Gradient Fonts for RSI Demo-Maker #09 (2022-09-02)(Yomarumon Dreams)">
+		<description>Gradient Fonts for RSI Demo-Maker #09 (2022-09-02)(Yomarumon Dreams)</description>
+		<rom name="Gradient Fonts for RSI Demo-Maker #09 (2022-09-02)(Yomarumon Dreams).adf" size="901120" crc="bf56bb2b" md5="f9777be906f68ff70ab0a1ee42123935" sha1="0cc914eb428127fcf983d76a643f1825269a50b3"/>
+	</game>
+	<game name="Gradient Fonts for RSI Demo-Maker #10 (2022-09-02)(Yomarumon Dreams)">
+		<description>Gradient Fonts for RSI Demo-Maker #10 (2022-09-02)(Yomarumon Dreams)</description>
+		<rom name="Gradient Fonts for RSI Demo-Maker #10 (2022-09-02)(Yomarumon Dreams).adf" size="901120" crc="89f7b7ce" md5="07b5215c5e53ddd56ea1cd9c0e211243" sha1="a68934523f7c68b74c68b7243697ed096290d62e"/>
+	</game>
+	<game name="Gradient Fonts for RSI Demo-Maker #11 (2022-09-02)(Yomarumon Dreams)">
+		<description>Gradient Fonts for RSI Demo-Maker #11 (2022-09-02)(Yomarumon Dreams)</description>
+		<rom name="Gradient Fonts for RSI Demo-Maker #11 (2022-09-02)(Yomarumon Dreams).adf" size="901120" crc="d1cc5fd7" md5="a40703dcec829d1f86d13f7ece63eca2" sha1="36cc75be203d3289efa12a0ffe68d1490627e0c2"/>
+	</game>
+	<game name="Gradient Fonts for RSI Demo-Maker #12 (2022-09-02)(Yomarumon Dreams)">
+		<description>Gradient Fonts for RSI Demo-Maker #12 (2022-09-02)(Yomarumon Dreams)</description>
+		<rom name="Gradient Fonts for RSI Demo-Maker #12 (2022-09-02)(Yomarumon Dreams).adf" size="901120" crc="c5435e84" md5="2593bcecf0ecd82370af47e7d4ca7a32" sha1="0bf24c0cdb5f6762b0128e973ca910c881eb9330"/>
+	</game>
+	<game name="Gradient Fonts for RSI Demo-Maker #13 (2023-03-01)(Yomarumon Dreams)">
+		<description>Gradient Fonts for RSI Demo-Maker #13 (2023-03-01)(Yomarumon Dreams)</description>
+		<rom name="Gradient Fonts for RSI Demo-Maker #13 (2023-03-01)(Yomarumon Dreams).adf" size="901120" crc="570d5d30" md5="c3a62f8be54925bbe24a46a68f244fe0" sha1="0d953c72256a083b84813e0d00e5b2495ff565bf"/>
+	</game>
+	<game name="MS Typography Fonts for Broadcast Titler 2 #01 (2022-12-06)(Yomaru Kasuga)">
+		<description>MS Typography Fonts for Broadcast Titler 2 #01 (2022-12-06)(Yomaru Kasuga)</description>
+		<rom name="MS Typography Fonts for Broadcast Titler 2 #01 (2022-12-06)(Yomaru Kasuga).adf" size="901120" crc="17e02f50" md5="ded8e091a341ebb79fb093f23aa8edd6" sha1="d958603e8905faeef6f0dfe122d9d0f5d1d1bc97"/>
+	</game>
+	<game name="MS Typography Fonts for Broadcast Titler 2 #02 (2022-12-06)(Yomaru Kasuga)">
+		<description>MS Typography Fonts for Broadcast Titler 2 #02 (2022-12-06)(Yomaru Kasuga)</description>
+		<rom name="MS Typography Fonts for Broadcast Titler 2 #02 (2022-12-06)(Yomaru Kasuga).adf" size="901120" crc="f8a221b5" md5="2111272432cb6b2353ace8cadc73e3ec" sha1="6ffa97d6d95ac4c3f8d27a39b1f944d9fa76a187"/>
+	</game>
+	<game name="MS Typography Fonts for Broadcast Titler 2 #03 (2022-12-06)(Yomaru Kasuga)">
+		<description>MS Typography Fonts for Broadcast Titler 2 #03 (2022-12-06)(Yomaru Kasuga)</description>
+		<rom name="MS Typography Fonts for Broadcast Titler 2 #03 (2022-12-06)(Yomaru Kasuga).adf" size="901120" crc="31f01538" md5="6ba8cd6fa8d930965757491cd266d0d3" sha1="d88e01f5d5829463cf7f3ac9c42c01799cfe11e7"/>
+	</game>
+	<game name="MS Typography Fonts for Broadcast Titler 2 #04 (2022-12-06)(Yomaru Kasuga)">
+		<description>MS Typography Fonts for Broadcast Titler 2 #04 (2022-12-06)(Yomaru Kasuga)</description>
+		<rom name="MS Typography Fonts for Broadcast Titler 2 #04 (2022-12-06)(Yomaru Kasuga).adf" size="901120" crc="3d86c272" md5="1de65713520abeb4d9fd166ad6426d69" sha1="9d60f5f93d5eb71c7225dc4e33085ebce03a6a61"/>
+	</game>
+	<game name="MS Typography Fonts for Broadcast Titler 2 #05 (2022-12-06)(Yomaru Kasuga)">
+		<description>MS Typography Fonts for Broadcast Titler 2 #05 (2022-12-06)(Yomaru Kasuga)</description>
+		<rom name="MS Typography Fonts for Broadcast Titler 2 #05 (2022-12-06)(Yomaru Kasuga).adf" size="901120" crc="d2b69e55" md5="7b48a289c777336c40ad59311266ac42" sha1="dcb973a26c1cfec5a1105ecef5310d45f1c52496"/>
+	</game>
+	<game name="MS Typography Fonts for Broadcast Titler 2 #06 (2022-12-06)(Yomaru Kasuga)">
+		<description>MS Typography Fonts for Broadcast Titler 2 #06 (2022-12-06)(Yomaru Kasuga)</description>
+		<rom name="MS Typography Fonts for Broadcast Titler 2 #06 (2022-12-06)(Yomaru Kasuga).adf" size="901120" crc="4e160e25" md5="e91f7f3584c2d106ab5a0505bf79d09a" sha1="11fdd6c7866b5fe6631a463394f76bdec44e08c0"/>
+	</game>
+	<game name="MS Typography Fonts for Broadcast Titler 2 #07 (2022-12-06)(Yomaru Kasuga)">
+		<description>MS Typography Fonts for Broadcast Titler 2 #07 (2022-12-06)(Yomaru Kasuga)</description>
+		<rom name="MS Typography Fonts for Broadcast Titler 2 #07 (2022-12-06)(Yomaru Kasuga).adf" size="901120" crc="86de29a6" md5="f4df38580cc18540f3f34b0e495aac36" sha1="2565e37140e0edeb9d479238b10650d3b5d9dcaa"/>
+	</game>
+	<game name="MS Typography Fonts for Broadcast Titler 2 #08 (2022-12-06)(Yomaru Kasuga)">
+		<description>MS Typography Fonts for Broadcast Titler 2 #08 (2022-12-06)(Yomaru Kasuga)</description>
+		<rom name="MS Typography Fonts for Broadcast Titler 2 #08 (2022-12-06)(Yomaru Kasuga).adf" size="901120" crc="631c8763" md5="a9cc634e7d062193c8f126b8ef725f27" sha1="129f0559c826347e66cf38a171eb57328dd7e023"/>
+	</game>
+	<game name="MS Typography Fonts for Broadcast Titler 2 #09 (2022-12-06)(Yomaru Kasuga)">
+		<description>MS Typography Fonts for Broadcast Titler 2 #09 (2022-12-06)(Yomaru Kasuga)</description>
+		<rom name="MS Typography Fonts for Broadcast Titler 2 #09 (2022-12-06)(Yomaru Kasuga).adf" size="901120" crc="5dfdbd53" md5="a98cf84b285e9612990a8cdb9ceeaadb" sha1="9b0fff06a9be272792456cca4fc2f8d49f084f62"/>
+	</game>
+	<game name="MS Typography Fonts for Broadcast Titler 2 #10 (2022-12-06)(Yomaru Kasuga)">
+		<description>MS Typography Fonts for Broadcast Titler 2 #10 (2022-12-06)(Yomaru Kasuga)</description>
+		<rom name="MS Typography Fonts for Broadcast Titler 2 #10 (2022-12-06)(Yomaru Kasuga).adf" size="901120" crc="5c4831df" md5="420368051939a38f487a165d803cec5d" sha1="5b5c9cafaed7df6aca31437bee3fa89d0b848de6"/>
+	</game>
+	<game name="MS Typography Fonts for Broadcast Titler 2 #11 (2022-12-06)(Yomaru Kasuga)">
+		<description>MS Typography Fonts for Broadcast Titler 2 #11 (2022-12-06)(Yomaru Kasuga)</description>
+		<rom name="MS Typography Fonts for Broadcast Titler 2 #11 (2022-12-06)(Yomaru Kasuga).adf" size="901120" crc="4e2d9ae6" md5="ff85efd1ce15ea6a4ed4fd73094b81a6" sha1="c2435a291ebe3e413cfa147677fd4a1b4a61e4aa"/>
+	</game>
+	<game name="MS Typography Fonts for Broadcast Titler 2 #12 (2022-12-06)(Yomaru Kasuga)">
+		<description>MS Typography Fonts for Broadcast Titler 2 #12 (2022-12-06)(Yomaru Kasuga)</description>
+		<rom name="MS Typography Fonts for Broadcast Titler 2 #12 (2022-12-06)(Yomaru Kasuga).adf" size="901120" crc="cc92efa8" md5="d051f48edd442c7082388cc4303a6c8a" sha1="e4b55c243b69bebe36db6698ee79c31db4145b69"/>
+	</game>
+	<game name="MS Typography Fonts for Broadcast Titler 2 #13 (2022-12-06)(Yomaru Kasuga)">
+		<description>MS Typography Fonts for Broadcast Titler 2 #13 (2022-12-06)(Yomaru Kasuga)</description>
+		<rom name="MS Typography Fonts for Broadcast Titler 2 #13 (2022-12-06)(Yomaru Kasuga).adf" size="901120" crc="36562831" md5="4f601596b973a29e37750528dea70f4b" sha1="3f554fa49afcd21554645b5d0f6d0fa500e03ea9"/>
+	</game>
+	<game name="Oktalyzer Sourcecodes (1990)(Access)">
+		<description>Oktalyzer Sourcecodes (1990)(Access)</description>
+		<rom name="Oktalyzer Sourcecodes (1990)(Access).adf" size="901120" crc="cb8060fc" md5="c41b13b033aa1445b4cc37329822efc3" sha1="fc19b6328c3848d9582fd2096251fdb06c15230d"/>
+	</game>
+	<game name="Prompt Painted Fonts n.3 (1988-11)(Digitech - Italian Bad Boys - The Knight Hawks)[h Suxxess]">
+		<description>Prompt Painted Fonts n.3 (1988-11)(Digitech - Italian Bad Boys - The Knight Hawks)[h Suxxess]</description>
+		<rom name="Prompt Painted Fonts n.3 (1988-11)(Digitech - Italian Bad Boys - The Knight Hawks)[h Suxxess].adf" size="901120" crc="2398fb00" md5="2a7006cc9568f1cdad0277ddf3881341" sha1="bd772af5d91210e0bbc99f90ec08aaf823450b1c"/>
+	</game>
+	<game name="Prompt Painted Fonts n.4 (1988)(Digitech - Italian Bad Boys - The Knight Hawks)">
+		<description>Prompt Painted Fonts n.4 (1988)(Digitech - Italian Bad Boys - The Knight Hawks)</description>
+		<rom name="Prompt Painted Fonts n.4 (1988)(Digitech - Italian Bad Boys - The Knight Hawks).adf" size="901120" crc="fc3d1147" md5="b05a0130a52d96afdf222a8979483157" sha1="8b691b4c72160d46ed6a358210a2792acc61b3f3"/>
+	</game>
+	<game name="Prompt Painted Fonts n.4 (1988)(Digitech - Italian Bad Boys - The Knight Hawks)[h Suxxess]">
+		<description>Prompt Painted Fonts n.4 (1988)(Digitech - Italian Bad Boys - The Knight Hawks)[h Suxxess]</description>
+		<rom name="Prompt Painted Fonts n.4 (1988)(Digitech - Italian Bad Boys - The Knight Hawks)[h Suxxess].adf" size="901120" crc="5ebc35b4" md5="6383f8ac94f177592a37eeead7bf703a" sha1="e5fc8fd739bd9f6d39f5cf1f03b5b96e974ef924"/>
+	</game>
+	<game name="Quality Samples Disk Vol.1 - Animals (1993)(Powell, Mark - Hadley, Simon)">
+		<description>Quality Samples Disk Vol.1 - Animals (1993)(Powell, Mark - Hadley, Simon)</description>
+		<rom name="Quality Samples Disk Vol.1 - Animals (1993)(Powell, Mark - Hadley, Simon).adf" size="901120" crc="7911a802" md5="800c69dd2b5b2137195dec4c25520af7" sha1="0c80381001e3b91cf0ffe3923b77291929c91337"/>
+	</game>
+	<game name="Quality Samples Disk Vol.2 - Military and War (1993)(Powell, Mark - Hadley, Simon)">
+		<description>Quality Samples Disk Vol.2 - Military and War (1993)(Powell, Mark - Hadley, Simon)</description>
+		<rom name="Quality Samples Disk Vol.2 - Military and War (1993)(Powell, Mark - Hadley, Simon).adf" size="901120" crc="3fd114c2" md5="071d150163a5ee77b270a7c510e29444" sha1="9fb09196bd9ad653570c661104d156bb4d3fd6c3"/>
+	</game>
+	<game name="Quality Samples Disk Vol.3 - Vehicles (1993)(Powell, Mark - Hadley, Simon)">
+		<description>Quality Samples Disk Vol.3 - Vehicles (1993)(Powell, Mark - Hadley, Simon)</description>
+		<rom name="Quality Samples Disk Vol.3 - Vehicles (1993)(Powell, Mark - Hadley, Simon).adf" size="901120" crc="6c5540b7" md5="671a9ebb21b1e566e37308bc5824e82e" sha1="cb6dddc27154bbb7bebe6cbb104fedc0a4ad6d78"/>
+	</game>
+	<game name="Tracker-Sounds Vol.1 (1988)(Grill, Johann)">
+		<description>Tracker-Sounds Vol.1 (1988)(Grill, Johann)</description>
+		<rom name="Tracker-Sounds Vol.1 (1988)(Grill, Johann).adf" size="901120" crc="dbb5ccff" md5="a13e79eea6026f04001d7c49a4020c77" sha1="2d3a859f3603f6e9c945ebd14fde9341e1e84c7e"/>
+	</game>
+	<game name="Tracker-Sounds Vol.1 (1988)(Grill, Johann)[h FPL]">
+		<description>Tracker-Sounds Vol.1 (1988)(Grill, Johann)[h FPL]</description>
+		<rom name="Tracker-Sounds Vol.1 (1988)(Grill, Johann)[h FPL].adf" size="901120" crc="8b4a31cc" md5="45aba84df303c6f36a9b3716202670f0" sha1="5499d838db9eae3f574957174039237cdc65bb74"/>
+	</game>
+	<game name="Video-Master 1 - Formes Primitives Imagine (1992-03)(Absys)(fr)">
+		<description>Video-Master 1 - Formes Primitives Imagine (1992-03)(Absys)(fr)</description>
+		<rom name="Video-Master 1 - Formes Primitives Imagine (1992-03)(Absys)(fr).adf" size="901120" crc="d2919c29" md5="ddc6176a61365dc660f3605579047dd7" sha1="78ae4c1b6c10ad5795d1d9c9052fdd803b06e978"/>
+	</game>
+</datafile>

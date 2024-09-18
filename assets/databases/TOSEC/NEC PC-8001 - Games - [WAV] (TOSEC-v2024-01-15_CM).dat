@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-8001 - Games - [WAV]</name>
+		<description>NEC PC-8001 - Games - [WAV] (TOSEC-v2024-01-15)</description>
+		<category>TOSEC</category>
+		<version>2024-01-15</version>
+		<author>mictlantecuhtle - FakeShemp</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ascend (2022-03-21)(Inufuto)(JP)">
+		<description>Ascend (2022-03-21)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-03-21)(Inufuto)(JP).wav" size="2900012" crc="f3763788" md5="96e2e22cf6b3c016b2937f6533f1531d" sha1="546291c8fa2da4afa6ebcc0854d9ba7c6e8deb6a"/>
+	</game>
+	<game name="Dragon &amp; Princess, The v1.2 (198x)(KOEI Micom System)(JP)(Side 1)">
+		<description>Dragon &amp; Princess, The v1.2 (198x)(KOEI Micom System)(JP)(Side 1)</description>
+		<rom name="Dragon &amp; Princess, The v1.2 (198x)(KOEI Micom System)(JP)(Side 1).wav" size="41466924" crc="5e4c0141" md5="ff0c5224360700aa9af4c5cb02cdb723" sha1="89ec9e4b2411265b6fa41f3dfdaa35e7964fe0f7"/>
+	</game>
+	<game name="Dragon &amp; Princess, The v1.2 (198x)(KOEI Micom System)(JP)(Side 2)">
+		<description>Dragon &amp; Princess, The v1.2 (198x)(KOEI Micom System)(JP)(Side 2)</description>
+		<rom name="Dragon &amp; Princess, The v1.2 (198x)(KOEI Micom System)(JP)(Side 2).wav" size="40979500" crc="25b2aad3" md5="29c6d1e4d1610e7e66a6e24c89284165" sha1="857bf541c2e819b30e0be953c47abb5b5d2c44e9"/>
+	</game>
+	<game name="Dragon Lair (1982)(Fugen Electronics)(JP)">
+		<description>Dragon Lair (1982)(Fugen Electronics)(JP)</description>
+		<rom name="Dragon Lair (1982)(Fugen Electronics)(JP).wav" size="15358508" crc="bfd95b5c" md5="5188091dd96249fc93777c0e3babfa9e" sha1="272b74ed33bc728445d5ca1254bfd10ac8ab0817"/>
+	</game>
+	<game name="Mario Bros. Special (1984)(Hudson)(Side A)[YB-5006]">
+		<description>Mario Bros. Special (1984)(Hudson)(Side A)[YB-5006]</description>
+		<rom name="Mario Bros. Special (1984)(Hudson)(Side A)[YB-5006].wav" size="41088044" crc="adb9c2b5" md5="0eb38de30145073f343659ed94415800" sha1="a67fa2f99b77eced5a0fca7bfe6ae6c630d1c2e9"/>
+	</game>
+	<game name="Mario Bros. Special (1984)(Hudson)(Side B)[YB-5006]">
+		<description>Mario Bros. Special (1984)(Hudson)(Side B)[YB-5006]</description>
+		<rom name="Mario Bros. Special (1984)(Hudson)(Side B)[YB-5006].wav" size="41226796" crc="96c87ef5" md5="cfbd9876615d7f9440af7bddd620f4c7" sha1="8e5a1d5dba6a14109ac45a956d888c96ba3d685a"/>
+	</game>
+	<game name="Mazy (2020)(Inufuto)(JP)">
+		<description>Mazy (2020)(Inufuto)(JP)</description>
+		<rom name="Mazy (2020)(Inufuto)(JP).wav" size="1964172" crc="e1b9d13d" md5="fe73a56626fa5ac8e24dee5f09cd5b85" sha1="da1e2242f65c095daa862e38cb5ab2054dd4067c"/>
+	</game>
+	<game name="Ruptus (2020-12-05)(Inufuto)(JP)">
+		<description>Ruptus (2020-12-05)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2020-12-05)(Inufuto)(JP).wav" size="4166060" crc="23cb6ecc" md5="fb5e64805357a0a2b1255d4ad79bdfee" sha1="19f00c53e965d98ca9b1f9cdf0b84c17af9c7fa5"/>
+	</game>
+</datafile>

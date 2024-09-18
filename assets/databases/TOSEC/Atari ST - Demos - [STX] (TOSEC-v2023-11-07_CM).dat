@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari ST - Demos - [STX]</name>
+		<description>Atari ST - Demos - [STX] (TOSEC-v2023-11-07)</description>
+		<category>TOSEC</category>
+		<version>2023-11-07</version>
+		<author>jjs - dirkpitt - Grendel - Gucek - Keili - Laokoon - Leto_II - steph - Newpain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Atari Discovery Pack (19xx)(-)">
+		<description>Atari Discovery Pack (19xx)(-)</description>
+		<rom name="Atari Discovery Pack (19xx)(-).stx" size="894488" crc="7988c5f4" md5="ebeb051a345a96fb7a4e249de75e3fef" sha1="e42a654d706f8c0e2116bf83d33f4912695066bf"/>
+	</game>
+	<game name="Dr. Beat Volume I (1991-12)(Heavenly Music)">
+		<description>Dr. Beat Volume I (1991-12)(Heavenly Music)</description>
+		<rom name="Dr. Beat Volume I (1991-12)(Heavenly Music).stx" size="1323152" crc="95a66f54" md5="4d12fe06953627250f70ad376f7ef1ff" sha1="9818327ff137e850e91368360cc7a3fc7ae41e37"/>
+	</game>
+	<game name="Dr. Beat Volume II (1992-01)(Heavenly Music)">
+		<description>Dr. Beat Volume II (1992-01)(Heavenly Music)</description>
+		<rom name="Dr. Beat Volume II (1992-01)(Heavenly Music).stx" size="1304460" crc="36bf7452" md5="f5fc3eea14c84de4618742fdfd621ceb" sha1="33b4b5437f02edea69eea183925d0973ddb81fa7"/>
+	</game>
+	<game name="Union Demo, The (1989-01)(Union)">
+		<description>Union Demo, The (1989-01)(Union)</description>
+		<rom name="Union Demo, The (1989-01)(Union).stx" size="924380" crc="99dccd63" md5="6a0996a60513408f38b504dfc28644be" sha1="b7508f2eb56771ae79099b2bcf3f7ecd9e555a2f"/>
+	</game>
+	<game name="Union Demo, The (1989-01)(Union)[a]">
+		<description>Union Demo, The (1989-01)(Union)[a]</description>
+		<rom name="Union Demo, The (1989-01)(Union)[a].stx" size="924380" crc="5cf6a669" md5="e5879410f19d9fe5424a8aa7ee1a34eb" sha1="fa6dab0c7190263f138b696fa73298bd63e74e3e"/>
+	</game>
+</datafile>
