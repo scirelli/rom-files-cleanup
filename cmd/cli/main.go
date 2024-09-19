@@ -8,9 +8,11 @@ import (
 	"fmt"
 	"io"
 	"io/fs"
+	"mime"
 	"net/http"
 	"os"
 	"path/filepath"
+	"slices"
 	"strings"
 
 	"github.com/scirelli/rom-files-cleanup/internal/pkg/log"
@@ -19,6 +21,33 @@ import (
 
 const defaultDatabaseFiles = "./assets/databases"
 const defaultROMsFolder = "test/data/ROMs"
+
+// list of known compressed file MIME types
+var compressedMIMETypes = [...]string{
+	"application/zip",
+	"application/x-tar",
+	"application/x-gzip",
+	"application/x-7z-compressed",
+	"application/x-bzip2",
+}
+
+// list of known file extensions that are compressed
+var compressedFileExtensions = [...]string{
+	".zip",
+	".tar",
+	".gz",
+	".7z",
+	".bz2",
+}
+
+var skipExt = []string{
+	".gbp",
+	".pal",
+	".txt",
+	".exe",
+	".dll",
+	".rom",
+}
 
 var logger = log.New("Main", log.DEFAULT_LOG_LEVEL)
 
@@ -29,7 +58,7 @@ var logger = log.New("Main", log.DEFAULT_LOG_LEVEL)
 		  - https://pkg.go.dev/archive/zip
 */
 
-type RomDict map[string]model.Rom
+type RomDict map[string]model.DatRom
 
 func main() {
 	var romDict RomDict
@@ -46,7 +75,7 @@ func main() {
 	if err := filepath.WalkDir(*romPath, func(path string, d fs.DirEntry, err error) error {
 		var hash []map[string]string
 
-		if d.IsDir() {
+		if d.IsDir() || excludeFile(path) {
 			return nil
 		}
 
@@ -54,7 +83,10 @@ func main() {
 			if r, err := zip.OpenReader(path); err == nil {
 				defer r.Close()
 				for _, f := range r.File {
-					logger.Infof("Decompressed from zip file: %s\n", f.Name)
+					if excludeFile(f.FileHeader.Name) {
+						continue
+					}
+					//logger.Infof("Decompressed from zip file: %s %s\n", f.Name, path)
 					if r, err := f.Open(); err == nil {
 						if h := hashBytes(r); h != "" {
 							hash = append(hash, map[string]string{"h": h, "f": f.Name})
@@ -75,7 +107,7 @@ func main() {
 			} else {
 				dupes[h["h"]] = struct{}{}
 				if _, ok := romDict[h["h"]]; !ok {
-					logger.Warnf("Not found: %s\n", h["f"])
+					logger.Warnf("Not found: %s\t%s\n", h["f"], h["h"])
 					notFound++
 				}
 			}
@@ -110,7 +142,7 @@ func hashBytes(data io.Reader) string {
 	return fmt.Sprintf("%x", h.Sum(nil))
 }
 
-func loadDatabase(romDict RomDict, dataFile string) RomDict {
+func loadDATFile(romDict RomDict, dataFile string) RomDict {
 	var datomaticData model.DatoMaticDataFile
 	if fileData, err := os.ReadFile(dataFile); err == nil {
 		if err := xml.Unmarshal(fileData, &datomaticData); err == nil {
@@ -129,6 +161,10 @@ func loadDatabase(romDict RomDict, dataFile string) RomDict {
 	return romDict
 }
 
+func loadHSIFile(romDict RomDict, dataFile string) RomDict {
+	return romDict
+}
+
 func loadAllDatabases(databaseDir string) RomDict {
 	var romDict = make(RomDict)
 
@@ -136,8 +172,14 @@ func loadAllDatabases(databaseDir string) RomDict {
 		if d.IsDir() {
 			return nil
 		}
-		logger.Infof("Loading database '%s'", path)
-		romDict = loadDatabase(romDict, path)
+		switch strings.ToLower(filepath.Ext(path)) {
+		case ".dat":
+			logger.Infof("Loading database '%s'", path)
+			romDict = loadDATFile(romDict, path)
+		case ".hsi":
+			logger.Infof("Loading database '%s'", path)
+			romDict = loadHSIFile(romDict, path)
+		}
 		return nil
 	}); err != nil {
 		logger.Error(err)
@@ -150,6 +192,9 @@ func fileNameWithoutExtension(fileName string) string {
 	return fileName[:len(fileName)-len(filepath.Ext(fileName))]
 }
 
+func excludeFile(path string) bool {
+	return slices.Contains(skipExt, strings.ToLower(filepath.Ext(path)))
+}
 func isArchive(fileName string) bool {
 	file, err := os.Open(fileName)
 	if err != nil {
@@ -166,10 +211,11 @@ func isArchive(fileName string) bool {
 	}
 
 	filetype := http.DetectContentType(buff)
-
-	switch filetype {
-	case "application/x-gzip", "application/zip":
-		return true
+	if strings.EqualFold(mime.TypeByExtension(filepath.Ext(fileName)), filetype) {
+		switch filetype {
+		case "application/x-gzip", "application/zip":
+			return true
+		}
 	}
 	return false
 }
