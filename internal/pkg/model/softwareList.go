@@ -3,7 +3,7 @@ package model
 // https://github.com/mamedev/mame/tree/master/hash
 // <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
 // https://github.com/mamedev/mame/blob/master/hash/softwarelist.dtd
-type MAMESoftwareList struct {
+type SoftwareList struct {
 	Name        string     `xml:"name,attr"`
 	Description string     `xml:"description"`
 	Software    []Software `xml:"software"`
